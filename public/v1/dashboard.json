@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-dashboard",
+  "generated_at": "2026-11-10T14:54:23Z",
+  "scope": "observed_tracked_videos_only",
+  "ranking_basis": "latest_measured_views_per_hour_in_tracked_catalogue",
+  "ranking_is_official_nxz_score": false,
+  "creators": [
+    {
+      "name": "MrBeast",
+      "scope": "observed_tracked_videos_only",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "covered_videos": 5,
+      "views_gained": 261713,
+      "views_per_hour": 351554.77,
+      "likes_gained": 7751,
+      "comments_gained": 141,
+      "likes_coverage": 5,
+      "comments_coverage": 5,
+      "interval_hours": 0.7444
+    },
+    {
+      "name": "Kai Cenat",
+      "scope": "observed_tracked_videos_only",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "covered_videos": 5,
+      "views_gained": 69140,
+      "views_per_hour": 92874.63,
+      "likes_gained": 1052,
+      "comments_gained": 23,
+      "likes_coverage": 5,
+      "comments_coverage": 5,
+      "interval_hours": 0.7444
+    },
+    {
+      "name": "IShowSpeed",
+      "scope": "observed_tracked_videos_only",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "covered_videos": 5,
+      "views_gained": 6012,
+      "views_per_hour": 8075.83,
+      "likes_gained": 353,
+      "comments_gained": 11,
+      "likes_coverage": 5,
+      "comments_coverage": 5,
+      "interval_hours": 0.7444
+    }
+  ],
+  "top_videos": [
+    {
+      "video_id": "kPI9Mc35mOg",
+      "creator": "MrBeast",
+      "title": "Trap Door Roulette",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "views": 66785150,
+      "views_gained": 160007,
+      "views_per_hour": 214934.78,
+      "acceleration": -198645.02,
+      "velocity_sma3": 330047.89,
+      "relative_momentum": 0.6,
+      "engagement_pulse": 34.37,
+      "status": "ok"
+    },
+    {
+      "video_id": "_c2e1NcI3Sc",
+      "creator": "MrBeast",
+      "title": "Beat Professional Athlete, Win $100,000",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "views": 88172060,
+      "views_gained": 50489,
+      "views_per_hour": 67821.04,
+      "acceleration": -46327.84,
+      "velocity_sma3": 91382.75,
+      "relative_momentum": 0.689,
+      "engagement_pulse": 17.33,
+      "status": "ok"
+    },
+    {
+      "video_id": "wCG4W13BGDg",
+      "creator": "Kai Cenat",
+      "title": "🎮PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto 5🎮",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "views": 677981,
+      "views_gained": 45888,
+      "views_per_hour": 61640.6,
+      "acceleration": -57674.82,
+      "velocity_sma3": 88310.02,
+      "relative_momentum": 0.648,
+      "engagement_pulse": 16.15,
+      "status": "ok"
+    },
+    {
+      "video_id": "mND4T0lzg_g",
+      "creator": "MrBeast",
+      "title": "How People Treat You Based on Subscribers",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "views": 38825472,
+      "views_gained": 24307,
+      "views_per_hour": 32651.19,
+      "acceleration": -25620.05,
+      "velocity_sma3": 42097.35,
+      "relative_momentum": 0.735,
+      "engagement_pulse": 41.1,
+      "status": "ok"
+    },
+    {
+      "video_id": "RE3_PGwDwhw",
+      "creator": "MrBeast",
+      "title": "Lose 150 Lbs Together, Win $250,000",
+      "observed_at": "2026-11-10T14:54:23Z",
+      "views": 186933618,
+      "views_gained": 17023,
+      "views_per_hour": 22866.72,
+      "acceleration": -14540.27,
+      "velocity_sma3": 30208.76,
+      "relative_momentum": 0.692,
+      "engagement_pulse": 13.86,
+      "status": "ok"
+    }
+  ],
+  "disclaimer": "Measured public YouTube counts from sampled videos, not channel-wide totals or predictive scores."
+}
