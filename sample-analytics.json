@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "dataset": "nxz-public-analytics-test",
+  "sample": true,
+  "generated_at": "2026-11-10T13:25:34Z",
+  "source": "youtube_data_api_v3",
+  "scope": "observed_tracked_videos_only",
+  "creator": {
+    "display_name": "MrBeast",
+    "tracked_videos": 5,
+    "interval_end": "2026-11-10T13:25:34Z",
+    "interval_hours": 0.6233,
+    "views_gained": 382011,
+    "likes_gained": 6151,
+    "comments_gained": 96,
+    "attention_velocity_views_per_hour": 612851.87
+  },
+  "note": "Public sample based on measured aggregated observations; not a live endpoint or full-channel total."
+}
