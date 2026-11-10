@@ -1,12 +1,53 @@
 {
   "schema_version": 1,
   "feed": "nxz-dashboard",
-  "generated_at": "2026-11-10T14:54:23Z",
+  "generated_at": "2026-11-10T15:14:24Z",
   "scope": "observed_tracked_videos_only",
+  "freshness": {
+    "stale_after_hours": 12,
+    "evaluate_against": "generated_at",
+    "client_must_check": true
+  },
+  "history_policy": {
+    "maximum_points_per_creator": 120,
+    "intervals_are_observed_not_interpolated": true,
+    "coverage_may_vary": true
+  },
   "ranking_basis": "latest_measured_views_per_hour_in_tracked_catalogue",
   "ranking_is_official_nxz_score": false,
   "creators": [
     {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "history": [
+        {
+          "observed_at": "2026-11-10T12:48:10Z",
+          "interval_hours": 0.5267,
+          "covered_videos": 5,
+          "views_gained": 249396,
+          "views_per_hour": 473536.71
+        },
+        {
+          "observed_at": "2026-11-10T13:25:34Z",
+          "interval_hours": 0.6233,
+          "covered_videos": 5,
+          "views_gained": 382011,
+          "views_per_hour": 612851.87
+        },
+        {
+          "observed_at": "2026-11-10T14:09:43Z",
+          "interval_hours": 0.7358,
+          "covered_videos": 5,
+          "views_gained": 416921,
+          "views_per_hour": 566597.05
+        },
+        {
+          "observed_at": "2026-11-10T14:54:23Z",
+          "interval_hours": 0.7444,
+          "covered_videos": 5,
+          "views_gained": 261713,
+          "views_per_hour": 351554.77
+        }
+      ],
       "name": "MrBeast",
       "scope": "observed_tracked_videos_only",
       "observed_at": "2026-11-10T14:54:23Z",
@@ -20,6 +61,37 @@
       "interval_hours": 0.7444
     },
     {
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "history": [
+        {
+          "observed_at": "2026-11-10T12:48:10Z",
+          "interval_hours": 0.5267,
+          "covered_videos": 5,
+          "views_gained": 54096,
+          "views_per_hour": 102713.91
+        },
+        {
+          "observed_at": "2026-11-10T13:25:34Z",
+          "interval_hours": 0.6233,
+          "covered_videos": 5,
+          "views_gained": 75559,
+          "views_per_hour": 121217.65
+        },
+        {
+          "observed_at": "2026-11-10T14:09:43Z",
+          "interval_hours": 0.7358,
+          "covered_videos": 5,
+          "views_gained": 110170,
+          "views_per_hour": 149721.4
+        },
+        {
+          "observed_at": "2026-11-10T14:54:23Z",
+          "interval_hours": 0.7444,
+          "covered_videos": 5,
+          "views_gained": 69140,
+          "views_per_hour": 92874.63
+        }
+      ],
       "name": "Kai Cenat",
       "scope": "observed_tracked_videos_only",
       "observed_at": "2026-11-10T14:54:23Z",
@@ -33,6 +105,37 @@
       "interval_hours": 0.7444
     },
     {
+      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "history": [
+        {
+          "observed_at": "2026-11-10T12:48:10Z",
+          "interval_hours": 0.5267,
+          "covered_videos": 5,
+          "views_gained": 5622,
+          "views_per_hour": 10674.69
+        },
+        {
+          "observed_at": "2026-11-10T13:25:34Z",
+          "interval_hours": 0.6233,
+          "covered_videos": 5,
+          "views_gained": 7788,
+          "views_per_hour": 12494.11
+        },
+        {
+          "observed_at": "2026-11-10T14:09:43Z",
+          "interval_hours": 0.7358,
+          "covered_videos": 5,
+          "views_gained": 9288,
+          "views_per_hour": 12622.43
+        },
+        {
+          "observed_at": "2026-11-10T14:54:23Z",
+          "interval_hours": 0.7444,
+          "covered_videos": 5,
+          "views_gained": 6012,
+          "views_per_hour": 8075.83
+        }
+      ],
       "name": "IShowSpeed",
       "scope": "observed_tracked_videos_only",
       "observed_at": "2026-11-10T14:54:23Z",
@@ -49,6 +152,7 @@
   "top_videos": [
     {
       "video_id": "kPI9Mc35mOg",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
       "title": "Trap Door Roulette",
       "observed_at": "2026-11-10T14:54:23Z",
@@ -63,6 +167,7 @@
     },
     {
       "video_id": "_c2e1NcI3Sc",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
       "title": "Beat Professional Athlete, Win $100,000",
       "observed_at": "2026-11-10T14:54:23Z",
@@ -77,6 +182,7 @@
     },
     {
       "video_id": "wCG4W13BGDg",
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
       "creator": "Kai Cenat",
       "title": "🎮PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto 5🎮",
       "observed_at": "2026-11-10T14:54:23Z",
@@ -91,6 +197,7 @@
     },
     {
       "video_id": "mND4T0lzg_g",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
       "title": "How People Treat You Based on Subscribers",
       "observed_at": "2026-11-10T14:54:23Z",
@@ -105,6 +212,7 @@
     },
     {
       "video_id": "RE3_PGwDwhw",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
       "title": "Lose 150 Lbs Together, Win $250,000",
       "observed_at": "2026-11-10T14:54:23Z",
