@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-  "generated_at": "2026-11-11T13:25:14Z",
+  "generated_at": "2026-11-11T19:12:25Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "QXXqSh5qAuA",
       "title": "What if We Can't Detect Dark Matter?",
       "published_at": "2026-10-29T18:52:56Z",
-      "observed_at": "2026-11-11T13:25:14Z",
-      "views": 700129,
-      "likes": 14821,
-      "comments": 1157
+      "observed_at": "2026-11-11T19:12:25Z",
+      "views": 701343,
+      "likes": 14847,
+      "comments": 1159
     },
     {
       "video_id": "YBKuWCA5pug",
       "title": "Why do hot objects glow?",
       "published_at": "2026-10-24T16:00:02Z",
-      "observed_at": "2026-11-11T13:25:14Z",
-      "views": 96450,
+      "observed_at": "2026-11-11T19:12:25Z",
+      "views": 96499,
       "likes": 2191,
-      "comments": 125
+      "comments": 126
     },
     {
       "video_id": "31kyER-8dak",
       "title": "What if you try to sandwich a cube between two portals?",
       "published_at": "2026-10-10T19:00:33Z",
-      "observed_at": "2026-11-11T13:25:14Z",
-      "views": 879141,
-      "likes": 22764,
+      "observed_at": "2026-11-11T19:12:25Z",
+      "views": 879171,
+      "likes": 22765,
       "comments": 1103
     },
     {
       "video_id": "4YvnVJRlQQs",
       "title": "The Wavy Window Paradox",
       "published_at": "2026-08-19T14:45:49Z",
-      "observed_at": "2026-11-11T13:25:14Z",
-      "views": 419868,
-      "likes": 16768,
+      "observed_at": "2026-11-11T19:12:25Z",
+      "views": 419904,
+      "likes": 16770,
       "comments": 459
     },
     {
       "video_id": "bU9xvXyWrdk",
       "title": "How long is a day on the sun?",
       "published_at": "2026-08-11T17:00:01Z",
-      "observed_at": "2026-11-11T13:25:14Z",
-      "views": 201849,
+      "observed_at": "2026-11-11T19:12:25Z",
+      "views": 201870,
       "likes": 4323,
-      "comments": 140
+      "comments": 141
     }
   ]
 }
