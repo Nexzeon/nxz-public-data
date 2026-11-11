@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-video-catalogue-index",
+  "generated_at": "2026-11-11T09:32:08Z",
+  "scope": "observed_youtube_videos_only",
+  "channels": [
+    {
+      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "path": "/v1/creators/UCWsDFcIhY2DBi3GB5uykGXA/videos.json",
+      "video_count": 7
+    },
+    {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "path": "/v1/creators/UCX6OQ3DkcsbYNE6H8uQQuVA/videos.json",
+      "video_count": 5
+    },
+    {
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "path": "/v1/creators/UCvCfpQXRXdJdL07pzTIA6Cw/videos.json",
+      "video_count": 9
+    }
+  ]
+}
