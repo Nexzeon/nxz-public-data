@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
-  "generated_at": "2026-11-11T09:54:56Z",
+  "generated_at": "2026-11-11T10:26:32Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "GzzHaM8IAhI",
       "title": "I Tried Meta’s New AI Agent… Meet Piggy 🐷",
       "published_at": "2026-11-06T17:02:57Z",
-      "observed_at": "2026-11-11T09:54:55Z",
-      "views": 34106,
+      "observed_at": "2026-11-11T10:26:32Z",
+      "views": 34139,
       "likes": 704,
       "comments": 77
     },
@@ -18,8 +18,8 @@
       "video_id": "LQT8wzemsLU",
       "title": "New (OLD?) Sony Walkman Headphones! MDR-3R!",
       "published_at": "2026-11-05T19:18:29Z",
-      "observed_at": "2026-11-11T09:54:55Z",
-      "views": 57061,
+      "observed_at": "2026-11-11T10:26:32Z",
+      "views": 57097,
       "likes": 1993,
       "comments": 84
     },
@@ -27,7 +27,7 @@
       "video_id": "IxhDzSdSxZo",
       "title": "New LIGHT UP Apple Logo! 😍",
       "published_at": "2026-11-05T18:40:09Z",
-      "observed_at": "2026-11-11T09:54:55Z",
+      "observed_at": "2026-11-11T10:26:32Z",
       "views": 36226,
       "likes": 1516,
       "comments": 43
@@ -36,19 +36,19 @@
       "video_id": "NAcPAr13btM",
       "title": "PROLED MacBook Pro Unboxing",
       "published_at": "2026-11-05T14:01:27Z",
-      "observed_at": "2026-11-11T09:54:55Z",
-      "views": 107217,
-      "likes": 4064,
+      "observed_at": "2026-11-11T10:26:32Z",
+      "views": 107256,
+      "likes": 4066,
       "comments": 82
     },
     {
       "video_id": "QTaRLfPa3oc",
       "title": "Touching my Mac! The new PROLED MacBook Pro is here!",
       "published_at": "2026-11-05T14:00:35Z",
-      "observed_at": "2026-11-11T09:54:55Z",
-      "views": 323541,
-      "likes": 4664,
-      "comments": 366
+      "observed_at": "2026-11-11T10:26:32Z",
+      "views": 323786,
+      "likes": 4667,
+      "comments": 367
     }
   ]
 }
