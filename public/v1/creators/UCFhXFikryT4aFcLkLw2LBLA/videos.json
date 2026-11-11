@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
+  "generated_at": "2026-11-11T09:54:56Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "TVpMka43TFk",
+      "title": "This magnet machine is scary",
+      "published_at": "2026-10-16T22:02:57Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 2425444,
+      "likes": 88954,
+      "comments": 2306
+    },
+    {
+      "video_id": "5OcnO7U0VeA",
+      "title": "Making nasty soap",
+      "published_at": "2026-08-19T16:34:22Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 2761330,
+      "likes": 153222,
+      "comments": 3210
+    },
+    {
+      "video_id": "K56LuXCQ0ik",
+      "title": "Making color changing mercury",
+      "published_at": "2026-08-10T17:11:42Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 9857012,
+      "likes": 456578,
+      "comments": 6874
+    },
+    {
+      "video_id": "ID-K64Jk6JM",
+      "title": "Turning air into alcohol",
+      "published_at": "2026-08-05T18:28:30Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 12793983,
+      "likes": 280877,
+      "comments": 21671
+    },
+    {
+      "video_id": "QNPrHtcn6nM",
+      "title": "These metals melt when pushed together",
+      "published_at": "2026-03-19T18:42:09Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 6121966,
+      "likes": 345606,
+      "comments": 3916
+    }
+  ]
+}

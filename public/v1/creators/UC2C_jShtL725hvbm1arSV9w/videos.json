@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UC2C_jShtL725hvbm1arSV9w",
+  "generated_at": "2026-11-11T09:54:56Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "HSRmfNDk87s",
+      "title": "Why Runways Have to Be Repainted",
+      "published_at": "2025-04-14T19:47:51Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 4125188,
+      "likes": 175183,
+      "comments": 152
+    },
+    {
+      "video_id": "58SrtQNt4YE",
+      "title": "America Forgot It's Allowed to Stop Making Coins",
+      "published_at": "2025-04-13T22:06:57Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 3463330,
+      "likes": 161888,
+      "comments": 170
+    },
+    {
+      "video_id": "n1KgxqEQn0A",
+      "title": "Zero Is Technically an Amount",
+      "published_at": "2025-02-17T18:39:32Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 2981422,
+      "likes": 140715,
+      "comments": 160
+    },
+    {
+      "video_id": "1K5oDtVAYzk",
+      "title": "Your Post Code Is the Directions, Not the Destination",
+      "published_at": "2025-01-28T21:45:11Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 3950405,
+      "likes": 162977,
+      "comments": 161
+    },
+    {
+      "video_id": "lk4lBV5wgGM",
+      "title": "Which Sidekick Notepad Is For You?",
+      "published_at": "2025-01-28T21:30:08Z",
+      "observed_at": "2026-11-11T09:54:55Z",
+      "views": 431544,
+      "likes": 16304,
+      "comments": 31
+    }
+  ]
+}
