@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
-  "generated_at": "2026-11-12T07:32:32Z",
+  "generated_at": "2026-11-12T13:27:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "GzzHaM8IAhI",
       "title": "I Tried Meta’s New AI Agent… Meet Piggy 🐷",
       "published_at": "2026-11-06T17:02:57Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 35437,
-      "likes": 726,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 35735,
+      "likes": 734,
       "comments": 79
     },
     {
       "video_id": "LQT8wzemsLU",
       "title": "New (OLD?) Sony Walkman Headphones! MDR-3R!",
       "published_at": "2026-11-05T19:18:29Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 58646,
-      "likes": 2018,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 59045,
+      "likes": 2024,
       "comments": 85
     },
     {
       "video_id": "IxhDzSdSxZo",
       "title": "New LIGHT UP Apple Logo! 😍",
       "published_at": "2026-11-05T18:40:09Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 36508,
-      "likes": 1519,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 36623,
+      "likes": 1520,
       "comments": 43
     },
     {
       "video_id": "NAcPAr13btM",
       "title": "PROLED MacBook Pro Unboxing",
       "published_at": "2026-11-05T14:01:27Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 108487,
-      "likes": 4092,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 108799,
+      "likes": 4101,
       "comments": 82
     },
     {
       "video_id": "QTaRLfPa3oc",
       "title": "Touching my Mac! The new PROLED MacBook Pro is here!",
       "published_at": "2026-11-05T14:00:35Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 330921,
-      "likes": 4730,
-      "comments": 372
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 332411,
+      "likes": 4743,
+      "comments": 374
     }
   ]
 }

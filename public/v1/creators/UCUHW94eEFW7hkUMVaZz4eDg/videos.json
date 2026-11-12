@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-  "generated_at": "2026-11-12T07:32:32Z",
+  "generated_at": "2026-11-12T13:27:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "QXXqSh5qAuA",
       "title": "What if We Can't Detect Dark Matter?",
       "published_at": "2026-10-29T18:52:56Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 709405,
-      "likes": 14926,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 712652,
+      "likes": 14935,
       "comments": 1160
     },
     {
       "video_id": "YBKuWCA5pug",
       "title": "Why do hot objects glow?",
       "published_at": "2026-10-24T16:00:02Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 96664,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 96703,
       "likes": 2192,
       "comments": 126
     },
@@ -27,8 +27,8 @@
       "video_id": "31kyER-8dak",
       "title": "What if you try to sandwich a cube between two portals?",
       "published_at": "2026-10-10T19:00:33Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 879281,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 879310,
       "likes": 22765,
       "comments": 1103
     },
@@ -36,8 +36,8 @@
       "video_id": "4YvnVJRlQQs",
       "title": "The Wavy Window Paradox",
       "published_at": "2026-08-19T14:45:49Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 420064,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 420114,
       "likes": 16773,
       "comments": 459
     },
@@ -45,9 +45,9 @@
       "video_id": "bU9xvXyWrdk",
       "title": "How long is a day on the sun?",
       "published_at": "2026-08-11T17:00:01Z",
-      "observed_at": "2026-11-12T07:32:32Z",
-      "views": 201917,
-      "likes": 4323,
+      "observed_at": "2026-11-12T13:27:05Z",
+      "views": 201931,
+      "likes": 4324,
       "comments": 141
     }
   ]
