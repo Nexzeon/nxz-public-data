@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
-  "generated_at": "2026-11-12T13:27:06Z",
+  "generated_at": "2026-11-12T19:10:01Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "iACc_7N7QnU",
       "title": "What I got wrong about freedom in my 20s",
       "published_at": "2026-11-10T10:00:27Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 16499,
-      "likes": 532,
-      "comments": 9
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 17380,
+      "likes": 548,
+      "comments": 10
     },
     {
       "video_id": "ubDs4poi62Y",
       "title": "Top 5 business books for beginners",
       "published_at": "2026-11-09T10:00:02Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 28792,
-      "likes": 1488,
-      "comments": 9
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 29858,
+      "likes": 1545,
+      "comments": 10
     },
     {
       "video_id": "nQVMKFkAzkk",
       "title": "How I made £3,000 a month as a medical student",
       "published_at": "2026-11-08T10:00:14Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 19994,
-      "likes": 886,
-      "comments": 10
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 20177,
+      "likes": 889,
+      "comments": 11
     },
     {
       "video_id": "eUYtuFidDy8",
       "title": "The book series I can't stop recommending",
       "published_at": "2026-11-07T10:00:07Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 17053,
-      "likes": 416,
-      "comments": 16
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 17207,
+      "likes": 418,
+      "comments": 15
     },
     {
       "video_id": "uRCskQbL1KY",
       "title": "I Ranked Every Productivity Tool From Worst to Best",
       "published_at": "2026-11-06T17:17:03Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 111982,
-      "likes": 1307,
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 113191,
+      "likes": 1323,
       "comments": 100
     }
   ]

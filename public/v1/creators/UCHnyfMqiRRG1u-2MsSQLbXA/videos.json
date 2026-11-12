@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-  "generated_at": "2026-11-12T13:27:06Z",
+  "generated_at": "2026-11-12T19:10:01Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "rL0qEmTRI-I",
       "title": "Why do deserts get cold at night?",
       "published_at": "2026-11-06T14:00:17Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 1853621,
-      "likes": 38614,
-      "comments": 652
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 1865426,
+      "likes": 38791,
+      "comments": 660
     },
     {
       "video_id": "KfODG5REyss",
       "title": "I finally saw quantum mechanics with my own eyes... (It's spookier than I expected)",
       "published_at": "2026-11-04T15:52:59Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 18012674,
-      "likes": 191172,
-      "comments": 12109
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 18102396,
+      "likes": 192185,
+      "comments": 12155
     },
     {
       "video_id": "xlNKNnXdtN4",
       "title": "These ponds help support half the people on Earth",
       "published_at": "2026-11-02T14:00:05Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 547363,
-      "likes": 15182,
-      "comments": 400
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 548142,
+      "likes": 15197,
+      "comments": 401
     },
     {
       "video_id": "zEmabFZvdqA",
       "title": "What happens if I lower this weight into the water?",
       "published_at": "2026-10-30T14:00:38Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 3425854,
-      "likes": 90703,
-      "comments": 2526
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 3428735,
+      "likes": 90765,
+      "comments": 2528
     },
     {
       "video_id": "Kap7mRzr13w",
       "title": "Why doesn't your heart get tired like other muscles do?",
       "published_at": "2026-10-27T14:00:11Z",
-      "observed_at": "2026-11-12T13:27:05Z",
-      "views": 1443460,
-      "likes": 45210,
-      "comments": 902
+      "observed_at": "2026-11-12T19:10:01Z",
+      "views": 1444623,
+      "likes": 45230,
+      "comments": 900
     }
   ]
 }
