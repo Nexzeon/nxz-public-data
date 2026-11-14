@@ -2,61 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-  "generated_at": "2026-11-14T07:16:24Z",
+  "generated_at": "2026-11-14T13:04:58Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "2QSkkhbl3v4",
       "title": "Why you can't trust a test that's 99% accurate",
       "published_at": "2026-11-11T14:00:12Z",
-      "observed_at": "2026-11-14T07:16:23Z",
-      "views": 1462629,
-      "likes": 37230,
-      "comments": 2099
+      "observed_at": "2026-11-14T13:04:58Z",
+      "views": 1482950,
+      "likes": 37595,
+      "comments": 2126
     },
     {
       "video_id": "rL0qEmTRI-I",
       "title": "Why do deserts get cold at night?",
       "published_at": "2026-11-06T14:00:17Z",
-      "observed_at": "2026-11-14T07:16:23Z",
-      "views": 1923720,
-      "likes": 39805,
-      "comments": 672
+      "observed_at": "2026-11-14T13:04:58Z",
+      "views": 1931193,
+      "likes": 39966,
+      "comments": 673
     },
     {
       "video_id": "KfODG5REyss",
       "title": "I finally saw quantum mechanics with my own eyes... (It's spookier than I expected)",
       "published_at": "2026-11-04T15:52:59Z",
-      "observed_at": "2026-11-14T07:16:23Z",
-      "views": 18827737,
-      "likes": 197681,
-      "comments": 12409
+      "observed_at": "2026-11-14T13:04:58Z",
+      "views": 18918417,
+      "likes": 198367,
+      "comments": 12446
     },
     {
       "video_id": "xlNKNnXdtN4",
       "title": "These ponds help support half the people on Earth",
       "published_at": "2026-11-02T14:00:05Z",
-      "observed_at": "2026-11-14T07:16:23Z",
-      "views": 553095,
-      "likes": 15300,
-      "comments": 402
+      "observed_at": "2026-11-14T13:04:58Z",
+      "views": 553705,
+      "likes": 15321,
+      "comments": 403
     },
     {
       "video_id": "zEmabFZvdqA",
       "title": "What happens if I lower this weight into the water?",
       "published_at": "2026-10-30T14:00:38Z",
-      "observed_at": "2026-11-14T07:16:23Z",
-      "views": 3441368,
-      "likes": 91038,
-      "comments": 2540
+      "observed_at": "2026-11-14T13:04:58Z",
+      "views": 3443262,
+      "likes": 91115,
+      "comments": 2539
     },
     {
       "video_id": "Kap7mRzr13w",
       "title": "Why doesn't your heart get tired like other muscles do?",
       "published_at": "2026-10-27T14:00:11Z",
-      "observed_at": "2026-11-14T07:16:23Z",
-      "views": 1450084,
-      "likes": 45315,
+      "observed_at": "2026-11-14T13:04:58Z",
+      "views": 1450802,
+      "likes": 45328,
       "comments": 902
     }
   ]
