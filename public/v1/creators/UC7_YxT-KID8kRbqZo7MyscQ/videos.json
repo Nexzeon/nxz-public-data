@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-  "generated_at": "2026-11-14T13:04:58Z",
+  "generated_at": "2026-11-14T18:56:51Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "k9jfDVoM1GU",
       "title": "THE WELL | REANIMAL - Part 5 (Ending)",
       "published_at": "2026-11-08T17:00:15Z",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 673722,
-      "likes": 23279,
-      "comments": 862
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 681149,
+      "likes": 23413,
+      "comments": 870
     },
     {
       "video_id": "D9imslSDsOg",
       "title": "I Can Smell You From Here",
       "published_at": "2026-11-07T22:19:05Z",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 3398945,
-      "likes": 84103,
-      "comments": 2435
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 3452324,
+      "likes": 85109,
+      "comments": 2451
     },
     {
       "video_id": "dsyYwLBtYDE",
       "title": "THE DEEP & THE SHEEP | REANIMAL - Part 4",
       "published_at": "2026-11-04T19:20:20Z",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 796396,
-      "likes": 27430,
-      "comments": 840
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 799568,
+      "likes": 27523,
+      "comments": 841
     },
     {
       "video_id": "4qhQxYOwrhg",
       "title": "3 SCARY GAMES #116",
       "published_at": "2026-11-03T18:19:38Z",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 1839103,
-      "likes": 53088,
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 1845590,
+      "likes": 53220,
       "comments": 1810
     },
     {
       "video_id": "AGmCScwyHbo",
       "title": "SCHOOL OF DOOM | REANIMAL - Part 3",
       "published_at": "2026-10-30T16:00:26Z",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 950465,
-      "likes": 29678,
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 952765,
+      "likes": 29747,
       "comments": 1188
     }
   ]

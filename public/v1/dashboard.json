@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "feed": "nxz-dashboard",
-  "generated_at": "2026-11-14T13:04:58Z",
+  "generated_at": "2026-11-14T18:56:51Z",
   "scope": "observed_tracked_videos_only",
   "freshness": {
     "stale_after_hours": 12,
@@ -172,19 +172,26 @@
           "covered_videos": 5,
           "views_gained": 2571698,
           "views_per_hour": 442654.21
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 5,
+          "views_gained": 2964711,
+          "views_per_hour": 505516.01
         }
       ],
       "name": "MrBeast",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 5,
-      "views_gained": 2571698,
-      "views_per_hour": 442654.21,
-      "likes_gained": 36615,
-      "comments_gained": 523,
+      "views_gained": 2964711,
+      "views_per_hour": 505516.01,
+      "likes_gained": 34729,
+      "comments_gained": 563,
       "likes_coverage": 5,
       "comments_coverage": 5,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
@@ -349,19 +356,26 @@
           "covered_videos": 9,
           "views_gained": 551515,
           "views_per_hour": 94929.67
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 9,
+          "views_gained": 662979,
+          "views_per_hour": 113045.26
         }
       ],
       "name": "IShowSpeed",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 9,
-      "views_gained": 551515,
-      "views_per_hour": 94929.67,
-      "likes_gained": 11666,
-      "comments_gained": 314,
+      "views_gained": 662979,
+      "views_per_hour": 113045.26,
+      "likes_gained": 11996,
+      "comments_gained": 325,
       "likes_coverage": 9,
       "comments_coverage": 9,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
@@ -463,19 +477,26 @@
           "covered_videos": 6,
           "views_gained": 121696,
           "views_per_hour": 20946.97
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 6,
+          "views_gained": 135648,
+          "views_per_hour": 23129.48
         }
       ],
       "name": "Veritasium",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 6,
-      "views_gained": 121696,
-      "views_per_hour": 20946.97,
-      "likes_gained": 1323,
-      "comments_gained": null,
+      "views_gained": 135648,
+      "views_per_hour": 23129.48,
+      "likes_gained": 1476,
+      "comments_gained": 50,
       "likes_coverage": 6,
-      "comments_coverage": 5,
-      "interval_hours": 5.8097
+      "comments_coverage": 6,
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCC552Sd-3nyi_tk2BudLUzA",
@@ -577,19 +598,26 @@
           "covered_videos": 6,
           "views_gained": 93297,
           "views_per_hour": 16058.77
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 6,
+          "views_gained": 74294,
+          "views_per_hour": 12667.95
         }
       ],
       "name": "ASAPScience",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 6,
-      "views_gained": 93297,
-      "views_per_hour": 16058.77,
-      "likes_gained": 396,
-      "comments_gained": 72,
+      "views_gained": 74294,
+      "views_per_hour": 12667.95,
+      "likes_gained": 413,
+      "comments_gained": 56,
       "likes_coverage": 6,
       "comments_coverage": 6,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
@@ -691,19 +719,26 @@
           "covered_videos": 5,
           "views_gained": 82093,
           "views_per_hour": 14130.28
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 5,
+          "views_gained": 72765,
+          "views_per_hour": 12407.25
         }
       ],
       "name": "Markiplier",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 5,
-      "views_gained": 82093,
-      "views_per_hour": 14130.28,
-      "likes_gained": 1243,
-      "comments_gained": null,
+      "views_gained": 72765,
+      "views_per_hour": 12407.25,
+      "likes_gained": 1434,
+      "comments_gained": 25,
       "likes_coverage": 5,
-      "comments_coverage": 4,
-      "interval_hours": 5.8097
+      "comments_coverage": 5,
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
@@ -861,19 +896,26 @@
           "covered_videos": 9,
           "views_gained": 63611,
           "views_per_hour": 10949.06
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 10,
+          "views_gained": 67227,
+          "views_per_hour": 11462.95
         }
       ],
       "name": "Kai Cenat",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "covered_videos": 9,
-      "views_gained": 63611,
-      "views_per_hour": 10949.06,
-      "likes_gained": 780,
-      "comments_gained": 12,
-      "likes_coverage": 9,
-      "comments_coverage": 9,
-      "interval_hours": 5.8097
+      "observed_at": "2026-11-14T18:56:51Z",
+      "covered_videos": 10,
+      "views_gained": 67227,
+      "views_per_hour": 11462.95,
+      "likes_gained": 1042,
+      "comments_gained": null,
+      "likes_coverage": 10,
+      "comments_coverage": 8,
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
@@ -975,19 +1017,26 @@
           "covered_videos": 6,
           "views_gained": 25988,
           "views_per_hour": 4473.19
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 6,
+          "views_gained": 32146,
+          "views_per_hour": 5481.24
         }
       ],
       "name": "ElectroBOOM",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 6,
-      "views_gained": 25988,
-      "views_per_hour": 4473.19,
-      "likes_gained": 896,
-      "comments_gained": 23,
+      "views_gained": 32146,
+      "views_per_hour": 5481.24,
+      "likes_gained": 1044,
+      "comments_gained": null,
       "likes_coverage": 6,
-      "comments_coverage": 6,
-      "interval_hours": 5.8097
+      "comments_coverage": 5,
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
@@ -1089,19 +1138,26 @@
           "covered_videos": 8,
           "views_gained": 24541,
           "views_per_hour": 4224.12
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 8,
+          "views_gained": 24492,
+          "views_per_hour": 4176.16
         }
       ],
       "name": "iJustine",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 8,
-      "views_gained": 24541,
-      "views_per_hour": 4224.12,
-      "likes_gained": 196,
-      "comments_gained": 11,
+      "views_gained": 24492,
+      "views_per_hour": 4176.16,
+      "likes_gained": 256,
+      "comments_gained": 10,
       "likes_coverage": 8,
       "comments_coverage": 8,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
@@ -1203,19 +1259,26 @@
           "covered_videos": 5,
           "views_gained": 24128,
           "views_per_hour": 4153.04
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 5,
+          "views_gained": 18507,
+          "views_per_hour": 3155.65
         }
       ],
       "name": "NileRed",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 5,
-      "views_gained": 24128,
-      "views_per_hour": 4153.04,
-      "likes_gained": 435,
-      "comments_gained": null,
+      "views_gained": 18507,
+      "views_per_hour": 3155.65,
+      "likes_gained": 499,
+      "comments_gained": 9,
       "likes_coverage": 5,
-      "comments_coverage": 4,
-      "interval_hours": 5.8097
+      "comments_coverage": 5,
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
@@ -1317,19 +1380,26 @@
           "covered_videos": 5,
           "views_gained": 9308,
           "views_per_hour": 1602.14
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 5,
+          "views_gained": 8987,
+          "views_per_hour": 1532.38
         }
       ],
       "name": "MinutePhysics",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 5,
-      "views_gained": 9308,
-      "views_per_hour": 1602.14,
+      "views_gained": 8987,
+      "views_per_hour": 1532.38,
       "likes_gained": null,
-      "comments_gained": 19,
+      "comments_gained": 16,
       "likes_coverage": 4,
       "comments_coverage": 5,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
@@ -1431,19 +1501,26 @@
           "covered_videos": 7,
           "views_gained": 7711,
           "views_per_hour": 1327.27
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 7,
+          "views_gained": 7937,
+          "views_per_hour": 1353.34
         }
       ],
       "name": "Ali Abdaal",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 7,
-      "views_gained": 7711,
-      "views_per_hour": 1327.27,
-      "likes_gained": 133,
+      "views_gained": 7937,
+      "views_per_hour": 1353.34,
+      "likes_gained": 105,
       "comments_gained": 2,
       "likes_coverage": 7,
       "comments_coverage": 7,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -1545,19 +1622,26 @@
           "covered_videos": 7,
           "views_gained": 3022,
           "views_per_hour": 520.16
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 7,
+          "views_gained": 5578,
+          "views_per_hour": 951.13
         }
       ],
       "name": "Graham Stephan",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 7,
-      "views_gained": 3022,
-      "views_per_hour": 520.16,
-      "likes_gained": 36,
-      "comments_gained": 2,
+      "views_gained": 5578,
+      "views_per_hour": 951.13,
+      "likes_gained": 73,
+      "comments_gained": 6,
       "likes_coverage": 7,
       "comments_coverage": 7,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UC2C_jShtL725hvbm1arSV9w",
@@ -1659,19 +1743,26 @@
           "covered_videos": 5,
           "views_gained": 2195,
           "views_per_hour": 377.8
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 5,
+          "views_gained": 3124,
+          "views_per_hour": 532.68
         }
       ],
       "name": "CGP Grey",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 5,
-      "views_gained": 2195,
-      "views_per_hour": 377.8,
-      "likes_gained": 20,
+      "views_gained": 3124,
+      "views_per_hour": 532.68,
+      "likes_gained": 30,
       "comments_gained": 0,
       "likes_coverage": 5,
       "comments_coverage": 5,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     },
     {
       "channel_id": "UC6107grRI4m0o2-emgoDnAA",
@@ -1773,19 +1864,26 @@
           "covered_videos": 5,
           "views_gained": 1058,
           "views_per_hour": 182.12
+        },
+        {
+          "observed_at": "2026-11-14T18:56:51Z",
+          "interval_hours": 5.8647,
+          "covered_videos": 5,
+          "views_gained": 968,
+          "views_per_hour": 165.06
         }
       ],
       "name": "SmarterEveryDay",
       "scope": "observed_tracked_videos_only",
-      "observed_at": "2026-11-14T13:04:58Z",
+      "observed_at": "2026-11-14T18:56:51Z",
       "covered_videos": 5,
-      "views_gained": 1058,
-      "views_per_hour": 182.12,
-      "likes_gained": null,
+      "views_gained": 968,
+      "views_per_hour": 165.06,
+      "likes_gained": 10,
       "comments_gained": 1,
-      "likes_coverage": 4,
+      "likes_coverage": 5,
       "comments_coverage": 5,
-      "interval_hours": 5.8097
+      "interval_hours": 5.8647
     }
   ],
   "top_videos": [
@@ -1794,29 +1892,14 @@
       "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
       "title": "Trap Door Roulette",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 90633854,
-      "views_gained": 1036261,
-      "views_per_hour": 178366.7,
-      "acceleration": 17967.77,
-      "velocity_sma3": 109175.42,
-      "relative_momentum": 0.642,
-      "engagement_pulse": 18.54,
-      "status": "ok"
-    },
-    {
-      "video_id": "41UzbuW6wJs",
-      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-      "creator": "MrBeast",
-      "title": "Can A Robot Do My Chores?",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 78626610,
-      "views_gained": 501877,
-      "views_per_hour": 86385.71,
-      "acceleration": 8062.44,
-      "velocity_sma3": 48109.92,
-      "relative_momentum": 1.482,
-      "engagement_pulse": 11.35,
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 91729304,
+      "views_gained": 1095450,
+      "views_per_hour": 186786.34,
+      "acceleration": 1442.4,
+      "velocity_sma3": 145579.6,
+      "relative_momentum": 0.684,
+      "engagement_pulse": 12.61,
       "status": "ok"
     },
     {
@@ -1824,29 +1907,29 @@
       "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
       "title": "Beat Professional Athlete, Win $100,000",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 95071406,
-      "views_gained": 412022,
-      "views_per_hour": 70919.4,
-      "acceleration": 2420.4,
-      "velocity_sma3": 62040.45,
-      "relative_momentum": 0.905,
-      "engagement_pulse": 9.44,
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 95618723,
+      "views_gained": 547317,
+      "views_per_hour": 93323.6,
+      "acceleration": 3838.16,
+      "velocity_sma3": 73592.72,
+      "relative_momentum": 1.196,
+      "engagement_pulse": 8.83,
       "status": "ok"
     },
     {
-      "video_id": "RE3_PGwDwhw",
+      "video_id": "41UzbuW6wJs",
       "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
-      "title": "Lose 150 Lbs Together, Win $250,000",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 190977153,
-      "views_gained": 330748,
-      "views_per_hour": 56930.09,
-      "acceleration": 3176.71,
-      "velocity_sma3": 46989.05,
-      "relative_momentum": 1.42,
-      "engagement_pulse": 5.77,
+      "title": "Can A Robot Do My Chores?",
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 79170063,
+      "views_gained": 543453,
+      "views_per_hour": 92664.75,
+      "acceleration": 1075.69,
+      "velocity_sma3": 72507.26,
+      "relative_momentum": 1.556,
+      "engagement_pulse": 12.7,
       "status": "ok"
     },
     {
@@ -1854,14 +1937,29 @@
       "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "creator": "MrBeast",
       "title": "How People Treat You Based on Subscribers",
-      "observed_at": "2026-11-14T13:04:58Z",
-      "views": 43185701,
-      "views_gained": 290790,
-      "views_per_hour": 50052.31,
-      "acceleration": 2828.24,
-      "velocity_sma3": 41057.95,
-      "relative_momentum": 1.061,
-      "engagement_pulse": 22.14,
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 43581781,
+      "views_gained": 396080,
+      "views_per_hour": 67536.02,
+      "acceleration": 2995.21,
+      "velocity_sma3": 50277.54,
+      "relative_momentum": 1.428,
+      "engagement_pulse": 18.47,
+      "status": "ok"
+    },
+    {
+      "video_id": "RE3_PGwDwhw",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "creator": "MrBeast",
+      "title": "Lose 150 Lbs Together, Win $250,000",
+      "observed_at": "2026-11-14T18:56:51Z",
+      "views": 191359564,
+      "views_gained": 382411,
+      "views_per_hour": 65205.3,
+      "acceleration": 1417.66,
+      "velocity_sma3": 53395.51,
+      "relative_momentum": 1.596,
+      "engagement_pulse": 6.35,
       "status": "ok"
     }
   ],
