@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
-  "generated_at": "2026-11-15T07:19:52Z",
+  "generated_at": "2026-11-15T13:07:36Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "qy_JurwkyU0",
       "title": "An Update Video",
       "published_at": "2025-06-19T13:01:24Z",
-      "observed_at": "2026-11-15T07:19:01Z",
-      "views": 1719330,
-      "likes": 58948,
-      "comments": 23514
+      "observed_at": "2026-11-15T13:06:47Z",
+      "views": 1719464,
+      "likes": 58949,
+      "comments": 23515
     },
     {
       "video_id": "ESyfUKCMWBc",
       "title": "Wilbur Soot - Soft Boy (OFFICIAL VIDEO)",
       "published_at": "2022-09-25T21:00:12Z",
-      "observed_at": "2026-11-15T07:19:01Z",
-      "views": 5645072,
+      "observed_at": "2026-11-15T13:06:47Z",
+      "views": 5645159,
       "likes": 362428,
-      "comments": 38158
+      "comments": 38153
     },
     {
       "video_id": "Oy-OrsVM6wE",
       "title": "Minecraft Social Experiment: Boomers v Zoomers",
       "published_at": "2022-08-31T20:01:37Z",
-      "observed_at": "2026-11-15T07:19:01Z",
-      "views": 2813046,
-      "likes": 188490,
+      "observed_at": "2026-11-15T13:06:47Z",
+      "views": 2813062,
+      "likes": 188491,
       "comments": 8009
     },
     {
       "video_id": "F7F6G0ok9u0",
       "title": "Releasing Every Animal in Zoo Tycoon",
       "published_at": "2022-08-06T19:01:21Z",
-      "observed_at": "2026-11-15T07:19:01Z",
-      "views": 2549553,
+      "observed_at": "2026-11-15T13:06:47Z",
+      "views": 2549570,
       "likes": 197106,
-      "comments": 5159
+      "comments": 5158
     },
     {
       "video_id": "NgEidhomgBE",
       "title": "We Became Crime Scene Investigators",
       "published_at": "2022-07-29T17:01:15Z",
-      "observed_at": "2026-11-15T07:19:01Z",
-      "views": 2561712,
-      "likes": 204933,
-      "comments": 6060
+      "observed_at": "2026-11-15T13:06:47Z",
+      "views": 2561730,
+      "likes": 204932,
+      "comments": 6059
     }
   ]
 }
