@@ -1,0 +1,3597 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-youtube-comparison",
+  "window_end": "2026-11-15T01:28:09.872809+00:00",
+  "creators": [
+    {
+      "channel_id": "UC-J-KZfRV8c13fOCkhXdLiQ",
+      "subscribers": 25500000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 129455.0,
+          "views_sample": 1,
+          "likes": 7216.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 25,
+          "views": 3765250.1666666665,
+          "views_sample": 24,
+          "likes": 41488.88,
+          "likes_sample": 25
+        },
+        "all": {
+          "uploads": 343,
+          "views": 39036984.0,
+          "views_sample": 341,
+          "likes": 326994.79008746357,
+          "likes_sample": 343
+        }
+      }
+    },
+    {
+      "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "subscribers": 109000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 2,
+          "views": 3711139.0,
+          "views_sample": 2,
+          "likes": 91818.0,
+          "likes_sample": 2
+        },
+        "1y": {
+          "uploads": 18,
+          "views": 3244580.222222222,
+          "views_sample": 18,
+          "likes": 145610.0,
+          "likes_sample": 18
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UC0BletW9phE4xHFM44q4qKA",
+      "subscribers": 14100000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 2,
+          "views": 802572.5,
+          "views_sample": 2,
+          "likes": 36377.0,
+          "likes_sample": 2
+        },
+        "all": {
+          "uploads": 191,
+          "views": 25688923.209424082,
+          "views_sample": 191,
+          "likes": 298441.8795811518,
+          "likes_sample": 191
+        }
+      }
+    },
+    {
+      "channel_id": "UC0C-w0YjGpqDXGB8IHb662A",
+      "subscribers": 59300000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 2,
+          "views": 496211.5,
+          "views_sample": 2,
+          "likes": 17148.5,
+          "likes_sample": 2
+        },
+        "1y": {
+          "uploads": 70,
+          "views": 278146.4,
+          "views_sample": 70,
+          "likes": 7287.085714285714,
+          "likes_sample": 70
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UC0Kgvj5t_c9EMWpEDWJuR1Q",
+      "subscribers": 14100000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 75,
+          "views": 362501.17333333334,
+          "views_sample": 75,
+          "likes": 11065.92,
+          "likes_sample": 75
+        }
+      }
+    },
+    {
+      "channel_id": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+      "subscribers": 40300000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 6977499.0,
+          "views_sample": 1,
+          "likes": 215269.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 6977499.0,
+          "views_sample": 1,
+          "likes": 215269.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 4,
+          "views": 5636000.0,
+          "views_sample": 4,
+          "likes": 99565.25,
+          "likes_sample": 4
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UC0gOw4iy-6HwO01q-gA1B0Q",
+      "subscribers": 10200000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 478979.0,
+          "views_sample": 1,
+          "likes": 17378.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 16,
+          "views": 476084.125,
+          "views_sample": 16,
+          "likes": 16450.375,
+          "likes_sample": 16
+        },
+        "all": {
+          "uploads": 229,
+          "views": 19723303.441048034,
+          "views_sample": 229,
+          "likes": 237735.480349345,
+          "likes_sample": 229
+        }
+      }
+    },
+    {
+      "channel_id": "UC0ifXd2AVf1LMYbqwB5GH4g",
+      "subscribers": 6530000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 197738.0,
+          "views_sample": 1,
+          "likes": 13898.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 197738.0,
+          "views_sample": 1,
+          "likes": 13898.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 28,
+          "views": 1463764.8214285714,
+          "views_sample": 28,
+          "likes": 23327.535714285714,
+          "likes_sample": 28
+        },
+        "all": {
+          "uploads": 117,
+          "views": 15980635.70940171,
+          "views_sample": 117,
+          "likes": 168740.5641025641,
+          "likes_sample": 117
+        }
+      }
+    },
+    {
+      "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
+      "subscribers": 5190000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 140,
+          "views": 5802293.992857143,
+          "views_sample": 140,
+          "likes": 250811.0,
+          "likes_sample": 140
+        }
+      }
+    },
+    {
+      "channel_id": "UC2C_jShtL725hvbm1arSV9w",
+      "subscribers": 7050000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 149,
+          "views": 8502362.416107383,
+          "views_sample": 149,
+          "likes": 201595.56375838927,
+          "likes_sample": 149
+        }
+      }
+    },
+    {
+      "channel_id": "UC3jOd7GUMhpgJRBhiLzuLsg",
+      "subscribers": 28500000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 66,
+          "views": 8917921.151515152,
+          "views_sample": 66,
+          "likes": 151440.4393939394,
+          "likes_sample": 66
+        }
+      }
+    },
+    {
+      "channel_id": "UC3lBXcrKFnFAFkfVk5WuKcQ",
+      "subscribers": 20400000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 40,
+          "views": 37625152.475,
+          "views_sample": 40,
+          "likes": 571646.45,
+          "likes_sample": 40
+        }
+      }
+    },
+    {
+      "channel_id": "UC4G10tk3AHFuyMIuD3rHOBA",
+      "subscribers": 7350000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 2,
+          "views": 1349439.5,
+          "views_sample": 2,
+          "likes": 98733.5,
+          "likes_sample": 2
+        },
+        "1y": {
+          "uploads": 46,
+          "views": 1544516.847826087,
+          "views_sample": 46,
+          "likes": 104486.34782608696,
+          "likes_sample": 46
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UC5-cg5RahETrjGu-r8zjYCQ",
+      "subscribers": 2570000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 4,
+          "views": 79826083.0,
+          "views_sample": 4,
+          "likes": 580493.0,
+          "likes_sample": 4
+        },
+        "all": {
+          "uploads": 28,
+          "views": 47629364.28571428,
+          "views_sample": 28,
+          "likes": 357680.21428571426,
+          "likes_sample": 28
+        }
+      }
+    },
+    {
+      "channel_id": "UC56D-IHcUvLVFTX_8NpQMXg",
+      "subscribers": 44700000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 6,
+          "views": 6489273.333333333,
+          "views_sample": 6,
+          "likes": 67090.16666666667,
+          "likes_sample": 6
+        },
+        "1y": {
+          "uploads": 65,
+          "views": 14292289.492307693,
+          "views_sample": 65,
+          "likes": 204447.87692307692,
+          "likes_sample": 65
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UC5OrDvL9DscpcAstz7JnQGA",
+      "subscribers": 42000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 1,
+          "views": 726427.0,
+          "views_sample": 1,
+          "likes": 20373.0,
+          "likes_sample": 1
+        },
+        "all": {
+          "uploads": 20,
+          "views": 12986558.1,
+          "views_sample": 20,
+          "likes": 244850.05,
+          "likes_sample": 20
+        }
+      }
+    },
+    {
+      "channel_id": "UC6107grRI4m0o2-emgoDnAA",
+      "subscribers": 11900000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 6,
+          "views": 1612276.1666666667,
+          "views_sample": 6,
+          "likes": 53130.833333333336,
+          "likes_sample": 6
+        },
+        "all": {
+          "uploads": 398,
+          "views": 3232286.185929648,
+          "views_sample": 398,
+          "likes": 67739.97989949748,
+          "likes_sample": 398
+        }
+      }
+    },
+    {
+      "channel_id": "UC6vZl7Qj7JglLDmN_7Or-ZQ",
+      "subscribers": 3180000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 25534.0,
+          "views_sample": 1,
+          "likes": 1238.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 13,
+          "views": 254655.84615384616,
+          "views_sample": 13,
+          "likes": 4028.923076923077,
+          "likes_sample": 13
+        },
+        "1y": {
+          "uploads": 47,
+          "views": 286259.06382978725,
+          "views_sample": 47,
+          "likes": 4586.893617021276,
+          "likes_sample": 47
+        },
+        "all": {
+          "uploads": 186,
+          "views": 7884970.295698925,
+          "views_sample": 186,
+          "likes": 88290.33870967742,
+          "likes_sample": 186
+        }
+      }
+    },
+    {
+      "channel_id": "UC7D-09kUG6Ei11SVO_deW_w",
+      "subscribers": 2410000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 1,
+          "views": 655924.0,
+          "views_sample": 1,
+          "likes": 2310.0,
+          "likes_sample": 1
+        },
+        "all": {
+          "uploads": 86,
+          "views": 11317204.290697675,
+          "views_sample": 86,
+          "likes": 113413.91764705883,
+          "likes_sample": 85
+        }
+      }
+    },
+    {
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "subscribers": 39000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 691909.0,
+          "views_sample": 1,
+          "likes": 23620.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 11,
+          "views": 2042442.0909090908,
+          "views_sample": 11,
+          "likes": 55103.72727272727,
+          "likes_sample": 11
+        },
+        "1y": {
+          "uploads": 159,
+          "views": 2553810.371069182,
+          "views_sample": 159,
+          "likes": 101318.45283018867,
+          "likes_sample": 159
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UC9CoOnJkIBMdeijd9qYoT_g",
+      "subscribers": 58400000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 108993.0,
+          "views_sample": 1,
+          "likes": 8128.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 65,
+          "views": 366637.8,
+          "views_sample": 65,
+          "likes": 25506.0,
+          "likes_sample": 65
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
+      "subscribers": 23400000,
+      "windows": {
+        "1d": {
+          "uploads": 1,
+          "views": 18211.0,
+          "views_sample": 1,
+          "likes": 393.0,
+          "likes_sample": 1
+        },
+        "7d": {
+          "uploads": 2,
+          "views": 48898.0,
+          "views_sample": 2,
+          "likes": 881.5,
+          "likes_sample": 2
+        },
+        "30d": {
+          "uploads": 7,
+          "views": 140182.42857142858,
+          "views_sample": 7,
+          "likes": 2028.142857142857,
+          "likes_sample": 7
+        },
+        "1y": {
+          "uploads": 221,
+          "views": 76309.05882352941,
+          "views_sample": 221,
+          "likes": 1767.5927601809956,
+          "likes_sample": 221
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCAkIMkEaa9sZmjcy7mfd5lQ",
+      "subscribers": 3750000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 34,
+          "views": 795581.1470588235,
+          "views_sample": 34,
+          "likes": 12839.088235294117,
+          "likes_sample": 34
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCAvCL8hyXjSUHKEGuUPr1BA",
+      "subscribers": 30800000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 11,
+          "views": 1378723.5454545454,
+          "views_sample": 11,
+          "likes": 31306.454545454544,
+          "likes_sample": 11
+        },
+        "all": {
+          "uploads": 202,
+          "views": 2439723.6831683167,
+          "views_sample": 202,
+          "likes": 87516.25742574257,
+          "likes_sample": 202
+        }
+      }
+    },
+    {
+      "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
+      "subscribers": 21400000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 5563965.0,
+          "views_sample": 1,
+          "likes": 72027.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 8,
+          "views": 8608824.875,
+          "views_sample": 8,
+          "likes": 119879.125,
+          "likes_sample": 8
+        },
+        "1y": {
+          "uploads": 88,
+          "views": 6684245.761363637,
+          "views_sample": 88,
+          "likes": 148644.32954545456,
+          "likes_sample": 88
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCBwSufNse8VMBvQM_rCSvgQ",
+      "subscribers": 12500000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCByOQJjav0CUDwxCk-jVNRQ",
+      "subscribers": 33300000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 11,
+          "views": 3729978.2,
+          "views_sample": 10,
+          "likes": 78678.18181818182,
+          "likes_sample": 11
+        },
+        "all": {
+          "uploads": 111,
+          "views": 10715036.925925925,
+          "views_sample": 108,
+          "likes": 124527.0,
+          "likes_sample": 111
+        }
+      }
+    },
+    {
+      "channel_id": "UCC552Sd-3nyi_tk2BudLUzA",
+      "subscribers": 10800000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 1126688.0,
+          "views_sample": 1,
+          "likes": 7497.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 4,
+          "views": 550208.75,
+          "views_sample": 4,
+          "likes": 8940.25,
+          "likes_sample": 4
+        },
+        "1y": {
+          "uploads": 31,
+          "views": 672263.2580645161,
+          "views_sample": 31,
+          "likes": 13100.451612903225,
+          "likes_sample": 31
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCDo9msNItILnyF_Y2eHaNQg",
+      "subscribers": 9760000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 330,
+          "views": 6601785.572727272,
+          "views_sample": 330,
+          "likes": 253601.35454545455,
+          "likes_sample": 330
+        }
+      }
+    },
+    {
+      "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
+      "subscribers": 23400000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 4392543.0,
+          "views_sample": 1,
+          "likes": 83340.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 4,
+          "views": 4517032.75,
+          "views_sample": 4,
+          "likes": 77393.0,
+          "likes_sample": 4
+        },
+        "1y": {
+          "uploads": 81,
+          "views": 6370547.234567901,
+          "views_sample": 81,
+          "likes": 144009.95061728396,
+          "likes_sample": 81
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCEB4a5o_6KfjxHwNMnmj54Q",
+      "subscribers": 6570000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 3,
+          "views": 61951.666666666664,
+          "views_sample": 3,
+          "likes": 3623.6666666666665,
+          "likes_sample": 3
+        },
+        "30d": {
+          "uploads": 4,
+          "views": 129181.75,
+          "views_sample": 4,
+          "likes": 6175.5,
+          "likes_sample": 4
+        },
+        "1y": {
+          "uploads": 28,
+          "views": 559947.1785714285,
+          "views_sample": 28,
+          "likes": 12259.964285714286,
+          "likes_sample": 28
+        },
+        "all": {
+          "uploads": 214,
+          "views": 5889922.065420561,
+          "views_sample": 214,
+          "likes": 99298.7741935484,
+          "likes_sample": 186
+        }
+      }
+    },
+    {
+      "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
+      "subscribers": 11000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 2499893.0,
+          "views_sample": 1,
+          "likes": 91678.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 7,
+          "views": 7163835.428571428,
+          "views_sample": 7,
+          "likes": 298456.71428571426,
+          "likes_sample": 7
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCGmnsW623G1r-Chmo5RB4Yw",
+      "subscribers": 19300000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 3,
+          "views": 691709.6666666666,
+          "views_sample": 3,
+          "likes": 9515.333333333334,
+          "likes_sample": 3
+        },
+        "1y": {
+          "uploads": 117,
+          "views": 8701904.196581196,
+          "views_sample": 117,
+          "likes": 150939.35042735044,
+          "likes_sample": 117
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCHhfSXoDG6gSgpOvLH4wrRw",
+      "subscribers": 4900000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 2,
+          "views": 1067198.5,
+          "views_sample": 2,
+          "likes": 19990.5,
+          "likes_sample": 2
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "subscribers": 21400000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 2,
+          "views": 1111736.5,
+          "views_sample": 2,
+          "likes": 29202.0,
+          "likes_sample": 2
+        },
+        "30d": {
+          "uploads": 9,
+          "views": 4260948.111111111,
+          "views_sample": 9,
+          "likes": 63438.77777777778,
+          "likes_sample": 9
+        },
+        "1y": {
+          "uploads": 84,
+          "views": 7376906.226190476,
+          "views_sample": 84,
+          "likes": 154929.9642857143,
+          "likes_sample": 84
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+      "subscribers": 79600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 5,
+          "views": 4372805.2,
+          "views_sample": 5,
+          "likes": 69922.4,
+          "likes_sample": 5
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "subscribers": 8940000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 61972.0,
+          "views_sample": 1,
+          "likes": 3381.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 4,
+          "views": 755760.25,
+          "views_sample": 4,
+          "likes": 22084.0,
+          "likes_sample": 4
+        },
+        "1y": {
+          "uploads": 32,
+          "views": 1966647.5625,
+          "views_sample": 32,
+          "likes": 64263.21875,
+          "likes_sample": 32
+        },
+        "all": {
+          "uploads": 395,
+          "views": 3769042.311392405,
+          "views_sample": 395,
+          "likes": 148868.37215189874,
+          "likes_sample": 395
+        }
+      }
+    },
+    {
+      "channel_id": "UCJbYdyufHR-cxOuY96KIoqA",
+      "subscribers": 8250000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 2,
+          "views": 2197145.0,
+          "views_sample": 2,
+          "likes": 51510.5,
+          "likes_sample": 2
+        },
+        "30d": {
+          "uploads": 6,
+          "views": 2812668.1666666665,
+          "views_sample": 6,
+          "likes": 64662.333333333336,
+          "likes_sample": 6
+        },
+        "1y": {
+          "uploads": 56,
+          "views": 5933878.089285715,
+          "views_sample": 56,
+          "likes": 147796.82142857142,
+          "likes_sample": 56
+        },
+        "all": {
+          "uploads": 242,
+          "views": 6117897.0371900825,
+          "views_sample": 242,
+          "likes": 164501.79752066114,
+          "likes_sample": 242
+        }
+      }
+    },
+    {
+      "channel_id": "UCKC11MOR51CLg4JpYj8jb4g",
+      "subscribers": 3650000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 3,
+          "views": 352382.3333333333,
+          "views_sample": 3,
+          "likes": 13273.333333333334,
+          "likes_sample": 3
+        },
+        "all": {
+          "uploads": 145,
+          "views": 4577257.131034483,
+          "views_sample": 145,
+          "likes": 50580.620689655174,
+          "likes_sample": 145
+        }
+      }
+    },
+    {
+      "channel_id": "UCKrdjiuS66yXOdEZ_cOD_TA",
+      "subscribers": 7550000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 127200.0,
+          "views_sample": 1,
+          "likes": 12372.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 2,
+          "views": 12679670.5,
+          "views_sample": 2,
+          "likes": 207018.0,
+          "likes_sample": 2
+        },
+        "1y": {
+          "uploads": 30,
+          "views": 1250038.5333333334,
+          "views_sample": 30,
+          "likes": 32480.4,
+          "likes_sample": 30
+        },
+        "all": {
+          "uploads": 384,
+          "views": 8339364.518229167,
+          "views_sample": 384,
+          "likes": 115629.3984375,
+          "likes_sample": 384
+        }
+      }
+    },
+    {
+      "channel_id": "UCM9r1xn6s30OnlJWb-jc3Sw",
+      "subscribers": 43600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 137,
+          "views": 61153313.32846715,
+          "views_sample": 137,
+          "likes": 1051998.4306569344,
+          "likes_sample": 137
+        }
+      }
+    },
+    {
+      "channel_id": "UCNUbNl2U6Hg8J0Zem6hzC2g",
+      "subscribers": 5050000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 10516.0,
+          "views_sample": 1,
+          "likes": 487.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 21,
+          "views": 47584.76190476191,
+          "views_sample": 21,
+          "likes": 953.5714285714286,
+          "likes_sample": 21
+        },
+        "all": {
+          "uploads": 141,
+          "views": 63253.44680851064,
+          "views_sample": 141,
+          "likes": 2430.205673758865,
+          "likes_sample": 141
+        }
+      }
+    },
+    {
+      "channel_id": "UCO5IQ70V7l-XpHW40HwaGsw",
+      "subscribers": 6810000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 38,
+          "views": 6333841.0,
+          "views_sample": 38,
+          "likes": 88513.0,
+          "likes_sample": 38
+        }
+      }
+    },
+    {
+      "channel_id": "UCOjEHmBKwdS7joWpW0VrXkg",
+      "subscribers": 10100000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 10,
+          "views": 664512.3,
+          "views_sample": 10,
+          "likes": 17425.4,
+          "likes_sample": 10
+        },
+        "all": {
+          "uploads": 166,
+          "views": 19285462.11445783,
+          "views_sample": 166,
+          "likes": 179285.94578313254,
+          "likes_sample": 166
+        }
+      }
+    },
+    {
+      "channel_id": "UCPpATKqmMV-CNRNWYaDUwiA",
+      "subscribers": 18100000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 1645703.0,
+          "views_sample": 1,
+          "likes": 13675.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 4,
+          "views": 2800515.25,
+          "views_sample": 4,
+          "likes": 13039.75,
+          "likes_sample": 4
+        },
+        "1y": {
+          "uploads": 40,
+          "views": 2899559.45,
+          "views_sample": 40,
+          "likes": 29646.8,
+          "likes_sample": 40
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCRijo3ddMTht_IHyNSNXpNQ",
+      "subscribers": 62900000,
+      "windows": {
+        "1d": {
+          "uploads": 2,
+          "views": 506733.5,
+          "views_sample": 2,
+          "likes": 12040.0,
+          "likes_sample": 2
+        },
+        "7d": {
+          "uploads": 7,
+          "views": 1003476.4285714285,
+          "views_sample": 7,
+          "likes": 22256.285714285714,
+          "likes_sample": 7
+        },
+        "30d": {
+          "uploads": 27,
+          "views": 2476954.6296296297,
+          "views_sample": 27,
+          "likes": 44961.59259259259,
+          "likes_sample": 27
+        },
+        "1y": {
+          "uploads": 159,
+          "views": 8076742.2830188675,
+          "views_sample": 159,
+          "likes": 106791.72955974843,
+          "likes_sample": 159
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCSDvKdIQOwTfcyOimSi9oYA",
+      "subscribers": 15100000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 3309956.0,
+          "views_sample": 1,
+          "likes": 121889.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 3309956.0,
+          "views_sample": 1,
+          "likes": 121889.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 2,
+          "views": 1682514.0,
+          "views_sample": 2,
+          "likes": 61766.5,
+          "likes_sample": 2
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCSaPKJpNd-Mkm6hhelIYSlQ",
+      "subscribers": 10000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 80,
+          "views": 32671090.0625,
+          "views_sample": 80,
+          "likes": 320814.0375,
+          "likes_sample": 80
+        }
+      }
+    },
+    {
+      "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
+      "subscribers": 5990000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 314682.0,
+          "views_sample": 1,
+          "likes": 8139.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 3,
+          "views": 381405.6666666667,
+          "views_sample": 3,
+          "likes": 8509.0,
+          "likes_sample": 3
+        },
+        "1y": {
+          "uploads": 25,
+          "views": 458692.56,
+          "views_sample": 25,
+          "likes": 16588.24,
+          "likes_sample": 25
+        },
+        "all": {
+          "uploads": 320,
+          "views": 1881622.815047022,
+          "views_sample": 319,
+          "likes": 40071.20625,
+          "likes_sample": 320
+        }
+      }
+    },
+    {
+      "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+      "subscribers": 5180000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 4,
+          "views": 165526.25,
+          "views_sample": 4,
+          "likes": 2023.25,
+          "likes_sample": 4
+        },
+        "30d": {
+          "uploads": 14,
+          "views": 207737.92857142858,
+          "views_sample": 14,
+          "likes": 2439.4285714285716,
+          "likes_sample": 14
+        },
+        "1y": {
+          "uploads": 311,
+          "views": 281257.0192926045,
+          "views_sample": 311,
+          "likes": 5297.016077170418,
+          "likes_sample": 311
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCVS88tG_NYgxF6Udnx2815Q",
+      "subscribers": 10600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 7,
+          "views": 61999.0,
+          "views_sample": 7,
+          "likes": 2524.714285714286,
+          "likes_sample": 7
+        },
+        "30d": {
+          "uploads": 19,
+          "views": 213732.52631578947,
+          "views_sample": 19,
+          "likes": 5855.526315789473,
+          "likes_sample": 19
+        },
+        "1y": {
+          "uploads": 34,
+          "views": 985700.3529411765,
+          "views_sample": 34,
+          "likes": 17523.941176470587,
+          "likes_sample": 34
+        },
+        "all": {
+          "uploads": 159,
+          "views": 11198922.440251572,
+          "views_sample": 159,
+          "likes": 100667.15094339622,
+          "likes_sample": 159
+        }
+      }
+    },
+    {
+      "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
+      "subscribers": 7190000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 12,
+          "views": 3864455.6666666665,
+          "views_sample": 12,
+          "likes": 90072.58333333333,
+          "likes_sample": 12
+        },
+        "all": {
+          "uploads": 92,
+          "views": 23264461.413043477,
+          "views_sample": 92,
+          "likes": 263686.5326086957,
+          "likes_sample": 92
+        }
+      }
+    },
+    {
+      "channel_id": "UCVi6sLM51K8kidu61o0DR_g",
+      "subscribers": 795000,
+      "windows": {
+        "1d": {
+          "uploads": 1,
+          "views": 17050.0,
+          "views_sample": 1,
+          "likes": 300.0,
+          "likes_sample": 1
+        },
+        "7d": {
+          "uploads": 7,
+          "views": 16755.0,
+          "views_sample": 7,
+          "likes": 240.28571428571428,
+          "likes_sample": 7
+        },
+        "30d": {
+          "uploads": 37,
+          "views": 31465.18918918919,
+          "views_sample": 37,
+          "likes": 290.05405405405406,
+          "likes_sample": 37
+        },
+        "1y": null,
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCWZmCMB7mmKWcXJSIPRhzZw",
+      "subscribers": 10600000,
+      "windows": {
+        "1d": {
+          "uploads": 1,
+          "views": 25428.0,
+          "views_sample": 1,
+          "likes": 1047.0,
+          "likes_sample": 1
+        },
+        "7d": {
+          "uploads": 4,
+          "views": 100623.0,
+          "views_sample": 4,
+          "likes": 4076.5,
+          "likes_sample": 4
+        },
+        "30d": {
+          "uploads": 17,
+          "views": 1549759.5294117648,
+          "views_sample": 17,
+          "likes": 37439.35294117647,
+          "likes_sample": 17
+        },
+        "1y": {
+          "uploads": 183,
+          "views": 933209.3387978142,
+          "views_sample": 183,
+          "likes": 24448.584699453553,
+          "likes_sample": 183
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "subscribers": 62300000,
+      "windows": {
+        "1d": {
+          "uploads": 1,
+          "views": 2185358.0,
+          "views_sample": 1,
+          "likes": 34526.0,
+          "likes_sample": 1
+        },
+        "7d": {
+          "uploads": 5,
+          "views": 3775358.8,
+          "views_sample": 5,
+          "likes": 132647.2,
+          "likes_sample": 5
+        },
+        "30d": {
+          "uploads": 27,
+          "views": 5302345.407407408,
+          "views_sample": 27,
+          "likes": 143172.03703703705,
+          "likes_sample": 27
+        },
+        "1y": {
+          "uploads": 316,
+          "views": 12907439.069620254,
+          "views_sample": 316,
+          "likes": 318888.85759493674,
+          "likes_sample": 316
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCWxlUwW9BgGISaakjGM37aw",
+      "subscribers": 4040000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 7,
+          "views": 111162.71428571429,
+          "views_sample": 7,
+          "likes": 2082.714285714286,
+          "likes_sample": 7
+        },
+        "30d": {
+          "uploads": 25,
+          "views": 170782.84,
+          "views_sample": 25,
+          "likes": 3071.28,
+          "likes_sample": 25
+        },
+        "1y": {
+          "uploads": 300,
+          "views": 264691.0133333333,
+          "views_sample": 300,
+          "likes": 6662.473333333333,
+          "likes_sample": 300
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "subscribers": 526000000,
+      "windows": {
+        "1d": {
+          "uploads": 1,
+          "views": 17125697.0,
+          "views_sample": 1,
+          "likes": 464763.0,
+          "likes_sample": 1
+        },
+        "7d": {
+          "uploads": 2,
+          "views": 15529968.5,
+          "views_sample": 2,
+          "likes": 351123.0,
+          "likes_sample": 2
+        },
+        "30d": {
+          "uploads": 8,
+          "views": 88016654.0,
+          "views_sample": 8,
+          "likes": 1177108.125,
+          "likes_sample": 8
+        },
+        "1y": {
+          "uploads": 96,
+          "views": 244289878.875,
+          "views_sample": 96,
+          "likes": 3107000.4583333335,
+          "likes_sample": 96
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "subscribers": 16900000,
+      "windows": {
+        "1d": {
+          "uploads": 2,
+          "views": 519571.0,
+          "views_sample": 2,
+          "likes": 14242.0,
+          "likes_sample": 2
+        },
+        "7d": {
+          "uploads": 10,
+          "views": 1396251.5,
+          "views_sample": 10,
+          "likes": 26564.4,
+          "likes_sample": 10
+        },
+        "30d": {
+          "uploads": 28,
+          "views": 1958511.5357142857,
+          "views_sample": 28,
+          "likes": 32314.714285714286,
+          "likes_sample": 28
+        },
+        "1y": {
+          "uploads": 376,
+          "views": 1734947.2925531915,
+          "views_sample": 376,
+          "likes": 43110.0664893617,
+          "likes_sample": 376
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "subscribers": 86400000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 669944.0,
+          "views_sample": 1,
+          "likes": 18101.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 5,
+          "views": 7188343.0,
+          "views_sample": 5,
+          "likes": 74076.4,
+          "likes_sample": 5
+        },
+        "1y": {
+          "uploads": 42,
+          "views": 34596038.88095238,
+          "views_sample": 42,
+          "likes": 394517.3095238095,
+          "likes_sample": 42
+        },
+        "all": {
+          "uploads": 277,
+          "views": 73382302.14079422,
+          "views_sample": 277,
+          "likes": 1550271.523465704,
+          "likes_sample": 277
+        }
+      }
+    },
+    {
+      "channel_id": "UCZFWPqqPkFlNwIxcpsLOwew",
+      "subscribers": 15600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 4,
+          "views": 1673444.75,
+          "views_sample": 4,
+          "likes": 158114.5,
+          "likes_sample": 4
+        },
+        "all": {
+          "uploads": 21,
+          "views": 3472029.4285714286,
+          "views_sample": 21,
+          "likes": 293571.09523809527,
+          "likes_sample": 21
+        }
+      }
+    },
+    {
+      "channel_id": "UC_uMv3bNXwapHl8Dzf2p01Q",
+      "subscribers": 19600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 1,
+          "views": 253691.0,
+          "views_sample": 1,
+          "likes": 11787.0,
+          "likes_sample": 1
+        },
+        "all": {
+          "uploads": 57,
+          "views": 18582192.245614037,
+          "views_sample": 57,
+          "likes": 324205.2807017544,
+          "likes_sample": 57
+        }
+      }
+    },
+    {
+      "channel_id": "UCbp9MyKCTEww4CxEzc_Tp0Q",
+      "subscribers": 150000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 2,
+          "views": 6628196.0,
+          "views_sample": 2,
+          "likes": 34649.5,
+          "likes_sample": 2
+        },
+        "30d": {
+          "uploads": 7,
+          "views": 5975524.0,
+          "views_sample": 7,
+          "likes": 44117.0,
+          "likes_sample": 7
+        },
+        "1y": {
+          "uploads": 90,
+          "views": 43990510.01111111,
+          "views_sample": 90,
+          "likes": 488263.76666666666,
+          "likes_sample": 90
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCcYrdFJF7hmPXRNaWdrko4w",
+      "subscribers": 30700000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 1,
+          "views": 9208097.0,
+          "views_sample": 1,
+          "likes": 179232.0,
+          "likes_sample": 1
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCcgVECVN4OKV6DH1jLkqmcA",
+      "subscribers": 21000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 5,
+          "views": 76415.4,
+          "views_sample": 5,
+          "likes": 1165.4,
+          "likes_sample": 5
+        },
+        "30d": {
+          "uploads": 11,
+          "views": 172752.9090909091,
+          "views_sample": 11,
+          "likes": 2246.7272727272725,
+          "likes_sample": 11
+        },
+        "1y": {
+          "uploads": 92,
+          "views": 1209695.3043478262,
+          "views_sample": 92,
+          "likes": 14122.95652173913,
+          "likes_sample": 92
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCcgqSM4YEo5vVQpqwN-MaNw",
+      "subscribers": 46600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 2,
+          "views": 284886.0,
+          "views_sample": 2,
+          "likes": 12109.5,
+          "likes_sample": 2
+        },
+        "all": {
+          "uploads": 93,
+          "views": 1152892.5376344086,
+          "views_sample": 93,
+          "likes": 16957.88172043011,
+          "likes_sample": 93
+        }
+      }
+    },
+    {
+      "channel_id": "UCeLHszkByNZtPKcaVXOCOQQ",
+      "subscribers": 29100000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 72225.0,
+          "views_sample": 1,
+          "likes": 2741.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 3,
+          "views": 99727.33333333333,
+          "views_sample": 3,
+          "likes": 5116.0,
+          "likes_sample": 3
+        },
+        "1y": {
+          "uploads": 24,
+          "views": 188461.33333333334,
+          "views_sample": 24,
+          "likes": 6050.791666666667,
+          "likes_sample": 24
+        },
+        "all": {
+          "uploads": 193,
+          "views": 14646225.575129533,
+          "views_sample": 193,
+          "likes": 139911.0621761658,
+          "likes_sample": 193
+        }
+      }
+    },
+    {
+      "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
+      "subscribers": 7050000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 3,
+          "views": 161113.0,
+          "views_sample": 3,
+          "likes": 2481.6666666666665,
+          "likes_sample": 3
+        },
+        "30d": {
+          "uploads": 45,
+          "views": 121955.6888888889,
+          "views_sample": 45,
+          "likes": 2907.911111111111,
+          "likes_sample": 45
+        },
+        "1y": {
+          "uploads": 237,
+          "views": 298414.62025316455,
+          "views_sample": 237,
+          "likes": 3065.337552742616,
+          "likes_sample": 237
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCfM3zsQsOnfWNUppiycmBuw",
+      "subscribers": 67500000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 100562.0,
+          "views_sample": 1,
+          "likes": 6844.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 100562.0,
+          "views_sample": 1,
+          "likes": 6844.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 3,
+          "views": 552939.3333333334,
+          "views_sample": 3,
+          "likes": 17707.666666666668,
+          "likes_sample": 3
+        },
+        "all": {
+          "uploads": 211,
+          "views": 11737728.776190476,
+          "views_sample": 210,
+          "likes": 163860.8,
+          "likes_sample": 210
+        }
+      }
+    },
+    {
+      "channel_id": "UCfNWN9s_s8kRTCadk04WWJA",
+      "subscribers": 5140000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 2,
+          "views": 309191.0,
+          "views_sample": 2,
+          "likes": 6265.0,
+          "likes_sample": 2
+        },
+        "1y": {
+          "uploads": 58,
+          "views": 733276.5172413794,
+          "views_sample": 58,
+          "likes": 21207.94827586207,
+          "likes_sample": 58
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UChQdA1rid5kKZh6oIc6DLNg",
+      "subscribers": 7660000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 94,
+          "views": 32726307.80851064,
+          "views_sample": 94,
+          "likes": 328340.7659574468,
+          "likes_sample": 94
+        }
+      }
+    },
+    {
+      "channel_id": "UChXKjLEzAB1K7EZQey7Fm1Q",
+      "subscribers": 6560000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 59571.0,
+          "views_sample": 1,
+          "likes": 2308.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 7,
+          "views": 207605.57142857142,
+          "views_sample": 7,
+          "likes": 5883.285714285715,
+          "likes_sample": 7
+        },
+        "1y": {
+          "uploads": 63,
+          "views": 216799.60317460317,
+          "views_sample": 63,
+          "likes": 6180.238095238095,
+          "likes_sample": 63
+        },
+        "all": {
+          "uploads": 149,
+          "views": 834867.1677852349,
+          "views_sample": 149,
+          "likes": 32461.892617449663,
+          "likes_sample": 149
+        }
+      }
+    },
+    {
+      "channel_id": "UChntGq8THlUokhc1tT-M2wA",
+      "subscribers": 4680000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 1,
+          "views": 2017930.0,
+          "views_sample": 1,
+          "likes": 13279.0,
+          "likes_sample": 1
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
+      "subscribers": 58700000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 36,
+          "views": 509737.4166666667,
+          "views_sample": 36,
+          "likes": 35474.555555555555,
+          "likes_sample": 36
+        },
+        "all": {
+          "uploads": 211,
+          "views": 12342605.521327015,
+          "views_sample": 211,
+          "likes": 329028.2619047619,
+          "likes_sample": 210
+        }
+      }
+    },
+    {
+      "channel_id": "UCkntT5Je5DDopF70YUsnuEQ",
+      "subscribers": 9980000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 2,
+          "views": 6248.5,
+          "views_sample": 2,
+          "likes": 317.5,
+          "likes_sample": 2
+        },
+        "30d": {
+          "uploads": 4,
+          "views": 6682.75,
+          "views_sample": 4,
+          "likes": 343.0,
+          "likes_sample": 4
+        },
+        "1y": {
+          "uploads": 71,
+          "views": 18756.056338028167,
+          "views_sample": 71,
+          "likes": 766.7887323943662,
+          "likes_sample": 71
+        },
+        "all": {
+          "uploads": 175,
+          "views": 143649.34857142856,
+          "views_sample": 175,
+          "likes": 2436.48,
+          "likes_sample": 175
+        }
+      }
+    },
+    {
+      "channel_id": "UCmBA_wu8xGg1OfOkfW13Q0Q",
+      "subscribers": 53400000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 189,
+          "views": 196981294.72486773,
+          "views_sample": 189,
+          "likes": 1309562.8994708995,
+          "likes_sample": 189
+        }
+      }
+    },
+    {
+      "channel_id": "UCnc6db-y3IU7CkT_yeVXdVg",
+      "subscribers": 8540000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 85,
+          "views": 991401.0235294118,
+          "views_sample": 85,
+          "likes": 23610.529411764706,
+          "likes_sample": 85
+        },
+        "all": {
+          "uploads": 231,
+          "views": 4620493.199134199,
+          "views_sample": 231,
+          "likes": 69130.12554112554,
+          "likes_sample": 231
+        }
+      }
+    },
+    {
+      "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
+      "subscribers": 6710000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 5,
+          "views": 35809.6,
+          "views_sample": 5,
+          "likes": 944.2,
+          "likes_sample": 5
+        },
+        "30d": {
+          "uploads": 31,
+          "views": 61420.3870967742,
+          "views_sample": 31,
+          "likes": 1137.8709677419354,
+          "likes_sample": 31
+        },
+        "1y": {
+          "uploads": 290,
+          "views": 88662.49310344827,
+          "views_sample": 290,
+          "likes": 2270.0827586206897,
+          "likes_sample": 290
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+      "subscribers": 44700000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 141351.0,
+          "views_sample": 1,
+          "likes": 10781.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 141351.0,
+          "views_sample": 1,
+          "likes": 10781.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 24,
+          "views": 20887759.333333332,
+          "views_sample": 24,
+          "likes": 221914.45833333334,
+          "likes_sample": 24
+        },
+        "all": {
+          "uploads": 131,
+          "views": 169479543.3129771,
+          "views_sample": 131,
+          "likes": 1028944.679389313,
+          "likes_sample": 131
+        }
+      }
+    },
+    {
+      "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
+      "subscribers": 35000000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 118267.0,
+          "views_sample": 1,
+          "likes": 3999.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 9,
+          "views": 342207.1111111111,
+          "views_sample": 9,
+          "likes": 6704.222222222223,
+          "likes_sample": 9
+        },
+        "1y": {
+          "uploads": 204,
+          "views": 575861.1372549019,
+          "views_sample": 204,
+          "likes": 11527.450980392157,
+          "likes_sample": 204
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCqECaJ8Gagnn7YCbPEzWH6g",
+      "subscribers": 63500000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 22,
+          "views": 7968277.363636363,
+          "views_sample": 22,
+          "likes": 138158.4090909091,
+          "likes_sample": 22
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCqf-kTp9ERV5T1rPayno7LA",
+      "subscribers": 2460000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 25,
+          "views": 29815203.92,
+          "views_sample": 25,
+          "likes": 249649.4,
+          "likes_sample": 25
+        }
+      }
+    },
+    {
+      "channel_id": "UCrPseYLGpNygVi34QpGNqpA",
+      "subscribers": 7100000,
+      "windows": {
+        "1d": {
+          "uploads": 2,
+          "views": 491611.0,
+          "views_sample": 2,
+          "likes": 10348.5,
+          "likes_sample": 2
+        },
+        "7d": {
+          "uploads": 11,
+          "views": 556313.7272727273,
+          "views_sample": 11,
+          "likes": 12370.90909090909,
+          "likes_sample": 11
+        },
+        "30d": {
+          "uploads": 49,
+          "views": 1167198.1224489796,
+          "views_sample": 49,
+          "likes": 29428.775510204083,
+          "likes_sample": 49
+        },
+        "1y": null,
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
+      "subscribers": 12700000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 22,
+          "views": 4111140.8181818184,
+          "views_sample": 22,
+          "likes": 75868.81818181818,
+          "likes_sample": 22
+        },
+        "all": {
+          "uploads": 42,
+          "views": 8014934.928571428,
+          "views_sample": 42,
+          "likes": 181701.2857142857,
+          "likes_sample": 42
+        }
+      }
+    },
+    {
+      "channel_id": "UCsQBsZJltmLzlsJNG7HevBg",
+      "subscribers": 8270000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 8,
+          "views": 2170954.75,
+          "views_sample": 8,
+          "likes": 86130.375,
+          "likes_sample": 8
+        },
+        "all": {
+          "uploads": 113,
+          "views": 13396075.407079646,
+          "views_sample": 113,
+          "likes": 336479.8918918919,
+          "likes_sample": 111
+        }
+      }
+    },
+    {
+      "channel_id": "UCsRM0YB_dabtEPGPTKo-gcw",
+      "subscribers": 33500000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "all": {
+          "uploads": 43,
+          "views": 283865280.0,
+          "views_sample": 42,
+          "likes": 1456613.5813953488,
+          "likes_sample": 43
+        }
+      }
+    },
+    {
+      "channel_id": "UCtxdfwb9wfkoGocVUAJ-Bmg",
+      "subscribers": 20800000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 1,
+          "views": 112521.0,
+          "views_sample": 1,
+          "likes": 4880.0,
+          "likes_sample": 1
+        },
+        "all": {
+          "uploads": 20,
+          "views": 15522825.2,
+          "views_sample": 20,
+          "likes": 300928.5,
+          "likes_sample": 20
+        }
+      }
+    },
+    {
+      "channel_id": "UCuHzBCaKmtaLcRAOoazhCPA",
+      "subscribers": 29500000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 3,
+          "views": 806678.6666666666,
+          "views_sample": 3,
+          "likes": 24790.333333333332,
+          "likes_sample": 3
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "subscribers": 16700000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 24,
+          "views": 1185036.25,
+          "views_sample": 24,
+          "likes": 13211.791666666666,
+          "likes_sample": 24
+        },
+        "30d": {
+          "uploads": 92,
+          "views": 1151814.293478261,
+          "views_sample": 92,
+          "likes": 17236.152173913044,
+          "likes_sample": 92
+        },
+        "1y": null,
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCvj3hNvwrEgTRkeut7_cBAQ",
+      "subscribers": 8510000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "1y": {
+          "uploads": 2,
+          "views": 146830.0,
+          "views_sample": 2,
+          "likes": 4188.5,
+          "likes_sample": 2
+        },
+        "all": {
+          "uploads": 34,
+          "views": 8183737.823529412,
+          "views_sample": 34,
+          "likes": 376623.5,
+          "likes_sample": 34
+        }
+      }
+    },
+    {
+      "channel_id": "UCwVg9btOceLQuNCdoQk9CXg",
+      "subscribers": 51900000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 3,
+          "views": 5184966.666666667,
+          "views_sample": 3,
+          "likes": 29660.333333333332,
+          "likes_sample": 3
+        },
+        "1y": {
+          "uploads": 13,
+          "views": 34355083.692307696,
+          "views_sample": 13,
+          "likes": 275609.3846153846,
+          "likes_sample": 13
+        },
+        "all": null
+      }
+    },
+    {
+      "channel_id": "UCxMAbVFmxKUVGAll0WVGpFw",
+      "subscribers": 20600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 1,
+          "views": 95449.0,
+          "views_sample": 1,
+          "likes": 4134.0,
+          "likes_sample": 1
+        },
+        "1y": {
+          "uploads": 39,
+          "views": 1560341.1025641025,
+          "views_sample": 39,
+          "likes": 25866.05128205128,
+          "likes_sample": 39
+        },
+        "all": {
+          "uploads": 252,
+          "views": 30871488.464285713,
+          "views_sample": 252,
+          "likes": 301908.01587301586,
+          "likes_sample": 252
+        }
+      }
+    },
+    {
+      "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
+      "subscribers": 12200000,
+      "windows": {
+        "1d": {
+          "uploads": 1,
+          "views": 256745.0,
+          "views_sample": 1,
+          "likes": 14258.0,
+          "likes_sample": 1
+        },
+        "7d": {
+          "uploads": 1,
+          "views": 256745.0,
+          "views_sample": 1,
+          "likes": 14258.0,
+          "likes_sample": 1
+        },
+        "30d": {
+          "uploads": 5,
+          "views": 6273761.8,
+          "views_sample": 5,
+          "likes": 107586.4,
+          "likes_sample": 5
+        },
+        "1y": {
+          "uploads": 24,
+          "views": 6864755.375,
+          "views_sample": 24,
+          "likes": 142364.58333333334,
+          "likes_sample": 24
+        },
+        "all": {
+          "uploads": 207,
+          "views": 10372185.908212561,
+          "views_sample": 207,
+          "likes": 264452.270531401,
+          "likes_sample": 207
+        }
+      }
+    },
+    {
+      "channel_id": "UCyps-v4WNjWDnYRKmZ4BUGw",
+      "subscribers": 19600000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 2,
+          "views": 6045868.5,
+          "views_sample": 2,
+          "likes": 71306.0,
+          "likes_sample": 2
+        },
+        "1y": {
+          "uploads": 32,
+          "views": 12694829.25,
+          "views_sample": 32,
+          "likes": 186725.15625,
+          "likes_sample": 32
+        },
+        "all": {
+          "uploads": 271,
+          "views": 18433534.2398524,
+          "views_sample": 271,
+          "likes": 571314.1291512916,
+          "likes_sample": 271
+        }
+      }
+    },
+    {
+      "channel_id": "UCzpl23pGTHVYqvKsgY0A-_w",
+      "subscribers": 14300000,
+      "windows": {
+        "1d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "7d": {
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
+        },
+        "30d": {
+          "uploads": 2,
+          "views": 105389.0,
+          "views_sample": 2,
+          "likes": 4637.0,
+          "likes_sample": 2
+        },
+        "1y": {
+          "uploads": 6,
+          "views": 105501.33333333333,
+          "views_sample": 6,
+          "likes": 4435.166666666667,
+          "likes_sample": 6
+        },
+        "all": {
+          "uploads": 68,
+          "views": 6048488.776119403,
+          "views_sample": 67,
+          "likes": 143640.4696969697,
+          "likes_sample": 66
+        }
+      }
+    }
+  ]
+}
