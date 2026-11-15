@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC3lBXcrKFnFAFkfVk5WuKcQ",
-  "generated_at": "2026-11-15T00:45:50Z",
+  "generated_at": "2026-11-15T01:17:32Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "fuV4yQWdn_4",
       "title": "squabble up",
       "published_at": "2024-11-25T18:07:36Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 77672429,
-      "likes": 1384838,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 77672783,
+      "likes": 1384845,
       "comments": 61801
     },
     {
       "video_id": "NYH6Oa4PXlY",
       "title": "Kendrick Lamar - squabble up (Official Audio)",
       "published_at": "2024-11-22T17:09:15Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 14745546,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 14745596,
       "likes": 376823,
       "comments": 18138
     },
@@ -27,18 +27,18 @@
       "video_id": "wiALRpD0Ztg",
       "title": "Kendrick Lamar - man at the garden (Official Audio)",
       "published_at": "2024-11-22T17:08:34Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 15016164,
-      "likes": 213104,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 15016299,
+      "likes": 213105,
       "comments": 12510
     },
     {
       "video_id": "HfWLgELllZs",
       "title": "Kendrick Lamar - luther (Official Audio)",
       "published_at": "2024-11-22T17:08:32Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 185996107,
-      "likes": 1176520,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 185997708,
+      "likes": 1176525,
       "comments": 23308
     }
   ]

@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCsQBsZJltmLzlsJNG7HevBg",
-  "generated_at": "2026-11-15T00:45:50Z",
+  "generated_at": "2026-11-15T01:17:32Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "TlEuAoE_Cao",
       "title": "LilGoatD3 - Girls (Tyler, The Creator Remix)",
       "published_at": "2026-09-29T10:00:34Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 1020393,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 1020459,
       "likes": 50312,
       "comments": 3523
     },
@@ -18,17 +18,17 @@
       "video_id": "zMrVd3NjHgs",
       "title": "Tyler, The Creator - Thought I Was Dead / Sugar On My Tongue (Live at the 2026 GRAMMYs)",
       "published_at": "2026-02-16T16:26:43Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 4943085,
-      "likes": 160733,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 4943376,
+      "likes": 160737,
       "comments": 5546
     },
     {
       "video_id": "1f_cpXJtlQk",
       "title": "SAG HARBOR (Official Video)",
       "published_at": "2025-12-25T20:18:31Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 5212339,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 5212422,
       "likes": 272583,
       "comments": 10961
     },
@@ -36,8 +36,8 @@
       "video_id": "odtcH-FEVvg",
       "title": "SUGAR ON MY TONGUE (Freak Mix)",
       "published_at": "2025-12-25T20:11:22Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 2682511,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 2682577,
       "likes": 82937,
       "comments": 6145
     },
@@ -45,7 +45,7 @@
       "video_id": "HgUTnfoR51Y",
       "title": "Tyler, The Creator - Mother (Live at Camp Flog Gnaw 2025)",
       "published_at": "2025-11-27T22:26:23Z",
-      "observed_at": "2026-11-15T00:45:23Z",
+      "observed_at": "2026-11-15T01:17:08Z",
       "views": 304584,
       "likes": 14520,
       "comments": 1167

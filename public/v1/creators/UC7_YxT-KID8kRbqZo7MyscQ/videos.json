@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-  "generated_at": "2026-11-15T00:45:50Z",
+  "generated_at": "2026-11-15T01:17:32Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "k9jfDVoM1GU",
       "title": "THE WELL | REANIMAL - Part 5 (Ending)",
       "published_at": "2026-11-08T17:00:15Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 690578,
-      "likes": 23601,
-      "comments": 879
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 691555,
+      "likes": 23613,
+      "comments": 880
     },
     {
       "video_id": "D9imslSDsOg",
       "title": "I Can Smell You From Here",
       "published_at": "2026-11-07T22:19:05Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 3511721,
-      "likes": 86126,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 3516643,
+      "likes": 86219,
       "comments": 2471
     },
     {
       "video_id": "dsyYwLBtYDE",
       "title": "THE DEEP & THE SHEEP | REANIMAL - Part 4",
       "published_at": "2026-11-04T19:20:20Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 803548,
-      "likes": 27627,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 803915,
+      "likes": 27634,
       "comments": 843
     },
     {
       "video_id": "4qhQxYOwrhg",
       "title": "3 SCARY GAMES #116",
       "published_at": "2026-11-03T18:19:38Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 1853651,
-      "likes": 53396,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 1854507,
+      "likes": 53409,
       "comments": 1812
     },
     {
       "video_id": "AGmCScwyHbo",
       "title": "SCHOOL OF DOOM | REANIMAL - Part 3",
       "published_at": "2026-10-30T16:00:26Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 955821,
-      "likes": 29838,
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 956131,
+      "likes": 29849,
       "comments": 1189
     }
   ]

@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-  "generated_at": "2026-11-15T00:45:50Z",
+  "generated_at": "2026-11-15T01:17:32Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "DsvAYzKOfBU",
       "title": "How to Download Apps on Linux",
       "published_at": "2026-11-14T22:39:54Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 17355,
-      "likes": 1529,
-      "comments": 28
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 21577,
+      "likes": 1694,
+      "comments": 35
     },
     {
       "video_id": "u5UTIofKDGc",
       "title": "My Datacenter Evicted Me",
       "published_at": "2026-11-14T17:13:06Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 955085,
-      "likes": 25752,
-      "comments": 1060
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 1005201,
+      "likes": 26520,
+      "comments": 1092
     },
     {
       "video_id": "-022Lx7u4sw",
       "title": "How to Switch to Linux",
       "published_at": "2026-11-13T19:07:18Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 144576,
-      "likes": 6160,
-      "comments": 212
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 145594,
+      "likes": 6177,
+      "comments": 213
     },
     {
       "video_id": "taBO0I1YBzU",
       "title": "Every Samsung Fold Compared",
       "published_at": "2026-11-13T17:27:31Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 894248,
-      "likes": 14813,
-      "comments": 839
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 900461,
+      "likes": 14860,
+      "comments": 840
     },
     {
       "video_id": "e6MENpOuRC0",
       "title": "I’m Selling My Stuff",
       "published_at": "2026-11-12T20:54:32Z",
-      "observed_at": "2026-11-15T00:45:23Z",
-      "views": 1245617,
-      "likes": 24318,
-      "comments": 1161
+      "observed_at": "2026-11-15T01:17:08Z",
+      "views": 1248210,
+      "likes": 24350,
+      "comments": 1163
     }
   ]
 }
