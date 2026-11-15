@@ -2,51 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
-  "generated_at": "2026-11-15T13:07:36Z",
+  "generated_at": "2026-11-15T18:58:54Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I7IaqRJMi9w",
       "title": "I Failed",
       "published_at": "2026-11-07T13:45:09Z",
-      "observed_at": "2026-11-15T13:06:47Z",
-      "views": 4253580,
-      "likes": 101676,
-      "comments": 5968
+      "observed_at": "2026-11-15T18:57:59Z",
+      "views": 4262416,
+      "likes": 101829,
+      "comments": 5976
     },
     {
       "video_id": "U6I5PkZjWZU",
       "title": "I Google Myself..",
       "published_at": "2026-10-23T08:30:30Z",
-      "observed_at": "2026-11-15T13:06:47Z",
-      "views": 3182302,
-      "likes": 82240,
-      "comments": 5120
+      "observed_at": "2026-11-15T18:57:59Z",
+      "views": 3183572,
+      "likes": 82277,
+      "comments": 5121
     },
     {
       "video_id": "ODDJXGY_1kQ",
       "title": "I seriously should NOT be dropping this.",
       "published_at": "2026-10-01T02:21:45Z",
-      "observed_at": "2026-11-15T13:06:47Z",
-      "views": 3400638,
-      "likes": 94391,
-      "comments": 5456
+      "observed_at": "2026-11-15T18:57:59Z",
+      "views": 3401328,
+      "likes": 94406,
+      "comments": 5457
     },
     {
       "video_id": "H8g4B5ZN7LM",
       "title": "Thank you and Goodbye.",
       "published_at": "2026-09-22T11:05:00Z",
-      "observed_at": "2026-11-15T13:06:47Z",
-      "views": 13111493,
-      "likes": 416304,
-      "comments": 19241
+      "observed_at": "2026-11-15T18:57:59Z",
+      "views": 13113204,
+      "likes": 416322,
+      "comments": 19240
     },
     {
       "video_id": "cNYSOHWbkJU",
       "title": "Earthquake by Mount Fuji",
       "published_at": "2026-07-30T08:30:17Z",
-      "observed_at": "2026-11-15T13:06:47Z",
-      "views": 1552876,
+      "observed_at": "2026-11-15T18:57:59Z",
+      "views": 1553081,
       "likes": 59733,
       "comments": 6055
     }
