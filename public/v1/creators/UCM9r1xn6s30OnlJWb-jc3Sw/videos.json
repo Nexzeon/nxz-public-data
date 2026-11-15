@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCM9r1xn6s30OnlJWb-jc3Sw",
+  "generated_at": "2026-11-15T00:45:50Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "JaH9gjbnpfc",
+      "title": "whoa (mind in awe) remix out now @YouTubeMusic",
+      "published_at": "2025-05-31T00:05:53Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1887995,
+      "likes": 78748,
+      "comments": 6251
+    },
+    {
+      "video_id": "XSLF2pehpGI",
+      "title": "XXXTENTACION & Juice WRLD - whoa (mind in awe) (Remix) (Official Video)",
+      "published_at": "2025-05-30T04:00:06Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 8476469,
+      "likes": 405068,
+      "comments": 30677
+    },
+    {
+      "video_id": "nKEv0f0NdYc",
+      "title": "XXXTENTACION - Snow (Official Audio)",
+      "published_at": "2023-09-08T04:00:21Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 6766402,
+      "likes": 160004,
+      "comments": 18785
+    },
+    {
+      "video_id": "QeZUmuirlqM",
+      "title": "XXXTENTACION - Manikin (Official Audio)",
+      "published_at": "2023-09-08T04:00:14Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 2776471,
+      "likes": 76450,
+      "comments": 4249
+    },
+    {
+      "video_id": "1skhhWnxZx4",
+      "title": "XXXTENTACION - ILuvMyCliqueLikeKanyeWest (Official Audio)",
+      "published_at": "2023-09-08T04:00:02Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1308456,
+      "likes": 54172,
+      "comments": 3888
+    }
+  ]
+}

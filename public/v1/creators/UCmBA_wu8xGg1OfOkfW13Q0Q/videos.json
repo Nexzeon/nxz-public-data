@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCmBA_wu8xGg1OfOkfW13Q0Q",
+  "generated_at": "2026-11-15T00:45:50Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "QeaX_VTQg_w",
+      "title": "Super Bowl LX. Bay Area. Feb 8. #AppleMusicHalftime",
+      "published_at": "2025-09-29T02:05:53Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1202183,
+      "likes": 58452,
+      "comments": 3221
+    },
+    {
+      "video_id": "vmbyVU9w47Y",
+      "title": "BAD BUNNY ft. Chuwi - WELTiTA (Video Oficial) | DeBÍ TiRAR MáS FOToS",
+      "published_at": "2025-08-23T18:00:02Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 51916825,
+      "likes": 284094,
+      "comments": 9284
+    },
+    {
+      "video_id": "B6rYrFVnP04",
+      "title": "BAD BUNNY - ALAMBRE PúA",
+      "published_at": "2025-07-14T16:00:06Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 19468314,
+      "likes": 283286,
+      "comments": 10582
+    },
+    {
+      "video_id": "KU5V5WZVcVE",
+      "title": "BAD BUNNY - NUEVAYoL (Video Oficial) | DeBÍ TiRAR MáS FOToS",
+      "published_at": "2025-07-04T16:00:02Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 172537377,
+      "likes": 1227851,
+      "comments": 31714
+    },
+    {
+      "video_id": "aoXDGMZhdJk",
+      "title": "BAD BUNNY - KETU TeCRÉ (Video Oficial) | DeBÍ TiRAR MáS FOToS",
+      "published_at": "2025-05-16T18:00:02Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 86077758,
+      "likes": 453202,
+      "comments": 13343
+    }
+  ]
+}

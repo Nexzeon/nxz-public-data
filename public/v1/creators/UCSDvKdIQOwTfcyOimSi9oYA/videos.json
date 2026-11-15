@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCSDvKdIQOwTfcyOimSi9oYA",
+  "generated_at": "2026-11-15T00:45:50Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "Sh4pJYJOT7M",
+      "title": "Future ft. Drake, Travis Scott & Loe Shimmy - Ya Hit (Official Music Video)",
+      "published_at": "2026-11-10T17:46:05Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 3294213,
+      "likes": 121595,
+      "comments": 9565
+    },
+    {
+      "video_id": "cAKW_SnwfIo",
+      "title": "August 27, 2026",
+      "published_at": "2026-08-28T03:09:46Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 55033,
+      "likes": 1644,
+      "comments": 96
+    }
+  ]
+}

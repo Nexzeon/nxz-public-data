@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCSaPKJpNd-Mkm6hhelIYSlQ",
+  "generated_at": "2026-11-15T00:45:50Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "w4oJdfFc4t0",
+      "title": "Pop Smoke - Don’t Know Em feat. Rah Swish (Official Audio)",
+      "published_at": "2021-07-31T16:00:46Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 9733332,
+      "likes": 163333,
+      "comments": 3987
+    },
+    {
+      "video_id": "kfzTn6DlFXI",
+      "title": "Pop Smoke - Mr. Jones feat. Anuel AA (Official Audio)",
+      "published_at": "2021-07-31T16:00:24Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 12692558,
+      "likes": 225901,
+      "comments": 6770
+    },
+    {
+      "video_id": "FFvhEN2zPPE",
+      "title": "Pop Smoke - Bad Boys feat. Obasi Jackson (Official Audio)",
+      "published_at": "2021-07-31T16:00:18Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1913215,
+      "likes": 53106,
+      "comments": 1504
+    },
+    {
+      "video_id": "HFB33thWbuY",
+      "title": "Pop Smoke - Double It feat. Fetty Luciano (Official Audio)",
+      "published_at": "2021-07-31T16:00:10Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1766984,
+      "likes": 46295,
+      "comments": 1484
+    },
+    {
+      "video_id": "ajo7mt8zlL4",
+      "title": "Pop Smoke - Rumble feat. Tay Floss (Official Audio)",
+      "published_at": "2021-07-31T16:00:04Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1007369,
+      "likes": 28290,
+      "comments": 1209
+    }
+  ]
+}

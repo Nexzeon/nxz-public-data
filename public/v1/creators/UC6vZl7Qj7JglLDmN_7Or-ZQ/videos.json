@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UC6vZl7Qj7JglLDmN_7Or-ZQ",
+  "generated_at": "2026-11-15T00:45:50Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "YGpIn-b_1pw",
+      "title": "NAM SAYINNNN",
+      "published_at": "2026-11-12T22:29:55Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 25441,
+      "likes": 1235,
+      "comments": 73
+    },
+    {
+      "video_id": "1eECvB0Tuik",
+      "title": "Thank you @YouTubeMusic",
+      "published_at": "2026-11-06T23:22:41Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 16840,
+      "likes": 954,
+      "comments": 26
+    },
+    {
+      "video_id": "Gw99PzTWphk",
+      "title": "Too Soon ft. @Babyface video out now.",
+      "published_at": "2026-11-06T15:32:07Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 12871,
+      "likes": 755,
+      "comments": 25
+    },
+    {
+      "video_id": "3vTFY0hcrWA",
+      "title": "Jack Harlow - TOO SOON feat. Babyface",
+      "published_at": "2026-11-06T15:00:07Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 2341778,
+      "likes": 25728,
+      "comments": 771
+    },
+    {
+      "video_id": "kMEzkFbDC7w",
+      "title": "Jack Harlow - TOO SOON feat. Babyface",
+      "published_at": "2026-11-06T05:00:34Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 122028,
+      "likes": 2865,
+      "comments": 132
+    }
+  ]
+}

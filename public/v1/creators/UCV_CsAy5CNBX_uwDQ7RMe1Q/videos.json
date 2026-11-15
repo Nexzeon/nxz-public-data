@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
+  "generated_at": "2026-11-15T00:45:50Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "WqTO4uk1siU",
+      "title": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
+      "published_at": "2026-03-29T18:00:06Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 16185787,
+      "likes": 336707,
+      "comments": 9470
+    },
+    {
+      "video_id": "dPylP3U1fm0",
+      "title": "CENTRAL CEE - MAKA (FEAT. A2ANTI) (LYRICS)",
+      "published_at": "2026-03-29T17:45:27Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 561337,
+      "likes": 11208,
+      "comments": 414
+    },
+    {
+      "video_id": "ZgnoafBVjXA",
+      "title": "CENTRAL CEE - FEELINGS (LYRICS)",
+      "published_at": "2026-03-29T17:45:27Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1357274,
+      "likes": 35441,
+      "comments": 1320
+    },
+    {
+      "video_id": "ZgHVvkINXZE",
+      "title": "CENTRAL CEE - DC10 (LYRICS)",
+      "published_at": "2026-03-29T17:45:27Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 507089,
+      "likes": 10136,
+      "comments": 553
+    },
+    {
+      "video_id": "3GtkDgNAxUU",
+      "title": "CENTRAL CEE - Y FI DAT (LYRICS)",
+      "published_at": "2026-03-29T17:45:27Z",
+      "observed_at": "2026-11-15T00:45:23Z",
+      "views": 1195964,
+      "likes": 22587,
+      "comments": 1073
+    }
+  ]
+}
