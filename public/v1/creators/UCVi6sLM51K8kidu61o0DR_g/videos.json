@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCVi6sLM51K8kidu61o0DR_g",
-  "generated_at": "2026-11-15T01:28:31Z",
+  "generated_at": "2026-11-15T07:19:52Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "dKi1w5Nt_fc",
       "title": "I Got A Supreme Raft!",
       "published_at": "2026-11-14T01:58:07Z",
-      "observed_at": "2026-11-15T01:17:08Z",
-      "views": 16931,
-      "likes": 300,
+      "observed_at": "2026-11-15T07:19:01Z",
+      "views": 19996,
+      "likes": 330,
       "comments": 5
     },
     {
       "video_id": "_nhvZyq2PFg",
       "title": "Sketch & Zack Lewis Play MADDEN 27 Duos..",
       "published_at": "2026-11-12T23:54:14Z",
-      "observed_at": "2026-11-15T01:17:08Z",
-      "views": 7190,
-      "likes": 74,
+      "observed_at": "2026-11-15T07:19:01Z",
+      "views": 7619,
+      "likes": 76,
       "comments": 6
     },
     {
       "video_id": "P7vppG54OqI",
       "title": "I'm Never Getting Clipped Again..",
       "published_at": "2026-11-12T20:32:12Z",
-      "observed_at": "2026-11-15T01:17:08Z",
-      "views": 31036,
-      "likes": 427,
+      "observed_at": "2026-11-15T07:19:01Z",
+      "views": 32036,
+      "likes": 433,
       "comments": 2
     },
     {
       "video_id": "rk_PMgAVX6c",
       "title": "I Bought A $10,000,000 Content Penthouse!",
       "published_at": "2026-11-12T03:30:21Z",
-      "observed_at": "2026-11-15T01:17:08Z",
-      "views": 27521,
-      "likes": 378,
-      "comments": 39
+      "observed_at": "2026-11-15T07:19:01Z",
+      "views": 27899,
+      "likes": 383,
+      "comments": 40
     },
     {
       "video_id": "0AJjPXYdz9M",
       "title": "I Bought A Dinosaur!",
       "published_at": "2026-11-12T02:28:42Z",
-      "observed_at": "2026-11-15T01:17:08Z",
-      "views": 2936,
-      "likes": 66,
+      "observed_at": "2026-11-15T07:19:01Z",
+      "views": 2990,
+      "likes": 68,
       "comments": 4
     }
   ]
