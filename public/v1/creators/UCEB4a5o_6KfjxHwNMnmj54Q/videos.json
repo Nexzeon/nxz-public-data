@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCEB4a5o_6KfjxHwNMnmj54Q",
-  "generated_at": "2026-11-16T15:20:47Z",
+  "generated_at": "2026-11-16T19:11:21Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "uwJjiRsQqqo",
       "title": "Lil Tjay - Intro (Official Video)",
       "published_at": "2026-11-13T23:45:20Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 74625,
-      "likes": 3858,
-      "comments": 335
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 76088,
+      "likes": 3918,
+      "comments": 344
     },
     {
       "video_id": "1n-rnpg6vxg",
       "title": "Lil Tjay - Public Figure (Official Audio)",
       "published_at": "2026-11-13T05:40:14Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 119436,
-      "likes": 6005,
-      "comments": 428
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 123005,
+      "likes": 6095,
+      "comments": 431
     },
     {
       "video_id": "OrFUJB_Plx4",
       "title": "Lil Tjay - Intro (Official Audio)",
       "published_at": "2026-11-13T05:33:53Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 46360,
-      "likes": 2683,
-      "comments": 237
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 47651,
+      "likes": 2721,
+      "comments": 238
     },
     {
       "video_id": "rUIJzpom1ok",
       "title": "Lil Tjay - Free the Bros (Official Video)",
       "published_at": "2026-11-06T23:56:45Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 348502,
-      "likes": 13992,
-      "comments": 859
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 352349,
+      "likes": 14018,
+      "comments": 860
     },
     {
       "video_id": "wDr4blQErHU",
       "title": "Lil Tjay - Dark Times (Official Visualizer)",
       "published_at": "2026-08-15T02:49:00Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 872283,
-      "likes": 22993,
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 872579,
+      "likes": 22996,
       "comments": 1091
     }
   ]

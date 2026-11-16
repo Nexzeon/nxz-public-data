@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
-  "generated_at": "2026-11-16T15:20:47Z",
+  "generated_at": "2026-11-16T19:11:21Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "5rQi9QcarrE",
       "title": "We Opened a Drive-Thru",
       "published_at": "2026-11-14T22:29:27Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 2930357,
-      "likes": 65485,
-      "comments": 3818
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 3132719,
+      "likes": 68620,
+      "comments": 3900
     },
     {
       "video_id": "CJ1sEhQL8LY",
       "title": "CHEAP VS EXPENSIVE ROAD TRIP (USA EDITION)",
       "published_at": "2026-11-07T18:00:12Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 6508457,
-      "likes": 104240,
-      "comments": 5743
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 6535135,
+      "likes": 104540,
+      "comments": 5749
     },
     {
       "video_id": "e3Gp5JpYF6M",
       "title": "6 Jamaicans vs 1 Secret British Person",
       "published_at": "2026-10-31T18:00:18Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 7398200,
-      "likes": 126625,
-      "comments": 6044
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 7411066,
+      "likes": 126775,
+      "comments": 6050
     },
     {
       "video_id": "3ki11Oq_cio",
       "title": "BETA SQUAD MAFIA PLAY-ALONG EDITION",
       "published_at": "2026-10-24T17:00:07Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 6981182,
-      "likes": 152746,
-      "comments": 14495
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 6986659,
+      "likes": 152834,
+      "comments": 14497
     },
     {
       "video_id": "o2m8XY54ZK0",
       "title": "How Long Can We Secretly Live In A Grocery Store?: USA Edition",
       "published_at": "2026-10-17T17:00:30Z",
-      "observed_at": "2026-11-16T15:19:34Z",
-      "views": 10736041,
-      "likes": 145461,
+      "observed_at": "2026-11-16T19:09:59Z",
+      "views": 10746155,
+      "likes": 145555,
       "comments": 4630
     }
   ]
