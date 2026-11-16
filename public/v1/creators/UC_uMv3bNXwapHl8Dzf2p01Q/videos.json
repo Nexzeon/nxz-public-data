@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC_uMv3bNXwapHl8Dzf2p01Q",
-  "generated_at": "2026-11-16T08:59:26Z",
+  "generated_at": "2026-11-16T15:20:47Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "JIcTFWj6T7Q",
       "title": "Lil Nas X - World's Greatest! (Backyard Performance Video)",
       "published_at": "2026-10-08T19:00:06Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 256005,
-      "likes": 11823,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 256441,
+      "likes": 11827,
       "comments": 893
     },
     {
       "video_id": "7KcIGDTdvs8",
       "title": "Lil Nas X - LEAN ON MY BODY (Lyric Video)",
       "published_at": "2025-03-21T04:00:05Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 620665,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 620759,
       "likes": 16351,
       "comments": 1202
     },
@@ -27,7 +27,7 @@
       "video_id": "rYDC1hHlwJY",
       "title": "Lil Nas X Live Stream",
       "published_at": "2025-03-18T22:22:31Z",
-      "observed_at": "2026-11-16T08:58:21Z",
+      "observed_at": "2026-11-16T15:19:34Z",
       "views": 0,
       "likes": 30,
       "comments": 0
@@ -36,8 +36,8 @@
       "video_id": "WrxnpBHpF8A",
       "title": "Lil Nas X - HOTBOX (Performance Video)",
       "published_at": "2025-03-17T15:42:17Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 539552,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 539583,
       "likes": 14964,
       "comments": 988
     }

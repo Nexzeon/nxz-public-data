@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
-  "generated_at": "2026-11-16T08:59:26Z",
+  "generated_at": "2026-11-16T15:20:47Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I7IaqRJMi9w",
       "title": "I Failed",
       "published_at": "2026-11-07T13:45:09Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 4279374,
-      "likes": 102109,
-      "comments": 5989
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 4286163,
+      "likes": 102236,
+      "comments": 5994
     },
     {
       "video_id": "U6I5PkZjWZU",
       "title": "I Google Myself..",
       "published_at": "2026-10-23T08:30:30Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 3185755,
-      "likes": 82325,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 3186688,
+      "likes": 82343,
       "comments": 5121
     },
     {
       "video_id": "ODDJXGY_1kQ",
       "title": "I seriously should NOT be dropping this.",
       "published_at": "2026-10-01T02:21:45Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 3402788,
-      "likes": 94420,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 3403354,
+      "likes": 94428,
       "comments": 5459
     },
     {
       "video_id": "H8g4B5ZN7LM",
       "title": "Thank you and Goodbye.",
       "published_at": "2026-09-22T11:05:00Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 13117208,
-      "likes": 416355,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 13119132,
+      "likes": 416365,
       "comments": 19243
     },
     {
       "video_id": "cNYSOHWbkJU",
       "title": "Earthquake by Mount Fuji",
       "published_at": "2026-07-30T08:30:17Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 1553460,
-      "likes": 59739,
-      "comments": 6052
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 1553600,
+      "likes": 59736,
+      "comments": 6053
     }
   ]
 }

@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
-  "generated_at": "2026-11-16T08:59:26Z",
+  "generated_at": "2026-11-16T15:20:47Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "hdMszZ2ah5Q",
       "title": "Macbook PROLED Review: It's Not About That",
       "published_at": "2026-11-11T18:43:56Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 5913734,
-      "likes": 74570,
-      "comments": 4065
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 5974486,
+      "likes": 74953,
+      "comments": 4077
     },
     {
       "video_id": "_x58r9TBois",
       "title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
       "published_at": "2026-11-06T21:29:30Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 7612072,
-      "likes": 68276,
-      "comments": 4043
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 7631312,
+      "likes": 68354,
+      "comments": 4047
     },
     {
       "video_id": "g6Die8gVFn0",
       "title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
       "published_at": "2026-11-03T14:01:31Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 12167881,
-      "likes": 124915,
-      "comments": 9894
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 12181593,
+      "likes": 124978,
+      "comments": 9899
     },
     {
       "video_id": "2reQut8WNGc",
       "title": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
       "published_at": "2026-10-29T02:50:34Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 12525596,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 12527786,
       "likes": 144466,
       "comments": 11807
     },
@@ -45,10 +45,10 @@
       "video_id": "ai1gIWacf0I",
       "title": "This can SEE Sound!",
       "published_at": "2026-10-27T20:14:55Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 2753794,
-      "likes": 77225,
-      "comments": 1564
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 2755716,
+      "likes": 77288,
+      "comments": 1565
     }
   ]
 }

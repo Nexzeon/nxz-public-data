@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5-cg5RahETrjGu-r8zjYCQ",
-  "generated_at": "2026-11-16T08:59:26Z",
+  "generated_at": "2026-11-16T15:20:47Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_hUq1aJSzvU",
       "title": "The Boy Who Played The Harp (Video) Out Now.",
       "published_at": "2026-02-26T20:09:07Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 44591,
-      "likes": 2721,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 44600,
+      "likes": 2722,
       "comments": 80
     },
     {
       "video_id": "AwnfjcDCCmE",
       "title": "Dave - The Boy Who Played the Harp",
       "published_at": "2026-02-26T19:38:25Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 6128839,
-      "likes": 219472,
-      "comments": 7729
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 6131588,
+      "likes": 219498,
+      "comments": 7730
     },
     {
       "video_id": "SOJpE1KMUbo",
       "title": "Dave - Raindance (ft. Tems)",
       "published_at": "2026-01-09T18:27:49Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 311512762,
-      "likes": 2013021,
-      "comments": 43316
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 311736677,
+      "likes": 2013580,
+      "comments": 43322
     },
     {
       "video_id": "-q66T2dNml0",
       "title": "Dave - Chapter 16 (ft. Kano)",
       "published_at": "2025-11-26T19:30:30Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 2626950,
-      "likes": 90289,
-      "comments": 4279
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 2627850,
+      "likes": 90300,
+      "comments": 4280
     },
     {
       "video_id": "iVWsP3IadBk",
       "title": "Dave - Starlight",
       "published_at": "2022-03-03T20:06:51Z",
-      "observed_at": "2026-11-16T08:58:21Z",
-      "views": 85992243,
-      "likes": 830868,
+      "observed_at": "2026-11-16T15:19:34Z",
+      "views": 85998061,
+      "likes": 830880,
       "comments": 14853
     }
   ]
