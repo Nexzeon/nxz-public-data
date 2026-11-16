@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCbp9MyKCTEww4CxEzc_Tp0Q",
-  "generated_at": "2026-11-16T01:34:12Z",
+  "generated_at": "2026-11-16T08:59:26Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "pP43sRJg2fg",
       "title": "4 Levels of Futuristic Tech!",
       "published_at": "2026-11-13T05:13:51Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 956034,
-      "likes": 11339,
-      "comments": 181
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 980603,
+      "likes": 11604,
+      "comments": 185
     },
     {
       "video_id": "Hkjp36hjzqo",
       "title": "10 Levels Of Futuristic Tech That Shouldn't Exist!",
       "published_at": "2026-11-11T16:40:59Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 13724141,
-      "likes": 65928,
-      "comments": 2023
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 13978630,
+      "likes": 67392,
+      "comments": 2060
     },
     {
       "video_id": "ucO-UlTMfZ0",
       "title": "How Far Would YOU Go For The World's Best Phone?",
       "published_at": "2026-11-04T07:00:14Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 8781312,
-      "likes": 86028,
-      "comments": 586
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 8860148,
+      "likes": 86706,
+      "comments": 592
     },
     {
       "video_id": "vPU635SETzU",
       "title": "I Got Cast In A REAL Movie!",
       "published_at": "2026-11-03T08:00:28Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 2537199,
-      "likes": 40670,
-      "comments": 256
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 2557042,
+      "likes": 40878,
+      "comments": 259
     },
     {
       "video_id": "AfETKtC_dsQ",
       "title": "We HID in a Real Movie!",
       "published_at": "2026-11-01T06:12:38Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 1313805,
-      "likes": 19048,
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 1318053,
+      "likes": 19101,
       "comments": 169
     }
   ]

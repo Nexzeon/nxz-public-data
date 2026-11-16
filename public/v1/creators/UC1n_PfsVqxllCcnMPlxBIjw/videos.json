@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
-  "generated_at": "2026-11-16T01:34:12Z",
+  "generated_at": "2026-11-16T08:59:26Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "qy_JurwkyU0",
       "title": "An Update Video",
       "published_at": "2025-06-19T13:01:24Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 1720025,
-      "likes": 58951,
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 1720338,
+      "likes": 58948,
       "comments": 23518
     },
     {
       "video_id": "ESyfUKCMWBc",
       "title": "Wilbur Soot - Soft Boy (OFFICIAL VIDEO)",
       "published_at": "2022-09-25T21:00:12Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 5645370,
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 5645478,
       "likes": 362427,
-      "comments": 38146
+      "comments": 38145
     },
     {
       "video_id": "Oy-OrsVM6wE",
       "title": "Minecraft Social Experiment: Boomers v Zoomers",
       "published_at": "2022-08-31T20:01:37Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 2813096,
-      "likes": 188491,
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 2813123,
+      "likes": 188487,
       "comments": 8009
     },
     {
       "video_id": "F7F6G0ok9u0",
       "title": "Releasing Every Animal in Zoo Tycoon",
       "published_at": "2022-08-06T19:01:21Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 2549609,
-      "likes": 197106,
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 2549624,
+      "likes": 197102,
       "comments": 5158
     },
     {
       "video_id": "NgEidhomgBE",
       "title": "We Became Crime Scene Investigators",
       "published_at": "2022-07-29T17:01:15Z",
-      "observed_at": "2026-11-16T01:33:23Z",
-      "views": 2561759,
-      "likes": 204932,
+      "observed_at": "2026-11-16T08:58:21Z",
+      "views": 2561769,
+      "likes": 204929,
       "comments": 6059
     }
   ]
