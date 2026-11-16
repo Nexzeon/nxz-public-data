@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "WqTO4uk1siU",
       "title": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
       "published_at": "2026-03-29T18:00:06Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 16205819,
-      "likes": 336896,
-      "comments": 9470
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 16213458,
+      "likes": 336958,
+      "comments": 9468
     },
     {
       "video_id": "dPylP3U1fm0",
       "title": "CENTRAL CEE - MAKA (FEAT. A2ANTI) (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 562118,
-      "likes": 11216,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 562395,
+      "likes": 11219,
       "comments": 413
     },
     {
       "video_id": "ZgnoafBVjXA",
       "title": "CENTRAL CEE - FEELINGS (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 1359015,
-      "likes": 35465,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 1359687,
+      "likes": 35473,
       "comments": 1319
     },
     {
       "video_id": "ZgHVvkINXZE",
       "title": "CENTRAL CEE - DC10 (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 507738,
-      "likes": 10141,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 507984,
+      "likes": 10142,
       "comments": 553
     },
     {
       "video_id": "3GtkDgNAxUU",
       "title": "CENTRAL CEE - Y FI DAT (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 1197616,
-      "likes": 22598,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 1198332,
+      "likes": 22604,
       "comments": 1073
     }
   ]

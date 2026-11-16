@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "feed": "nxz-entertainment-upload-window",
-  "window_start": "2026-11-08T18:58:17.878406+00:00",
-  "window_end": "2026-11-15T18:58:17.878406+00:00",
+  "window_start": "2026-11-09T01:33:39.633505+00:00",
+  "window_end": "2026-11-16T01:33:39.633505+00:00",
   "creators": [
     {
       "channel_id": "UCRijo3ddMTht_IHyNSNXpNQ",
@@ -21,15 +21,15 @@
     {
       "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
       "uploads": 1,
-      "views": 1890545.0,
-      "likes": 50660.0,
+      "views": 2440986.0,
+      "likes": 58100.0,
       "pending": 0
     },
     {
       "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
       "uploads": 1,
-      "views": 4473458.0,
-      "likes": 84324.0,
+      "views": 1195668.0,
+      "likes": 64425.0,
       "pending": 0
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "channel_id": "UCPpATKqmMV-CNRNWYaDUwiA",
-      "uploads": 1,
-      "views": 1711615.0,
-      "likes": 14123.0,
+      "uploads": 0,
+      "views": null,
+      "likes": null,
       "pending": 0
     },
     {
@@ -77,8 +77,8 @@
     {
       "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
       "uploads": 1,
-      "views": 152322.0,
-      "likes": 4798.0,
+      "views": 167692.0,
+      "likes": 5153.0,
       "pending": 0
     },
     {
@@ -107,7 +107,7 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 4
+      "pending": 5
     },
     {
       "channel_id": "UCBwSufNse8VMBvQM_rCSvgQ",
@@ -128,7 +128,7 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 6
+      "pending": 5
     },
     {
       "channel_id": "UCvj3hNvwrEgTRkeut7_cBAQ",
@@ -203,15 +203,15 @@
     {
       "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
       "uploads": 1,
-      "views": 5775291.0,
-      "likes": 73732.0,
+      "views": 5859743.0,
+      "likes": 74165.0,
       "pending": 0
     },
     {
       "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
       "uploads": 2,
-      "views": 62057.0,
-      "likes": 1047.5,
+      "views": 66106.5,
+      "likes": 1089.5,
       "pending": 0
     },
     {

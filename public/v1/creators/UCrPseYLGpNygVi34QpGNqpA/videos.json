@@ -2,52 +2,70 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCrPseYLGpNygVi34QpGNqpA",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "1-N92QeG0Mk",
+      "title": "💪BEAST MODE💪GOD GAMER GAUNTLET WITH  ⁨@supertf⁩ + MY GOOD FRIEND VALKYRAE 💪",
+      "published_at": "2026-11-15T23:20:24Z",
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 38250,
+      "likes": 693,
+      "comments": 0
+    },
+    {
+      "video_id": "rosLnxoAy9Q",
+      "title": "🧧MRBEAST HUNGER GAMES🧧STREAMER AWARDS RECAP🧧GAMIN🧧",
+      "published_at": "2026-11-15T05:22:37Z",
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 257168,
+      "likes": 1718,
+      "comments": 55
+    },
     {
       "video_id": "DUXyNAj2N58",
       "title": "I didn’t even know this was possible…",
       "published_at": "2026-11-14T19:44:40Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 1425655,
-      "likes": 33999,
-      "comments": 231
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 1949654,
+      "likes": 45671,
+      "comments": 286
     },
     {
       "video_id": "CarEZ0aaTME",
       "title": "I Accidentally Won a Minecraft Tournament ",
       "published_at": "2026-11-14T03:18:05Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 803980,
-      "likes": 11990,
-      "comments": 396
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 863738,
+      "likes": 12762,
+      "comments": 406
     },
     {
       "video_id": "PU5i-_DjUbM",
       "title": "Im so glad I got to meet my favorite streamer...",
       "published_at": "2026-11-12T08:33:54Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 91170,
-      "likes": 2890,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 93157,
+      "likes": 2927,
       "comments": 37
     },
     {
       "video_id": "pf06vzv0pvQ",
       "title": "👽THIS GAME IS BETTER THAN GTA VI👽GLEEPING ALL DAY👽",
       "published_at": "2026-11-12T08:31:33Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 356263,
-      "likes": 1279,
-      "comments": 21
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 357280,
+      "likes": 1286,
+      "comments": 22
     },
     {
       "video_id": "0eZO1mZ_ZSg",
       "title": "HUGE NEWS➡️TRIVIA➡️REACTS➡️DEADLOCK WITH friends :)",
       "published_at": "2026-11-11T06:04:56Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 389685,
-      "likes": 1743,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 390288,
+      "likes": 1747,
       "comments": 42
     }
   ]

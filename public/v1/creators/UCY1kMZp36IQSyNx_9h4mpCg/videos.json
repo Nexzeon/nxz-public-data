@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "aJv3QJrFp_Q",
       "title": "How Big Is a Shooting Star?",
       "published_at": "2026-11-13T14:00:01Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 765849,
-      "likes": 20254,
-      "comments": 142
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 807651,
+      "likes": 20895,
+      "comments": 144
     },
     {
       "video_id": "BhNkTnqwlys",
       "title": "Beat Me, Win $100",
       "published_at": "2026-10-30T16:06:28Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 934069,
-      "likes": 17454,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 938418,
+      "likes": 17501,
       "comments": 157
     },
     {
       "video_id": "Q4nEdB1cfUk",
       "title": "The Insane Science Hidden in These Toys",
       "published_at": "2026-10-28T13:00:39Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 8665845,
-      "likes": 64190,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 8873082,
+      "likes": 64620,
       "comments": 285
     },
     {
       "video_id": "26P1KyvrmjI",
       "title": "I Solved Every Board Game",
       "published_at": "2026-10-24T13:00:22Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 24240986,
-      "likes": 247396,
-      "comments": 4285
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 24359846,
+      "likes": 247941,
+      "comments": 4292
     },
     {
       "video_id": "eXv6fWonvUM",
       "title": "Can You Scientifically Measure Fun?",
       "published_at": "2026-10-21T13:00:01Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 2301325,
-      "likes": 25757,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 2303956,
+      "likes": 25790,
       "comments": 290
     }
   ]

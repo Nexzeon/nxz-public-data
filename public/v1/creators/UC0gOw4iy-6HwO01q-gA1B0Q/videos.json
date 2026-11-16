@@ -2,41 +2,41 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0gOw4iy-6HwO01q-gA1B0Q",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "Fj5NGbFsbwY",
       "title": "Lil Peep - prada (Lyric Video)",
       "published_at": "2026-10-16T04:01:12Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 481186,
-      "likes": 17414,
-      "comments": 1645
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 482428,
+      "likes": 17428,
+      "comments": 1648
     },
     {
       "video_id": "Tn4LJaIDayw",
       "title": "Lil Peep - heaven sent (Lyric Video)",
       "published_at": "2026-09-25T04:03:19Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 665027,
-      "likes": 25496,
-      "comments": 2280
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 665891,
+      "likes": 25505,
+      "comments": 2281
     },
     {
       "video_id": "6LfKupHFldM",
       "title": "Lil Peep 24/7 Station",
       "published_at": "2026-09-18T16:23:06Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 204773,
-      "likes": 10339,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 205746,
+      "likes": 10375,
       "comments": 0
     },
     {
       "video_id": "bDHhyDc-uNk",
       "title": "Lil Peep Live Stream",
       "published_at": "2026-09-18T15:57:44Z",
-      "observed_at": "2026-11-15T18:57:59Z",
+      "observed_at": "2026-11-16T01:33:23Z",
       "views": 0,
       "likes": 4,
       "comments": 0
@@ -45,10 +45,10 @@
       "video_id": "Btxjs24K1fs",
       "title": "Lil Peep - Benz Truck Pt. 2 (Official Video)",
       "published_at": "2026-08-07T04:02:32Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 1263678,
-      "likes": 45727,
-      "comments": 2660
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 1265416,
+      "likes": 45742,
+      "comments": 2661
     }
   ]
 }

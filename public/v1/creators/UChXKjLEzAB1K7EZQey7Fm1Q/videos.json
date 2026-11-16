@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChXKjLEzAB1K7EZQey7Fm1Q",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "67aIgDFNWJw",
+      "title": "i met XG 🥹✨",
+      "published_at": "2026-11-16T01:15:08Z",
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 196,
+      "likes": 31,
+      "comments": 0
+    },
     {
       "video_id": "CrIoEiOUd9I",
       "title": "turning into a k-pop idol 😳",
       "published_at": "2026-11-10T15:30:04Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 61436,
-      "likes": 2347,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 62498,
+      "likes": 2372,
       "comments": 62
     },
     {
       "video_id": "IrYS28klEwU",
       "title": "chun-li with ryu 🤭",
       "published_at": "2026-11-02T15:45:34Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 172458,
-      "likes": 4830,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 173056,
+      "likes": 4842,
       "comments": 75
     },
     {
       "video_id": "5bZvhWLAz2k",
       "title": "bought a gift for someone special 🥹🦋 (+giveaway)",
       "published_at": "2026-10-30T14:30:06Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 84772,
-      "likes": 4640,
-      "comments": 678
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 85058,
+      "likes": 4650,
+      "comments": 679
     },
     {
       "video_id": "Ws92eOADh3M",
       "title": "bad luck speedrun 🥲",
       "published_at": "2026-10-25T15:45:19Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 348104,
-      "likes": 10626,
-      "comments": 182
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 348457,
+      "likes": 10632,
+      "comments": 183
     },
     {
       "video_id": "PSS767HhzNs",
       "title": "she's trying hard for me ♡",
       "published_at": "2026-10-21T16:00:11Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 186548,
-      "likes": 4927,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 186854,
+      "likes": 4931,
       "comments": 67
     }
   ]

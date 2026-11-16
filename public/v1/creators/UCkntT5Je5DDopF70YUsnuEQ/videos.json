@@ -2,33 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCkntT5Je5DDopF70YUsnuEQ",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "4S8Og9k1oI8",
+      "title": "europe tour diaries pt. 2",
+      "published_at": "2026-11-15T20:08:39Z",
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 451,
+      "likes": 23,
+      "comments": 0
+    },
+    {
+      "video_id": "9cgBLuCgkgM",
+      "title": "Khalid - Europe Tour Diaries | It's Always Summer Somewhere",
+      "published_at": "2026-11-15T18:20:30Z",
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 4366,
+      "likes": 127,
+      "comments": 19
+    },
     {
       "video_id": "YwUoCWbwHTg",
       "title": "8 years later this song still hits",
       "published_at": "2026-11-13T01:34:29Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 10661,
-      "likes": 572,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 11532,
+      "likes": 609,
       "comments": 29
     },
     {
       "video_id": "uInqHpaIk4E",
       "title": "Who am I seeing in Australia? So excited to be back on the road with you all 🩵",
       "published_at": "2026-11-11T15:10:19Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 3707,
-      "likes": 164,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 3763,
+      "likes": 166,
       "comments": 8
     },
     {
       "video_id": "EtYdrdyliLg",
       "title": "europe tour diaries pt. 1",
       "published_at": "2026-10-23T20:03:08Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 4451,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 4473,
       "likes": 211,
       "comments": 7
     },
@@ -36,18 +54,18 @@
       "video_id": "2-J5woDUwiE",
       "title": "I Can’t Make You Love Me ❤️‍🩹 during soundcheck",
       "published_at": "2026-10-20T16:34:52Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 9866,
-      "likes": 528,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 9880,
+      "likes": 529,
       "comments": 22
     },
     {
       "video_id": "QjAd7_-QfRs",
       "title": "Somewhere on Oxford Street 🇬🇧",
       "published_at": "2026-10-15T15:10:45Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 15839,
-      "likes": 328,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 15875,
+      "likes": 329,
       "comments": 18
     }
   ]

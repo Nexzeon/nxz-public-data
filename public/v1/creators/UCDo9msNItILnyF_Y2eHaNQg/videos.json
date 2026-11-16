@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCDo9msNItILnyF_Y2eHaNQg",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "UOaMesN5vrY",
       "title": "Baby Girl",
       "published_at": "2023-04-27T18:23:57Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 3502948,
-      "likes": 228640,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 3503043,
+      "likes": 228639,
       "comments": 23726
     },
     {
       "video_id": "B6p8N8sRKDI",
       "title": "My Ex Girlfriend Called Me... (We Picked up)",
       "published_at": "2020-07-12T19:20:10Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 3703102,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 3703117,
       "likes": 134864,
-      "comments": 25484
+      "comments": 25485
     },
     {
       "video_id": "dkKr7Cawd1M",
       "title": "Confronting Faze Jarvis for filming with Bryce Hall...",
       "published_at": "2020-06-11T19:53:17Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 1691894,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 1691903,
       "likes": 85660,
       "comments": 6579
     },
@@ -36,8 +36,8 @@
       "video_id": "uV_0DZQ3na8",
       "title": "My Experience With KSI...",
       "published_at": "2020-05-29T19:46:05Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 2748626,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 2748628,
       "likes": 156166,
       "comments": 28409
     },
@@ -45,9 +45,9 @@
       "video_id": "brPJcVBkm1A",
       "title": "KSI Made A Video With My Ex Girlfriend...",
       "published_at": "2020-05-25T19:28:27Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 2204610,
-      "likes": 113180,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 2204612,
+      "likes": 113181,
       "comments": 9883
     }
   ]

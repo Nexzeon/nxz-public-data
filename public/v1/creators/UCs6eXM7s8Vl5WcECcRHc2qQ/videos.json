@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-  "generated_at": "2026-11-15T18:58:54Z",
+  "generated_at": "2026-11-16T01:34:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "kSx7OL5-w2E",
       "title": "YE & Don Toliver - OK",
       "published_at": "2026-08-18T19:00:06Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 6469057,
-      "likes": 148934,
-      "comments": 6223
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 6474654,
+      "likes": 148975,
+      "comments": 6226
     },
     {
       "video_id": "PRWqgogm8TE",
       "title": "GEMINI SEASON",
       "published_at": "2026-06-08T21:27:49Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 1797113,
-      "likes": 55444,
-      "comments": 8288
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 1797631,
+      "likes": 55451,
+      "comments": 8285
     },
     {
       "video_id": "wl0ACp_mPGs",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #Shorts",
       "published_at": "2026-03-29T15:35:33Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 454877,
-      "likes": 20373,
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 454916,
+      "likes": 20374,
       "comments": 647
     },
     {
       "video_id": "2XCc9aRLDtA",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:19:02Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 214601,
-      "likes": 10068,
-      "comments": 359
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 214688,
+      "likes": 10071,
+      "comments": 358
     },
     {
       "video_id": "1nEnXbLSJMg",
       "title": "FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:12:35Z",
-      "observed_at": "2026-11-15T18:57:59Z",
-      "views": 503347,
-      "likes": 20121,
-      "comments": 648
+      "observed_at": "2026-11-16T01:33:23Z",
+      "views": 503433,
+      "likes": 20122,
+      "comments": 647
     }
   ]
 }
