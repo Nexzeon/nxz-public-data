@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-  "generated_at": "2026-11-17T13:26:05Z",
+  "generated_at": "2026-11-17T19:16:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "5K49xpvMYyo",
       "title": "3 SCARY GAMES #117",
       "published_at": "2026-11-15T21:52:41Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 1328664,
-      "likes": 41021,
-      "comments": 1499
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 1383146,
+      "likes": 42527,
+      "comments": 1543
     },
     {
       "video_id": "k9jfDVoM1GU",
       "title": "THE WELL | REANIMAL - Part 5 (Ending)",
       "published_at": "2026-11-08T17:00:15Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 749376,
-      "likes": 24743,
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 751906,
+      "likes": 24817,
       "comments": 938
     },
     {
       "video_id": "D9imslSDsOg",
       "title": "I Can Smell You From Here",
       "published_at": "2026-11-07T22:19:05Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 3983269,
-      "likes": 94793,
-      "comments": 2629
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 4016303,
+      "likes": 95580,
+      "comments": 2637
     },
     {
       "video_id": "dsyYwLBtYDE",
       "title": "THE DEEP & THE SHEEP | REANIMAL - Part 4",
       "published_at": "2026-11-04T19:20:20Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 838197,
-      "likes": 28423,
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 840327,
+      "likes": 28478,
       "comments": 854
     },
     {
       "video_id": "4qhQxYOwrhg",
       "title": "3 SCARY GAMES #116",
       "published_at": "2026-11-03T18:19:38Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 1929974,
-      "likes": 54929,
-      "comments": 1836
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 1934442,
+      "likes": 55040,
+      "comments": 1837
     },
     {
       "video_id": "AGmCScwyHbo",
       "title": "SCHOOL OF DOOM | REANIMAL - Part 3",
       "published_at": "2026-10-30T16:00:26Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 981488,
-      "likes": 30484,
-      "comments": 1199
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 983164,
+      "likes": 30543,
+      "comments": 1200
     }
   ]
 }

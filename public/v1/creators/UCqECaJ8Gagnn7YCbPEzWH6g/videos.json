@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCqECaJ8Gagnn7YCbPEzWH6g",
-  "generated_at": "2026-11-17T13:26:05Z",
+  "generated_at": "2026-11-17T19:16:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "j8pR1tyoRFc",
       "title": "Taylor Swift - Patient Zero (Expanded Video)",
       "published_at": "2026-10-05T04:00:36Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 5501171,
-      "likes": 109245,
-      "comments": 3558
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 5505419,
+      "likes": 109278,
+      "comments": 3559
     },
     {
       "video_id": "mw3kSNIxjqo",
       "title": "Taylor Swift - Patient Zero (Official Music Video)",
       "published_at": "2026-09-29T22:00:19Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 30167414,
-      "likes": 493802,
-      "comments": 24779
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 30233993,
+      "likes": 494116,
+      "comments": 24795
     },
     {
       "video_id": "jfVVXYTZykw",
       "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
       "published_at": "2026-09-26T00:01:38Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 6526050,
-      "likes": 123928,
-      "comments": 8490
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 6531651,
+      "likes": 123938,
+      "comments": 8491
     },
     {
       "video_id": "BpR280fXISA",
       "title": "Taylor Swift - Patient Zero (Official Lyric Video)",
       "published_at": "2026-09-26T00:01:38Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 15109425,
-      "likes": 131945,
-      "comments": 6507
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 15141494,
+      "likes": 131993,
+      "comments": 6509
     },
     {
       "video_id": "c0Y4PqvDvqc",
       "title": "Taylor Swift - The Life of a Showgirl: The Encore STATION",
       "published_at": "2026-09-24T23:35:13Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 34169875,
-      "likes": 74722,
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 34178307,
+      "likes": 74780,
       "comments": 0
     }
   ]

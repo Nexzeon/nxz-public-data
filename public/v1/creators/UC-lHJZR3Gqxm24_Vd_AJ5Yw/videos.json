@@ -2,51 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
-  "generated_at": "2026-11-17T13:26:05Z",
+  "generated_at": "2026-11-17T19:16:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I7IaqRJMi9w",
       "title": "I Failed",
       "published_at": "2026-11-07T13:45:09Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 4308475,
-      "likes": 102605,
-      "comments": 6011
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 4314365,
+      "likes": 102697,
+      "comments": 6013
     },
     {
       "video_id": "U6I5PkZjWZU",
       "title": "I Google Myself..",
       "published_at": "2026-10-23T08:30:30Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 3189606,
-      "likes": 82420,
-      "comments": 5125
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 3190477,
+      "likes": 82441,
+      "comments": 5126
     },
     {
       "video_id": "ODDJXGY_1kQ",
       "title": "I seriously should NOT be dropping this.",
       "published_at": "2026-10-01T02:21:45Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 3405325,
-      "likes": 94458,
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 3405904,
+      "likes": 94465,
       "comments": 5461
     },
     {
       "video_id": "H8g4B5ZN7LM",
       "title": "Thank you and Goodbye.",
       "published_at": "2026-09-22T11:05:00Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 13124038,
-      "likes": 416420,
-      "comments": 19244
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 13125336,
+      "likes": 416439,
+      "comments": 19246
     },
     {
       "video_id": "cNYSOHWbkJU",
       "title": "Earthquake by Mount Fuji",
       "published_at": "2026-07-30T08:30:17Z",
-      "observed_at": "2026-11-17T13:25:07Z",
-      "views": 1554123,
+      "observed_at": "2026-11-17T19:15:03Z",
+      "views": 1554251,
       "likes": 59737,
       "comments": 6053
     }
