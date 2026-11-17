@@ -2,60 +2,60 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
-  "generated_at": "2026-11-17T01:23:14Z",
+  "generated_at": "2026-11-17T07:34:26Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "G2tBWRHif6Q",
       "title": "How to Get Rich (My Talk at a Business School)",
       "published_at": "2026-11-12T17:42:05Z",
-      "observed_at": "2026-11-17T01:22:02Z",
-      "views": 91971,
-      "likes": 1102,
-      "comments": 74
+      "observed_at": "2026-11-17T07:33:39Z",
+      "views": 93035,
+      "likes": 1126,
+      "comments": 75
     },
     {
       "video_id": "WXnioZZVXtA",
       "title": "My top 5 productivity apps right now",
       "published_at": "2026-11-11T10:00:18Z",
-      "observed_at": "2026-11-17T01:22:02Z",
-      "views": 30782,
-      "likes": 656,
+      "observed_at": "2026-11-17T07:33:39Z",
+      "views": 31130,
+      "likes": 659,
       "comments": 14
     },
     {
       "video_id": "iACc_7N7QnU",
       "title": "What I got wrong about freedom in my 20s",
       "published_at": "2026-11-10T10:00:27Z",
-      "observed_at": "2026-11-17T01:22:02Z",
-      "views": 25567,
-      "likes": 724,
+      "observed_at": "2026-11-17T07:33:39Z",
+      "views": 25901,
+      "likes": 725,
       "comments": 11
     },
     {
       "video_id": "ubDs4poi62Y",
       "title": "Top 5 business books for beginners",
       "published_at": "2026-11-09T10:00:02Z",
-      "observed_at": "2026-11-17T01:22:02Z",
-      "views": 37155,
-      "likes": 1774,
+      "observed_at": "2026-11-17T07:33:39Z",
+      "views": 37319,
+      "likes": 1779,
       "comments": 11
     },
     {
       "video_id": "nQVMKFkAzkk",
       "title": "How I made £3,000 a month as a medical student",
       "published_at": "2026-11-08T10:00:14Z",
-      "observed_at": "2026-11-17T01:22:02Z",
-      "views": 21982,
-      "likes": 925,
+      "observed_at": "2026-11-17T07:33:39Z",
+      "views": 22015,
+      "likes": 926,
       "comments": 11
     },
     {
       "video_id": "eUYtuFidDy8",
       "title": "The book series I can't stop recommending",
       "published_at": "2026-11-07T10:00:07Z",
-      "observed_at": "2026-11-17T01:22:02Z",
-      "views": 18579,
+      "observed_at": "2026-11-17T07:33:39Z",
+      "views": 18603,
       "likes": 439,
       "comments": 15
     },
@@ -63,9 +63,9 @@
       "video_id": "uRCskQbL1KY",
       "title": "I Ranked Every Productivity Tool From Worst to Best",
       "published_at": "2026-11-06T17:17:03Z",
-      "observed_at": "2026-11-17T01:22:02Z",
-      "views": 124801,
-      "likes": 1440,
+      "observed_at": "2026-11-17T07:33:39Z",
+      "views": 125301,
+      "likes": 1443,
       "comments": 108
     }
   ]
