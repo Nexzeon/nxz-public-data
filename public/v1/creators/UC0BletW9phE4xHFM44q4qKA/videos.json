@@ -2,35 +2,35 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0BletW9phE4xHFM44q4qKA",
-  "generated_at": "2026-11-16T19:11:21Z",
+  "generated_at": "2026-11-17T01:23:14Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "t3s3znzKo7M",
       "title": "I've come to this conclusion…we don't get along #LLJW 🕊️",
       "published_at": "2026-03-13T05:44:35Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 312548,
-      "likes": 20897,
-      "comments": 1749
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 312882,
+      "likes": 20911,
+      "comments": 1752
     },
     {
       "video_id": "RFw-5AVVSrg",
       "title": "Juice WRLD, Marshmello - We Don't Get Along (Official Lyric Video)",
       "published_at": "2026-03-12T17:00:45Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 1297711,
-      "likes": 51942,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 1298444,
+      "likes": 51953,
       "comments": 5143
     },
     {
       "video_id": "Ys3zAdSI1eI",
       "title": "Juice WRLD - Party By Myself (Official Music Video)",
       "published_at": "2024-12-10T00:00:25Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 12368631,
-      "likes": 222335,
-      "comments": 19292
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 12372018,
+      "likes": 222352,
+      "comments": 19291
     }
   ]
 }

@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5-cg5RahETrjGu-r8zjYCQ",
-  "generated_at": "2026-11-16T19:11:21Z",
+  "generated_at": "2026-11-17T01:23:14Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_hUq1aJSzvU",
       "title": "The Boy Who Played The Harp (Video) Out Now.",
       "published_at": "2026-02-26T20:09:07Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 44608,
-      "likes": 2722,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 44628,
+      "likes": 2723,
       "comments": 80
     },
     {
       "video_id": "AwnfjcDCCmE",
       "title": "Dave - The Boy Who Played the Harp",
       "published_at": "2026-02-26T19:38:25Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 6133787,
-      "likes": 219510,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 6137241,
+      "likes": 219536,
       "comments": 7730
     },
     {
       "video_id": "SOJpE1KMUbo",
       "title": "Dave - Raindance (ft. Tems)",
       "published_at": "2026-01-09T18:27:49Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 311917726,
-      "likes": 2014087,
-      "comments": 43329
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 312165963,
+      "likes": 2014734,
+      "comments": 43342
     },
     {
       "video_id": "-q66T2dNml0",
       "title": "Dave - Chapter 16 (ft. Kano)",
       "published_at": "2025-11-26T19:30:30Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 2628584,
-      "likes": 90307,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 2629811,
+      "likes": 90317,
       "comments": 4280
     },
     {
       "video_id": "iVWsP3IadBk",
       "title": "Dave - Starlight",
       "published_at": "2022-03-03T20:06:51Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 86002595,
-      "likes": 830902,
-      "comments": 14853
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 86009669,
+      "likes": 830936,
+      "comments": 14854
     }
   ]
 }

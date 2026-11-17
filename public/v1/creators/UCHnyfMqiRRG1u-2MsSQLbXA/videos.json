@@ -2,70 +2,70 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-  "generated_at": "2026-11-16T19:11:21Z",
+  "generated_at": "2026-11-17T01:23:14Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "V8rT6UI3Crg",
       "title": "Making Gunpowder From Scratch",
       "published_at": "2026-11-13T14:00:08Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 843839,
-      "likes": 23885,
-      "comments": 628
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 862515,
+      "likes": 24252,
+      "comments": 642
     },
     {
       "video_id": "2QSkkhbl3v4",
       "title": "Why you can't trust a test that's 99% accurate",
       "published_at": "2026-11-11T14:00:12Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 1609247,
-      "likes": 40430,
-      "comments": 2280
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 1627736,
+      "likes": 40727,
+      "comments": 2323
     },
     {
       "video_id": "rL0qEmTRI-I",
       "title": "Why do deserts get cold at night?",
       "published_at": "2026-11-06T14:00:17Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 1964798,
-      "likes": 40662,
-      "comments": 679
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 1974369,
+      "likes": 40797,
+      "comments": 680
     },
     {
       "video_id": "KfODG5REyss",
       "title": "I finally saw quantum mechanics with my own eyes... (It's spookier than I expected)",
       "published_at": "2026-11-04T15:52:59Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 19827455,
-      "likes": 204743,
-      "comments": 12732
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 19943444,
+      "likes": 205426,
+      "comments": 12761
     },
     {
       "video_id": "xlNKNnXdtN4",
       "title": "These ponds help support half the people on Earth",
       "published_at": "2026-11-02T14:00:05Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 561864,
-      "likes": 15531,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 562660,
+      "likes": 15545,
       "comments": 410
     },
     {
       "video_id": "zEmabFZvdqA",
       "title": "What happens if I lower this weight into the water?",
       "published_at": "2026-10-30T14:00:38Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 3475272,
-      "likes": 92044,
-      "comments": 2563
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 3479893,
+      "likes": 92125,
+      "comments": 2565
     },
     {
       "video_id": "Kap7mRzr13w",
       "title": "Why doesn't your heart get tired like other muscles do?",
       "published_at": "2026-10-27T14:00:11Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 1456335,
-      "likes": 45437,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 1456887,
+      "likes": 45442,
       "comments": 902
     }
   ]

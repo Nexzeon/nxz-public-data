@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0ifXd2AVf1LMYbqwB5GH4g",
-  "generated_at": "2026-11-16T19:11:21Z",
+  "generated_at": "2026-11-17T01:23:14Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "3hVKr-fEIC8",
       "title": "Polo G - Dope Spot (Official Video)",
       "published_at": "2026-11-13T17:00:20Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 314532,
-      "likes": 18524,
-      "comments": 1052
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 338425,
+      "likes": 19197,
+      "comments": 1063
     },
     {
       "video_id": "GRrC5SEgs20",
       "title": "Polo G - Still Standing (Official Video)",
       "published_at": "2026-09-20T19:00:06Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 2119130,
-      "likes": 43113,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 2122135,
+      "likes": 43145,
       "comments": 2287
     },
     {
       "video_id": "ia_mT3q_pQc",
       "title": "Polo G - OMG (Official Video)",
       "published_at": "2026-08-21T04:00:06Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 3540591,
-      "likes": 30085,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 3541617,
+      "likes": 30103,
       "comments": 2066
     },
     {
       "video_id": "-otiUvOXEhM",
       "title": "Polo G - OMG (Official Trailer)",
       "published_at": "2026-08-17T20:13:24Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 117956,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 117997,
       "likes": 4409,
       "comments": 423
     },
@@ -45,9 +45,9 @@
       "video_id": "-4Jd2wiGJKA",
       "title": "Polo G - Weight On My Shoulders (Official Video)",
       "published_at": "2026-06-12T04:00:06Z",
-      "observed_at": "2026-11-16T19:09:59Z",
-      "views": 5688404,
-      "likes": 64629,
+      "observed_at": "2026-11-17T01:22:02Z",
+      "views": 5689824,
+      "likes": 64644,
       "comments": 2347
     }
   ]
