@@ -2,14 +2,14 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCsRM0YB_dabtEPGPTKo-gcw",
-  "generated_at": "2026-11-17T07:34:26Z",
+  "generated_at": "2026-11-17T13:26:05Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "QoeniBZi918",
       "title": "I Drink Wine: Afterparty",
       "published_at": "2022-10-29T14:20:35Z",
-      "observed_at": "2026-11-17T07:33:39Z",
+      "observed_at": "2026-11-17T13:25:07Z",
       "views": null,
       "likes": 14576,
       "comments": 220
@@ -18,8 +18,8 @@
       "video_id": "cc9CDz320KE",
       "title": "Adele - Oh My God (Clip)",
       "published_at": "2022-01-06T15:03:35Z",
-      "observed_at": "2026-11-17T07:33:39Z",
-      "views": 1471932,
+      "observed_at": "2026-11-17T13:25:07Z",
+      "views": 1471951,
       "likes": 86634,
       "comments": 3599
     }

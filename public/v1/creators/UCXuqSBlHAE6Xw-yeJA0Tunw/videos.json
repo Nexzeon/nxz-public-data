@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-  "generated_at": "2026-11-17T07:34:26Z",
+  "generated_at": "2026-11-17T13:26:05Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "XpWfH5Qw1R8",
       "title": "I Stepped into my Favorite Games (for Free)",
       "published_at": "2026-11-15T17:00:21Z",
-      "observed_at": "2026-11-17T07:33:39Z",
-      "views": 1195833,
-      "likes": 16902,
-      "comments": 1060
+      "observed_at": "2026-11-17T13:25:07Z",
+      "views": 1223352,
+      "likes": 17130,
+      "comments": 1073
     },
     {
       "video_id": "DsvAYzKOfBU",
       "title": "How to Download Apps on Linux",
       "published_at": "2026-11-14T22:39:54Z",
-      "observed_at": "2026-11-17T07:33:39Z",
-      "views": 158586,
-      "likes": 5906,
-      "comments": 128
+      "observed_at": "2026-11-17T13:25:07Z",
+      "views": 162995,
+      "likes": 6023,
+      "comments": 132
     },
     {
       "video_id": "u5UTIofKDGc",
       "title": "My Datacenter Evicted Me",
       "published_at": "2026-11-14T17:13:06Z",
-      "observed_at": "2026-11-17T07:33:39Z",
-      "views": 2373889,
-      "likes": 46196,
-      "comments": 1732
+      "observed_at": "2026-11-17T13:25:07Z",
+      "views": 2412251,
+      "likes": 46557,
+      "comments": 1743
     },
     {
       "video_id": "-022Lx7u4sw",
       "title": "How to Switch to Linux",
       "published_at": "2026-11-13T19:07:18Z",
-      "observed_at": "2026-11-17T07:33:39Z",
-      "views": 215040,
-      "likes": 8182,
-      "comments": 306
+      "observed_at": "2026-11-17T13:25:07Z",
+      "views": 219959,
+      "likes": 8323,
+      "comments": 310
     },
     {
       "video_id": "taBO0I1YBzU",
       "title": "Every Samsung Fold Compared",
       "published_at": "2026-11-13T17:27:31Z",
-      "observed_at": "2026-11-17T07:33:39Z",
-      "views": 1249744,
-      "likes": 18302,
-      "comments": 980
+      "observed_at": "2026-11-17T13:25:07Z",
+      "views": 1265088,
+      "likes": 18454,
+      "comments": 988
     },
     {
       "video_id": "e6MENpOuRC0",
       "title": "I’m Selling My Stuff",
       "published_at": "2026-11-12T20:54:32Z",
-      "observed_at": "2026-11-17T07:33:39Z",
-      "views": 1427611,
-      "likes": 26591,
-      "comments": 1223
+      "observed_at": "2026-11-17T13:25:07Z",
+      "views": 1435865,
+      "likes": 26700,
+      "comments": 1224
     }
   ]
 }
