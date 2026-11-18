@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC6107grRI4m0o2-emgoDnAA",
-  "generated_at": "2026-11-18T19:12:01Z",
+  "generated_at": "2026-11-18T20:05:58Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "pXypQ6d_iDg",
       "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317",
       "published_at": "2026-09-26T14:34:03Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 2079744,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 2079862,
       "likes": 32588,
       "comments": 2458
     },
@@ -18,8 +18,8 @@
       "video_id": "vS6HEes8daw",
       "title": "The PROBLEM with Capitalism - Smarter Every Day 316",
       "published_at": "2026-07-26T14:00:36Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 2939164,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 2939179,
       "likes": 109046,
       "comments": 21177
     },
@@ -27,8 +27,8 @@
       "video_id": "5lCWqEFVzbY",
       "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315",
       "published_at": "2026-05-31T14:20:12Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 1284719,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 1284723,
       "likes": 38486,
       "comments": 2783
     },
@@ -36,19 +36,19 @@
       "video_id": "WtQ64nSbdY4",
       "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314",
       "published_at": "2026-04-11T14:16:34Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 1098706,
-      "likes": 55001,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 1098730,
+      "likes": 55002,
       "comments": 5586
     },
     {
       "video_id": "-0JKHuzJ67A",
       "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313",
       "published_at": "2026-03-06T20:30:16Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 950345,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 950385,
       "likes": 27030,
-      "comments": 2378
+      "comments": 2377
     }
   ]
 }

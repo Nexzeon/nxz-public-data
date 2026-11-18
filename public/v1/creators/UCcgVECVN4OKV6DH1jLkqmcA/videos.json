@@ -2,41 +2,41 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCcgVECVN4OKV6DH1jLkqmcA",
-  "generated_at": "2026-11-18T19:12:01Z",
+  "generated_at": "2026-11-18T20:05:58Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_WhCs5g8iK4",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM DUBAI]",
       "published_at": "2026-11-12T14:42:52Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 115986,
-      "likes": 1365,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 116148,
+      "likes": 1366,
       "comments": 215
     },
     {
       "video_id": "LVBS53xHDDo",
       "title": "Dubai this is going to be the best Christmas ever",
       "published_at": "2026-11-12T12:34:54Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 49394,
-      "likes": 918,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 49562,
+      "likes": 919,
       "comments": 91
     },
     {
       "video_id": "AFoZk5i9Ht0",
       "title": "Je t’aime Cédric",
       "published_at": "2026-11-10T19:15:35Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 66737,
-      "likes": 771,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 66851,
+      "likes": 772,
       "comments": 135
     },
     {
       "video_id": "Lk6gTkEOBwM",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM PARIS]",
       "published_at": "2026-11-10T17:48:46Z",
-      "observed_at": "2026-11-18T19:10:39Z",
+      "observed_at": "2026-11-18T20:04:49Z",
       "views": 154649,
       "likes": 2132,
       "comments": 422
@@ -45,9 +45,9 @@
       "video_id": "X0DHKq_eseM",
       "title": "Bonjour Cédric. Pari we here",
       "published_at": "2026-11-10T16:46:54Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 52562,
-      "likes": 1155,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 52723,
+      "likes": 1156,
       "comments": 82
     }
   ]

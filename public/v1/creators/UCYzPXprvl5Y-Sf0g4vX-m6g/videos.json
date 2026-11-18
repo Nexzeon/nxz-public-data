@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+  "generated_at": "2026-11-18T20:05:58Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "PI_qgAU8ZQQ",
+      "title": "Why am I so bad at this!?",
+      "published_at": "2026-11-17T17:13:34Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 954250,
+      "likes": 26852,
+      "comments": 1365
+    },
+    {
+      "video_id": "g9DKSvOuO4Y",
+      "title": "Jacksepticeye doing his lines for Hitman",
+      "published_at": "2026-11-12T17:12:55Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 630462,
+      "likes": 48431,
+      "comments": 422
+    },
+    {
+      "video_id": "MUH3crmuZqM",
+      "title": "LOST",
+      "published_at": "2026-10-31T15:30:35Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 1264797,
+      "likes": 40525,
+      "comments": 2755
+    },
+    {
+      "video_id": "J5r10OtCkTs",
+      "title": "HITMAN put me in their game",
+      "published_at": "2026-10-29T14:24:03Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 4221859,
+      "likes": 104895,
+      "comments": 4161
+    },
+    {
+      "video_id": "vH3dJxrwYTY",
+      "title": "Playing P.T. on PC 12 years later",
+      "published_at": "2026-10-27T17:10:29Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 1982969,
+      "likes": 48958,
+      "comments": 2803
+    }
+  ]
+}

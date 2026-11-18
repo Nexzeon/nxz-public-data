@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
+  "generated_at": "2026-11-18T20:05:58Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "dkocGur84i8",
+      "title": "The three words that power every device you own - Lane Gunderman",
+      "published_at": "2026-11-17T16:00:59Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 154733,
+      "likes": 2120,
+      "comments": 116
+    },
+    {
+      "video_id": "aDblEBU41nA",
+      "title": "Why is pepper such a popular spice? - Carolyn Beans",
+      "published_at": "2026-11-12T16:01:11Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 394290,
+      "likes": 5106,
+      "comments": 185
+    },
+    {
+      "video_id": "nBVuemyrMgE",
+      "title": "Is salt the most important ingredient in history? - Carolyn Beans",
+      "published_at": "2026-11-10T16:01:00Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 485803,
+      "likes": 6081,
+      "comments": 204
+    },
+    {
+      "video_id": "bw5tzcoEG88",
+      "title": "How to effectively use visuals in your presentation",
+      "published_at": "2026-11-05T16:00:41Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 185310,
+      "likes": 2661,
+      "comments": 52
+    },
+    {
+      "video_id": "8EtdC9Bjubk",
+      "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer",
+      "published_at": "2026-11-03T16:00:34Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 968695,
+      "likes": 10771,
+      "comments": 1029
+    }
+  ]
+}

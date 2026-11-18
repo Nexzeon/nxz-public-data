@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCO3tlaeZ6Z0ZN5frMZI3-uQ",
+  "generated_at": "2026-11-18T20:05:58Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "bwojg1i9dls",
+      "title": "Why I Disappeared (What Happened)",
+      "published_at": "2024-05-21T21:51:47Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 321841,
+      "likes": 14504,
+      "comments": 1878
+    },
+    {
+      "video_id": "TM0NY4f0lGM",
+      "title": "Why It Costs More To Be Poor",
+      "published_at": "2023-09-18T19:01:48Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 107893,
+      "likes": 3710,
+      "comments": 430
+    },
+    {
+      "video_id": "bgGzNpEYv4I",
+      "title": "How I Stay Productive 99% of The Day",
+      "published_at": "2023-08-14T18:53:01Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 219678,
+      "likes": 7934,
+      "comments": 325
+    },
+    {
+      "video_id": "C-Iewo7zUFo",
+      "title": "I Stopped Using My Phone. The results were shocking",
+      "published_at": "2023-07-27T19:35:12Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 640337,
+      "likes": 19312,
+      "comments": 1173
+    },
+    {
+      "video_id": "1qy1GX6gugw",
+      "title": "Venture Capital For Beginners (Complete Tutorial) Startup & VC Investing Explained 2023",
+      "published_at": "2023-05-24T18:59:35Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 136750,
+      "likes": 4321,
+      "comments": 131
+    }
+  ]
+}

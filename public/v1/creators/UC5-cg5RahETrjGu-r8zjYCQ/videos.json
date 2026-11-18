@@ -2,14 +2,14 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5-cg5RahETrjGu-r8zjYCQ",
-  "generated_at": "2026-11-18T19:12:01Z",
+  "generated_at": "2026-11-18T20:05:58Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_hUq1aJSzvU",
       "title": "The Boy Who Played The Harp (Video) Out Now.",
       "published_at": "2026-02-26T20:09:07Z",
-      "observed_at": "2026-11-18T19:10:39Z",
+      "observed_at": "2026-11-18T20:04:49Z",
       "views": 44668,
       "likes": 2725,
       "comments": 80
@@ -18,36 +18,36 @@
       "video_id": "AwnfjcDCCmE",
       "title": "Dave - The Boy Who Played the Harp",
       "published_at": "2026-02-26T19:38:25Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 6154945,
-      "likes": 219698,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 6155535,
+      "likes": 219704,
       "comments": 7729
     },
     {
       "video_id": "SOJpE1KMUbo",
       "title": "Dave - Raindance (ft. Tems)",
       "published_at": "2026-01-09T18:27:49Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 313556311,
-      "likes": 2018663,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 313600708,
+      "likes": 2018767,
       "comments": 43388
     },
     {
       "video_id": "-q66T2dNml0",
       "title": "Dave - Chapter 16 (ft. Kano)",
       "published_at": "2025-11-26T19:30:30Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 2635661,
-      "likes": 90351,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 2635827,
+      "likes": 90352,
       "comments": 4279
     },
     {
       "video_id": "iVWsP3IadBk",
       "title": "Dave - Starlight",
       "published_at": "2022-03-03T20:06:51Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 86046848,
-      "likes": 831076,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 86048357,
+      "likes": 831080,
       "comments": 14853
     }
   ]

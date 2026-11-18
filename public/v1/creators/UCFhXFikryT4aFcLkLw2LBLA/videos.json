@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
-  "generated_at": "2026-11-18T19:12:01Z",
+  "generated_at": "2026-11-18T20:05:58Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "TVpMka43TFk",
       "title": "This magnet machine is scary",
       "published_at": "2026-10-16T22:02:57Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 2525423,
-      "likes": 92620,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 2525652,
+      "likes": 92630,
       "comments": 2377
     },
     {
       "video_id": "5OcnO7U0VeA",
       "title": "Making nasty soap",
       "published_at": "2026-08-19T16:34:22Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 2803669,
-      "likes": 154676,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 2803947,
+      "likes": 154686,
       "comments": 3226
     },
     {
       "video_id": "K56LuXCQ0ik",
       "title": "Making color changing mercury",
       "published_at": "2026-08-10T17:11:42Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 9957557,
-      "likes": 461969,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 9958097,
+      "likes": 461993,
       "comments": 6928
     },
     {
       "video_id": "ID-K64Jk6JM",
       "title": "Turning air into alcohol",
       "published_at": "2026-08-05T18:28:30Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 13100773,
-      "likes": 282752,
-      "comments": 21775
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 13101625,
+      "likes": 282763,
+      "comments": 21776
     },
     {
       "video_id": "QNPrHtcn6nM",
       "title": "These metals melt when pushed together",
       "published_at": "2026-03-19T18:42:09Z",
-      "observed_at": "2026-11-18T19:10:39Z",
-      "views": 6146806,
-      "likes": 346328,
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 6146954,
+      "likes": 346333,
       "comments": 3922
     }
   ]

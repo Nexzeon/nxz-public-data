@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCXGgrKt94gR6lmN4aN3mYTg",
+  "generated_at": "2026-11-18T20:05:58Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "k58JCWnA8hs",
+      "title": "The @speediance.official Gym Monster 3S is Awesome",
+      "published_at": "2026-11-18T18:28:53Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 924,
+      "likes": 90,
+      "comments": 2
+    },
+    {
+      "video_id": "ZzM63jPARIc",
+      "title": "I Finally Found GOOD Tech",
+      "published_at": "2026-11-18T16:01:08Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 77373,
+      "likes": 1961,
+      "comments": 89
+    },
+    {
+      "video_id": "pHZURCPW4eE",
+      "title": "The REAL Reason to Buy the Next Xbox",
+      "published_at": "2026-11-17T21:19:26Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 46436,
+      "likes": 1881,
+      "comments": 75
+    },
+    {
+      "video_id": "_nXTL1MgA5s",
+      "title": "The Next Xbox Isn't a PC",
+      "published_at": "2026-11-17T16:01:09Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 272761,
+      "likes": 4722,
+      "comments": 548
+    },
+    {
+      "video_id": "ypVzrCl-fQs",
+      "title": "This PSP has a Secret…",
+      "published_at": "2026-11-16T20:23:51Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 78655,
+      "likes": 2630,
+      "comments": 34
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "feed": "nxz-creator-videos",
+  "channel_id": "UCh7EqOZt7EvO2osuKbIlpGg",
+  "generated_at": "2026-11-18T20:05:58Z",
+  "scope": "observed_youtube_videos_only",
+  "videos": [
+    {
+      "video_id": "sAoEW34gH-0",
+      "title": "I went to the shoe shop in GTA 6...",
+      "published_at": "2026-11-18T13:56:47Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 45950,
+      "likes": 931,
+      "comments": 9
+    },
+    {
+      "video_id": "u_dRXL5b9nc",
+      "title": "Who's Most Likely To... 👀",
+      "published_at": "2026-11-16T15:00:23Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 40922,
+      "likes": 2251,
+      "comments": 14
+    },
+    {
+      "video_id": "T2FR7Qm38OA",
+      "title": "I'm Sorry Lazarbeam...",
+      "published_at": "2026-11-13T13:00:34Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 2654640,
+      "likes": 83617,
+      "comments": 256
+    },
+    {
+      "video_id": "yLUouHjJyLQ",
+      "title": "I Got the Pirate Token! (NOT CLICKBAIT!)",
+      "published_at": "2026-11-12T15:53:49Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 1260136,
+      "likes": 13320,
+      "comments": 504
+    },
+    {
+      "video_id": "w81JBbrdXvQ",
+      "title": "I GOT THE PIRATE SHOP TOKEN!!! 🤯😱",
+      "published_at": "2026-11-12T10:08:29Z",
+      "observed_at": "2026-11-18T20:04:49Z",
+      "views": 221511,
+      "likes": 8130,
+      "comments": 165
+    }
+  ]
+}
