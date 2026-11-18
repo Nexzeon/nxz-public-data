@@ -2,62 +2,71 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCWZmCMB7mmKWcXJSIPRhzZw",
-  "generated_at": "2026-11-17T19:16:17Z",
+  "generated_at": "2026-11-18T01:28:32Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "-LgxEuVPjYE",
+      "title": "Someone check Zerkaa's search history... 😐",
+      "published_at": "2026-11-16T18:50:06Z",
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 33686,
+      "likes": 1111,
+      "comments": 7
+    },
     {
       "video_id": "6WktBQKQkt0",
       "title": "Trying Filet-O-Fish for the first time... 🤢🐟",
       "published_at": "2026-11-15T19:21:53Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 197370,
-      "likes": 4534,
-      "comments": 122
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 226417,
+      "likes": 5008,
+      "comments": 134
     },
     {
       "video_id": "RBke2rfO_q8",
       "title": "Drive-Thru gone wrong... 😐🍔",
       "published_at": "2026-11-14T19:37:45Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 293105,
-      "likes": 8246,
-      "comments": 72
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 304806,
+      "likes": 8552,
+      "comments": 74
     },
     {
       "video_id": "8nbTFBQmKt8",
       "title": "Did Vik deserve a warning... 😅",
       "published_at": "2026-11-12T19:35:19Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 56030,
-      "likes": 2157,
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 56822,
+      "likes": 2173,
       "comments": 20
     },
     {
       "video_id": "9XO9rOJ507s",
       "title": "Trying $1 pizza in New York City! 🍕",
       "published_at": "2026-11-11T17:05:16Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 553378,
-      "likes": 22030,
-      "comments": 93
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 617293,
+      "likes": 23842,
+      "comments": 95
     },
     {
       "video_id": "AJCKdP-4Mn8",
       "title": "Why did Harry show us this… 😐🍑",
       "published_at": "2026-11-09T16:28:11Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 152885,
-      "likes": 6559,
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 154550,
+      "likes": 6611,
       "comments": 39
     },
     {
       "video_id": "DCRc4LFAWPY",
       "title": "Wait a minute… 🤨",
       "published_at": "2026-11-07T18:14:06Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 1978765,
-      "likes": 49110,
-      "comments": 92
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 1987144,
+      "likes": 49282,
+      "comments": 93
     }
   ]
 }

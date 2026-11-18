@@ -2,62 +2,89 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-  "generated_at": "2026-11-17T19:16:17Z",
+  "generated_at": "2026-11-18T01:28:32Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "skdOVaiRq1c",
+      "title": "Don’t Break Into my Grandparents House",
+      "published_at": "2026-11-17T18:03:43Z",
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 592556,
+      "likes": 10131,
+      "comments": 596
+    },
+    {
+      "video_id": "Q7-6Xu5I7G0",
+      "title": "3 Amazing Features on the RayNeo iO Smart Glasses!",
+      "published_at": "2026-11-17T17:13:39Z",
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 49738,
+      "likes": 1622,
+      "comments": 64
+    },
+    {
+      "video_id": "-5rtUVyxH5w",
+      "title": "Tesla “Hater” Uses Full Self-Driving for a Month",
+      "published_at": "2026-11-16T21:30:55Z",
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 1152427,
+      "likes": 19997,
+      "comments": 1730
+    },
     {
       "video_id": "XpWfH5Qw1R8",
       "title": "I Stepped into my Favorite Games (for Free)",
       "published_at": "2026-11-15T17:00:21Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 1254273,
-      "likes": 17481,
-      "comments": 1086
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 1279136,
+      "likes": 17722,
+      "comments": 1104
     },
     {
       "video_id": "DsvAYzKOfBU",
       "title": "How to Download Apps on Linux",
       "published_at": "2026-11-14T22:39:54Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 169926,
-      "likes": 6242,
-      "comments": 137
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 177328,
+      "likes": 6403,
+      "comments": 142
     },
     {
       "video_id": "u5UTIofKDGc",
       "title": "My Datacenter Evicted Me",
       "published_at": "2026-11-14T17:13:06Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 2463710,
-      "likes": 47125,
-      "comments": 1753
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 2516696,
+      "likes": 47593,
+      "comments": 1768
     },
     {
       "video_id": "-022Lx7u4sw",
       "title": "How to Switch to Linux",
       "published_at": "2026-11-13T19:07:18Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 227118,
-      "likes": 8556,
-      "comments": 315
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 233509,
+      "likes": 8701,
+      "comments": 318
     },
     {
       "video_id": "taBO0I1YBzU",
       "title": "Every Samsung Fold Compared",
       "published_at": "2026-11-13T17:27:31Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 1291783,
-      "likes": 18679,
-      "comments": 990
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 1314673,
+      "likes": 18836,
+      "comments": 995
     },
     {
       "video_id": "e6MENpOuRC0",
       "title": "I’m Selling My Stuff",
       "published_at": "2026-11-12T20:54:32Z",
-      "observed_at": "2026-11-17T19:15:03Z",
-      "views": 1453308,
-      "likes": 26841,
-      "comments": 1229
+      "observed_at": "2026-11-18T01:27:28Z",
+      "views": 1466422,
+      "likes": 26966,
+      "comments": 1232
     }
   ]
 }

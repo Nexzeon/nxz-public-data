@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "feed": "nxz-entertainment-upload-window",
-  "window_start": "2026-11-10T19:15:27.818560+00:00",
-  "window_end": "2026-11-17T19:15:27.818560+00:00",
+  "window_start": "2026-11-11T01:27:48.422592+00:00",
+  "window_end": "2026-11-18T01:27:48.422592+00:00",
   "creators": [
     {
       "channel_id": "UCRijo3ddMTht_IHyNSNXpNQ",
@@ -21,22 +21,22 @@
     {
       "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
       "uploads": 1,
-      "views": 3939126.0,
-      "likes": 77273.0,
+      "views": 4145990.0,
+      "likes": 79037.0,
       "pending": 0
     },
     {
       "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
       "uploads": 1,
-      "views": 4981952.0,
-      "likes": 199442.0,
+      "views": 5417804.0,
+      "likes": 209917.0,
       "pending": 0
     },
     {
       "channel_id": "UCJbYdyufHR-cxOuY96KIoqA",
       "uploads": 1,
-      "views": 1852578.0,
-      "likes": 25698.0,
+      "views": 1872349.0,
+      "likes": 25829.0,
       "pending": 0
     },
     {
@@ -77,8 +77,8 @@
     {
       "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
       "uploads": 1,
-      "views": 242865.0,
-      "likes": 6644.0,
+      "views": 257471.0,
+      "likes": 6909.0,
       "pending": 0
     },
     {
@@ -149,7 +149,7 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 2
+      "pending": 1
     },
     {
       "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
@@ -184,7 +184,7 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 5
+      "pending": 4
     },
     {
       "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
@@ -203,15 +203,15 @@
     {
       "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
       "uploads": 2,
-      "views": 3165942.5,
-      "likes": 41927.0,
+      "views": 3815040.0,
+      "likes": 58973.0,
       "pending": 0
     },
     {
       "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
       "uploads": 1,
-      "views": 72520.0,
-      "likes": 1006.0,
+      "views": 74938.0,
+      "likes": 1023.0,
       "pending": 0
     },
     {
