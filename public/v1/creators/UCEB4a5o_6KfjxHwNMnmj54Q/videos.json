@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCEB4a5o_6KfjxHwNMnmj54Q",
-  "generated_at": "2026-11-18T13:29:00Z",
+  "generated_at": "2026-11-18T19:12:01Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "uwJjiRsQqqo",
       "title": "Lil Tjay - Intro (Official Video)",
       "published_at": "2026-11-13T23:45:20Z",
-      "observed_at": "2026-11-18T13:28:08Z",
-      "views": 96775,
-      "likes": 4525,
-      "comments": 376
+      "observed_at": "2026-11-18T19:10:39Z",
+      "views": 104509,
+      "likes": 4658,
+      "comments": 384
     },
     {
       "video_id": "1n-rnpg6vxg",
       "title": "Lil Tjay - Public Figure (Official Audio)",
       "published_at": "2026-11-13T05:40:14Z",
-      "observed_at": "2026-11-18T13:28:08Z",
-      "views": 158722,
-      "likes": 6783,
-      "comments": 452
+      "observed_at": "2026-11-18T19:10:39Z",
+      "views": 165203,
+      "likes": 6883,
+      "comments": 453
     },
     {
       "video_id": "OrFUJB_Plx4",
       "title": "Lil Tjay - Intro (Official Audio)",
       "published_at": "2026-11-13T05:33:53Z",
-      "observed_at": "2026-11-18T13:28:08Z",
-      "views": 60085,
-      "likes": 2987,
+      "observed_at": "2026-11-18T19:10:39Z",
+      "views": 61871,
+      "likes": 3022,
       "comments": 246
     },
     {
       "video_id": "rUIJzpom1ok",
       "title": "Lil Tjay - Free the Bros (Official Video)",
       "published_at": "2026-11-06T23:56:45Z",
-      "observed_at": "2026-11-18T13:28:08Z",
-      "views": 373251,
-      "likes": 14157,
-      "comments": 863
+      "observed_at": "2026-11-18T19:10:39Z",
+      "views": 377014,
+      "likes": 14181,
+      "comments": 865
     },
     {
       "video_id": "wDr4blQErHU",
       "title": "Lil Tjay - Dark Times (Official Visualizer)",
       "published_at": "2026-08-15T02:49:00Z",
-      "observed_at": "2026-11-18T13:28:08Z",
-      "views": 875394,
-      "likes": 23022,
+      "observed_at": "2026-11-18T19:10:39Z",
+      "views": 875773,
+      "likes": 23025,
       "comments": 1093
     }
   ]
