@@ -2,41 +2,41 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0gOw4iy-6HwO01q-gA1B0Q",
-  "generated_at": "2026-11-18T07:32:21Z",
+  "generated_at": "2026-11-18T13:29:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "Fj5NGbFsbwY",
       "title": "Lil Peep - prada (Lyric Video)",
       "published_at": "2026-10-16T04:01:12Z",
-      "observed_at": "2026-11-18T07:31:23Z",
-      "views": 489847,
-      "likes": 17528,
+      "observed_at": "2026-11-18T13:28:08Z",
+      "views": 490400,
+      "likes": 17534,
       "comments": 1655
     },
     {
       "video_id": "Tn4LJaIDayw",
       "title": "Lil Peep - heaven sent (Lyric Video)",
       "published_at": "2026-09-25T04:03:19Z",
-      "observed_at": "2026-11-18T07:31:23Z",
-      "views": 671295,
-      "likes": 25564,
+      "observed_at": "2026-11-18T13:28:08Z",
+      "views": 671619,
+      "likes": 25566,
       "comments": 2284
     },
     {
       "video_id": "6LfKupHFldM",
       "title": "Lil Peep 24/7 Station",
       "published_at": "2026-09-18T16:23:06Z",
-      "observed_at": "2026-11-18T07:31:23Z",
-      "views": 210937,
-      "likes": 10569,
+      "observed_at": "2026-11-18T13:28:08Z",
+      "views": 211160,
+      "likes": 10573,
       "comments": 0
     },
     {
       "video_id": "bDHhyDc-uNk",
       "title": "Lil Peep Live Stream",
       "published_at": "2026-09-18T15:57:44Z",
-      "observed_at": "2026-11-18T07:31:23Z",
+      "observed_at": "2026-11-18T13:28:08Z",
       "views": 0,
       "likes": 4,
       "comments": 0
@@ -45,9 +45,9 @@
       "video_id": "Btxjs24K1fs",
       "title": "Lil Peep - Benz Truck Pt. 2 (Official Video)",
       "published_at": "2026-08-07T04:02:32Z",
-      "observed_at": "2026-11-18T07:31:23Z",
-      "views": 1276721,
-      "likes": 45833,
+      "observed_at": "2026-11-18T13:28:08Z",
+      "views": 1277598,
+      "likes": 45842,
       "comments": 2662
     }
   ]
