@@ -2,60 +2,60 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
-  "generated_at": "2026-11-19T01:26:12Z",
+  "generated_at": "2026-11-19T07:33:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "Uy2eM6Lil-Y",
       "title": "Does Buying a Car Online Mean It Has to Be Delivered?",
       "published_at": "2026-11-13T00:51:00Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 11272,
-      "likes": 437,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 12315,
+      "likes": 439,
       "comments": 9
     },
     {
       "video_id": "Re-ByJxPQaA",
       "title": "New Apple HomeView!",
       "published_at": "2026-11-12T15:24:34Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 60677,
-      "likes": 2300,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 61044,
+      "likes": 2308,
       "comments": 70
     },
     {
       "video_id": "M9sHX0HpYIo",
       "title": "HomeView is here!",
       "published_at": "2026-11-12T14:00:03Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 526426,
-      "likes": 5816,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 529708,
+      "likes": 5838,
       "comments": 463
     },
     {
       "video_id": "GzzHaM8IAhI",
       "title": "I Tried Meta’s New AI Agent… Meet Piggy 🐷",
       "published_at": "2026-11-06T17:02:57Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 40757,
-      "likes": 810,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 40908,
+      "likes": 814,
       "comments": 87
     },
     {
       "video_id": "LQT8wzemsLU",
       "title": "New (OLD?) Sony Walkman Headphones! MDR-3R!",
       "published_at": "2026-11-05T19:18:29Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 65653,
-      "likes": 2181,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 65863,
+      "likes": 2184,
       "comments": 76
     },
     {
       "video_id": "IxhDzSdSxZo",
       "title": "New LIGHT UP Apple Logo! 😍",
       "published_at": "2026-11-05T18:40:09Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 37806,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 37831,
       "likes": 1548,
       "comments": 33
     },
@@ -63,19 +63,19 @@
       "video_id": "NAcPAr13btM",
       "title": "PROLED MacBook Pro Unboxing",
       "published_at": "2026-11-05T14:01:27Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 113411,
-      "likes": 4207,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 113518,
+      "likes": 4211,
       "comments": 79
     },
     {
       "video_id": "QTaRLfPa3oc",
       "title": "Touching my Mac! The new PROLED MacBook Pro is here!",
       "published_at": "2026-11-05T14:00:35Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 349870,
-      "likes": 4939,
-      "comments": 376
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 350187,
+      "likes": 4940,
+      "comments": 377
     }
   ]
 }

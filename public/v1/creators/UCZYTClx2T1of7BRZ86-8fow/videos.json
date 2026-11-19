@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-  "generated_at": "2026-11-19T01:26:12Z",
+  "generated_at": "2026-11-19T07:33:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "7pGCRPvKBXA",
       "title": "Your Allergies Might Prevent Cancer",
       "published_at": "2026-11-18T18:00:04Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 47601,
-      "likes": 1489,
-      "comments": 144
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 75988,
+      "likes": 2088,
+      "comments": 180
     },
     {
       "video_id": "yNsRbQln4Vg",
       "title": "Is Eating Oysters Safe?",
       "published_at": "2026-11-17T18:00:36Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 173484,
-      "likes": 3036,
-      "comments": 407
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 190651,
+      "likes": 3183,
+      "comments": 426
     },
     {
       "video_id": "1ejtdt78rCo",
       "title": "The Chess Rating System That Predicts Everything",
       "published_at": "2026-11-16T18:00:35Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 131888,
-      "likes": 2721,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 134623,
+      "likes": 2773,
       "comments": 169
     },
     {
       "video_id": "S7ELHbvqaeA",
       "title": "The Deep Sea Sub Built By a Cereal Company",
       "published_at": "2026-11-13T18:00:07Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 132883,
-      "likes": 3163,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 133634,
+      "likes": 3175,
       "comments": 209
     },
     {
       "video_id": "FKiSYHf1HyI",
       "title": "Using Radioactive Waste to Treat Cancer",
       "published_at": "2026-11-12T18:00:21Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 182439,
-      "likes": 3231,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 183148,
+      "likes": 3234,
       "comments": 128
     }
   ]

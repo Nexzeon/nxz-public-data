@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-  "generated_at": "2026-11-19T01:26:12Z",
+  "generated_at": "2026-11-19T07:33:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "PI_qgAU8ZQQ",
       "title": "Why am I so bad at this!?",
       "published_at": "2026-11-17T17:13:34Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 1067892,
-      "likes": 28671,
-      "comments": 1457
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 1150243,
+      "likes": 29813,
+      "comments": 1498
     },
     {
       "video_id": "g9DKSvOuO4Y",
       "title": "Jacksepticeye doing his lines for Hitman",
       "published_at": "2026-11-12T17:12:55Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 637072,
-      "likes": 48692,
-      "comments": 422
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 642287,
+      "likes": 48903,
+      "comments": 424
     },
     {
       "video_id": "MUH3crmuZqM",
       "title": "LOST",
       "published_at": "2026-10-31T15:30:35Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 1265902,
-      "likes": 40547,
-      "comments": 2755
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 1266930,
+      "likes": 40572,
+      "comments": 2757
     },
     {
       "video_id": "J5r10OtCkTs",
       "title": "HITMAN put me in their game",
       "published_at": "2026-10-29T14:24:03Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 4227383,
-      "likes": 104989,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 4233178,
+      "likes": 105077,
       "comments": 4162
     },
     {
       "video_id": "vH3dJxrwYTY",
       "title": "Playing P.T. on PC 12 years later",
       "published_at": "2026-10-27T17:10:29Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 1985264,
-      "likes": 48994,
-      "comments": 2804
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 1987442,
+      "likes": 49035,
+      "comments": 2805
     }
   ]
 }

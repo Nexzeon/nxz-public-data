@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
-  "generated_at": "2026-11-19T01:26:12Z",
+  "generated_at": "2026-11-19T07:33:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "awjlMCCdqXw",
       "title": "The Dark Side of China’s Perfect Cars",
       "published_at": "2026-11-17T11:43:40Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 8475016,
-      "likes": 132812,
-      "comments": 11258
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 9383680,
+      "likes": 139979,
+      "comments": 11943
     },
     {
       "video_id": "HVLUtJWlcJY",
       "title": "I Tested 42 Years of Phones!",
       "published_at": "2026-11-09T12:37:47Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 9070072,
-      "likes": 119191,
-      "comments": 6643
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 9104317,
+      "likes": 119475,
+      "comments": 6653
     },
     {
       "video_id": "Yg2t5w8vj5Q",
       "title": "I Tested the Most Downloaded 3D Printed Tech!",
       "published_at": "2026-11-04T11:09:51Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 7302770,
-      "likes": 93241,
-      "comments": 2758
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 7325506,
+      "likes": 93371,
+      "comments": 2759
     },
     {
       "video_id": "1yB56IT0kDw",
       "title": "6 ways Samsung Fold beats iPhone Duo",
       "published_at": "2026-10-23T13:18:02Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 8242606,
-      "likes": 267470,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 8249334,
+      "likes": 267626,
       "comments": 3121
     },
     {
       "video_id": "i3ZlSlnGWng",
       "title": "6 ways iPhone Duo beats Samsung",
       "published_at": "2026-10-21T12:02:02Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 14231250,
-      "likes": 417352,
-      "comments": 9332
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 14242658,
+      "likes": 417564,
+      "comments": 9338
     }
   ]
 }

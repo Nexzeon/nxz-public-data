@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCsTcErHg8oDvUnTzoqsYeNw",
-  "generated_at": "2026-11-19T01:26:12Z",
+  "generated_at": "2026-11-19T07:33:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "yX9opMmNLnE",
       "title": "Meet Beni: Your Camera Robot",
       "published_at": "2026-11-18T15:55:22Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 305487,
-      "likes": 4900,
-      "comments": 14
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 346992,
+      "likes": 9098,
+      "comments": 20
     },
     {
       "video_id": "Wwq6lvZ5PPA",
       "title": "In Search of the Ultimate Pocket Camera... XTRA MUSE 2 PRO",
       "published_at": "2026-11-17T16:06:16Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 81312,
-      "likes": 655,
-      "comments": 53
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 150161,
+      "likes": 687,
+      "comments": 55
     },
     {
       "video_id": "IeqkzKGfMX0",
       "title": "The first folding phone vs now…",
       "published_at": "2026-11-10T15:41:58Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 1199522,
-      "likes": 29717,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 1200348,
+      "likes": 29772,
       "comments": 212
     },
     {
       "video_id": "eP7lsIoSTMU",
       "title": "You need this new power brick…",
       "published_at": "2026-11-04T17:46:18Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 1114508,
-      "likes": 21838,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 1121266,
+      "likes": 21850,
       "comments": 118
     },
     {
       "video_id": "Qw6UAdGL14s",
       "title": "This Thing Runs On Android?",
       "published_at": "2026-11-02T18:33:27Z",
-      "observed_at": "2026-11-19T01:24:38Z",
-      "views": 968409,
-      "likes": 1604,
+      "observed_at": "2026-11-19T07:32:19Z",
+      "views": 968616,
+      "likes": 1605,
       "comments": 118
     }
   ]
