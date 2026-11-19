@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
-  "generated_at": "2026-11-18T20:05:58Z",
+  "generated_at": "2026-11-19T01:26:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "EKvZWLqgl0s",
       "title": "Billie performing \"idontwannabeyouanymore\" at Electric Ballroom in 2023",
       "published_at": "2026-08-19T21:10:36Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 284848,
-      "likes": 27239,
-      "comments": 1432
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 285193,
+      "likes": 27254,
+      "comments": 1434
     },
     {
       "video_id": "wx3q6S6c-fM",
       "title": "On tour in Japan by Billie",
       "published_at": "2026-08-14T16:00:06Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 463873,
-      "likes": 45353,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 464166,
+      "likes": 45358,
       "comments": 2753
     },
     {
       "video_id": "l4HdsLE5sSI",
       "title": "Watch Billie perform “ocean eyes” in HIT ME HARD AND SOFT: THE TOUR, now streaming on Paramount+.",
       "published_at": "2026-08-11T19:59:17Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 361695,
-      "likes": 26631,
-      "comments": 768
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 362010,
+      "likes": 26640,
+      "comments": 769
     },
     {
       "video_id": "yRGVydeZ33Q",
       "title": "Billie performing “Your Power” from HIT ME HARD AND SOFT: THE TOUR, available to watch at home now",
       "published_at": "2026-07-31T21:40:30Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 340203,
-      "likes": 26908,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 340386,
+      "likes": 26915,
       "comments": 803
     },
     {
       "video_id": "gLua1cMI9Bg",
       "title": "Billie performing “Oxytocin” from HIT ME HARD AND SOFT: THE TOUR, available to watch at home now",
       "published_at": "2026-07-31T21:39:41Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 294830,
-      "likes": 22385,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 294980,
+      "likes": 22390,
       "comments": 404
     }
   ]

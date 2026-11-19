@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCX6b17PVsYBQ0ip5gyeme-Q",
-  "generated_at": "2026-11-18T20:05:58Z",
+  "generated_at": "2026-11-19T01:26:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "DC5l7pXDQVo",
       "title": "Why Does Congress Skew Older Than the Public?: Crash Course US Government #8",
       "published_at": "2026-11-17T17:00:04Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 63824,
-      "likes": 648,
-      "comments": 49
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 68843,
+      "likes": 693,
+      "comments": 55
     },
     {
       "video_id": "GJrG2AxmD3g",
       "title": "How Humans Changed the Earth: Crash Course Geology #24",
       "published_at": "2026-11-12T17:00:32Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 81829,
-      "likes": 1014,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 82346,
+      "likes": 1021,
       "comments": 23
     },
     {
       "video_id": "Fz8QARYt5Js",
       "title": "Religion, Politics, and Sex Ed, Oh My! Crash Course’s Approach to Taboo Topics",
       "published_at": "2026-11-11T19:59:21Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 77912,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 78128,
       "likes": 303,
       "comments": 23
     },
@@ -36,18 +36,18 @@
       "video_id": "EQr_eJOFy4Q",
       "title": "Crash Course World History Marathon • Full Series",
       "published_at": "2026-11-10T17:00:07Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 439367,
-      "likes": 4709,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 444099,
+      "likes": 4739,
       "comments": 163
     },
     {
       "video_id": "TMTLNFv5MQE",
       "title": "The Geology of Mars: Crash Course Geology #25",
       "published_at": "2026-11-10T16:52:05Z",
-      "observed_at": "2026-11-18T20:04:49Z",
+      "observed_at": "2026-11-19T01:24:38Z",
       "views": 0,
-      "likes": 5,
+      "likes": 8,
       "comments": 0
     }
   ]

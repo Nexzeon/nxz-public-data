@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
-  "generated_at": "2026-11-18T20:05:58Z",
+  "generated_at": "2026-11-19T01:26:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "WqTO4uk1siU",
       "title": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
       "published_at": "2026-03-29T18:00:06Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 16291405,
-      "likes": 337503,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 16298040,
+      "likes": 337538,
       "comments": 9472
     },
     {
       "video_id": "dPylP3U1fm0",
       "title": "CENTRAL CEE - MAKA (FEAT. A2ANTI) (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 565651,
-      "likes": 11245,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 565945,
+      "likes": 11247,
       "comments": 413
     },
     {
       "video_id": "ZgnoafBVjXA",
       "title": "CENTRAL CEE - FEELINGS (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 1366335,
-      "likes": 35543,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 1366801,
+      "likes": 35546,
       "comments": 1320
     },
     {
       "video_id": "ZgHVvkINXZE",
       "title": "CENTRAL CEE - DC10 (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 510562,
-      "likes": 10162,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 510804,
+      "likes": 10163,
       "comments": 553
     },
     {
       "video_id": "3GtkDgNAxUU",
       "title": "CENTRAL CEE - Y FI DAT (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 1205177,
-      "likes": 22639,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 1205749,
+      "likes": 22645,
       "comments": 1074
     }
   ]

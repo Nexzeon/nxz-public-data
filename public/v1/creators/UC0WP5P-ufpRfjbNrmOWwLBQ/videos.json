@@ -2,43 +2,43 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0WP5P-ufpRfjbNrmOWwLBQ",
-  "generated_at": "2026-11-18T20:05:58Z",
+  "generated_at": "2026-11-19T01:26:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "hX9S94XsySk",
       "title": "The Weeknd - Hong Kong (feat. 王菲季候風) (Official Music Video)",
       "published_at": "2026-11-12T16:00:33Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 14441013,
-      "likes": 306535,
-      "comments": 13603
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 14742759,
+      "likes": 308885,
+      "comments": 13655
     },
     {
       "video_id": "9B_Fbnx6Ewg",
       "title": "The Weeknd & JENNIE - One Of The Girls (Live in Seoul, South Korea)",
       "published_at": "2026-10-14T01:00:39Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 2842310,
-      "likes": 84780,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 2847773,
+      "likes": 84836,
       "comments": 3024
     },
     {
       "video_id": "s1BkQ6ZnCfQ",
       "title": "Directed by Takashi Miike",
       "published_at": "2026-05-03T19:09:21Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 7144907,
-      "likes": 77635,
-      "comments": 3708
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 7146518,
+      "likes": 77654,
+      "comments": 3710
     },
     {
       "video_id": "kt4sOtVLK08",
       "title": "A Foreshadowing Of The Final Leg",
       "published_at": "2026-05-03T18:55:35Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 5739585,
-      "likes": 22580,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 5739709,
+      "likes": 22581,
       "comments": 1209
     }
   ]

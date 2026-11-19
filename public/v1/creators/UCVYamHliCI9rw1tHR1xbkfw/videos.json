@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCVYamHliCI9rw1tHR1xbkfw",
-  "generated_at": "2026-11-18T20:05:58Z",
+  "generated_at": "2026-11-19T01:26:12Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "m8lhB9qFhYo",
       "title": "MacBook Pro OLED Review - Is Touch ACTUALLY Useful?",
       "published_at": "2026-11-05T14:03:51Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 893414,
-      "likes": 11159,
-      "comments": 1453
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 893837,
+      "likes": 11160,
+      "comments": 1452
     },
     {
       "video_id": "gHZ7JYPOd1M",
       "title": "The NEW MacBook Pro - First Impressions",
       "published_at": "2026-10-29T00:45:18Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 1557454,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 1557737,
       "likes": 16076,
-      "comments": 1978
+      "comments": 1977
     },
     {
       "video_id": "1vj_AHonNdA",
       "title": "iPhone Duo Review - \"Apple Knows Best\"",
       "published_at": "2026-10-21T13:40:13Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 1112874,
-      "likes": 16781,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 1113128,
+      "likes": 16784,
       "comments": 2146
     },
     {
       "video_id": "ZedAs9P7yE8",
       "title": "The Laptop for 71% of People",
       "published_at": "2026-10-05T15:17:20Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 1409347,
-      "likes": 18948,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 1409933,
+      "likes": 18951,
       "comments": 2215
     },
     {
       "video_id": "dDVsNmiSzwQ",
       "title": "2026 Mac Mini -  CRAZY FAST! (M5 Pro / M5 Ultra)",
       "published_at": "2026-09-21T13:00:50Z",
-      "observed_at": "2026-11-18T20:04:49Z",
-      "views": 1252326,
-      "likes": 14845,
+      "observed_at": "2026-11-19T01:24:38Z",
+      "views": 1252445,
+      "likes": 14846,
       "comments": 634
     }
   ]

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "feed": "nxz-music-upload-window",
-  "window_start": "2026-11-11T20:04:49.353027+00:00",
-  "window_end": "2026-11-18T20:04:49.353027+00:00",
+  "window_start": "2026-11-12T01:24:38.984233+00:00",
+  "window_end": "2026-11-19T01:24:38.984233+00:00",
   "creators": [
     {
       "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
@@ -21,15 +21,15 @@
     {
       "channel_id": "UC0ifXd2AVf1LMYbqwB5GH4g",
       "uploads": 1,
-      "views": 473087.0,
-      "likes": 22274.0,
+      "views": 496055.0,
+      "likes": 22725.0,
       "pending": 0
     },
     {
       "channel_id": "UCEB4a5o_6KfjxHwNMnmj54Q",
       "uploads": 3,
-      "views": 111579.66666666667,
-      "likes": 4869.333333333333,
+      "views": 117788.33333333333,
+      "likes": 4950.0,
       "pending": 0
     },
     {
@@ -86,7 +86,7 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 2
+      "pending": 3
     },
     {
       "channel_id": "UCAkIMkEaa9sZmjcy7mfd5lQ",
@@ -251,16 +251,16 @@
     },
     {
       "channel_id": "UCeLHszkByNZtPKcaVXOCOQQ",
-      "uploads": null,
+      "uploads": 0,
       "views": null,
       "likes": null,
-      "pending": 1
+      "pending": 0
     },
     {
       "channel_id": "UC0WP5P-ufpRfjbNrmOWwLBQ",
       "uploads": 1,
-      "views": 14441013.0,
-      "likes": 306537.0,
+      "views": 14742759.0,
+      "likes": 308887.0,
       "pending": 0
     },
     {
