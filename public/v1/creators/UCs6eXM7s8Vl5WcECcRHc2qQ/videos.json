@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-  "generated_at": "2026-11-19T07:33:23Z",
+  "generated_at": "2026-11-19T13:33:13Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "kSx7OL5-w2E",
       "title": "YE & Don Toliver - OK",
       "published_at": "2026-08-18T19:00:06Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 6533350,
-      "likes": 149387,
-      "comments": 6227
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 6536795,
+      "likes": 149420,
+      "comments": 6228
     },
     {
       "video_id": "PRWqgogm8TE",
       "title": "GEMINI SEASON",
       "published_at": "2026-06-08T21:27:49Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1803519,
-      "likes": 55496,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1803775,
+      "likes": 55495,
       "comments": 8286
     },
     {
       "video_id": "wl0ACp_mPGs",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #Shorts",
       "published_at": "2026-03-29T15:35:33Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 455539,
-      "likes": 20383,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 455574,
+      "likes": 20384,
       "comments": 646
     },
     {
       "video_id": "2XCc9aRLDtA",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:19:02Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 215416,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 215450,
       "likes": 10084,
       "comments": 359
     },
@@ -45,8 +45,8 @@
       "video_id": "1nEnXbLSJMg",
       "title": "FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:12:35Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 504172,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 504229,
       "likes": 20135,
       "comments": 647
     }

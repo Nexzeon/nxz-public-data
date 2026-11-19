@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-  "generated_at": "2026-11-19T07:33:23Z",
+  "generated_at": "2026-11-19T13:33:13Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "PI_qgAU8ZQQ",
       "title": "Why am I so bad at this!?",
       "published_at": "2026-11-17T17:13:34Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1150243,
-      "likes": 29813,
-      "comments": 1498
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1194998,
+      "likes": 30454,
+      "comments": 1523
     },
     {
       "video_id": "g9DKSvOuO4Y",
       "title": "Jacksepticeye doing his lines for Hitman",
       "published_at": "2026-11-12T17:12:55Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 642287,
-      "likes": 48903,
-      "comments": 424
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 646061,
+      "likes": 49051,
+      "comments": 427
     },
     {
       "video_id": "MUH3crmuZqM",
       "title": "LOST",
       "published_at": "2026-10-31T15:30:35Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1266930,
-      "likes": 40572,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1267610,
+      "likes": 40592,
       "comments": 2757
     },
     {
       "video_id": "J5r10OtCkTs",
       "title": "HITMAN put me in their game",
       "published_at": "2026-10-29T14:24:03Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 4233178,
-      "likes": 105077,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 4237618,
+      "likes": 105137,
       "comments": 4162
     },
     {
       "video_id": "vH3dJxrwYTY",
       "title": "Playing P.T. on PC 12 years later",
       "published_at": "2026-10-27T17:10:29Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1987442,
-      "likes": 49035,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1988855,
+      "likes": 49057,
       "comments": 2805
     }
   ]

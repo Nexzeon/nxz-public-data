@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIZGfcnjHI0DG4nweWEduw",
-  "generated_at": "2026-11-19T07:33:23Z",
+  "generated_at": "2026-11-19T13:33:13Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "VzCDBEQ9gOk",
       "title": "My Dream Home became a Nightmare - Part 1",
       "published_at": "2026-11-14T16:21:36Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 476332,
-      "likes": 8315,
-      "comments": 1228
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 480873,
+      "likes": 8355,
+      "comments": 1231
     },
     {
       "video_id": "_3d09oNHZQc",
       "title": "Our Dream Home Became a Nightmare",
       "published_at": "2026-11-14T16:21:03Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 29340,
-      "likes": 631,
-      "comments": 48
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 29535,
+      "likes": 635,
+      "comments": 49
     },
     {
       "video_id": "9YhU6-z8ZdA",
       "title": "I Bought an entire Gaming Setup from TEMU",
       "published_at": "2026-11-13T18:25:58Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 402088,
-      "likes": 4931,
-      "comments": 285
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 409408,
+      "likes": 4975,
+      "comments": 286
     },
     {
       "video_id": "MAVQo3phpBY",
       "title": "Setup Wars - Episode 382",
       "published_at": "2026-11-12T17:32:02Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 272306,
-      "likes": 5339,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 274132,
+      "likes": 5349,
       "comments": 117
     },
     {
       "video_id": "1nUQvlM9YYk",
       "title": "The Biggest PC Flip Yet! - FOF36",
       "published_at": "2026-11-06T15:40:41Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 222561,
-      "likes": 5139,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 222900,
+      "likes": 5142,
       "comments": 449
     }
   ]

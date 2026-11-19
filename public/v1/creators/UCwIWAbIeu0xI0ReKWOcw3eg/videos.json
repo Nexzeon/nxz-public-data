@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCwIWAbIeu0xI0ReKWOcw3eg",
-  "generated_at": "2026-11-19T07:33:23Z",
+  "generated_at": "2026-11-19T13:33:13Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "z0kKJpXw3OY",
       "title": "World's Longest Backyard Waterslide!",
       "published_at": "2026-11-14T16:00:33Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 2276130,
-      "likes": 16770,
-      "comments": 1289
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 2310279,
+      "likes": 16913,
+      "comments": 1244
     },
     {
       "video_id": "1hGNfPY94LQ",
       "title": "I Turned My House Into A FISH TANK!",
       "published_at": "2026-10-31T15:00:34Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 5410931,
-      "likes": 31229,
-      "comments": 5088
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 5421318,
+      "likes": 31257,
+      "comments": 5089
     },
     {
       "video_id": "PZn-4aeoMrE",
       "title": "I Filled My Lego House With Chocolate!",
       "published_at": "2026-10-17T15:00:35Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 2652939,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 2654535,
       "likes": 21720,
-      "comments": 5333
+      "comments": 5335
     },
     {
       "video_id": "LWvdma1nSBA",
       "title": "50 Extreme Ways To Use A Trampoline!",
       "published_at": "2026-10-10T15:00:29Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1212122,
-      "likes": 10037,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1212956,
+      "likes": 10039,
       "comments": 1061
     },
     {
       "video_id": "oxMfOOmuBrE",
       "title": "We Are SO BACK!",
       "published_at": "2026-10-02T17:30:15Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 329471,
-      "likes": 6198,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 329851,
+      "likes": 6205,
       "comments": 392
     }
   ]

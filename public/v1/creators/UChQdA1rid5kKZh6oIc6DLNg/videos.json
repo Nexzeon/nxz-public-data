@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChQdA1rid5kKZh6oIc6DLNg",
-  "generated_at": "2026-11-19T07:33:23Z",
+  "generated_at": "2026-11-19T13:33:13Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "qW4Tc1vVLIc",
       "title": "Roddy Ricch - Underdog (From F1® The Movie) [Official Visualizer]",
       "published_at": "2025-06-13T04:13:43Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 2887576,
-      "likes": 39036,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 2888028,
+      "likes": 39039,
       "comments": 1108
     },
     {
       "video_id": "ydlIey4j8wI",
       "title": "PEMFBA 5th Year Anniversary Live Performance VLOG",
       "published_at": "2024-12-09T02:58:35Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 102191,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 102200,
       "likes": 4572,
       "comments": 292
     },
@@ -27,17 +27,17 @@
       "video_id": "9tchcfbzngQ",
       "title": "Roddy Ricch - Lonely Road (feat. Terrace Martin) [Official Music Video]",
       "published_at": "2024-12-06T05:00:21Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 4605795,
-      "likes": 105523,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 4606291,
+      "likes": 105532,
       "comments": 4395
     },
     {
       "video_id": "o_mUecG6nTw",
       "title": "🙏 RIP @NipseyHussle 🕊️🕊️paying tribute at the pop out #kendricklamar #rap #roddyricch",
       "published_at": "2024-08-05T15:26:51Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 144887,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 144897,
       "likes": 5663,
       "comments": 109
     },
@@ -45,9 +45,9 @@
       "video_id": "oDDh9X48HXc",
       "title": "🏀☄️ Ballin’ at ​⁠@kendricklamar the pop out show #roddyricch #rap #911",
       "published_at": "2024-08-01T14:00:50Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 140908,
-      "likes": 5356,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 140932,
+      "likes": 5358,
       "comments": 120
     }
   ]

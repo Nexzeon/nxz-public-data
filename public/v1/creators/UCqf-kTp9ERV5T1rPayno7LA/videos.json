@@ -2,43 +2,43 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCqf-kTp9ERV5T1rPayno7LA",
-  "generated_at": "2026-11-19T07:33:23Z",
+  "generated_at": "2026-11-19T13:33:13Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "PtvlmOsNV4E",
       "title": "Frank Ocean - In My Room (Lyric Video)",
       "published_at": "2019-11-02T22:13:57Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 14199737,
-      "likes": 253432,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 14200231,
+      "likes": 253435,
       "comments": 5466
     },
     {
       "video_id": "mXiFHDfvn4A",
       "title": "Frank Ocean - Moon River",
       "published_at": "2018-02-15T08:06:35Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 30902938,
-      "likes": 342420,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 30905164,
+      "likes": 342430,
       "comments": 9436
     },
     {
       "video_id": "8BPjinPY4SE",
       "title": "Frank Ocean - Provider (Lyric Video)",
       "published_at": "2017-11-24T06:07:42Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1126610,
-      "likes": 22696,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1126664,
+      "likes": 22695,
       "comments": 673
     },
     {
       "video_id": "XKQNJzquduI",
       "title": "Frank Ocean - Provider",
       "published_at": "2017-08-28T21:16:28Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 18978686,
-      "likes": 163465,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 18978957,
+      "likes": 163468,
       "comments": 3786
     }
   ]

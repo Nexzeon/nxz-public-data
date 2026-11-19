@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-  "generated_at": "2026-11-19T07:33:23Z",
+  "generated_at": "2026-11-19T13:33:13Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "zRYDe4JAmeA",
       "title": "Which Disc Will Spin for Longer?",
       "published_at": "2026-11-18T18:31:30Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 31454,
-      "likes": 1101,
-      "comments": 119
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 37225,
+      "likes": 1278,
+      "comments": 128
     },
     {
       "video_id": "Z-2pTzSZtLU",
       "title": "This Material Sorts Itself",
       "published_at": "2026-10-31T12:50:48Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1686228,
-      "likes": 23409,
-      "comments": 1239
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1687453,
+      "likes": 23420,
+      "comments": 1238
     },
     {
       "video_id": "6gsZY_-kT3U",
       "title": "This Device Turns Anything into a Suction Cup",
       "published_at": "2026-09-30T23:26:33Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1712519,
-      "likes": 25108,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1712657,
+      "likes": 25109,
       "comments": 1252
     },
     {
       "video_id": "nwot04PfgaU",
       "title": "Hooded Seals are Really Weird...",
       "published_at": "2026-09-10T11:03:55Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 1792391,
-      "likes": 79061,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 1794589,
+      "likes": 79210,
       "comments": 529
     },
     {
       "video_id": "k3Q9UWWiPsQ",
       "title": "The \"Perpetual Motion\" Pump That Actually Works",
       "published_at": "2026-08-31T22:09:08Z",
-      "observed_at": "2026-11-19T07:32:19Z",
-      "views": 4349636,
-      "likes": 44053,
+      "observed_at": "2026-11-19T13:31:46Z",
+      "views": 4350041,
+      "likes": 44054,
       "comments": 2401
     }
   ]
