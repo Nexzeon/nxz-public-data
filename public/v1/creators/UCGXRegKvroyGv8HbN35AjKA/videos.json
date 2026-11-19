@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "AVJhGEWQgVs",
       "title": "Mike Israetel BBL Surgery",
       "published_at": "2026-11-18T14:37:44Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 75069,
-      "likes": 3756,
-      "comments": 156
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 80063,
+      "likes": 3926,
+      "comments": 162
     },
     {
       "video_id": "ZdDuyWAVijo",
       "title": "Worst bodybuilding genetics ever",
       "published_at": "2026-11-16T15:36:23Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 103678,
-      "likes": 5982,
-      "comments": 237
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 106134,
+      "likes": 6113,
+      "comments": 242
     },
     {
       "video_id": "rK3UxHRQ6QI",
       "title": "If you're getting stronger but not bigger...",
       "published_at": "2026-11-12T15:00:20Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 566412,
-      "likes": 23212,
-      "comments": 465
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 573911,
+      "likes": 23431,
+      "comments": 469
     },
     {
       "video_id": "QqjDKllPKj8",
       "title": "\"I got chest day today!\"",
       "published_at": "2026-11-07T15:00:28Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 364968,
-      "likes": 11231,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 367562,
+      "likes": 11280,
       "comments": 313
     },
     {
       "video_id": "Rh0zXJOfvnc",
       "title": "Pre-workout is better than creatine?",
       "published_at": "2026-11-06T15:00:25Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 131273,
-      "likes": 5411,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 131505,
+      "likes": 5423,
       "comments": 320
     }
   ]

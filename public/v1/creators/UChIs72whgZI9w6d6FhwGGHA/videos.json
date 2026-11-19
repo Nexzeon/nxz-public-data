@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIs72whgZI9w6d6FhwGGHA",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "SxFJ5QGNxwo",
       "title": "IF ONLY SOMEBODY TOLD US ABOUT THE NVIDIA GPU SMUGGLING",
       "published_at": "2026-11-16T13:41:57Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1523905,
-      "likes": 44703,
-      "comments": 6169
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1534658,
+      "likes": 44958,
+      "comments": 6191
     },
     {
       "video_id": "jHT4iHJxzOI",
       "title": "Tim Sweeney is a Lunatic | WTF Happened to Epic Games?",
       "published_at": "2026-11-14T20:38:48Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1069375,
-      "likes": 37004,
-      "comments": 6184
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1078823,
+      "likes": 37180,
+      "comments": 6208
     },
     {
       "video_id": "YYU_geUwQoA",
       "title": "The Downfall of Jensen Huang: NVIDIA’s Greed & Corruption",
       "published_at": "2026-11-13T13:39:16Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1966013,
-      "likes": 75520,
-      "comments": 11522
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1968123,
+      "likes": 75572,
+      "comments": 11520
     },
     {
       "video_id": "rhQc2SPV3tQ",
       "title": "It's Time to Get Into 3D Printing | GN \"Factory\" Build Vlog, Pt. 1",
       "published_at": "2026-11-08T19:11:03Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 464967,
-      "likes": 11946,
-      "comments": 1560
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 466013,
+      "likes": 11970,
+      "comments": 1563
     },
     {
       "video_id": "Un78sPq5nbg",
       "title": "The NVIDIA RTX 5090 Problem & Future Generation Price Creep",
       "published_at": "2026-11-07T03:32:43Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 797234,
-      "likes": 17003,
-      "comments": 3739
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 798511,
+      "likes": 17018,
+      "comments": 3742
     }
   ]
 }

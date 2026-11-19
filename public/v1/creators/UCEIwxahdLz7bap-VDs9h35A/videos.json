@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "zRYDe4JAmeA",
       "title": "Which Disc Will Spin for Longer?",
       "published_at": "2026-11-18T18:31:30Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 37225,
-      "likes": 1278,
-      "comments": 128
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 41982,
+      "likes": 1398,
+      "comments": 142
     },
     {
       "video_id": "Z-2pTzSZtLU",
       "title": "This Material Sorts Itself",
       "published_at": "2026-10-31T12:50:48Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1687453,
-      "likes": 23420,
-      "comments": 1238
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1688678,
+      "likes": 23433,
+      "comments": 1239
     },
     {
       "video_id": "6gsZY_-kT3U",
       "title": "This Device Turns Anything into a Suction Cup",
       "published_at": "2026-09-30T23:26:33Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1712657,
-      "likes": 25109,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1712969,
+      "likes": 25116,
       "comments": 1252
     },
     {
       "video_id": "nwot04PfgaU",
       "title": "Hooded Seals are Really Weird...",
       "published_at": "2026-09-10T11:03:55Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1794589,
-      "likes": 79210,
-      "comments": 529
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1797595,
+      "likes": 79330,
+      "comments": 531
     },
     {
       "video_id": "k3Q9UWWiPsQ",
       "title": "The \"Perpetual Motion\" Pump That Actually Works",
       "published_at": "2026-08-31T22:09:08Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 4350041,
-      "likes": 44054,
-      "comments": 2401
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 4350541,
+      "likes": 44057,
+      "comments": 2402
     }
   ]
 }

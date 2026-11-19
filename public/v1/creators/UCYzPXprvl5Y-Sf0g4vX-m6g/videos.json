@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "PI_qgAU8ZQQ",
       "title": "Why am I so bad at this!?",
       "published_at": "2026-11-17T17:13:34Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1194998,
-      "likes": 30454,
-      "comments": 1523
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1241311,
+      "likes": 31203,
+      "comments": 1551
     },
     {
       "video_id": "g9DKSvOuO4Y",
       "title": "Jacksepticeye doing his lines for Hitman",
       "published_at": "2026-11-12T17:12:55Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 646061,
-      "likes": 49051,
-      "comments": 427
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 651128,
+      "likes": 49268,
+      "comments": 428
     },
     {
       "video_id": "MUH3crmuZqM",
       "title": "LOST",
       "published_at": "2026-10-31T15:30:35Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1267610,
-      "likes": 40592,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1268376,
+      "likes": 40609,
       "comments": 2757
     },
     {
       "video_id": "J5r10OtCkTs",
       "title": "HITMAN put me in their game",
       "published_at": "2026-10-29T14:24:03Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 4237618,
-      "likes": 105137,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 4242693,
+      "likes": 105228,
       "comments": 4162
     },
     {
       "video_id": "vH3dJxrwYTY",
       "title": "Playing P.T. on PC 12 years later",
       "published_at": "2026-10-27T17:10:29Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1988855,
-      "likes": 49057,
-      "comments": 2805
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1990402,
+      "likes": 49096,
+      "comments": 2806
     }
   ]
 }

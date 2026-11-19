@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "KTDJiVpSDTI",
       "title": "Can You Trust MKBHD?",
       "published_at": "2026-11-17T18:39:57Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 3103280,
-      "likes": 78885,
-      "comments": 6049
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 3234974,
+      "likes": 81416,
+      "comments": 6169
     },
     {
       "video_id": "hdMszZ2ah5Q",
       "title": "Macbook PROLED Review: It's Not About That",
       "published_at": "2026-11-11T18:43:56Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 6450608,
-      "likes": 77420,
-      "comments": 4133
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 6472123,
+      "likes": 77522,
+      "comments": 4137
     },
     {
       "video_id": "_x58r9TBois",
       "title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
       "published_at": "2026-11-06T21:29:30Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 7814286,
-      "likes": 69091,
-      "comments": 3995
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 7825912,
+      "likes": 69133,
+      "comments": 3997
     },
     {
       "video_id": "g6Die8gVFn0",
       "title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
       "published_at": "2026-11-03T14:01:31Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 12336424,
-      "likes": 125741,
-      "comments": 9938
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 12346285,
+      "likes": 125783,
+      "comments": 9939
     },
     {
       "video_id": "2reQut8WNGc",
       "title": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
       "published_at": "2026-10-29T02:50:34Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 12549886,
-      "likes": 144566,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 12551586,
+      "likes": 144572,
       "comments": 11799
     },
     {
       "video_id": "ai1gIWacf0I",
       "title": "This can SEE Sound!",
       "published_at": "2026-10-27T20:14:55Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 2770459,
-      "likes": 77648,
-      "comments": 1576
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 2771241,
+      "likes": 77665,
+      "comments": 1578
     }
   ]
 }

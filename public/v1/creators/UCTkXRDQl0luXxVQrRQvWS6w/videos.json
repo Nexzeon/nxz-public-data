@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "FJfyJw-kCRA",
       "title": "Minecraft 2 Truths 1 Lie",
       "published_at": "2026-10-29T20:25:49Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 2509515,
-      "likes": 101413,
-      "comments": 1239
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 2515153,
+      "likes": 101479,
+      "comments": 1241
     },
     {
       "video_id": "iSwIiTNVvWo",
       "title": "Stripped Logs",
       "published_at": "2026-10-25T13:34:01Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 2135526,
-      "likes": 119782,
-      "comments": 4718
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 2137333,
+      "likes": 119820,
+      "comments": 4723
     },
     {
       "video_id": "g22Z__ShvVY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE",
       "published_at": "2026-10-20T19:30:08Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 14857856,
-      "likes": 484724,
-      "comments": 14649
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 14878596,
+      "likes": 485061,
+      "comments": 14661
     },
     {
       "video_id": "fYFm5P74Yng",
       "title": "BECOMING A SPEAR MACE MASTER (short stream)",
       "published_at": "2026-09-19T20:01:48Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1000290,
-      "likes": 16320,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1000438,
+      "likes": 16319,
       "comments": 539
     },
     {
       "video_id": "IqcS1d3eXYc",
       "title": "Minecraft Speedrunner Swap VS 3 Hunters",
       "published_at": "2026-08-09T16:30:06Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 7088003,
-      "likes": 176779,
-      "comments": 8017
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 7089809,
+      "likes": 176804,
+      "comments": 8019
     }
   ]
 }

@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "aJv3QJrFp_Q",
       "title": "How Big Is a Shooting Star?",
       "published_at": "2026-11-13T14:00:01Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1186492,
-      "likes": 26633,
-      "comments": 197
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1245373,
+      "likes": 27254,
+      "comments": 192
     },
     {
       "video_id": "BhNkTnqwlys",
       "title": "Beat Me, Win $100",
       "published_at": "2026-10-30T16:06:28Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 979240,
-      "likes": 18037,
-      "comments": 161
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 988215,
+      "likes": 18118,
+      "comments": 159
     },
     {
       "video_id": "Q4nEdB1cfUk",
       "title": "The Insane Science Hidden in These Toys",
       "published_at": "2026-10-28T13:00:39Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 10716795,
-      "likes": 69340,
-      "comments": 299
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 10801967,
+      "likes": 69543,
+      "comments": 292
     },
     {
       "video_id": "26P1KyvrmjI",
       "title": "I Solved Every Board Game",
       "published_at": "2026-10-24T13:00:22Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 25330444,
-      "likes": 252520,
-      "comments": 4364
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 25394022,
+      "likes": 252910,
+      "comments": 4360
     },
     {
       "video_id": "eXv6fWonvUM",
       "title": "Can You Scientifically Measure Fun?",
       "published_at": "2026-10-21T13:00:01Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 2331468,
-      "likes": 26136,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 2333144,
+      "likes": 26164,
       "comments": 290
     }
   ]

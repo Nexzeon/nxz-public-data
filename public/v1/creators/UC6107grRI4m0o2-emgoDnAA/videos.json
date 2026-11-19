@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC6107grRI4m0o2-emgoDnAA",
-  "generated_at": "2026-11-19T13:33:13Z",
+  "generated_at": "2026-11-19T19:15:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "pXypQ6d_iDg",
       "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317",
       "published_at": "2026-09-26T14:34:03Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 2081425,
-      "likes": 32600,
-      "comments": 2464
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 2081839,
+      "likes": 32603,
+      "comments": 2465
     },
     {
       "video_id": "vS6HEes8daw",
       "title": "The PROBLEM with Capitalism - Smarter Every Day 316",
       "published_at": "2026-07-26T14:00:36Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 2939613,
-      "likes": 109055,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 2939730,
+      "likes": 109054,
       "comments": 21178
     },
     {
       "video_id": "5lCWqEFVzbY",
       "title": "They Call it \"The Taco Turn\" and it's Genius - Smarter Every Day 315",
       "published_at": "2026-05-31T14:20:12Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1285343,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1285517,
       "likes": 38487,
       "comments": 2783
     },
@@ -36,8 +36,8 @@
       "video_id": "WtQ64nSbdY4",
       "title": "What Everyone Sees... But I Don't (The Johari Window) - Smarter Every Day 314",
       "published_at": "2026-04-11T14:16:34Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 1098933,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 1098974,
       "likes": 55003,
       "comments": 5586
     },
@@ -45,9 +45,9 @@
       "video_id": "-0JKHuzJ67A",
       "title": "Everything About Disc Golf Aerodynamics - Smarter Every Day 313",
       "published_at": "2026-03-06T20:30:16Z",
-      "observed_at": "2026-11-19T13:31:46Z",
-      "views": 950935,
-      "likes": 27030,
+      "observed_at": "2026-11-19T19:13:54Z",
+      "views": 951019,
+      "likes": 27029,
       "comments": 2377
     }
   ]
