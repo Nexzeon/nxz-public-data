@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
-  "generated_at": "2026-11-20T01:20:00Z",
+  "generated_at": "2026-11-20T07:32:03Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "FDNbcfMaF6o",
       "title": "My favorite Smartphone of 2026 (wait to see the insides)",
       "published_at": "2026-11-11T19:11:25Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 9109840,
-      "likes": 510169,
-      "comments": 5924
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 9188934,
+      "likes": 516222,
+      "comments": 5982
     },
     {
       "video_id": "k8W0Eb7sKss",
       "title": "ONE PHONE TO RULE THEM ALL",
       "published_at": "2026-11-07T19:12:05Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 12729591,
-      "likes": 260641,
-      "comments": 176021
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 12748635,
+      "likes": 260861,
+      "comments": 176124
     },
     {
       "video_id": "-Z0hsfUP-I4",
       "title": "LOOK MOM NO HANDS",
       "published_at": "2026-10-31T18:00:35Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 514196,
-      "likes": 20377,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 514505,
+      "likes": 20392,
       "comments": 385
     },
     {
       "video_id": "8xUEEu5vom8",
       "title": "Hey Look Mom, Ive made it!",
       "published_at": "2026-10-29T19:08:02Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 563794,
-      "likes": 24385,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 564060,
+      "likes": 24392,
       "comments": 322
     },
     {
       "video_id": "5O-vCJW1b8g",
       "title": "Trump Phone Durability Test - Its worse than we thought...",
       "published_at": "2026-10-28T20:06:22Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 15382961,
-      "likes": 531251,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 15397069,
+      "likes": 531476,
       "comments": 43454
     }
   ]

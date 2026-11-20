@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0ifXd2AVf1LMYbqwB5GH4g",
-  "generated_at": "2026-11-20T01:20:00Z",
+  "generated_at": "2026-11-20T07:32:03Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "3hVKr-fEIC8",
       "title": "Polo G - Dope Spot (Official Video)",
       "published_at": "2026-11-13T17:00:20Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 565501,
-      "likes": 24121,
-      "comments": 1163
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 583707,
+      "likes": 24435,
+      "comments": 1177
     },
     {
       "video_id": "GRrC5SEgs20",
       "title": "Polo G - Still Standing (Official Video)",
       "published_at": "2026-09-20T19:00:06Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 2145398,
-      "likes": 43371,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 2147573,
+      "likes": 43393,
       "comments": 2294
     },
     {
       "video_id": "ia_mT3q_pQc",
       "title": "Polo G - OMG (Official Video)",
       "published_at": "2026-08-21T04:00:06Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 3550083,
-      "likes": 30213,
-      "comments": 2070
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 3550910,
+      "likes": 30223,
+      "comments": 2069
     },
     {
       "video_id": "-otiUvOXEhM",
       "title": "Polo G - OMG (Official Trailer)",
       "published_at": "2026-08-17T20:13:24Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 118283,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 118298,
       "likes": 4410,
       "comments": 423
     },
@@ -45,9 +45,9 @@
       "video_id": "-4Jd2wiGJKA",
       "title": "Polo G - Weight On My Shoulders (Official Video)",
       "published_at": "2026-06-12T04:00:06Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 5700582,
-      "likes": 64728,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 5701514,
+      "likes": 64734,
       "comments": 2347
     }
   ]

@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
-  "generated_at": "2026-11-20T01:20:00Z",
+  "generated_at": "2026-11-20T07:32:03Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "5rQi9QcarrE",
       "title": "We Opened a Drive-Thru",
       "published_at": "2026-11-14T22:29:27Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 4888864,
-      "likes": 86038,
-      "comments": 4387
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 4938182,
+      "likes": 86448,
+      "comments": 4395
     },
     {
       "video_id": "CJ1sEhQL8LY",
       "title": "CHEAP VS EXPENSIVE ROAD TRIP (USA EDITION)",
       "published_at": "2026-11-07T18:00:12Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 6942868,
-      "likes": 107704,
-      "comments": 5807
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 6965072,
+      "likes": 107820,
+      "comments": 5808
     },
     {
       "video_id": "e3Gp5JpYF6M",
       "title": "6 Jamaicans vs 1 Secret British Person",
       "published_at": "2026-10-31T18:00:18Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 7653955,
-      "likes": 128769,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 7669622,
+      "likes": 128868,
       "comments": 6108
     },
     {
       "video_id": "3ki11Oq_cio",
       "title": "BETA SQUAD MAFIA PLAY-ALONG EDITION",
       "published_at": "2026-10-24T17:00:07Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 7091907,
-      "likes": 153897,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 7098608,
+      "likes": 153947,
       "comments": 14545
     },
     {
       "video_id": "o2m8XY54ZK0",
       "title": "How Long Can We Secretly Live In A Grocery Store?: USA Edition",
       "published_at": "2026-10-17T17:00:30Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 10911770,
-      "likes": 146631,
-      "comments": 4635
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 10920289,
+      "likes": 146682,
+      "comments": 4636
     }
   ]
 }

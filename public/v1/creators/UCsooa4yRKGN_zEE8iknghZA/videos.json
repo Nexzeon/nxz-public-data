@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
-  "generated_at": "2026-11-20T01:20:00Z",
+  "generated_at": "2026-11-20T07:32:03Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "fqL9dt6QHWg",
       "title": "5 times scientists experimented on themselves - Shannon Odell",
       "published_at": "2026-11-19T15:59:54Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 99055,
-      "likes": 1516,
-      "comments": 58
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 134852,
+      "likes": 1898,
+      "comments": 61
     },
     {
       "video_id": "dkocGur84i8",
       "title": "The three words that power every device you own - Lane Gunderman",
       "published_at": "2026-11-17T16:00:59Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 208605,
-      "likes": 2713,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 213679,
+      "likes": 2782,
       "comments": 137
     },
     {
       "video_id": "aDblEBU41nA",
       "title": "Why is pepper such a popular spice? - Carolyn Beans",
       "published_at": "2026-11-12T16:01:11Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 431767,
-      "likes": 5317,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 441375,
+      "likes": 5361,
       "comments": 190
     },
     {
       "video_id": "nBVuemyrMgE",
       "title": "Is salt the most important ingredient in history? - Carolyn Beans",
       "published_at": "2026-11-10T16:01:00Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 512402,
-      "likes": 6270,
-      "comments": 207
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 517605,
+      "likes": 6308,
+      "comments": 208
     },
     {
       "video_id": "bw5tzcoEG88",
       "title": "How to effectively use visuals in your presentation",
       "published_at": "2026-11-05T16:00:41Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 187192,
-      "likes": 2696,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 187479,
+      "likes": 2703,
       "comments": 53
     },
     {
       "video_id": "8EtdC9Bjubk",
       "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer",
       "published_at": "2026-11-03T16:00:34Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 979197,
-      "likes": 10860,
-      "comments": 1032
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 981666,
+      "likes": 10874,
+      "comments": 1034
     }
   ]
 }

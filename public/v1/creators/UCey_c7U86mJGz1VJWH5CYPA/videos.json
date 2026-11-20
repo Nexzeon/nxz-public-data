@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
-  "generated_at": "2026-11-20T01:20:00Z",
+  "generated_at": "2026-11-20T07:32:03Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "GGScVjQr1xM",
       "title": "I got my first 3D Printer! The Bambu Lab P2S — here’s what happened!",
       "published_at": "2026-11-18T17:40:07Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 108785,
-      "likes": 1744,
-      "comments": 128
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 122362,
+      "likes": 1926,
+      "comments": 133
     },
     {
       "video_id": "Vt0WSajZHkw",
       "title": "Meet My New AI Sidekick, Piggy! 🐷",
       "published_at": "2026-11-18T17:00:20Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 4045,
-      "likes": 207,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 4283,
+      "likes": 217,
       "comments": 7
     },
     {
       "video_id": "ZSDFv2JD5-c",
       "title": "GTA VI Xbox care package!",
       "published_at": "2026-11-18T16:48:13Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 8367,
-      "likes": 330,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 8704,
+      "likes": 335,
       "comments": 12
     },
     {
       "video_id": "Uy2eM6Lil-Y",
       "title": "Does Buying a Car Online Mean It Has to Be Delivered?",
       "published_at": "2026-11-13T00:51:00Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 13990,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 14600,
       "likes": 442,
       "comments": 9
     },
@@ -45,44 +45,44 @@
       "video_id": "Re-ByJxPQaA",
       "title": "New Apple HomeView!",
       "published_at": "2026-11-12T15:24:34Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 61825,
-      "likes": 2324,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 62071,
+      "likes": 2327,
       "comments": 71
     },
     {
       "video_id": "M9sHX0HpYIo",
       "title": "HomeView is here!",
       "published_at": "2026-11-12T14:00:03Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 536735,
-      "likes": 5875,
-      "comments": 467
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 538962,
+      "likes": 5892,
+      "comments": 469
     },
     {
       "video_id": "GzzHaM8IAhI",
       "title": "I Tried Meta’s New AI Agent… Meet Piggy 🐷",
       "published_at": "2026-11-06T17:02:57Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 41264,
-      "likes": 818,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 41404,
+      "likes": 819,
       "comments": 88
     },
     {
       "video_id": "LQT8wzemsLU",
       "title": "New (OLD?) Sony Walkman Headphones! MDR-3R!",
       "published_at": "2026-11-05T19:18:29Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 66636,
-      "likes": 2198,
-      "comments": 78
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 66890,
+      "likes": 2205,
+      "comments": 79
     },
     {
       "video_id": "IxhDzSdSxZo",
       "title": "New LIGHT UP Apple Logo! 😍",
       "published_at": "2026-11-05T18:40:09Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 37902,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 37911,
       "likes": 1551,
       "comments": 33
     },
@@ -90,18 +90,18 @@
       "video_id": "NAcPAr13btM",
       "title": "PROLED MacBook Pro Unboxing",
       "published_at": "2026-11-05T14:01:27Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 113807,
-      "likes": 4213,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 113958,
+      "likes": 4216,
       "comments": 79
     },
     {
       "video_id": "QTaRLfPa3oc",
       "title": "Touching my Mac! The new PROLED MacBook Pro is here!",
       "published_at": "2026-11-05T14:00:35Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 351103,
-      "likes": 4947,
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 351486,
+      "likes": 4954,
       "comments": 376
     }
   ]

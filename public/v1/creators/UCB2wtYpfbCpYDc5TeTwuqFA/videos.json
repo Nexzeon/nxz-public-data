@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCB2wtYpfbCpYDc5TeTwuqFA",
-  "generated_at": "2026-11-20T01:20:00Z",
+  "generated_at": "2026-11-20T07:32:03Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "J_GjIBG7Vzw",
       "title": "World’s Unhealthiest Man’s Favourite Meal!",
       "published_at": "2026-11-19T17:01:56Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 123584,
-      "likes": 4507,
-      "comments": 352
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 276654,
+      "likes": 7328,
+      "comments": 557
     },
     {
       "video_id": "ptdmtDBmB0M",
       "title": "Word’s Unhealthiest Man’s McDonald’s Order…",
       "published_at": "2026-11-17T11:53:10Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 3247312,
-      "likes": 83300,
-      "comments": 8872
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 3391677,
+      "likes": 85568,
+      "comments": 9070
     },
     {
       "video_id": "gGD8v2smkLE",
       "title": "Living With World's Unhealthiest Man For 24 Hours",
       "published_at": "2026-11-15T15:00:08Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 14364687,
-      "likes": 238265,
-      "comments": 20640
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 14984202,
+      "likes": 243925,
+      "comments": 21128
     },
     {
       "video_id": "jspZ-EkDdqI",
       "title": "Inside The World's First $40,000,000 Fitness Resort",
       "published_at": "2026-11-01T15:00:15Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 3314405,
-      "likes": 51686,
-      "comments": 3005
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 3320169,
+      "likes": 51756,
+      "comments": 3007
     },
     {
       "video_id": "W4T9LMW0jso",
       "title": "How Teens Get Into Bodybuilding…",
       "published_at": "2026-10-24T02:26:12Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 139735,
-      "likes": 3269,
-      "comments": 123
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 141570,
+      "likes": 3293,
+      "comments": 125
     },
     {
       "video_id": "IbK8V_U9E0c",
       "title": "20 Years Old Steroid Stack",
       "published_at": "2026-10-20T18:22:00Z",
-      "observed_at": "2026-11-20T01:18:50Z",
-      "views": 994971,
-      "likes": 19221,
-      "comments": 1492
+      "observed_at": "2026-11-20T07:30:59Z",
+      "views": 997141,
+      "likes": 19243,
+      "comments": 1494
     }
   ]
 }
