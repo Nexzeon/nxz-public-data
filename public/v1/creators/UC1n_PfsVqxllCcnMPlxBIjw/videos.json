@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
-  "generated_at": "2026-11-20T13:28:31Z",
+  "generated_at": "2026-11-20T19:16:35Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "qy_JurwkyU0",
       "title": "An Update Video",
       "published_at": "2025-06-19T13:01:24Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 1723452,
-      "likes": 58972,
-      "comments": 23530
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 1723596,
+      "likes": 58973,
+      "comments": 23531
     },
     {
       "video_id": "ESyfUKCMWBc",
       "title": "Wilbur Soot - Soft Boy (OFFICIAL VIDEO)",
       "published_at": "2022-09-25T21:00:12Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 5647089,
-      "likes": 362396,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 5647176,
+      "likes": 362394,
       "comments": 38137
     },
     {
       "video_id": "Oy-OrsVM6wE",
       "title": "Minecraft Social Experiment: Boomers v Zoomers",
       "published_at": "2022-08-31T20:01:37Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 2813326,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 2813328,
       "likes": 188481,
       "comments": 8006
     },
@@ -36,8 +36,8 @@
       "video_id": "F7F6G0ok9u0",
       "title": "Releasing Every Animal in Zoo Tycoon",
       "published_at": "2022-08-06T19:01:21Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 2549849,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 2549856,
       "likes": 197087,
       "comments": 5158
     },
@@ -45,9 +45,9 @@
       "video_id": "NgEidhomgBE",
       "title": "We Became Crime Scene Investigators",
       "published_at": "2022-07-29T17:01:15Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 2561935,
-      "likes": 204920,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 2561944,
+      "likes": 204921,
       "comments": 6058
     }
   ]

@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
-  "generated_at": "2026-11-20T13:28:31Z",
+  "generated_at": "2026-11-20T19:16:35Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "lBA1zYvERHg",
       "title": "This Is a Goodbye...",
       "published_at": "2026-11-18T18:00:00Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 339068,
-      "likes": 4336,
-      "comments": 154
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 367330,
+      "likes": 4728,
+      "comments": 165
     },
     {
       "video_id": "vzv0DL3g6lY",
       "title": "The Season EVERYONE Was Glad is OVER",
       "published_at": "2026-11-14T18:00:36Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 83736,
-      "likes": 1100,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 84166,
+      "likes": 1103,
       "comments": 118
     },
     {
       "video_id": "dc_YNIDJQnM",
       "title": "I'M BACK!",
       "published_at": "2026-11-09T18:00:29Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 95746,
-      "likes": 1490,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 96099,
+      "likes": 1491,
       "comments": 119
     },
     {
       "video_id": "lm7uLeUuARw",
       "title": "Why Casuals Hated This Fortnite Season...",
       "published_at": "2026-11-03T18:00:24Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 79211,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 79273,
       "likes": 1121,
       "comments": 91
     },
@@ -45,8 +45,8 @@
       "video_id": "ed7b7X9u-x8",
       "title": "Fortnite is CRAZY For This",
       "published_at": "2026-10-31T18:00:19Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 112800,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 112828,
       "likes": 1670,
       "comments": 85
     },
@@ -54,9 +54,9 @@
       "video_id": "WA-hc72dppA",
       "title": "NINJA RETURNED TO FORTNITE!",
       "published_at": "2026-10-24T18:00:02Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 377791,
-      "likes": 5418,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 377885,
+      "likes": 5419,
       "comments": 233
     }
   ]

@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCwIWAbIeu0xI0ReKWOcw3eg",
-  "generated_at": "2026-11-20T13:28:31Z",
+  "generated_at": "2026-11-20T19:16:35Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "z0kKJpXw3OY",
       "title": "World's Longest Backyard Waterslide!",
       "published_at": "2026-11-14T16:00:33Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 2542891,
-      "likes": 17810,
-      "comments": 1301
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 2599836,
+      "likes": 18016,
+      "comments": 1309
     },
     {
       "video_id": "1hGNfPY94LQ",
       "title": "I Turned My House Into A FISH TANK!",
       "published_at": "2026-10-31T15:00:34Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 5480440,
-      "likes": 31382,
-      "comments": 5100
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 5502374,
+      "likes": 31437,
+      "comments": 5104
     },
     {
       "video_id": "PZn-4aeoMrE",
       "title": "I Filled My Lego House With Chocolate!",
       "published_at": "2026-10-17T15:00:35Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 2663716,
-      "likes": 21745,
-      "comments": 5340
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 2665985,
+      "likes": 21753,
+      "comments": 5345
     },
     {
       "video_id": "LWvdma1nSBA",
       "title": "50 Extreme Ways To Use A Trampoline!",
       "published_at": "2026-10-10T15:00:29Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 1218308,
-      "likes": 10048,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 1219553,
+      "likes": 10053,
       "comments": 1062
     },
     {
       "video_id": "oxMfOOmuBrE",
       "title": "We Are SO BACK!",
       "published_at": "2026-10-02T17:30:15Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 332538,
-      "likes": 6229,
-      "comments": 393
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 333080,
+      "likes": 6233,
+      "comments": 394
     }
   ]
 }

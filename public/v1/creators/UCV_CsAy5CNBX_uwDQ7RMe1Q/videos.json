@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
-  "generated_at": "2026-11-20T13:28:31Z",
+  "generated_at": "2026-11-20T19:16:35Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "WqTO4uk1siU",
       "title": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
       "published_at": "2026-03-29T18:00:06Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 16337210,
-      "likes": 337775,
-      "comments": 9475
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 16347500,
+      "likes": 337845,
+      "comments": 9476
     },
     {
       "video_id": "dPylP3U1fm0",
       "title": "CENTRAL CEE - MAKA (FEAT. A2ANTI) (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 567600,
-      "likes": 11260,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 568043,
+      "likes": 11268,
       "comments": 413
     },
     {
       "video_id": "ZgnoafBVjXA",
       "title": "CENTRAL CEE - FEELINGS (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 1370428,
-      "likes": 35576,
-      "comments": 1321
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 1371232,
+      "likes": 35590,
+      "comments": 1322
     },
     {
       "video_id": "ZgHVvkINXZE",
       "title": "CENTRAL CEE - DC10 (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 512108,
-      "likes": 10173,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 512521,
+      "likes": 10181,
       "comments": 553
     },
     {
       "video_id": "3GtkDgNAxUU",
       "title": "CENTRAL CEE - Y FI DAT (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 1209463,
-      "likes": 22665,
-      "comments": 1075
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 1210371,
+      "likes": 22672,
+      "comments": 1076
     }
   ]
 }

@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIZGfcnjHI0DG4nweWEduw",
-  "generated_at": "2026-11-20T13:28:31Z",
+  "generated_at": "2026-11-20T19:16:35Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "VzCDBEQ9gOk",
       "title": "My Dream Home became a Nightmare - Part 1",
       "published_at": "2026-11-14T16:21:36Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 505293,
-      "likes": 8518,
-      "comments": 1256
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 511780,
+      "likes": 8565,
+      "comments": 1264
     },
     {
       "video_id": "_3d09oNHZQc",
       "title": "Our Dream Home Became a Nightmare",
       "published_at": "2026-11-14T16:21:03Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 30400,
-      "likes": 656,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 30596,
+      "likes": 660,
       "comments": 48
     },
     {
       "video_id": "9YhU6-z8ZdA",
       "title": "I Bought an entire Gaming Setup from TEMU",
       "published_at": "2026-11-13T18:25:58Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 441079,
-      "likes": 5140,
-      "comments": 335
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 448711,
+      "likes": 5191,
+      "comments": 305
     },
     {
       "video_id": "MAVQo3phpBY",
       "title": "Setup Wars - Episode 382",
       "published_at": "2026-11-12T17:32:02Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 282859,
-      "likes": 5394,
-      "comments": 119
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 284293,
+      "likes": 5408,
+      "comments": 120
     },
     {
       "video_id": "1nUQvlM9YYk",
       "title": "The Biggest PC Flip Yet! - FOF36",
       "published_at": "2026-11-06T15:40:41Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 224860,
-      "likes": 5155,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 225353,
+      "likes": 5165,
       "comments": 451
     }
   ]

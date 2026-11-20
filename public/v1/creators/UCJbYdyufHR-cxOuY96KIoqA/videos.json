@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCJbYdyufHR-cxOuY96KIoqA",
-  "generated_at": "2026-11-20T13:28:31Z",
+  "generated_at": "2026-11-20T19:16:35Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "71ZYqvPRe_M",
       "title": "AMP RETIREMENT HOME",
       "published_at": "2026-11-11T22:01:20Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 1972117,
-      "likes": 26416,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 1978986,
+      "likes": 26484,
       "comments": 964
     },
     {
       "video_id": "gGxV9X2MDMU",
       "title": "AMP TIC TAC TOE CHALLENGE",
       "published_at": "2026-11-09T23:19:44Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 3547916,
-      "likes": 95010,
-      "comments": 434
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 3573246,
+      "likes": 95371,
+      "comments": 435
     },
     {
       "video_id": "DCWtxzRXITU",
       "title": "AMP STREET FOOTBALL DRAFT",
       "published_at": "2026-11-02T23:06:45Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 2149053,
-      "likes": 31475,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 2151362,
+      "likes": 31503,
       "comments": 1027
     },
     {
       "video_id": "UH8jQ1yoAiM",
       "title": "AMP MUSIC IMPOSTER CHALLENGE",
       "published_at": "2026-10-31T21:40:41Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 4249093,
-      "likes": 132790,
-      "comments": 368
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 4289006,
+      "likes": 133513,
+      "comments": 369
     },
     {
       "video_id": "PoCsQbIKBYg",
       "title": "AMP MICHAEL MYERS CHALLENGE",
       "published_at": "2026-10-24T23:02:01Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 2311855,
-      "likes": 79195,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 2317540,
+      "likes": 79329,
       "comments": 429
     }
   ]

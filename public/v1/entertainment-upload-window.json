@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "feed": "nxz-entertainment-upload-window",
-  "window_start": "2026-11-13T13:27:35.864179+00:00",
-  "window_end": "2026-11-20T13:27:35.864179+00:00",
+  "window_start": "2026-11-13T19:15:25.687230+00:00",
+  "window_end": "2026-11-20T19:15:25.687230+00:00",
   "creators": [
     {
       "channel_id": "UCRijo3ddMTht_IHyNSNXpNQ",
@@ -21,15 +21,15 @@
     {
       "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
       "uploads": 1,
-      "views": 4991900.0,
-      "likes": 86984.0,
+      "views": 5066363.0,
+      "likes": 87690.0,
       "pending": 0
     },
     {
       "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
       "uploads": 1,
-      "views": 6979617.0,
-      "likes": 248278.0,
+      "views": 7094533.0,
+      "likes": 250976.0,
       "pending": 0
     },
     {
@@ -76,9 +76,9 @@
     },
     {
       "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
-      "uploads": 1,
-      "views": 357605.0,
-      "likes": 8487.0,
+      "uploads": 2,
+      "views": 182350.0,
+      "likes": 4436.5,
       "pending": 0
     },
     {
@@ -167,10 +167,10 @@
     },
     {
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "uploads": null,
+      "uploads": 0,
       "views": null,
       "likes": null,
-      "pending": 1
+      "pending": 0
     },
     {
       "channel_id": "UCWxlUwW9BgGISaakjGM37aw",
@@ -191,7 +191,7 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 4
+      "pending": 3
     },
     {
       "channel_id": "UChXKjLEzAB1K7EZQey7Fm1Q",
@@ -203,15 +203,15 @@
     {
       "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
       "uploads": 1,
-      "views": 3454879.0,
-      "likes": 84903.0,
+      "views": 3513429.0,
+      "likes": 85845.0,
       "pending": 0
     },
     {
       "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
       "uploads": 2,
-      "views": 211402.0,
-      "likes": 2718.0,
+      "views": 225748.0,
+      "likes": 2916.0,
       "pending": 0
     },
     {

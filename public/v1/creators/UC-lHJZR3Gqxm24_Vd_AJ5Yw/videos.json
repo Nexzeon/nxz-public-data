@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
-  "generated_at": "2026-11-20T13:28:31Z",
+  "generated_at": "2026-11-20T19:16:35Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I7IaqRJMi9w",
       "title": "I Failed",
       "published_at": "2026-11-07T13:45:09Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 4372030,
-      "likes": 103548,
-      "comments": 6066
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 4377449,
+      "likes": 103622,
+      "comments": 6076
     },
     {
       "video_id": "U6I5PkZjWZU",
       "title": "I Google Myself..",
       "published_at": "2026-10-23T08:30:30Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 3198974,
-      "likes": 82634,
-      "comments": 5130
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 3199754,
+      "likes": 82649,
+      "comments": 5132
     },
     {
       "video_id": "ODDJXGY_1kQ",
       "title": "I seriously should NOT be dropping this.",
       "published_at": "2026-10-01T02:21:45Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 3411984,
-      "likes": 94529,
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 3412552,
+      "likes": 94534,
       "comments": 5458
     },
     {
       "video_id": "H8g4B5ZN7LM",
       "title": "Thank you and Goodbye.",
       "published_at": "2026-09-22T11:05:00Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 13146250,
-      "likes": 416602,
-      "comments": 19257
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 13148491,
+      "likes": 416628,
+      "comments": 19256
     },
     {
       "video_id": "cNYSOHWbkJU",
       "title": "Earthquake by Mount Fuji",
       "published_at": "2026-07-30T08:30:17Z",
-      "observed_at": "2026-11-20T13:27:16Z",
-      "views": 1555677,
-      "likes": 59743,
-      "comments": 6046
+      "observed_at": "2026-11-20T19:15:01Z",
+      "views": 1555822,
+      "likes": 59741,
+      "comments": 6043
     }
   ]
 }
