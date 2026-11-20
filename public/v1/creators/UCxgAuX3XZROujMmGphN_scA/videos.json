@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCxgAuX3XZROujMmGphN_scA",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "KjVuIT0eBBg",
       "title": "Asking My Boss For The Day Off To Play GTA 6",
       "published_at": "2026-11-18T17:09:47Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 997481,
-      "likes": 36849,
-      "comments": 331
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1266716,
+      "likes": 42583,
+      "comments": 377
     },
     {
       "video_id": "ZzDRSxx3zgY",
       "title": "I Built A Business From Scratch Only Following Claude’s Advice",
       "published_at": "2026-11-16T12:59:43Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 981987,
-      "likes": 18463,
-      "comments": 3209
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1024261,
+      "likes": 19092,
+      "comments": 3231
     },
     {
       "video_id": "K2atMPgZxw4",
       "title": "Why You Should NEVER Use A Credit Card (at an ATM)",
       "published_at": "2026-11-14T14:27:23Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 141761,
-      "likes": 4694,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 144499,
+      "likes": 4759,
       "comments": 150
     },
     {
       "video_id": "bGqZcHv_1M0",
       "title": "Kid Tries To Trick Millionaire Dad",
       "published_at": "2026-11-05T14:37:19Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 3833999,
-      "likes": 90937,
-      "comments": 746
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3894447,
+      "likes": 91682,
+      "comments": 754
     },
     {
       "video_id": "mUz_tHYLhUs",
-      "title": "Complete Beginners AI Dropshipping Guide for 2027 (3+ Hours)",
+      "title": "The ONLY AI Dropshipping Guide You’ll Need for 2027 (3+ Hours)",
       "published_at": "2026-11-03T19:45:52Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 605777,
-      "likes": 8845,
-      "comments": 989
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 611220,
+      "likes": 8887,
+      "comments": 995
     }
   ]
 }

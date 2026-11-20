@@ -2,53 +2,71 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCXGgrKt94gR6lmN4aN3mYTg",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "qlEb-OaAygQ",
+      "title": "Playing GTA 6 on Xbox One",
+      "published_at": "2026-11-19T20:23:20Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 66273,
+      "likes": 3459,
+      "comments": 124
+    },
+    {
+      "video_id": "8QWn6RMtyzc",
+      "title": "I FINALLY Have the New GTA",
+      "published_at": "2026-11-18T23:24:07Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 55101,
+      "likes": 1936,
+      "comments": 46
+    },
     {
       "video_id": "k58JCWnA8hs",
       "title": "The @speediance.official Gym Monster 3S is Awesome",
       "published_at": "2026-11-18T18:28:53Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 5469,
-      "likes": 335,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 6127,
+      "likes": 392,
       "comments": 3
     },
     {
       "video_id": "ZzM63jPARIc",
       "title": "The Black Friday Tech to ACTUALLY Buy",
       "published_at": "2026-11-18T16:01:08Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 399964,
-      "likes": 5525,
-      "comments": 289
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 447819,
+      "likes": 6026,
+      "comments": 311
     },
     {
       "video_id": "pHZURCPW4eE",
       "title": "The REAL Reason to Buy the Next Xbox",
       "published_at": "2026-11-17T21:19:26Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 51454,
-      "likes": 2015,
-      "comments": 93
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 52559,
+      "likes": 2042,
+      "comments": 95
     },
     {
       "video_id": "_nXTL1MgA5s",
       "title": "The Next Xbox Isn't a PC",
       "published_at": "2026-11-17T16:01:09Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 321276,
-      "likes": 5220,
-      "comments": 585
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 328163,
+      "likes": 5294,
+      "comments": 590
     },
     {
       "video_id": "ypVzrCl-fQs",
       "title": "This PSP has a Secret…",
       "published_at": "2026-11-16T20:23:51Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 91997,
-      "likes": 3020,
-      "comments": 35
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 95151,
+      "likes": 3134,
+      "comments": 36
     }
   ]
 }

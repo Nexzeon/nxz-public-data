@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCbp9MyKCTEww4CxEzc_Tp0Q",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "X34SNWp0vuY",
+      "title": "Subscribe for a PS5 with GTA 6!",
+      "published_at": "2026-11-19T09:36:53Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 669719,
+      "likes": 9451,
+      "comments": 1260
+    },
     {
       "video_id": "pP43sRJg2fg",
       "title": "4 Levels of Futuristic Tech!",
       "published_at": "2026-11-13T05:13:51Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1449787,
-      "likes": 15337,
-      "comments": 251
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1476285,
+      "likes": 15524,
+      "comments": 253
     },
     {
       "video_id": "Hkjp36hjzqo",
       "title": "10 Levels Of Futuristic Tech That Shouldn't Exist!",
       "published_at": "2026-11-11T16:40:59Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 16946709,
-      "likes": 80155,
-      "comments": 2347
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 17066999,
+      "likes": 80864,
+      "comments": 2364
     },
     {
       "video_id": "ucO-UlTMfZ0",
       "title": "How Far Would YOU Go For The World's Best Phone?",
       "published_at": "2026-11-04T07:00:14Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 10178588,
-      "likes": 95187,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 10228918,
+      "likes": 95463,
       "comments": 643
     },
     {
       "video_id": "vPU635SETzU",
       "title": "I Got Cast In A REAL Movie!",
       "published_at": "2026-11-03T08:00:28Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 2787572,
-      "likes": 43420,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 2805693,
+      "likes": 43603,
       "comments": 275
     },
     {
       "video_id": "AfETKtC_dsQ",
       "title": "We HID in a Real Movie!",
       "published_at": "2026-11-01T06:12:38Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1380780,
-      "likes": 19679,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1384524,
+      "likes": 19697,
       "comments": 182
     }
   ]

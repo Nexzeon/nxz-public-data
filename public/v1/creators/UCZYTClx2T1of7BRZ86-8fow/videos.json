@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "ZDlcqG7Kuho",
+      "title": "Those Ape Sign Language Studies May Have Been Bogus",
+      "published_at": "2026-11-19T18:00:23Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 65011,
+      "likes": 1824,
+      "comments": 255
+    },
     {
       "video_id": "7pGCRPvKBXA",
       "title": "Your Allergies Might Prevent Cancer",
       "published_at": "2026-11-18T18:00:04Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 108078,
-      "likes": 2759,
-      "comments": 242
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 116932,
+      "likes": 2915,
+      "comments": 255
     },
     {
       "video_id": "yNsRbQln4Vg",
       "title": "Is Eating Oysters Safe?",
       "published_at": "2026-11-17T18:00:36Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 206510,
-      "likes": 3359,
-      "comments": 444
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 214645,
+      "likes": 3460,
+      "comments": 454
     },
     {
       "video_id": "1ejtdt78rCo",
       "title": "The Chess Rating System That Predicts Everything",
       "published_at": "2026-11-16T18:00:35Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 138237,
-      "likes": 2847,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 139963,
+      "likes": 2885,
       "comments": 171
     },
     {
       "video_id": "S7ELHbvqaeA",
       "title": "The Deep Sea Sub Built By a Cereal Company",
       "published_at": "2026-11-13T18:00:07Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 134552,
-      "likes": 3195,
-      "comments": 209
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 135155,
+      "likes": 3207,
+      "comments": 210
     },
     {
       "video_id": "FKiSYHf1HyI",
       "title": "Using Radioactive Waste to Treat Cancer",
       "published_at": "2026-11-12T18:00:21Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 184235,
-      "likes": 3245,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 184886,
+      "likes": 3250,
       "comments": 129
     }
   ]

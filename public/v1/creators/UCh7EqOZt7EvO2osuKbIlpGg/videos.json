@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCh7EqOZt7EvO2osuKbIlpGg",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "-I6kvVONPgU",
+      "title": "Guess The Fortnite Skin From Pixels! 🤔",
+      "published_at": "2026-11-19T15:00:30Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 80131,
+      "likes": 1462,
+      "comments": 9
+    },
     {
       "video_id": "sAoEW34gH-0",
       "title": "I went to the shoe shop in GTA 6...",
       "published_at": "2026-11-18T13:56:47Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 119603,
-      "likes": 1846,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 133430,
+      "likes": 2066,
       "comments": 17
     },
     {
       "video_id": "u_dRXL5b9nc",
       "title": "Who's Most Likely To... 👀",
       "published_at": "2026-11-16T15:00:23Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 42373,
-      "likes": 2290,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 42639,
+      "likes": 2296,
       "comments": 14
     },
     {
       "video_id": "T2FR7Qm38OA",
       "title": "I'm Sorry Lazarbeam...",
       "published_at": "2026-11-13T13:00:34Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 2798124,
-      "likes": 85701,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 2822615,
+      "likes": 86124,
       "comments": 259
     },
     {
       "video_id": "yLUouHjJyLQ",
       "title": "I Got the Pirate Token! (NOT CLICKBAIT!)",
       "published_at": "2026-11-12T15:53:49Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1325623,
-      "likes": 13624,
-      "comments": 508
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1337489,
+      "likes": 13673,
+      "comments": 509
     },
     {
       "video_id": "w81JBbrdXvQ",
       "title": "I GOT THE PIRATE SHOP TOKEN!!! 🤯😱",
       "published_at": "2026-11-12T10:08:29Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 224234,
-      "likes": 8173,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 224588,
+      "likes": 8176,
       "comments": 166
     }
   ]

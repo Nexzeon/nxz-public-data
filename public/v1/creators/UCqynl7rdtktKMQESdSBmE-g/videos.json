@@ -2,51 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCqynl7rdtktKMQESdSBmE-g",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I5TrqofP_eI",
       "title": "We Need to Beat Minecraft in 5 Minutes",
       "published_at": "2026-11-10T17:50:48Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1428922,
-      "likes": 28331,
-      "comments": 1267
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1438490,
+      "likes": 28412,
+      "comments": 1269
     },
     {
       "video_id": "C3j_SVnvdcY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE (Hunters Edition)",
       "published_at": "2026-10-25T22:04:22Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 967125,
-      "likes": 18416,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 967612,
+      "likes": 18421,
       "comments": 727
     },
     {
       "video_id": "DSizdcW_31o",
       "title": "Minecraft 2v2 Death Swap",
       "published_at": "2026-08-06T03:23:42Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1705103,
-      "likes": 37899,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1706151,
+      "likes": 37905,
       "comments": 1187
     },
     {
       "video_id": "nVOnyMVKDV8",
       "title": "Minecraft TNT Battle",
       "published_at": "2026-06-13T18:17:23Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 103301,
-      "likes": 3768,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 103337,
+      "likes": 3770,
       "comments": 70
     },
     {
       "video_id": "0vVjixEpbwQ",
       "title": "Minecraft TNT Battle",
       "published_at": "2026-06-12T01:33:51Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 459361,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 459381,
       "likes": 12312,
       "comments": 59
     }

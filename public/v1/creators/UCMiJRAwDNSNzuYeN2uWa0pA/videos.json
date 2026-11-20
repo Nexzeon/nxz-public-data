@@ -2,53 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "NrF4mkTmuTU",
+      "title": "Why GTA is a Bigger Deal Than You Think",
+      "published_at": "2026-11-19T01:47:12Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 4737959,
+      "likes": 72148,
+      "comments": 2937
+    },
     {
       "video_id": "awjlMCCdqXw",
       "title": "The Dark Side of China’s Perfect Cars",
       "published_at": "2026-11-17T11:43:40Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 11018200,
-      "likes": 153197,
-      "comments": 13285
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 11840940,
+      "likes": 158602,
+      "comments": 13827
     },
     {
       "video_id": "HVLUtJWlcJY",
       "title": "I Tested 42 Years of Phones!",
       "published_at": "2026-11-09T12:37:47Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 9174295,
-      "likes": 120142,
-      "comments": 6685
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 9219275,
+      "likes": 120437,
+      "comments": 6704
     },
     {
       "video_id": "Yg2t5w8vj5Q",
       "title": "I Tested the Most Downloaded 3D Printed Tech!",
       "published_at": "2026-11-04T11:09:51Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 7355176,
-      "likes": 93571,
-      "comments": 2762
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 7378188,
+      "likes": 93698,
+      "comments": 2761
     },
     {
       "video_id": "1yB56IT0kDw",
       "title": "6 ways Samsung Fold beats iPhone Duo",
       "published_at": "2026-10-23T13:18:02Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 8269424,
-      "likes": 268108,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 8275810,
+      "likes": 268263,
       "comments": 3122
     },
     {
       "video_id": "i3ZlSlnGWng",
       "title": "6 ways iPhone Duo beats Samsung",
       "published_at": "2026-10-21T12:02:02Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 14264118,
-      "likes": 418006,
-      "comments": 9340
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 14276324,
+      "likes": 418215,
+      "comments": 9345
     }
   ]
 }

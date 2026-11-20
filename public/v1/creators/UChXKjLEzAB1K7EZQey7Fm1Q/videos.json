@@ -2,61 +2,79 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChXKjLEzAB1K7EZQey7Fm1Q",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "_6dQ7sC0x2g",
+      "title": "unboxing my custom blythe doll 🥹",
+      "published_at": "2026-11-18T15:30:06Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 24649,
+      "likes": 1982,
+      "comments": 38
+    },
     {
       "video_id": "67aIgDFNWJw",
       "title": "i met XG 🥹✨",
       "published_at": "2026-11-16T01:15:08Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 6333,
-      "likes": 447,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 6323,
+      "likes": 448,
       "comments": 18
     },
     {
       "video_id": "CrIoEiOUd9I",
       "title": "turning into a k-pop idol 😳",
       "published_at": "2026-11-10T15:30:04Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 70319,
-      "likes": 2553,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 70708,
+      "likes": 2573,
       "comments": 64
     },
     {
       "video_id": "IrYS28klEwU",
       "title": "chun-li with ryu 🤭",
       "published_at": "2026-11-02T15:45:34Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 177750,
-      "likes": 4910,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 178071,
+      "likes": 4916,
       "comments": 75
     },
     {
       "video_id": "5bZvhWLAz2k",
       "title": "bought a gift for someone special 🥹🦋 (+giveaway)",
       "published_at": "2026-10-30T14:30:06Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 87941,
-      "likes": 4766,
-      "comments": 688
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 88189,
+      "likes": 4776,
+      "comments": 690
+    },
+    {
+      "video_id": "8-M_x0SaF18",
+      "title": "felt like a princess 🤭",
+      "published_at": "2026-10-28T15:30:30Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 32036,
+      "likes": 1422,
+      "comments": 51
     },
     {
       "video_id": "Ws92eOADh3M",
       "title": "bad luck speedrun 🥲",
       "published_at": "2026-10-25T15:45:19Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 352611,
-      "likes": 10727,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 352956,
+      "likes": 10738,
       "comments": 186
     },
     {
       "video_id": "PSS767HhzNs",
       "title": "she's trying hard for me ♡",
       "published_at": "2026-10-21T16:00:11Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 188779,
-      "likes": 4964,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 188882,
+      "likes": 4968,
       "comments": 67
     }
   ]

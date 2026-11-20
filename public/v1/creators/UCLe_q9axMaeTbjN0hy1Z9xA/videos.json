@@ -2,53 +2,89 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCLe_q9axMaeTbjN0hy1Z9xA",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "JIflk3hv6Ck",
+      "title": "I'm Buying Her a First Class Plane Ticket Home!",
+      "published_at": "2026-11-19T23:00:29Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 57623,
+      "likes": 3062,
+      "comments": 99
+    },
+    {
+      "video_id": "6EnIqQt-OMk",
+      "title": "Froot Loops Girl is Six Figures in DEBT",
+      "published_at": "2026-11-19T20:00:16Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 97769,
+      "likes": 3098,
+      "comments": 112
+    },
+    {
+      "video_id": "NxiuuPW8iaE",
+      "title": "Financial Audit Guest STOLE From BBQ Restaurant",
+      "published_at": "2026-11-19T17:00:22Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 316535,
+      "likes": 11385,
+      "comments": 727
+    },
+    {
+      "video_id": "CqXdgtCL1Cw",
+      "title": "Financial Audit Guest SUED by SNOOPY",
+      "published_at": "2026-11-18T23:00:02Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 709594,
+      "likes": 17491,
+      "comments": 825
+    },
     {
       "video_id": "0O5xJqZ-rAw",
       "title": "Financial Audit Guest STOLE a Bike?",
       "published_at": "2026-11-18T20:00:00Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 95496,
-      "likes": 2653,
-      "comments": 122
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 106431,
+      "likes": 2867,
+      "comments": 129
     },
     {
       "video_id": "97W2y1EYg9U",
       "title": "Couple Makes Private School Money!",
       "published_at": "2026-11-18T17:00:06Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 581067,
-      "likes": 12926,
-      "comments": 298
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 641098,
+      "likes": 14071,
+      "comments": 318
     },
     {
       "video_id": "ifRRmUGeZ8w",
       "title": "The Most PSYCHOTIC Woman In Financial Audit History",
       "published_at": "2026-11-18T16:00:16Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1052894,
-      "likes": 13452,
-      "comments": 3646
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1202828,
+      "likes": 14418,
+      "comments": 3830
     },
     {
       "video_id": "IaEE4XpEZQE",
       "title": "The Worst Ego In Financial Audit History",
       "published_at": "2026-11-17T23:00:15Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 119063,
-      "likes": 4286,
-      "comments": 202
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 124432,
+      "likes": 4421,
+      "comments": 207
     },
     {
       "video_id": "HPmGw1gCWCg",
       "title": "I Called 911 on Financial Audit Guest",
       "published_at": "2026-11-17T20:00:28Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1494465,
-      "likes": 62740,
-      "comments": 1025
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1550837,
+      "likes": 65252,
+      "comments": 1049
     }
   ]
 }

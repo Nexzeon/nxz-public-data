@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCh2aTKSbIyxpnOsbHsmV-ig",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "xi_TtQXoQlc",
+      "title": "He Caught A GIANT Sailfish All By Himself...",
+      "published_at": "2026-11-19T17:52:52Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 40283,
+      "likes": 779,
+      "comments": 31
+    },
     {
       "video_id": "a9GXHHb7aDo",
       "title": "GTA 6 MAKING EVERY BAD DECISION",
       "published_at": "2026-11-18T11:01:38Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 647674,
-      "likes": 5124,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 698061,
+      "likes": 5329,
       "comments": 0
     },
     {
       "video_id": "CacOn66iU2E",
       "title": "The Most Unfaithful Couple Ever..",
       "published_at": "2026-11-15T18:41:38Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 278803,
-      "likes": 5353,
-      "comments": 202
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 282311,
+      "likes": 5407,
+      "comments": 204
     },
     {
       "video_id": "sSKl6wf8AgY",
       "title": "MrBeast Made The Hunger Games In Real Life..",
       "published_at": "2026-11-14T20:43:38Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 425113,
-      "likes": 5547,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 427649,
+      "likes": 5573,
       "comments": 178
     },
     {
       "video_id": "gNyOsIURDMc",
       "title": "Dr. Phil Is Worse Than I Thought",
       "published_at": "2026-11-12T20:50:35Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 310458,
-      "likes": 3521,
-      "comments": 130
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 311850,
+      "likes": 3530,
+      "comments": 131
     },
     {
       "video_id": "PGGwHj0O9E0",
       "title": "50 Hours Inside China's Fat Loss Prison",
       "published_at": "2026-11-11T17:55:57Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 279613,
-      "likes": 3190,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 281643,
+      "likes": 3202,
       "comments": 128
     }
   ]

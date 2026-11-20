@@ -2,80 +2,89 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCRijo3ddMTht_IHyNSNXpNQ",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "sOV1UQQWPUU",
+      "title": "Potato Straw Hack @zackdfilms",
+      "published_at": "2026-11-18T23:01:14Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 497374,
+      "likes": 12282,
+      "comments": 106
+    },
     {
       "video_id": "m3VYLlfSqkM",
       "title": "Crush The Can First 🤣",
       "published_at": "2026-11-17T21:43:07Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 2192712,
-      "likes": 35936,
-      "comments": 160
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 2376446,
+      "likes": 38230,
+      "comments": 164
     },
     {
       "video_id": "k1nKF9x_VB4",
       "title": "Football But In REVERSE 👀",
       "published_at": "2026-11-16T23:34:43Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 421696,
-      "likes": 9931,
-      "comments": 132
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 436178,
+      "likes": 10164,
+      "comments": 137
     },
     {
       "video_id": "tFI78IyXRvw",
       "title": "Don’t Say The Same Thing! 🤣",
       "published_at": "2026-11-15T17:02:26Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 814452,
-      "likes": 21871,
-      "comments": 178
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 833807,
+      "likes": 22199,
+      "comments": 180
     },
     {
       "video_id": "-0r0Nma-AFY",
       "title": "Blindfolded Basketball 🤣",
       "published_at": "2026-11-14T17:59:45Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 832894,
-      "likes": 22897,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 849833,
+      "likes": 23222,
       "comments": 128
     },
     {
       "video_id": "PrCiTJY6Uqg",
       "title": "Who Can Survive the Night? | Survivor Games",
       "published_at": "2026-11-14T15:00:00Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 4070863,
-      "likes": 43255,
-      "comments": 1417
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 4154186,
+      "likes": 43682,
+      "comments": 1429
     },
     {
       "video_id": "jnNGRhUkfis",
       "title": "Who Can Make The Worst Face?! 😭",
       "published_at": "2026-11-13T23:01:12Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 972199,
-      "likes": 20611,
-      "comments": 213
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 981106,
+      "likes": 20689,
+      "comments": 215
     },
     {
       "video_id": "btgEGyhfF6I",
       "title": "Fewest Bounces WINS! 🏈",
       "published_at": "2026-11-12T22:54:48Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 5707616,
-      "likes": 112718,
-      "comments": 260
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 5829225,
+      "likes": 114489,
+      "comments": 262
     },
     {
       "video_id": "gqwRhxwwvHI",
       "title": "HIDE & SEEK (Drone Edition)",
       "published_at": "2026-11-11T23:53:19Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 370165,
-      "likes": 6895,
-      "comments": 101
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 373286,
+      "likes": 6922,
+      "comments": 102
     }
   ]
 }

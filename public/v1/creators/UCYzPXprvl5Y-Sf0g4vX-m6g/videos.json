@@ -2,53 +2,71 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "J18nXpZHyyI",
+      "title": "WAS THAT BIGFOOT?? | Grand Theft Auto 6 - Part 2",
+      "published_at": "2026-11-19T17:00:33Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 420582,
+      "likes": 14379,
+      "comments": 1154
+    },
+    {
+      "video_id": "uZGnqBLC60Y",
+      "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
+      "published_at": "2026-11-18T23:47:15Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 2985382,
+      "likes": 75282,
+      "comments": 4966
+    },
     {
       "video_id": "PI_qgAU8ZQQ",
       "title": "Why am I so bad at this!?",
       "published_at": "2026-11-17T17:13:34Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1241311,
-      "likes": 31203,
-      "comments": 1551
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1289455,
+      "likes": 31963,
+      "comments": 1576
     },
     {
       "video_id": "g9DKSvOuO4Y",
       "title": "Jacksepticeye doing his lines for Hitman",
       "published_at": "2026-11-12T17:12:55Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 651128,
-      "likes": 49268,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 655277,
+      "likes": 49427,
       "comments": 428
     },
     {
       "video_id": "MUH3crmuZqM",
       "title": "LOST",
       "published_at": "2026-10-31T15:30:35Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1268376,
-      "likes": 40609,
-      "comments": 2757
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1269196,
+      "likes": 40633,
+      "comments": 2759
     },
     {
       "video_id": "J5r10OtCkTs",
       "title": "HITMAN put me in their game",
       "published_at": "2026-10-29T14:24:03Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 4242693,
-      "likes": 105228,
-      "comments": 4162
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 4247630,
+      "likes": 105305,
+      "comments": 4165
     },
     {
       "video_id": "vH3dJxrwYTY",
       "title": "Playing P.T. on PC 12 years later",
       "published_at": "2026-10-27T17:10:29Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1990402,
-      "likes": 49096,
-      "comments": 2806
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1992466,
+      "likes": 49131,
+      "comments": 2808
     }
   ]
 }

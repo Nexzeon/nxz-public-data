@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I7IaqRJMi9w",
       "title": "I Failed",
       "published_at": "2026-11-07T13:45:09Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 4357069,
-      "likes": 103342,
-      "comments": 6047
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 4362949,
+      "likes": 103421,
+      "comments": 6054
     },
     {
       "video_id": "U6I5PkZjWZU",
       "title": "I Google Myself..",
       "published_at": "2026-10-23T08:30:30Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 3196759,
-      "likes": 82592,
-      "comments": 5130
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3197587,
+      "likes": 82612,
+      "comments": 5132
     },
     {
       "video_id": "ODDJXGY_1kQ",
       "title": "I seriously should NOT be dropping this.",
       "published_at": "2026-10-01T02:21:45Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 3410338,
-      "likes": 94514,
-      "comments": 5463
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3410926,
+      "likes": 94522,
+      "comments": 5459
     },
     {
       "video_id": "H8g4B5ZN7LM",
       "title": "Thank you and Goodbye.",
       "published_at": "2026-09-22T11:05:00Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 13138770,
-      "likes": 416545,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 13141262,
+      "likes": 416561,
       "comments": 19254
     },
     {
       "video_id": "cNYSOHWbkJU",
       "title": "Earthquake by Mount Fuji",
       "published_at": "2026-07-30T08:30:17Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1555323,
-      "likes": 59741,
-      "comments": 6050
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1555391,
+      "likes": 59740,
+      "comments": 6046
     }
   ]
 }

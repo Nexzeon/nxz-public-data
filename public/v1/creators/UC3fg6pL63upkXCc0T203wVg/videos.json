@@ -2,15 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC3fg6pL63upkXCc0T203wVg",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "u5YpgWGqvT8",
+      "title": "Why the iPhone Duo is not for me",
+      "published_at": "2026-11-18T20:27:20Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 11557,
+      "likes": 373,
+      "comments": 20
+    },
     {
       "video_id": "KChOEI1qPD4",
       "title": "My New Overkill NAS Setup",
       "published_at": "2026-09-29T20:00:22Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 281238,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 281278,
       "likes": 5031,
       "comments": 350
     },
@@ -18,26 +27,26 @@
       "video_id": "CNivjytkxsY",
       "title": "Gemini now makes sense.. Google Pixel 11 Pro",
       "published_at": "2026-09-17T21:45:33Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 43038,
-      "likes": 785,
-      "comments": 71
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 43093,
+      "likes": 786,
+      "comments": 72
     },
     {
       "video_id": "1AvUNJaCc-s",
       "title": "The NEW Google Pixel 11 Pro XL in 60 Seconds",
       "published_at": "2026-09-02T16:00:16Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 41092,
-      "likes": 782,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 41239,
+      "likes": 785,
       "comments": 24
     },
     {
       "video_id": "kvKdojSV62o",
       "title": "Sony FX5 - who is this actually for? ",
       "published_at": "2026-08-11T15:33:34Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 34408,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 34421,
       "likes": 1216,
       "comments": 170
     },

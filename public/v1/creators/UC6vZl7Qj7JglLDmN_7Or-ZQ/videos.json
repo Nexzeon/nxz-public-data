@@ -2,53 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC6vZl7Qj7JglLDmN_7Or-ZQ",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "5eBrTjr0OGU",
+      "title": "November 19, 2026",
+      "published_at": "2026-11-19T18:11:29Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 4519,
+      "likes": 476,
+      "comments": 24
+    },
     {
       "video_id": "YGpIn-b_1pw",
       "title": "NAM SAYINNNN",
       "published_at": "2026-11-12T22:29:55Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 31732,
-      "likes": 1432,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 31973,
+      "likes": 1438,
       "comments": 81
     },
     {
       "video_id": "1eECvB0Tuik",
       "title": "Thank you @YouTubeMusic",
       "published_at": "2026-11-06T23:22:41Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 17664,
-      "likes": 969,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 17717,
+      "likes": 971,
       "comments": 26
     },
     {
       "video_id": "Gw99PzTWphk",
       "title": "Too Soon ft. @Babyface video out now.",
       "published_at": "2026-11-06T15:32:07Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 13583,
-      "likes": 770,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 13679,
+      "likes": 772,
       "comments": 25
     },
     {
       "video_id": "3vTFY0hcrWA",
       "title": "Jack Harlow - TOO SOON feat. Babyface",
       "published_at": "2026-11-06T15:00:07Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 2650271,
-      "likes": 29034,
-      "comments": 813
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 2670556,
+      "likes": 29131,
+      "comments": 816
     },
     {
       "video_id": "kMEzkFbDC7w",
       "title": "Jack Harlow - TOO SOON feat. Babyface",
       "published_at": "2026-11-06T05:00:34Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 133241,
-      "likes": 2979,
-      "comments": 134
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 133881,
+      "likes": 2984,
+      "comments": 135
     }
   ]
 }

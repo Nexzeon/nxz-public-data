@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCYVinkwSX7szARULgYpvhLw",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "ttNHaOBB1wA",
+      "title": "This Cannon is STEALING Your Pirate Shop Token! 😱",
+      "published_at": "2026-11-19T16:01:33Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 54570,
+      "likes": 1257,
+      "comments": 33
+    },
     {
       "video_id": "X1y_SlFvkow",
       "title": "Creators are LEAVING Fortnite FOREVER... 😢",
       "published_at": "2026-11-18T16:01:38Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 120230,
-      "likes": 2844,
-      "comments": 203
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 128950,
+      "likes": 2999,
+      "comments": 208
     },
     {
       "video_id": "AkEIpA73h1E",
       "title": "Best Squad Route To Get the PIRATE SHOP Token in Fortnite!",
       "published_at": "2026-11-17T16:01:13Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 395978,
-      "likes": 10693,
-      "comments": 101
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 411327,
+      "likes": 10908,
+      "comments": 98
     },
     {
       "video_id": "MiV7euA4R2c",
       "title": "Watch This If You DON’T Have the Pirate Shop Token!",
       "published_at": "2026-11-14T19:01:36Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 137272,
-      "likes": 1303,
-      "comments": 122
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 139460,
+      "likes": 1311,
+      "comments": 123
     },
     {
       "video_id": "0LooLYKjSkg",
       "title": "Do these Creators Deserve FREE Rewards?! 🤔",
       "published_at": "2026-11-14T16:01:06Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 122622,
-      "likes": 2607,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 124914,
+      "likes": 2644,
       "comments": 54
     },
     {
       "video_id": "-0IucYFc1Hg",
       "title": "Watch This If You DON'T Have Pirate Shop Token!",
       "published_at": "2026-11-13T16:01:20Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 757565,
-      "likes": 16605,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 765382,
+      "likes": 16724,
       "comments": 217
     }
   ]

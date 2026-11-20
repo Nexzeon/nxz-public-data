@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCVS88tG_NYgxF6Udnx2815Q",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "_FYHiBu0SWs",
+      "title": "Aint Goin Official Video Out Now!",
+      "published_at": "2026-11-18T22:55:42Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 18142,
+      "likes": 1076,
+      "comments": 38
+    },
     {
       "video_id": "BBYdzzyWhTU",
       "title": "Lil Baby - Aint Goin (Official Music Video)",
       "published_at": "2026-11-17T18:00:06Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 646078,
-      "likes": 23408,
-      "comments": 1245
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 701484,
+      "likes": 24560,
+      "comments": 1264
     },
     {
       "video_id": "wxN0-eFSejA",
       "title": "I’m From That Side Of Town Where They Play Ya Crazy & Try To Lay 🐍",
       "published_at": "2026-11-13T13:54:30Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 40978,
-      "likes": 2053,
-      "comments": 77
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 41674,
+      "likes": 2088,
+      "comments": 79
     },
     {
       "video_id": "8hle-Tmdmhg",
       "title": "Fine & Sexy At The Same She Ain’t Goin😮‍💨Life Of The Party (LOTP) Official Video Out Now! 🚨‼️",
       "published_at": "2026-11-10T18:38:36Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 15347,
-      "likes": 761,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 15521,
+      "likes": 768,
       "comments": 19
     },
     {
       "video_id": "K-AmpbNrcrw",
       "title": "👶🏾🎻",
       "published_at": "2026-11-10T15:24:28Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 12113,
-      "likes": 627,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 12229,
+      "likes": 629,
       "comments": 29
     },
     {
       "video_id": "Nv-7hd1rSdU",
       "title": "From The Back Remix Out Now! 🔥🔥",
       "published_at": "2026-11-10T06:15:41Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 19353,
-      "likes": 1244,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 19495,
+      "likes": 1253,
       "comments": 41
     }
   ]

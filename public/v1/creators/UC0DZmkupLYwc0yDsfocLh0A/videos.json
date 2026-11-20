@@ -2,53 +2,98 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0DZmkupLYwc0yDsfocLh0A",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "YFalZ8K14GE",
+      "title": "I Tried To Escape 6 Stars In GTA 6… Instantly Wasted 💀 #GTA6 #GTAVI",
+      "published_at": "2026-11-19T22:02:46Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 6589,
+      "likes": 351,
+      "comments": 20
+    },
+    {
+      "video_id": "c4O6RS3r3WU",
+      "title": "Can You ESCAPE 6 STARS WANTED in GTA 6",
+      "published_at": "2026-11-19T17:00:29Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 93636,
+      "likes": 2132,
+      "comments": 217
+    },
+    {
+      "video_id": "jW279XTwVio",
+      "title": "Can I Escape The Cops In GTA 6? 🚨 #GTA6 #GTAVI",
+      "published_at": "2026-11-19T16:10:42Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 15858,
+      "likes": 452,
+      "comments": 16
+    },
+    {
+      "video_id": "sexJMHgzVqw",
+      "title": "Playing GTA 6 LIVE as JASON + LUCIA",
+      "published_at": "2026-11-19T15:06:28Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 228566,
+      "likes": 3076,
+      "comments": 33
+    },
+    {
+      "video_id": "oFmcYEwg3Fs",
+      "title": "My First Look At The GTA 6 Map 🤯 #GTA6 #GTAVI",
+      "published_at": "2026-11-19T14:10:49Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 31318,
+      "likes": 888,
+      "comments": 26
+    },
     {
       "video_id": "OPgU6D1_Osk",
       "title": "You Can Feel A Baby Kick In GTA 6 💀",
       "published_at": "2026-11-18T19:35:33Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 211775,
-      "likes": 3420,
-      "comments": 81
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 229845,
+      "likes": 3518,
+      "comments": 82
     },
     {
       "video_id": "FELgzW09PWI",
       "title": "PLAYING GTA 6 For The FIRST Time...",
       "published_at": "2026-11-18T17:20:28Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1261495,
-      "likes": 19918,
-      "comments": 279
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1271253,
+      "likes": 20022,
+      "comments": 285
     },
     {
       "video_id": "9FVf0bUcshg",
       "title": "I Moved To New Zealand For GTA 6 💀 #GTA6",
       "published_at": "2026-11-16T20:03:33Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1894595,
-      "likes": 32626,
-      "comments": 986
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1940394,
+      "likes": 33032,
+      "comments": 1006
     },
     {
       "video_id": "8K-avUb_1uQ",
       "title": "I know the GTA 6 map better than anyone… right? 💀 #GTA6",
       "published_at": "2026-11-14T20:02:27Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 68871,
-      "likes": 3143,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 69348,
+      "likes": 3155,
       "comments": 74
     },
     {
       "video_id": "-wOC0R-S4Vc",
       "title": "One Last GTA 5 Race With the Boys…",
       "published_at": "2026-11-14T18:00:18Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 304460,
-      "likes": 8468,
-      "comments": 632
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 309867,
+      "likes": 8582,
+      "comments": 637
     }
   ]
 }

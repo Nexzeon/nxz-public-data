@@ -2,42 +2,78 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCVi6sLM51K8kidu61o0DR_g",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "yyDgoqE7xsI",
+      "title": "My Basketball Hoop Is Lethal..",
+      "published_at": "2026-11-19T04:39:47Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3768,
+      "likes": 88,
+      "comments": 3
+    },
+    {
+      "video_id": "ySP82Aeyrx8",
+      "title": "Sketch Plays GTA 6 For The First Time!",
+      "published_at": "2026-11-19T00:55:48Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 6210,
+      "likes": 60,
+      "comments": 11
+    },
+    {
+      "video_id": "p4CzRzMJQRg",
+      "title": "I FOUND The Fortnite Pirate Shop Token!",
+      "published_at": "2026-11-18T14:13:42Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3286,
+      "likes": 32,
+      "comments": 2
+    },
+    {
+      "video_id": "lSFOEdYkP-s",
+      "title": "I'm The Greatest Madden 27 Player..",
+      "published_at": "2026-11-18T01:41:02Z",
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 11503,
+      "likes": 158,
+      "comments": 2
+    },
     {
       "video_id": "AgO7tpAATSw",
       "title": "Zach Lewis Is The Worst..",
       "published_at": "2026-11-17T04:22:04Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 8216,
-      "likes": 140,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 8628,
+      "likes": 152,
       "comments": 3
     },
     {
       "video_id": "esOjVj5Z9yo",
       "title": "I'm NEVER Playing Madden 27 Again..",
       "published_at": "2026-11-16T18:51:33Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 17449,
-      "likes": 123,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 17855,
+      "likes": 124,
       "comments": 7
     },
     {
       "video_id": "ryzCGYeCB94",
       "title": "I'm Done Playing Madden..",
       "published_at": "2026-11-16T04:30:49Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 30478,
-      "likes": 600,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 30614,
+      "likes": 602,
       "comments": 9
     },
     {
       "video_id": "kep1s01Zt9g",
       "title": "I Have Too Many Pillows!",
       "published_at": "2026-11-15T02:44:21Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 30236,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 30271,
       "likes": 411,
       "comments": 8
     },
@@ -45,8 +81,8 @@
       "video_id": "dKi1w5Nt_fc",
       "title": "I Got A Supreme Raft!",
       "published_at": "2026-11-14T01:58:07Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 29721,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 29794,
       "likes": 428,
       "comments": 7
     },
@@ -54,17 +90,17 @@
       "video_id": "_nhvZyq2PFg",
       "title": "Sketch & Zack Lewis Play MADDEN 27 Duos..",
       "published_at": "2026-11-12T23:54:14Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 11158,
-      "likes": 91,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 11246,
+      "likes": 93,
       "comments": 6
     },
     {
       "video_id": "P7vppG54OqI",
       "title": "I'm Never Getting Clipped Again..",
       "published_at": "2026-11-12T20:32:12Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 33376,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 33439,
       "likes": 450,
       "comments": 3
     },
@@ -72,17 +108,17 @@
       "video_id": "rk_PMgAVX6c",
       "title": "I Bought A $10,000,000 Content Penthouse!",
       "published_at": "2026-11-12T03:30:21Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 34828,
-      "likes": 417,
-      "comments": 45
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 35168,
+      "likes": 420,
+      "comments": 46
     },
     {
       "video_id": "0AJjPXYdz9M",
       "title": "I Bought A Dinosaur!",
       "published_at": "2026-11-12T02:28:42Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 3535,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3555,
       "likes": 81,
       "comments": 4
     }

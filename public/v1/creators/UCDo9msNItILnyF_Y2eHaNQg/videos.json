@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCDo9msNItILnyF_Y2eHaNQg",
-  "generated_at": "2026-11-19T19:15:02Z",
+  "generated_at": "2026-11-20T01:20:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "UOaMesN5vrY",
       "title": "Baby Girl",
       "published_at": "2023-04-27T18:23:57Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 3504400,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3504509,
       "likes": 228645,
-      "comments": 23718
+      "comments": 23719
     },
     {
       "video_id": "B6p8N8sRKDI",
       "title": "My Ex Girlfriend Called Me... (We Picked up)",
       "published_at": "2020-07-12T19:20:10Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 3703342,
-      "likes": 134858,
-      "comments": 25484
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 3703367,
+      "likes": 134856,
+      "comments": 25485
     },
     {
       "video_id": "dkKr7Cawd1M",
       "title": "Confronting Faze Jarvis for filming with Bryce Hall...",
       "published_at": "2020-06-11T19:53:17Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 1691974,
-      "likes": 85649,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 1691978,
+      "likes": 85647,
       "comments": 6579
     },
     {
       "video_id": "uV_0DZQ3na8",
       "title": "My Experience With KSI...",
       "published_at": "2020-05-29T19:46:05Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 2748732,
-      "likes": 156157,
-      "comments": 28407
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 2748744,
+      "likes": 156156,
+      "comments": 28408
     },
     {
       "video_id": "brPJcVBkm1A",
       "title": "KSI Made A Video With My Ex Girlfriend...",
       "published_at": "2020-05-25T19:28:27Z",
-      "observed_at": "2026-11-19T19:13:54Z",
-      "views": 2204684,
-      "likes": 113174,
+      "observed_at": "2026-11-20T01:18:50Z",
+      "views": 2204687,
+      "likes": 113172,
       "comments": 9883
     }
   ]
