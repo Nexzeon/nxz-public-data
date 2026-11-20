@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-  "generated_at": "2026-11-20T07:32:03Z",
+  "generated_at": "2026-11-20T13:28:31Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "FJfyJw-kCRA",
       "title": "Minecraft 2 Truths 1 Lie",
       "published_at": "2026-10-29T20:25:49Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 2520252,
-      "likes": 101559,
-      "comments": 1245
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 2523927,
+      "likes": 101625,
+      "comments": 1250
     },
     {
       "video_id": "iSwIiTNVvWo",
       "title": "Stripped Logs",
       "published_at": "2026-10-25T13:34:01Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 2139891,
-      "likes": 119860,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 2141201,
+      "likes": 119893,
       "comments": 4725
     },
     {
       "video_id": "g22Z__ShvVY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE",
       "published_at": "2026-10-20T19:30:08Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 14910990,
-      "likes": 485505,
-      "comments": 14669
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 14930271,
+      "likes": 485813,
+      "comments": 14677
     },
     {
       "video_id": "fYFm5P74Yng",
       "title": "BECOMING A SPEAR MACE MASTER (short stream)",
       "published_at": "2026-09-19T20:01:48Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 1000875,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 1001134,
       "likes": 16323,
       "comments": 540
     },
@@ -45,10 +45,10 @@
       "video_id": "IqcS1d3eXYc",
       "title": "Minecraft Speedrunner Swap VS 3 Hunters",
       "published_at": "2026-08-09T16:30:06Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 7092813,
-      "likes": 176810,
-      "comments": 8021
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 7094174,
+      "likes": 176828,
+      "comments": 8020
     }
   ]
 }

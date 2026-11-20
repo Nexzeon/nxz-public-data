@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCsQBsZJltmLzlsJNG7HevBg",
-  "generated_at": "2026-11-20T07:32:03Z",
+  "generated_at": "2026-11-20T13:28:31Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "TlEuAoE_Cao",
       "title": "LilGoatD3 - Girls (Tyler, The Creator Remix)",
       "published_at": "2026-09-29T10:00:34Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 1034347,
-      "likes": 50495,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 1034746,
+      "likes": 50501,
       "comments": 3531
     },
     {
       "video_id": "zMrVd3NjHgs",
       "title": "Tyler, The Creator - Thought I Was Dead / Sugar On My Tongue (Live at the 2026 GRAMMYs)",
       "published_at": "2026-02-16T16:26:43Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 4992171,
-      "likes": 161228,
-      "comments": 5544
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 4993504,
+      "likes": 161244,
+      "comments": 5543
     },
     {
       "video_id": "1f_cpXJtlQk",
       "title": "SAG HARBOR (Official Video)",
       "published_at": "2025-12-25T20:18:31Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 5229479,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 5230083,
       "likes": 272683,
       "comments": 10954
     },
@@ -36,8 +36,8 @@
       "video_id": "odtcH-FEVvg",
       "title": "SUGAR ON MY TONGUE (Freak Mix)",
       "published_at": "2025-12-25T20:11:22Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 2695300,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 2695664,
       "likes": 83041,
       "comments": 6145
     },
@@ -45,8 +45,8 @@
       "video_id": "HgUTnfoR51Y",
       "title": "Tyler, The Creator - Mother (Live at Camp Flog Gnaw 2025)",
       "published_at": "2025-11-27T22:26:23Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 305765,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 305813,
       "likes": 14538,
       "comments": 1167
     }

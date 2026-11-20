@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCT3EznhW_CNFcfOlyDNTLLw",
-  "generated_at": "2026-11-20T07:32:03Z",
+  "generated_at": "2026-11-20T13:28:31Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "7YUH244pUNg",
       "title": "The Anthropic IPO Explained",
       "published_at": "2026-11-19T12:30:01Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 93524,
-      "likes": 1511,
-      "comments": 154
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 99701,
+      "likes": 1578,
+      "comments": 155
     },
     {
       "video_id": "ozB7zOEHWQE",
       "title": "Something Just Broke In The Housing Market",
       "published_at": "2026-11-18T12:30:32Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 191773,
-      "likes": 2138,
-      "comments": 319
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 197693,
+      "likes": 2178,
+      "comments": 321
     },
     {
       "video_id": "l9menYD3fHI",
       "title": "The Market Just Broke (Here’s Why)",
       "published_at": "2026-11-17T12:30:25Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 231884,
-      "likes": 3005,
-      "comments": 395
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 232551,
+      "likes": 3008,
+      "comments": 393
     },
     {
       "video_id": "SpfTkrMGXmU",
       "title": "The Stock Market Is A Lie (Here’s Who’s Really Buying)",
       "published_at": "2026-11-16T12:30:22Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 225798,
-      "likes": 2991,
-      "comments": 188
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 226648,
+      "likes": 3002,
+      "comments": 189
     },
     {
       "video_id": "4N-aBjn7-d8",
       "title": "The Fed Is Preparing For Something Big In December",
       "published_at": "2026-11-15T12:30:33Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 115315,
-      "likes": 1737,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 115713,
+      "likes": 1742,
       "comments": 242
     },
     {
       "video_id": "eSkRta5aldE",
       "title": "Trump’s 2027 Plan To Wipe Out The $40 Trillion Debt",
       "published_at": "2026-11-14T12:30:16Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 589850,
-      "likes": 7784,
-      "comments": 908
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 595101,
+      "likes": 7842,
+      "comments": 915
     }
   ]
 }

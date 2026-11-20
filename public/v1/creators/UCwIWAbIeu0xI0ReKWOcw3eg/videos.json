@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCwIWAbIeu0xI0ReKWOcw3eg",
-  "generated_at": "2026-11-20T07:32:03Z",
+  "generated_at": "2026-11-20T13:28:31Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "z0kKJpXw3OY",
       "title": "World's Longest Backyard Waterslide!",
       "published_at": "2026-11-14T16:00:33Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 2500072,
-      "likes": 17669,
-      "comments": 1287
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 2542891,
+      "likes": 17810,
+      "comments": 1301
     },
     {
       "video_id": "1hGNfPY94LQ",
       "title": "I Turned My House Into A FISH TANK!",
       "published_at": "2026-10-31T15:00:34Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 5464805,
-      "likes": 31351,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 5480440,
+      "likes": 31382,
       "comments": 5100
     },
     {
       "video_id": "PZn-4aeoMrE",
       "title": "I Filled My Lego House With Chocolate!",
       "published_at": "2026-10-17T15:00:35Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 2661778,
-      "likes": 21740,
-      "comments": 5337
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 2663716,
+      "likes": 21745,
+      "comments": 5340
     },
     {
       "video_id": "LWvdma1nSBA",
       "title": "50 Extreme Ways To Use A Trampoline!",
       "published_at": "2026-10-10T15:00:29Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 1217238,
-      "likes": 10047,
-      "comments": 1061
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 1218308,
+      "likes": 10048,
+      "comments": 1062
     },
     {
       "video_id": "oxMfOOmuBrE",
       "title": "We Are SO BACK!",
       "published_at": "2026-10-02T17:30:15Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 332086,
-      "likes": 6224,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 332538,
+      "likes": 6229,
       "comments": 393
     }
   ]

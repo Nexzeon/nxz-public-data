@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCqynl7rdtktKMQESdSBmE-g",
-  "generated_at": "2026-11-20T07:32:03Z",
+  "generated_at": "2026-11-20T13:28:31Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I5TrqofP_eI",
       "title": "We Need to Beat Minecraft in 5 Minutes",
       "published_at": "2026-11-10T17:50:48Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 1447640,
-      "likes": 28478,
-      "comments": 1268
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 1455112,
+      "likes": 28543,
+      "comments": 1269
     },
     {
       "video_id": "C3j_SVnvdcY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE (Hunters Edition)",
       "published_at": "2026-10-25T22:04:22Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 968087,
-      "likes": 18422,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 968420,
+      "likes": 18425,
       "comments": 727
     },
     {
       "video_id": "DSizdcW_31o",
       "title": "Minecraft 2v2 Death Swap",
       "published_at": "2026-08-06T03:23:42Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 1707058,
-      "likes": 37910,
-      "comments": 1187
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 1707777,
+      "likes": 37916,
+      "comments": 1188
     },
     {
       "video_id": "nVOnyMVKDV8",
       "title": "Minecraft TNT Battle",
       "published_at": "2026-06-13T18:17:23Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 103373,
-      "likes": 3770,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 103415,
+      "likes": 3772,
       "comments": 70
     },
     {
       "video_id": "0vVjixEpbwQ",
       "title": "Minecraft TNT Battle",
       "published_at": "2026-06-12T01:33:51Z",
-      "observed_at": "2026-11-20T07:30:59Z",
-      "views": 459399,
-      "likes": 12312,
+      "observed_at": "2026-11-20T13:27:16Z",
+      "views": 459427,
+      "likes": 12311,
       "comments": 59
     }
   ]
