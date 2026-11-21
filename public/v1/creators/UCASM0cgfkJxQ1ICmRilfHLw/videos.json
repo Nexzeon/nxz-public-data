@@ -2,51 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-  "generated_at": "2026-11-21T07:26:48Z",
+  "generated_at": "2026-11-21T13:13:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "6dOFQHTVzEg",
       "title": "Nvidia Had No Plan B",
       "published_at": "2026-11-15T11:23:26Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 1968834,
-      "likes": 37009,
-      "comments": 4270
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 1978719,
+      "likes": 37092,
+      "comments": 4278
     },
     {
       "video_id": "yU8JpuK5NZs",
       "title": "The Binance Hack Isn’t Funny!",
       "published_at": "2026-11-06T06:41:48Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 1505929,
-      "likes": 21749,
-      "comments": 2130
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 1515149,
+      "likes": 21771,
+      "comments": 2135
     },
     {
       "video_id": "Ic1Jf7VlXRM",
       "title": "Anthropic Opened Its Books. What Is It Really Worth?",
       "published_at": "2026-10-31T14:25:37Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 1673135,
-      "likes": 25513,
-      "comments": 2424
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 1677666,
+      "likes": 25548,
+      "comments": 2432
     },
     {
       "video_id": "NyOeLB0WVNE",
       "title": "Elon Musk’s Power Plant on Wheels",
       "published_at": "2026-10-24T15:06:23Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 1390047,
-      "likes": 20813,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 1391390,
+      "likes": 20819,
       "comments": 2260
     },
     {
       "video_id": "JnceIDVMZyQ",
       "title": "Putin’s Plan to Protect Russia’s Internet Backfired",
       "published_at": "2026-10-17T11:27:44Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 1260677,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 1261337,
       "likes": 24048,
       "comments": 1671
     }

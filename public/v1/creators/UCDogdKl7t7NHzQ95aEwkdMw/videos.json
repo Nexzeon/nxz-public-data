@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
-  "generated_at": "2026-11-21T07:26:48Z",
+  "generated_at": "2026-11-21T13:13:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "fwqEB2HdY88",
       "title": "SIDEMEN MURDER MYSTERY DINNER",
       "published_at": "2026-11-15T19:00:10Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 7303736,
-      "likes": 254831,
-      "comments": 13495
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 7376273,
+      "likes": 256642,
+      "comments": 13564
     },
     {
       "video_id": "BcOP1ZEOTo0",
       "title": "SIDEMEN YOUTUBER PUB QUIZ",
       "published_at": "2026-11-08T19:00:01Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 4891495,
-      "likes": 89094,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 4901471,
+      "likes": 89208,
       "comments": 2522
     },
     {
       "video_id": "lTd6YiA8WDI",
       "title": "SIDEMEN FIRST TO ESCAPE THE MANSION",
       "published_at": "2026-11-01T19:00:08Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 4203614,
-      "likes": 69994,
-      "comments": 2645
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 4209800,
+      "likes": 70072,
+      "comments": 2647
     },
     {
       "video_id": "LTiGuCOPITQ",
       "title": "SIDEMEN HOW FAR CAN YOU GET (ROAD TRIP EDITION)",
       "published_at": "2026-10-25T19:00:07Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 5878605,
-      "likes": 91574,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 5882826,
+      "likes": 91611,
       "comments": 2701
     },
     {
       "video_id": "lvy3x4_Q2HE",
       "title": "We Invited 20 YouTubers on the Ultimate Party Bus",
       "published_at": "2026-10-18T18:00:39Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 4049690,
-      "likes": 69434,
-      "comments": 3226
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 4050890,
+      "likes": 69452,
+      "comments": 3227
     },
     {
       "video_id": "BhTqWKNO-aA",
       "title": "SIDEMEN £2,000 CAR CHALLENGE",
       "published_at": "2026-10-11T18:00:17Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 7488310,
-      "likes": 129959,
-      "comments": 3854
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 7490405,
+      "likes": 129985,
+      "comments": 3855
     }
   ]
 }

@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCqynl7rdtktKMQESdSBmE-g",
-  "generated_at": "2026-11-21T07:26:48Z",
+  "generated_at": "2026-11-21T13:13:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I5TrqofP_eI",
       "title": "We Need to Beat Minecraft in 5 Minutes",
       "published_at": "2026-11-10T17:50:48Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 1476605,
-      "likes": 28723,
-      "comments": 1271
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 1483292,
+      "likes": 28766,
+      "comments": 1269
     },
     {
       "video_id": "C3j_SVnvdcY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE (Hunters Edition)",
       "published_at": "2026-10-25T22:04:22Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 969510,
-      "likes": 18436,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 969764,
+      "likes": 18438,
       "comments": 727
     },
     {
       "video_id": "DSizdcW_31o",
       "title": "Minecraft 2v2 Death Swap",
       "published_at": "2026-08-06T03:23:42Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 1710201,
-      "likes": 37940,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 1710872,
+      "likes": 37950,
       "comments": 1188
     },
     {
       "video_id": "nVOnyMVKDV8",
       "title": "Minecraft TNT Battle",
       "published_at": "2026-06-13T18:17:23Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 103505,
-      "likes": 3773,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 103549,
+      "likes": 3775,
       "comments": 70
     },
     {
       "video_id": "0vVjixEpbwQ",
       "title": "Minecraft TNT Battle",
       "published_at": "2026-06-12T01:33:51Z",
-      "observed_at": "2026-11-21T07:25:23Z",
-      "views": 459484,
-      "likes": 12310,
+      "observed_at": "2026-11-21T13:11:57Z",
+      "views": 459512,
+      "likes": 12312,
       "comments": 59
     }
   ]
