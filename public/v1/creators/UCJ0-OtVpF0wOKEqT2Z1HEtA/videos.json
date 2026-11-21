@@ -2,61 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-  "generated_at": "2026-11-21T01:24:09Z",
+  "generated_at": "2026-11-21T07:26:48Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "1031VBUm3oE",
       "title": "High Frequency Trickery #electricity #experiments #funny",
       "published_at": "2026-11-12T05:53:17Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 85645,
-      "likes": 4154,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 86408,
+      "likes": 4171,
       "comments": 120
     },
     {
       "video_id": "vKcCaICNYlk",
       "title": "Dangerous Fake Video #experiment #electrical #funny",
       "published_at": "2026-11-06T16:01:57Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 1083543,
-      "likes": 47921,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 1087271,
+      "likes": 48020,
       "comments": 670
     },
     {
       "video_id": "C2ZiaUCyRMY",
       "title": "Just Open the Breaker! #electrical #Installation #DIY #Funny",
       "published_at": "2026-10-27T17:28:09Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 475525,
-      "likes": 14151,
-      "comments": 447
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 478571,
+      "likes": 14226,
+      "comments": 451
     },
     {
       "video_id": "ZjyrZmtc7L0",
       "title": "Electrical Wiring, Installations and Upgrade",
       "published_at": "2026-10-25T16:00:09Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 1643288,
-      "likes": 30518,
-      "comments": 2898
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 1644295,
+      "likes": 30531,
+      "comments": 2901
     },
     {
       "video_id": "sjTCGkq7PRk",
       "title": "Never Trust Facebook AI Posts! #lithiumbattery #experiment #test #charger #funnyreels #teamhuman",
       "published_at": "2026-10-10T19:33:29Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 4472919,
-      "likes": 172475,
-      "comments": 3982
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 4481504,
+      "likes": 172795,
+      "comments": 3986
     },
     {
       "video_id": "6Uv94zhK9M0",
       "title": "Facebook is FULL of It 🤬",
       "published_at": "2026-10-10T16:00:03Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 1584185,
-      "likes": 41170,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 1584628,
+      "likes": 41182,
       "comments": 2998
     }
   ]

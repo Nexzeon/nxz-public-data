@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0ifXd2AVf1LMYbqwB5GH4g",
-  "generated_at": "2026-11-21T01:24:09Z",
+  "generated_at": "2026-11-21T07:26:48Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "3hVKr-fEIC8",
       "title": "Polo G - Dope Spot (Official Video)",
       "published_at": "2026-11-13T17:00:20Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 634348,
-      "likes": 25398,
-      "comments": 1189
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 652486,
+      "likes": 25677,
+      "comments": 1194
     },
     {
       "video_id": "GRrC5SEgs20",
       "title": "Polo G - Still Standing (Official Video)",
       "published_at": "2026-09-20T19:00:06Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 2153386,
-      "likes": 43452,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 2155778,
+      "likes": 43481,
       "comments": 2294
     },
     {
       "video_id": "ia_mT3q_pQc",
       "title": "Polo G - OMG (Official Video)",
       "published_at": "2026-08-21T04:00:06Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 3553090,
-      "likes": 30238,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 3553906,
+      "likes": 30247,
       "comments": 2072
     },
     {
       "video_id": "-otiUvOXEhM",
       "title": "Polo G - OMG (Official Trailer)",
       "published_at": "2026-08-17T20:13:24Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 118374,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 118380,
       "likes": 4410,
       "comments": 423
     },
@@ -45,10 +45,10 @@
       "video_id": "-4Jd2wiGJKA",
       "title": "Polo G - Weight On My Shoulders (Official Video)",
       "published_at": "2026-06-12T04:00:06Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 5704145,
-      "likes": 64745,
-      "comments": 2348
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 5705186,
+      "likes": 64755,
+      "comments": 2349
     }
   ]
 }

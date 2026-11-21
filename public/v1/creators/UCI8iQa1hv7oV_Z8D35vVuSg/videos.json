@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCI8iQa1hv7oV_Z8D35vVuSg",
-  "generated_at": "2026-11-21T01:24:09Z",
+  "generated_at": "2026-11-21T07:26:48Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "mr8bMFCGzrQ",
       "title": "Some Gamers Are Wrong About 30 FPS Gaming & GTA 6",
       "published_at": "2026-11-18T10:00:25Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 631810,
-      "likes": 9285,
-      "comments": 3278
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 635561,
+      "likes": 9345,
+      "comments": 3296
     },
     {
       "video_id": "PGd7VKud2h0",
       "title": "5800X3D vs. 9800X3D, The \"Real-World\" Gaming Difference Benchmarked",
       "published_at": "2026-11-17T10:00:27Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 402547,
-      "likes": 9259,
-      "comments": 2416
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 407828,
+      "likes": 9303,
+      "comments": 2403
     },
     {
       "video_id": "EeinHkz8ozo",
       "title": "Some Gamers Think AMD is \"Terrible at GPUs\". How Long Until That Changes?",
       "published_at": "2026-11-14T10:00:14Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 194745,
-      "likes": 3835,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 195253,
+      "likes": 3837,
       "comments": 1471
     },
     {
       "video_id": "ZjMeZd8H5w4",
       "title": "Building A Gaming PC For Movember | Supporting Men's Health",
       "published_at": "2026-11-12T12:34:37Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 74688,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 74715,
       "likes": 790,
       "comments": 40
     },
@@ -45,9 +45,9 @@
       "video_id": "5KN7-Bfp2do",
       "title": "Is The RTX 5070 Ti Next to Go?",
       "published_at": "2026-11-10T10:00:15Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 179233,
-      "likes": 3386,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 179500,
+      "likes": 3387,
       "comments": 1063
     }
   ]

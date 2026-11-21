@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-  "generated_at": "2026-11-21T01:24:09Z",
+  "generated_at": "2026-11-21T07:26:48Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "tDrGZPt4qIY",
       "title": "The Worst Possible Swing Technique",
       "published_at": "2026-11-20T22:51:34Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 32752,
-      "likes": 1669,
-      "comments": 197
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 203149,
+      "likes": 4179,
+      "comments": 524
     },
     {
       "video_id": "zRYDe4JAmeA",
       "title": "Which Disc Will Spin for Longer?",
       "published_at": "2026-11-18T18:31:30Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 55633,
-      "likes": 1625,
-      "comments": 156
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 57159,
+      "likes": 1647,
+      "comments": 158
     },
     {
       "video_id": "Z-2pTzSZtLU",
       "title": "This Material Sorts Itself",
       "published_at": "2026-10-31T12:50:48Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 1696983,
-      "likes": 23507,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 1698705,
+      "likes": 23521,
       "comments": 1240
     },
     {
       "video_id": "6gsZY_-kT3U",
       "title": "This Device Turns Anything into a Suction Cup",
       "published_at": "2026-09-30T23:26:33Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 1714388,
-      "likes": 25131,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 1714798,
+      "likes": 25134,
       "comments": 1252
     },
     {
       "video_id": "nwot04PfgaU",
       "title": "Hooded Seals are Really Weird...",
       "published_at": "2026-09-10T11:03:55Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 1813238,
-      "likes": 80059,
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 1817607,
+      "likes": 80238,
       "comments": 532
     },
     {
       "video_id": "k3Q9UWWiPsQ",
       "title": "The \"Perpetual Motion\" Pump That Actually Works",
       "published_at": "2026-08-31T22:09:08Z",
-      "observed_at": "2026-11-21T01:22:57Z",
-      "views": 4353452,
-      "likes": 44070,
-      "comments": 2403
+      "observed_at": "2026-11-21T07:25:23Z",
+      "views": 4354197,
+      "likes": 44072,
+      "comments": 2404
     }
   ]
 }
