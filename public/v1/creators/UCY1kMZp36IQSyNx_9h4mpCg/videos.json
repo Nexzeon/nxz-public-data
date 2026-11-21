@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-  "generated_at": "2026-11-21T13:13:09Z",
+  "generated_at": "2026-11-21T19:01:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "aJv3QJrFp_Q",
       "title": "How Big Is a Shooting Star?",
       "published_at": "2026-11-13T14:00:01Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 1474015,
-      "likes": 30036,
-      "comments": 196
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 1505960,
+      "likes": 30352,
+      "comments": 195
     },
     {
       "video_id": "BhNkTnqwlys",
       "title": "Beat Me, Win $100",
       "published_at": "2026-10-30T16:06:28Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 1038768,
-      "likes": 18498,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 1047738,
+      "likes": 18562,
       "comments": 160
     },
     {
       "video_id": "Q4nEdB1cfUk",
       "title": "The Insane Science Hidden in These Toys",
       "published_at": "2026-10-28T13:00:39Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 11301181,
-      "likes": 71012,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 11369210,
+      "likes": 71290,
       "comments": 295
     },
     {
       "video_id": "26P1KyvrmjI",
       "title": "I Solved Every Board Game",
       "published_at": "2026-10-24T13:00:22Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 25813614,
-      "likes": 254604,
-      "comments": 4389
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 25883829,
+      "likes": 254952,
+      "comments": 4351
     },
     {
       "video_id": "eXv6fWonvUM",
       "title": "Can You Scientifically Measure Fun?",
       "published_at": "2026-10-21T13:00:01Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 2347061,
-      "likes": 26270,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 2349642,
+      "likes": 26280,
       "comments": 289
     }
   ]

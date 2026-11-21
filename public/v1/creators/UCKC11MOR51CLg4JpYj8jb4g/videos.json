@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCKC11MOR51CLg4JpYj8jb4g",
-  "generated_at": "2026-11-21T13:13:09Z",
+  "generated_at": "2026-11-21T19:01:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "RzsoMqho0a0",
       "title": "Metro Boomin, Roscoe Dash, Quavo - Butterflies (Right Now) [Official Music Video]",
       "published_at": "2026-04-02T19:00:21Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 252418,
-      "likes": 11786,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 252510,
+      "likes": 11789,
       "comments": 492
     },
     {
       "video_id": "Jw2c0HNrNe0",
       "title": "Metro Boomin, Lil Baby, Lil Meany, Skooly, DJ Spinz - Don't Stop Dancin (Official Music Video)",
       "published_at": "2026-03-26T19:00:17Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 92901,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 93007,
       "likes": 4247,
       "comments": 337
     },
@@ -27,27 +27,27 @@
       "video_id": "M7zTWKJsdNY",
       "title": "Metro Boomin, Travis Porter, Young Dro, Gucci Mane - They Wanna Have Fun (Official Music Video)",
       "published_at": "2026-03-11T18:00:07Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 720160,
-      "likes": 23855,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 720362,
+      "likes": 23859,
       "comments": 933
     },
     {
       "video_id": "MPkWiO0y3qg",
       "title": "Metro Boomin - Loose Screws ft. Skooly, Shad Da God, & DJ Spinz (Official Music Video)",
       "published_at": "2025-11-13T19:00:07Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 335696,
-      "likes": 9253,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 335747,
+      "likes": 9254,
       "comments": 479
     },
     {
       "video_id": "HkJysYhwb-k",
       "title": "Metro Boomin - I Want It All ft.DJ Spinz (Official Instrumental Audio)",
       "published_at": "2025-11-11T15:24:35Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 29268,
-      "likes": 519,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 29276,
+      "likes": 520,
       "comments": 0
     }
   ]

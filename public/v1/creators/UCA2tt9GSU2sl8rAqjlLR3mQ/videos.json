@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCA2tt9GSU2sl8rAqjlLR3mQ",
-  "generated_at": "2026-11-21T13:13:09Z",
+  "generated_at": "2026-11-21T19:01:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "LKpA4UFXf0M",
       "title": "They thought I was alone...",
       "published_at": "2026-09-12T14:43:29Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 1266553,
-      "likes": 40068,
-      "comments": 689
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 1276544,
+      "likes": 40216,
+      "comments": 691
     },
     {
       "video_id": "iq_gM721YoM",
       "title": "Minecraft, But If I Blink I Lose",
       "published_at": "2026-09-10T03:09:15Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 590711,
-      "likes": 24037,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 591031,
+      "likes": 24046,
       "comments": 388
     },
     {
       "video_id": "v5PEJtaHga4",
       "title": "Beating Minecraft Hardcore - ALL Bosses (1 LIFE ONLY)",
       "published_at": "2026-08-13T01:46:03Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 187945,
-      "likes": 5748,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 187982,
+      "likes": 5749,
       "comments": 253
     },
     {
       "video_id": "LSP3_dfFYJE",
       "title": "Completing All Minecraft Advancements Blind (No Google or Help) - Day 23",
       "published_at": "2026-06-29T03:38:33Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 60605,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 60616,
       "likes": 1957,
       "comments": 143
     },
@@ -45,8 +45,8 @@
       "video_id": "4xTpGizG-jQ",
       "title": "Completing All Minecraft Advancements Blind (No Google or Help) - Day 22",
       "published_at": "2026-06-14T04:58:54Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 56988,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 56991,
       "likes": 2140,
       "comments": 116
     }

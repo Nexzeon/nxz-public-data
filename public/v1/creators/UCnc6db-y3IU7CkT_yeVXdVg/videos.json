@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCnc6db-y3IU7CkT_yeVXdVg",
-  "generated_at": "2026-11-21T13:13:09Z",
+  "generated_at": "2026-11-21T19:01:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "YSz47NbEpLU",
       "title": "J. Cole - Two Six Clip",
       "published_at": "2026-03-07T20:14:50Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 54643,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 54644,
       "likes": 3252,
-      "comments": 110
+      "comments": 109
     },
     {
       "video_id": "bL-MeDjkZKI",
       "title": "J. Cole - Two Six Clip",
       "published_at": "2026-03-07T20:14:40Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 55056,
-      "likes": 2712,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 55057,
+      "likes": 2713,
       "comments": 77
     },
     {
       "video_id": "-TzVBtcKfPg",
       "title": "J. Cole - Two Six Clip",
       "published_at": "2026-03-07T20:14:28Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 56712,
-      "likes": 3012,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 56717,
+      "likes": 3013,
       "comments": 80
     },
     {
       "video_id": "J2LQYa42zEQ",
       "title": "J. Cole - Two Six Clip",
       "published_at": "2026-03-07T20:14:16Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 32508,
-      "likes": 1911,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 32509,
+      "likes": 1912,
       "comments": 49
     },
     {
       "video_id": "OtxBlSpaslU",
       "title": "J. Cole - Two Six Clip",
       "published_at": "2026-03-07T20:14:00Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 26581,
-      "likes": 1654,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 26582,
+      "likes": 1655,
       "comments": 40
     }
   ]

@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-  "generated_at": "2026-11-21T13:13:09Z",
+  "generated_at": "2026-11-21T19:01:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "kSx7OL5-w2E",
       "title": "YE & Don Toliver - OK",
       "published_at": "2026-08-18T19:00:06Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 6573193,
-      "likes": 149594,
-      "comments": 6238
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 6578145,
+      "likes": 149624,
+      "comments": 6237
     },
     {
       "video_id": "PRWqgogm8TE",
       "title": "GEMINI SEASON",
       "published_at": "2026-06-08T21:27:49Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 1807198,
-      "likes": 55517,
-      "comments": 8285
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 1807629,
+      "likes": 55521,
+      "comments": 8283
     },
     {
       "video_id": "wl0ACp_mPGs",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #Shorts",
       "published_at": "2026-03-29T15:35:33Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 456004,
-      "likes": 20389,
-      "comments": 646
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 456030,
+      "likes": 20390,
+      "comments": 647
     },
     {
       "video_id": "2XCc9aRLDtA",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:19:02Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 215931,
-      "likes": 10086,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 215984,
+      "likes": 10087,
       "comments": 359
     },
     {
       "video_id": "1nEnXbLSJMg",
       "title": "FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:12:35Z",
-      "observed_at": "2026-11-21T13:11:57Z",
-      "views": 504785,
-      "likes": 20130,
+      "observed_at": "2026-11-21T19:00:19Z",
+      "views": 504859,
+      "likes": 20134,
       "comments": 647
     }
   ]
