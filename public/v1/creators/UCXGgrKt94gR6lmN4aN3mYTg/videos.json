@@ -2,71 +2,80 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCXGgrKt94gR6lmN4aN3mYTg",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "c7fvxmnNMzQ",
+      "title": "Can I Trick iPhone Duo Face Unlock?",
+      "published_at": "2026-11-20T18:48:04Z",
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 21646,
+      "likes": 1241,
+      "comments": 18
+    },
     {
       "video_id": "qlEb-OaAygQ",
       "title": "Playing GTA 6 on Xbox One",
       "published_at": "2026-11-19T20:23:20Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 250766,
-      "likes": 8064,
-      "comments": 255
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 298632,
+      "likes": 9203,
+      "comments": 292
     },
     {
       "video_id": "8QWn6RMtyzc",
       "title": "I FINALLY Have the New GTA",
       "published_at": "2026-11-18T23:24:07Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 61985,
-      "likes": 2143,
-      "comments": 46
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 65293,
+      "likes": 2268,
+      "comments": 48
     },
     {
       "video_id": "k58JCWnA8hs",
       "title": "The @speediance.official Gym Monster 3S is Awesome",
       "published_at": "2026-11-18T18:28:53Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 7546,
-      "likes": 498,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 8178,
+      "likes": 539,
       "comments": 4
     },
     {
       "video_id": "ZzM63jPARIc",
       "title": "The Black Friday Tech to ACTUALLY Buy",
       "published_at": "2026-11-18T16:01:08Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 554229,
-      "likes": 7069,
-      "comments": 356
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 583399,
+      "likes": 7328,
+      "comments": 389
     },
     {
       "video_id": "pHZURCPW4eE",
       "title": "The REAL Reason to Buy the Next Xbox",
       "published_at": "2026-11-17T21:19:26Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 57722,
-      "likes": 2148,
-      "comments": 102
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 59437,
+      "likes": 2186,
+      "comments": 104
     },
     {
       "video_id": "_nXTL1MgA5s",
       "title": "The Next Xbox Isn't a PC",
       "published_at": "2026-11-17T16:01:09Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 338716,
-      "likes": 5458,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 342166,
+      "likes": 5495,
       "comments": 587
     },
     {
       "video_id": "ypVzrCl-fQs",
       "title": "This PSP has a Secret…",
       "published_at": "2026-11-16T20:23:51Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 102678,
-      "likes": 3340,
-      "comments": 36
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 104594,
+      "likes": 3393,
+      "comments": 37
     }
   ]
 }

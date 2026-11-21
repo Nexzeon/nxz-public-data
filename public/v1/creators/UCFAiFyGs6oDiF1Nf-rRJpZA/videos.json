@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCFAiFyGs6oDiF1Nf-rRJpZA",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "u7mknvjcxP0",
       "title": "Technoblade's Spectacular 20 Million Substravaganza (contains swearing) #techno20mil",
       "published_at": "2025-06-01T16:00:11Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 6346670,
-      "likes": 243121,
-      "comments": 32493
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 6348771,
+      "likes": 243147,
+      "comments": 32498
     },
     {
       "video_id": "N1XGZ9GWsyI",
       "title": "playing minecraft hardcore mode with a steering wheel",
       "published_at": "2025-05-31T14:29:06Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 650616,
-      "likes": 43962,
-      "comments": 7864
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 651029,
+      "likes": 43967,
+      "comments": 7865
     },
     {
       "video_id": "QWpaE558qlg",
       "title": "Trailer for Technoblade 20 million #Techno20mil",
       "published_at": "2025-05-26T03:44:26Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 5530414,
-      "likes": 291742,
-      "comments": 15965
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 5532297,
+      "likes": 291764,
+      "comments": 15967
     },
     {
       "video_id": "93EgcQD9TsQ",
       "title": "20 Million Stream",
       "published_at": "2025-05-26T02:51:58Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1396447,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1396790,
       "likes": 82698,
       "comments": 2782
     },
@@ -45,10 +45,10 @@
       "video_id": "Y9qbO0CCz4g",
       "title": "#Techno20mil SUBSCRIBE NOW!!!",
       "published_at": "2025-05-26T01:07:14Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 5375059,
-      "likes": 506442,
-      "comments": 27934
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 5375658,
+      "likes": 506450,
+      "comments": 27932
     }
   ]
 }

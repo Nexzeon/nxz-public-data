@@ -2,98 +2,107 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "zGhJeLMIhbk",
+      "title": "3 IDIOTS TRY TO CHEAT DEATH | The Cabin Game",
+      "published_at": "2026-11-20T19:48:22Z",
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 321602,
+      "likes": 15696,
+      "comments": 656
+    },
     {
       "video_id": "t0n0oHvPbu4",
       "title": "I Almost Killed Ethan with a Giant Peanut",
       "published_at": "2026-11-19T20:00:28Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 981235,
-      "likes": 35486,
-      "comments": 1488
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1100243,
+      "likes": 38129,
+      "comments": 1538
     },
     {
       "video_id": "30vlk0TqCVg",
       "title": "FINAL WITNESS",
       "published_at": "2026-11-18T21:35:57Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1192013,
-      "likes": 32783,
-      "comments": 2150
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1235751,
+      "likes": 33711,
+      "comments": 2198
     },
     {
       "video_id": "eBDcSsn_zz0",
       "title": "Mark’s very good smart marketing strategy: A",
       "published_at": "2026-11-17T18:22:50Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 271740,
-      "likes": 30835,
-      "comments": 2311
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 275234,
+      "likes": 30986,
+      "comments": 2313
     },
     {
       "video_id": "2azaT1HxJHI",
       "title": "MONOCHROME",
       "published_at": "2026-11-17T18:18:02Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1983158,
-      "likes": 53879,
-      "comments": 3261
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 2014950,
+      "likes": 54657,
+      "comments": 3276
     },
     {
       "video_id": "5K49xpvMYyo",
       "title": "3 SCARY GAMES #117",
       "published_at": "2026-11-15T21:52:41Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1711454,
-      "likes": 49859,
-      "comments": 1709
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1728935,
+      "likes": 50190,
+      "comments": 1712
     },
     {
       "video_id": "k9jfDVoM1GU",
       "title": "THE WELL | REANIMAL - Part 5 (Ending)",
       "published_at": "2026-11-08T17:00:15Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 782867,
-      "likes": 25568,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 785195,
+      "likes": 25634,
       "comments": 951
     },
     {
       "video_id": "D9imslSDsOg",
       "title": "I Can Smell You From Here",
       "published_at": "2026-11-07T22:19:05Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 4390155,
-      "likes": 102778,
-      "comments": 2701
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 4420972,
+      "likes": 103426,
+      "comments": 2714
     },
     {
       "video_id": "dsyYwLBtYDE",
       "title": "THE DEEP & THE SHEEP | REANIMAL - Part 4",
       "published_at": "2026-11-04T19:20:20Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 867129,
-      "likes": 29061,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 868913,
+      "likes": 29115,
       "comments": 863
     },
     {
       "video_id": "4qhQxYOwrhg",
       "title": "3 SCARY GAMES #116",
       "published_at": "2026-11-03T18:19:38Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1986964,
-      "likes": 56053,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1990053,
+      "likes": 56116,
       "comments": 1860
     },
     {
       "video_id": "AGmCScwyHbo",
       "title": "SCHOOL OF DOOM | REANIMAL - Part 3",
       "published_at": "2026-10-30T16:00:26Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1004993,
-      "likes": 31067,
-      "comments": 1213
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1006490,
+      "likes": 31109,
+      "comments": 1214
     }
   ]
 }

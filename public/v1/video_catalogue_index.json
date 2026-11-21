@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "feed": "nxz-video-catalogue-index",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "channels": [
     {
@@ -27,7 +27,7 @@
     {
       "channel_id": "UC0DZmkupLYwc0yDsfocLh0A",
       "path": "/v1/creators/UC0DZmkupLYwc0yDsfocLh0A/videos.json",
-      "video_count": 10
+      "video_count": 14
     },
     {
       "channel_id": "UC0Kgvj5t_c9EMWpEDWJuR1Q",
@@ -122,7 +122,7 @@
     {
       "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
       "path": "/v1/creators/UC7_YxT-KID8kRbqZo7MyscQ/videos.json",
-      "video_count": 10
+      "video_count": 11
     },
     {
       "channel_id": "UC9CoOnJkIBMdeijd9qYoT_g",
@@ -157,7 +157,7 @@
     {
       "channel_id": "UCB2wtYpfbCpYDc5TeTwuqFA",
       "path": "/v1/creators/UCB2wtYpfbCpYDc5TeTwuqFA/videos.json",
-      "video_count": 6
+      "video_count": 7
     },
     {
       "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
@@ -202,7 +202,7 @@
     {
       "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
       "path": "/v1/creators/UCEIwxahdLz7bap-VDs9h35A/videos.json",
-      "video_count": 5
+      "video_count": 6
     },
     {
       "channel_id": "UCFAiFyGs6oDiF1Nf-rRJpZA",
@@ -212,7 +212,7 @@
     {
       "channel_id": "UCFfCqe7b9YiDk2ZiAG8UIGA",
       "path": "/v1/creators/UCFfCqe7b9YiDk2ZiAG8UIGA/videos.json",
-      "video_count": 5
+      "video_count": 6
     },
     {
       "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
@@ -222,7 +222,7 @@
     {
       "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
       "path": "/v1/creators/UCGXRegKvroyGv8HbN35AjKA/videos.json",
-      "video_count": 5
+      "video_count": 6
     },
     {
       "channel_id": "UCGmnsW623G1r-Chmo5RB4Yw",
@@ -237,7 +237,7 @@
     {
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "path": "/v1/creators/UCHnyfMqiRRG1u-2MsSQLbXA/videos.json",
-      "video_count": 9
+      "video_count": 10
     },
     {
       "channel_id": "UCI8iQa1hv7oV_Z8D35vVuSg",
@@ -272,12 +272,12 @@
     {
       "channel_id": "UCLe_q9axMaeTbjN0hy1Z9xA",
       "path": "/v1/creators/UCLe_q9axMaeTbjN0hy1Z9xA/videos.json",
-      "video_count": 9
+      "video_count": 13
     },
     {
       "channel_id": "UCLqH-U2TXzj1h7lyYQZLNQQ",
       "path": "/v1/creators/UCLqH-U2TXzj1h7lyYQZLNQQ/videos.json",
-      "video_count": 7
+      "video_count": 9
     },
     {
       "channel_id": "UCM9r1xn6s30OnlJWb-jc3Sw",
@@ -287,12 +287,12 @@
     {
       "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
       "path": "/v1/creators/UCMiJRAwDNSNzuYeN2uWa0pA/videos.json",
-      "video_count": 6
+      "video_count": 7
     },
     {
       "channel_id": "UCMp-0bU-PA7BNNR-zIvEydA",
       "path": "/v1/creators/UCMp-0bU-PA7BNNR-zIvEydA/videos.json",
-      "video_count": 5
+      "video_count": 6
     },
     {
       "channel_id": "UCNUbNl2U6Hg8J0Zem6hzC2g",
@@ -357,7 +357,7 @@
     {
       "channel_id": "UCUvvj5lwue7PspotMDjk5UA",
       "path": "/v1/creators/UCUvvj5lwue7PspotMDjk5UA/videos.json",
-      "video_count": 10
+      "video_count": 14
     },
     {
       "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
@@ -367,7 +367,7 @@
     {
       "channel_id": "UCV9dV3DcAZWGnT2yFNKxStA",
       "path": "/v1/creators/UCV9dV3DcAZWGnT2yFNKxStA/videos.json",
-      "video_count": 5
+      "video_count": 6
     },
     {
       "channel_id": "UCVS88tG_NYgxF6Udnx2815Q",
@@ -387,7 +387,7 @@
     {
       "channel_id": "UCVi6sLM51K8kidu61o0DR_g",
       "path": "/v1/creators/UCVi6sLM51K8kidu61o0DR_g/videos.json",
-      "video_count": 13
+      "video_count": 14
     },
     {
       "channel_id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
@@ -402,17 +402,17 @@
     {
       "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
       "path": "/v1/creators/UCWsDFcIhY2DBi3GB5uykGXA/videos.json",
-      "video_count": 18
+      "video_count": 20
     },
     {
       "channel_id": "UCWxlUwW9BgGISaakjGM37aw",
       "path": "/v1/creators/UCWxlUwW9BgGISaakjGM37aw/videos.json",
-      "video_count": 11
+      "video_count": 12
     },
     {
       "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
       "path": "/v1/creators/UCX6OQ3DkcsbYNE6H8uQQuVA/videos.json",
-      "video_count": 7
+      "video_count": 8
     },
     {
       "channel_id": "UCX6b17PVsYBQ0ip5gyeme-Q",
@@ -422,12 +422,12 @@
     {
       "channel_id": "UCXGgrKt94gR6lmN4aN3mYTg",
       "path": "/v1/creators/UCXGgrKt94gR6lmN4aN3mYTg/videos.json",
-      "video_count": 7
+      "video_count": 8
     },
     {
       "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
       "path": "/v1/creators/UCXuqSBlHAE6Xw-yeJA0Tunw/videos.json",
-      "video_count": 12
+      "video_count": 15
     },
     {
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
@@ -437,17 +437,17 @@
     {
       "channel_id": "UCYVinkwSX7szARULgYpvhLw",
       "path": "/v1/creators/UCYVinkwSX7szARULgYpvhLw/videos.json",
-      "video_count": 6
+      "video_count": 7
     },
     {
       "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
       "path": "/v1/creators/UCYzPXprvl5Y-Sf0g4vX-m6g/videos.json",
-      "video_count": 7
+      "video_count": 8
     },
     {
       "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
       "path": "/v1/creators/UCZYTClx2T1of7BRZ86-8fow/videos.json",
-      "video_count": 6
+      "video_count": 7
     },
     {
       "channel_id": "UC_dvqFmaVUj16kRKSLYBaSw",
@@ -472,7 +472,7 @@
     {
       "channel_id": "UCcJL2ld6kxy_nuV1u7PVQ0g",
       "path": "/v1/creators/UCcJL2ld6kxy_nuV1u7PVQ0g/videos.json",
-      "video_count": 9
+      "video_count": 10
     },
     {
       "channel_id": "UCcgVECVN4OKV6DH1jLkqmcA",
@@ -507,7 +507,7 @@
     {
       "channel_id": "UCh2aTKSbIyxpnOsbHsmV-ig",
       "path": "/v1/creators/UCh2aTKSbIyxpnOsbHsmV-ig/videos.json",
-      "video_count": 6
+      "video_count": 7
     },
     {
       "channel_id": "UCh7EqOZt7EvO2osuKbIlpGg",
@@ -517,7 +517,7 @@
     {
       "channel_id": "UChIZGfcnjHI0DG4nweWEduw",
       "path": "/v1/creators/UChIZGfcnjHI0DG4nweWEduw/videos.json",
-      "video_count": 5
+      "video_count": 6
     },
     {
       "channel_id": "UChIs72whgZI9w6d6FhwGGHA",
@@ -567,7 +567,7 @@
     {
       "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
       "path": "/v1/creators/UCoOae5nYA7VqaXzerajD0lg/videos.json",
-      "video_count": 9
+      "video_count": 10
     },
     {
       "channel_id": "UCoR7CHkMETs3ByOv74OAbFw",
@@ -582,7 +582,7 @@
     {
       "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
       "path": "/v1/creators/UCpB959t8iPrxQWj7G6n0ctQ/videos.json",
-      "video_count": 5
+      "video_count": 6
     },
     {
       "channel_id": "UCqECaJ8Gagnn7YCbPEzWH6g",
@@ -602,7 +602,7 @@
     {
       "channel_id": "UCrPseYLGpNygVi34QpGNqpA",
       "path": "/v1/creators/UCrPseYLGpNygVi34QpGNqpA/videos.json",
-      "video_count": 15
+      "video_count": 18
     },
     {
       "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
@@ -647,7 +647,7 @@
     {
       "channel_id": "UCvCfpQXRXdJdL07pzTIA6Cw",
       "path": "/v1/creators/UCvCfpQXRXdJdL07pzTIA6Cw/videos.json",
-      "video_count": 22
+      "video_count": 26
     },
     {
       "channel_id": "UCvj3hNvwrEgTRkeut7_cBAQ",

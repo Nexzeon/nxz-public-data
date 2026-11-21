@@ -2,71 +2,80 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "WjCH5JUNzao",
+      "title": "Can I Beat Magnus Carlsen?",
+      "published_at": "2026-11-20T17:00:01Z",
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 4369116,
+      "likes": 166446,
+      "comments": 3455
+    },
     {
       "video_id": "q6fgVVmdpgY",
       "title": "$250,000 Hunger Games In Real Life",
       "published_at": "2026-11-14T17:00:05Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 88832913,
-      "likes": 1323782,
-      "comments": 66278
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 90088134,
+      "likes": 1331467,
+      "comments": 66604
     },
     {
       "video_id": "sHpEqeSByPI",
       "title": "Unboxing The World’s Largest Toy",
       "published_at": "2026-11-13T17:00:00Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 29481113,
-      "likes": 398787,
-      "comments": 10519
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 29842102,
+      "likes": 402018,
+      "comments": 10552
     },
     {
       "video_id": "kPI9Mc35mOg",
       "title": "Trap Door Roulette",
       "published_at": "2026-11-06T17:00:02Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 115771928,
-      "likes": 1747091,
-      "comments": 13511
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 116682766,
+      "likes": 1755879,
+      "comments": 13527
     },
     {
       "video_id": "_c2e1NcI3Sc",
       "title": "Beat Professional Athlete, Win $100,000",
       "published_at": "2026-10-31T16:00:00Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 101902422,
-      "likes": 1301485,
-      "comments": 68461
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 102123947,
+      "likes": 1302436,
+      "comments": 68482
     },
     {
       "video_id": "41UzbuW6wJs",
       "title": "Can A Robot Do My Chores?",
       "published_at": "2026-10-30T17:00:04Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 93433881,
-      "likes": 1355704,
-      "comments": 19731
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 94016561,
+      "likes": 1362339,
+      "comments": 19774
     },
     {
       "video_id": "mND4T0lzg_g",
       "title": "How People Treat You Based on Subscribers",
       "published_at": "2026-10-23T18:00:08Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 49457712,
-      "likes": 1216489,
-      "comments": 22326
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 49743778,
+      "likes": 1220169,
+      "comments": 22352
     },
     {
       "video_id": "RE3_PGwDwhw",
       "title": "Lose 150 Lbs Together, Win $250,000",
       "published_at": "2026-10-17T16:00:18Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 198357911,
-      "likes": 2293307,
-      "comments": 81522
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 198646160,
+      "likes": 2294307,
+      "comments": 81521
     }
   ]
 }

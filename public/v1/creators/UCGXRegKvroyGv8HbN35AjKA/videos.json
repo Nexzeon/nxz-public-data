@@ -2,52 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCGXRegKvroyGv8HbN35AjKA",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "nbwiW5C5pBQ",
+      "title": "Creatine builds muscle WITHOUT lifting?",
+      "published_at": "2026-11-20T15:00:19Z",
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 41217,
+      "likes": 2625,
+      "comments": 68
+    },
     {
       "video_id": "AVJhGEWQgVs",
       "title": "Mike Israetel BBL Surgery",
       "published_at": "2026-11-18T14:37:44Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 93489,
-      "likes": 4423,
-      "comments": 178
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 96562,
+      "likes": 4529,
+      "comments": 181
     },
     {
       "video_id": "ZdDuyWAVijo",
       "title": "Worst bodybuilding genetics ever",
       "published_at": "2026-11-16T15:36:23Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 113136,
-      "likes": 6364,
-      "comments": 252
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 114628,
+      "likes": 6403,
+      "comments": 254
     },
     {
       "video_id": "rK3UxHRQ6QI",
       "title": "If you're getting stronger but not bigger...",
       "published_at": "2026-11-12T15:00:20Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 602022,
-      "likes": 24113,
-      "comments": 479
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 609658,
+      "likes": 24295,
+      "comments": 481
     },
     {
       "video_id": "QqjDKllPKj8",
       "title": "\"I got chest day today!\"",
       "published_at": "2026-11-07T15:00:28Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 376937,
-      "likes": 11411,
-      "comments": 313
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 379806,
+      "likes": 11447,
+      "comments": 314
     },
     {
       "video_id": "Rh0zXJOfvnc",
       "title": "Pre-workout is better than creatine?",
       "published_at": "2026-11-06T15:00:25Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 132212,
-      "likes": 5438,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 132481,
+      "likes": 5443,
       "comments": 320
     }
   ]

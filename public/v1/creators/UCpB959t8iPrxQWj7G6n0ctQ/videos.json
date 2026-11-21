@@ -2,53 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "iTly_psygQM",
+      "title": "I QUIT Youtube To Work A Real Job..",
+      "published_at": "2026-11-20T19:00:13Z",
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 45146,
+      "likes": 1901,
+      "comments": 227
+    },
     {
       "video_id": "X0EiCmQsdDA",
       "title": "I Made ANIME FOOD In Real Life!",
       "published_at": "2026-11-13T21:00:24Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 363254,
-      "likes": 8625,
-      "comments": 474
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 371341,
+      "likes": 8757,
+      "comments": 487
     },
     {
       "video_id": "gRQV6Jed8yc",
       "title": "I Tried Your GRANDMA'S SECRET RECIPES",
       "published_at": "2026-11-06T22:00:17Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 428361,
-      "likes": 6569,
-      "comments": 472
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 430177,
+      "likes": 6591,
+      "comments": 473
     },
     {
       "video_id": "LCPMnWGHtfg",
       "title": "DUMBEST People On The Internet",
       "published_at": "2026-11-03T21:00:01Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 184803,
-      "likes": 4026,
-      "comments": 316
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 185483,
+      "likes": 4035,
+      "comments": 317
     },
     {
       "video_id": "5Rdbh31YiHI",
       "title": "TikToks That Will Make Your Brain Hurt",
       "published_at": "2026-10-30T21:00:06Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 276347,
-      "likes": 5015,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 276992,
+      "likes": 5023,
       "comments": 279
     },
     {
       "video_id": "ErGsPYvOcYw",
       "title": "School Tik Toks That Are Actually Relatable",
       "published_at": "2026-10-25T20:00:35Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 360798,
-      "likes": 6542,
-      "comments": 405
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 362056,
+      "likes": 6556,
+      "comments": 406
     }
   ]
 }

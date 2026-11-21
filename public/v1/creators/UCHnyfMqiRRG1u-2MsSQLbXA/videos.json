@@ -2,88 +2,97 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "HZjRoKgDnow",
+      "title": "Does adding helium reduce a balloon’s mass?",
+      "published_at": "2026-11-20T14:34:58Z",
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 122695,
+      "likes": 5101,
+      "comments": 190
+    },
     {
       "video_id": "uXuQF_PPg5U",
       "title": "Randomness is a lie. Let me explain",
       "published_at": "2026-11-18T20:29:44Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 2351082,
-      "likes": 32399,
-      "comments": 2343
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 2543173,
+      "likes": 34051,
+      "comments": 2448
     },
     {
       "video_id": "LDloLvb3yno",
       "title": "This is not a thread...",
       "published_at": "2026-11-17T14:14:54Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1019648,
-      "likes": 43011,
-      "comments": 1065
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1042248,
+      "likes": 43862,
+      "comments": 1085
     },
     {
       "video_id": "V8rT6UI3Crg",
       "title": "Making Gunpowder From Scratch",
       "published_at": "2026-11-13T14:00:08Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 977539,
-      "likes": 27564,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 980288,
+      "likes": 27635,
       "comments": 695
     },
     {
       "video_id": "2QSkkhbl3v4",
       "title": "Why you can't trust a test that's 99% accurate",
       "published_at": "2026-11-11T14:00:12Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1715361,
-      "likes": 42414,
-      "comments": 2408
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1717351,
+      "likes": 42439,
+      "comments": 2410
     },
     {
       "video_id": "rL0qEmTRI-I",
       "title": "Why do deserts get cold at night?",
       "published_at": "2026-11-06T14:00:17Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 2012174,
-      "likes": 41445,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 2014420,
+      "likes": 41479,
       "comments": 689
     },
     {
       "video_id": "KfODG5REyss",
       "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
       "published_at": "2026-11-04T15:52:59Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 20969143,
-      "likes": 211563,
-      "comments": 13034
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 21037051,
+      "likes": 211984,
+      "comments": 13058
     },
     {
       "video_id": "xlNKNnXdtN4",
       "title": "These ponds help support half the people on Earth",
       "published_at": "2026-11-02T14:00:05Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 567981,
-      "likes": 15643,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 568303,
+      "likes": 15647,
       "comments": 411
     },
     {
       "video_id": "zEmabFZvdqA",
       "title": "What happens if I lower this weight into the water?",
       "published_at": "2026-10-30T14:00:38Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 3503266,
-      "likes": 92702,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 3504219,
+      "likes": 92711,
       "comments": 2585
     },
     {
       "video_id": "Kap7mRzr13w",
       "title": "Why doesn't your heart get tired like other muscles do?",
       "published_at": "2026-10-27T14:00:11Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1463185,
-      "likes": 45525,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1463677,
+      "likes": 45529,
       "comments": 903
     }
   ]

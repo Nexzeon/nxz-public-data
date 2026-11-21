@@ -2,70 +2,79 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-  "generated_at": "2026-11-20T19:16:35Z",
+  "generated_at": "2026-11-21T01:24:09Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "hI4k9ewBEFA",
+      "title": "ABSOLUTE CINEMA | Grand Theft Auto 6 - Part 3",
+      "published_at": "2026-11-20T17:00:05Z",
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 295670,
+      "likes": 10376,
+      "comments": 1071
+    },
     {
       "video_id": "J18nXpZHyyI",
       "title": "WAS THAT BIGFOOT?? | Grand Theft Auto 6 - Part 2",
       "published_at": "2026-11-19T17:00:33Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1061773,
-      "likes": 26703,
-      "comments": 2050
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1189408,
+      "likes": 29494,
+      "comments": 2235
     },
     {
       "video_id": "uZGnqBLC60Y",
       "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
       "published_at": "2026-11-18T23:47:15Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 3687993,
-      "likes": 86828,
-      "comments": 5562
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 3875610,
+      "likes": 89802,
+      "comments": 5708
     },
     {
       "video_id": "PI_qgAU8ZQQ",
       "title": "Why am I so bad at this!?",
       "published_at": "2026-11-17T17:13:34Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1389747,
-      "likes": 33389,
-      "comments": 1623
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1421560,
+      "likes": 33860,
+      "comments": 1640
     },
     {
       "video_id": "g9DKSvOuO4Y",
       "title": "Jacksepticeye doing his lines for Hitman",
       "published_at": "2026-11-12T17:12:55Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 663446,
-      "likes": 49806,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 666837,
+      "likes": 49949,
       "comments": 433
     },
     {
       "video_id": "MUH3crmuZqM",
       "title": "LOST",
       "published_at": "2026-10-31T15:30:35Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1271267,
-      "likes": 40690,
-      "comments": 2761
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1271875,
+      "likes": 40719,
+      "comments": 2764
     },
     {
       "video_id": "J5r10OtCkTs",
       "title": "HITMAN put me in their game",
       "published_at": "2026-10-29T14:24:03Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 4261347,
-      "likes": 105495,
-      "comments": 4164
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 4265718,
+      "likes": 105567,
+      "comments": 4165
     },
     {
       "video_id": "vH3dJxrwYTY",
       "title": "Playing P.T. on PC 12 years later",
       "published_at": "2026-10-27T17:10:29Z",
-      "observed_at": "2026-11-20T19:15:01Z",
-      "views": 1996954,
-      "likes": 49223,
+      "observed_at": "2026-11-21T01:22:57Z",
+      "views": 1998651,
+      "likes": 49256,
       "comments": 2810
     }
   ]
