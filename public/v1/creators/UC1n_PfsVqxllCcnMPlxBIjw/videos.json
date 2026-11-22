@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "qy_JurwkyU0",
       "title": "An Update Video",
       "published_at": "2025-06-19T13:01:24Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1724800,
-      "likes": 58987,
-      "comments": 23524
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1724877,
+      "likes": 58988,
+      "comments": 23523
     },
     {
       "video_id": "ESyfUKCMWBc",
       "title": "Wilbur Soot - Soft Boy (OFFICIAL VIDEO)",
       "published_at": "2022-09-25T21:00:12Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 5647840,
-      "likes": 362386,
-      "comments": 38130
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 5647915,
+      "likes": 362382,
+      "comments": 38129
     },
     {
       "video_id": "Oy-OrsVM6wE",
       "title": "Minecraft Social Experiment: Boomers v Zoomers",
       "published_at": "2022-08-31T20:01:37Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 2813408,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 2813418,
       "likes": 188476,
       "comments": 8005
     },
@@ -36,18 +36,18 @@
       "video_id": "F7F6G0ok9u0",
       "title": "Releasing Every Animal in Zoo Tycoon",
       "published_at": "2022-08-06T19:01:21Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 2549976,
-      "likes": 197084,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 2549985,
+      "likes": 197083,
       "comments": 5158
     },
     {
       "video_id": "NgEidhomgBE",
       "title": "We Became Crime Scene Investigators",
       "published_at": "2022-07-29T17:01:15Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 2562016,
-      "likes": 204917,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 2562028,
+      "likes": 204916,
       "comments": 6058
     }
   ]

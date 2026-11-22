@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "FJfyJw-kCRA",
       "title": "Minecraft 2 Truths 1 Lie",
       "published_at": "2026-10-29T20:25:49Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 2561949,
-      "likes": 102170,
-      "comments": 1259
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 2567553,
+      "likes": 102253,
+      "comments": 1261
     },
     {
       "video_id": "iSwIiTNVvWo",
       "title": "Stripped Logs",
       "published_at": "2026-10-25T13:34:01Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 2153659,
-      "likes": 120210,
-      "comments": 4745
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 2155016,
+      "likes": 120257,
+      "comments": 4750
     },
     {
       "video_id": "g22Z__ShvVY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE",
       "published_at": "2026-10-20T19:30:08Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 15092732,
-      "likes": 488350,
-      "comments": 14741
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 15110701,
+      "likes": 488688,
+      "comments": 14746
     },
     {
       "video_id": "fYFm5P74Yng",
       "title": "BECOMING A SPEAR MACE MASTER (short stream)",
       "published_at": "2026-09-19T20:01:48Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1002927,
-      "likes": 16330,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1003121,
+      "likes": 16327,
       "comments": 542
     },
     {
       "video_id": "IqcS1d3eXYc",
       "title": "Minecraft Speedrunner Swap VS 3 Hunters",
       "published_at": "2026-08-09T16:30:06Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 7106874,
-      "likes": 176922,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 7108347,
+      "likes": 176934,
       "comments": 8022
     }
   ]

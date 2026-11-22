@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCxgAuX3XZROujMmGphN_scA",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "KjVuIT0eBBg",
       "title": "Asking My Boss For The Day Off To Play GTA 6",
       "published_at": "2026-11-18T17:09:47Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1781470,
-      "likes": 53233,
-      "comments": 453
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1799033,
+      "likes": 53789,
+      "comments": 467
     },
     {
       "video_id": "ZzDRSxx3zgY",
       "title": "I Built A Business From Scratch Only Following Claude’s Advice",
       "published_at": "2026-11-16T12:59:43Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1354720,
-      "likes": 24453,
-      "comments": 3658
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1382367,
+      "likes": 25164,
+      "comments": 3719
     },
     {
       "video_id": "K2atMPgZxw4",
       "title": "Why You Should NEVER Use A Credit Card (at an ATM)",
       "published_at": "2026-11-14T14:27:23Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 160776,
-      "likes": 5121,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 162144,
+      "likes": 5158,
       "comments": 154
     },
     {
       "video_id": "bGqZcHv_1M0",
       "title": "Kid Tries To Trick Millionaire Dad",
       "published_at": "2026-11-05T14:37:19Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 4263542,
-      "likes": 96956,
-      "comments": 783
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 4300852,
+      "likes": 97526,
+      "comments": 784
     },
     {
       "video_id": "mUz_tHYLhUs",
       "title": "I Tried AI Dropshipping For 7 Days, Copy Every Step",
       "published_at": "2026-11-03T19:45:52Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 656349,
-      "likes": 9247,
-      "comments": 1023
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 659346,
+      "likes": 9295,
+      "comments": 1026
     }
   ]
 }

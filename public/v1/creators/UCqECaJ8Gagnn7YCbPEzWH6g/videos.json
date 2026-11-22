@@ -2,61 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCqECaJ8Gagnn7YCbPEzWH6g",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "LJC7mgjp5FQ",
       "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
       "published_at": "2026-11-19T11:00:19Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 5745511,
-      "likes": 124035,
-      "comments": 4535
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 5857282,
+      "likes": 125645,
+      "comments": 4607
     },
     {
       "video_id": "j8pR1tyoRFc",
       "title": "Taylor Swift - Patient Zero (Expanded Video)",
       "published_at": "2026-10-05T04:00:36Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 5614444,
-      "likes": 110071,
-      "comments": 3597
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 5619275,
+      "likes": 110114,
+      "comments": 3598
     },
     {
       "video_id": "mw3kSNIxjqo",
       "title": "Taylor Swift - Patient Zero (Official Music Video)",
       "published_at": "2026-09-29T22:00:19Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 31352218,
-      "likes": 499176,
-      "comments": 25098
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 31398102,
+      "likes": 499446,
+      "comments": 25117
     },
     {
       "video_id": "jfVVXYTZykw",
       "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
       "published_at": "2026-09-26T00:01:38Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 6624369,
-      "likes": 124319,
-      "comments": 8533
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 6628271,
+      "likes": 124343,
+      "comments": 8534
     },
     {
       "video_id": "BpR280fXISA",
       "title": "Taylor Swift - Patient Zero (Official Lyric Video)",
       "published_at": "2026-09-26T00:01:38Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 15619424,
-      "likes": 132751,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 15648560,
+      "likes": 132787,
       "comments": 6543
     },
     {
       "video_id": "c0Y4PqvDvqc",
       "title": "Taylor Swift - The Life of a Showgirl: The Encore STATION",
       "published_at": "2026-09-24T23:35:13Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 34323489,
-      "likes": 75553,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 34329985,
+      "likes": 75594,
       "comments": 0
     }
   ]

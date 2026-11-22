@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "6dOFQHTVzEg",
       "title": "Nvidia Had No Plan B",
       "published_at": "2026-11-15T11:23:26Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 2021568,
-      "likes": 37327,
-      "comments": 4289
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 2029554,
+      "likes": 37396,
+      "comments": 4295
     },
     {
       "video_id": "yU8JpuK5NZs",
       "title": "The Binance Hack Isn’t Funny!",
       "published_at": "2026-11-06T06:41:48Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1539472,
-      "likes": 21870,
-      "comments": 2142
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1543700,
+      "likes": 21890,
+      "comments": 2144
     },
     {
       "video_id": "Ic1Jf7VlXRM",
       "title": "Anthropic Opened Its Books. What Is It Really Worth?",
       "published_at": "2026-10-31T14:25:37Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1693651,
-      "likes": 25681,
-      "comments": 2464
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1696364,
+      "likes": 25718,
+      "comments": 2473
     },
     {
       "video_id": "NyOeLB0WVNE",
       "title": "Elon Musk’s Power Plant on Wheels",
       "published_at": "2026-10-24T15:06:23Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1396917,
-      "likes": 20838,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1397847,
+      "likes": 20850,
       "comments": 2264
     },
     {
       "video_id": "JnceIDVMZyQ",
       "title": "Putin’s Plan to Protect Russia’s Internet Backfired",
       "published_at": "2026-10-17T11:27:44Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 1263084,
-      "likes": 24051,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 1263422,
+      "likes": 24059,
       "comments": 1671
     }
   ]

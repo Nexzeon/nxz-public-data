@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCyps-v4WNjWDnYRKmZ4BUGw",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "iYZ77j7v4GM",
       "title": "Secretly Working At 7-11 Until I Get Fired",
       "published_at": "2026-11-01T16:26:37Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 5523227,
-      "likes": 62159,
-      "comments": 3148
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 5538998,
+      "likes": 62272,
+      "comments": 3152
     },
     {
       "video_id": "6L3PaK3ZafY",
       "title": "I Faked A Driverless Uber",
       "published_at": "2026-10-25T17:54:41Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 8079907,
-      "likes": 91263,
-      "comments": 2411
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 8108130,
+      "likes": 91492,
+      "comments": 2414
     },
     {
       "video_id": "_LHh3BS9Xx4",
       "title": "I Hid In MrBeast's Grocery Store",
       "published_at": "2026-10-04T15:44:46Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 25823971,
-      "likes": 268860,
-      "comments": 5574
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 25839265,
+      "likes": 268956,
+      "comments": 5573
     },
     {
       "video_id": "XDH7pgXAtRk",
       "title": "Secretly Working At McDonald’s Until I Get Fired",
       "published_at": "2026-09-26T16:56:11Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 10050015,
-      "likes": 127781,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 10055159,
+      "likes": 127821,
       "comments": 4634
     },
     {
       "video_id": "cr642ejN_60",
       "title": "I Secretly Lived In A 5 Star Hotel",
       "published_at": "2026-09-20T17:59:28Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 14511835,
-      "likes": 160102,
-      "comments": 5366
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 14525804,
+      "likes": 160203,
+      "comments": 5367
     }
   ]
 }

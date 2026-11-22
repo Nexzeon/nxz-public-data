@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "feed": "nxz-entertainment-upload-window",
-  "window_start": "2026-11-15T13:10:15.556741+00:00",
-  "window_end": "2026-11-22T13:10:15.556741+00:00",
+  "window_start": "2026-11-15T19:02:13.788100+00:00",
+  "window_end": "2026-11-22T19:02:13.788100+00:00",
   "creators": [
     {
       "channel_id": "UCRijo3ddMTht_IHyNSNXpNQ",
@@ -21,15 +21,15 @@
     {
       "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
       "uploads": 1,
-      "views": 1548801.0,
-      "likes": 44600.0,
+      "views": 1980241.0,
+      "likes": 53336.0,
       "pending": 0
     },
     {
       "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
       "uploads": 1,
-      "views": 7689134.0,
-      "likes": 262694.0,
+      "views": 971.0,
+      "likes": 809.0,
       "pending": 0
     },
     {
@@ -77,8 +77,8 @@
     {
       "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
       "uploads": 1,
-      "views": 163475.0,
-      "likes": 4106.0,
+      "views": 169773.0,
+      "likes": 4260.0,
       "pending": 0
     },
     {
@@ -156,20 +156,20 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 4
+      "pending": 5
     },
     {
       "channel_id": "UCGmnsW623G1r-Chmo5RB4Yw",
-      "uploads": 0,
-      "views": null,
-      "likes": null,
+      "uploads": 1,
+      "views": 28927.0,
+      "likes": 1989.0,
       "pending": 0
     },
     {
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
       "uploads": 1,
-      "views": 6296251.0,
-      "likes": 67960.0,
+      "views": 7924362.0,
+      "likes": 82462.0,
       "pending": 0
     },
     {
@@ -203,15 +203,15 @@
     {
       "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
       "uploads": 1,
-      "views": 3743106.0,
-      "likes": 89159.0,
+      "views": 3765001.0,
+      "likes": 89576.0,
       "pending": 0
     },
     {
       "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
       "uploads": 1,
-      "views": 499343.0,
-      "likes": 6087.0,
+      "views": 514692.0,
+      "likes": 6262.0,
       "pending": 0
     },
     {
@@ -219,7 +219,7 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 1
+      "pending": 2
     }
   ]
 }

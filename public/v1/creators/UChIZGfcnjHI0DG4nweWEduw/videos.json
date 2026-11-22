@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIZGfcnjHI0DG4nweWEduw",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "51ZketGBxRs",
       "title": "Dude Sold me a Faulty Gaming PC - FOF37",
       "published_at": "2026-11-20T16:45:06Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 177952,
-      "likes": 4290,
-      "comments": 296
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 182893,
+      "likes": 4412,
+      "comments": 300
     },
     {
       "video_id": "VzCDBEQ9gOk",
       "title": "My Dream Home became a Nightmare - Part 1",
       "published_at": "2026-11-14T16:21:36Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 555524,
-      "likes": 8842,
-      "comments": 1310
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 560981,
+      "likes": 8879,
+      "comments": 1324
     },
     {
       "video_id": "_3d09oNHZQc",
       "title": "Our Dream Home Became a Nightmare",
       "published_at": "2026-11-14T16:21:03Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 31311,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 31380,
       "likes": 673,
       "comments": 50
     },
@@ -36,28 +36,28 @@
       "video_id": "9YhU6-z8ZdA",
       "title": "I Bought an entire Gaming Setup from TEMU",
       "published_at": "2026-11-13T18:25:58Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 497098,
-      "likes": 5485,
-      "comments": 315
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 503702,
+      "likes": 5535,
+      "comments": 319
     },
     {
       "video_id": "MAVQo3phpBY",
       "title": "Setup Wars - Episode 382",
       "published_at": "2026-11-12T17:32:02Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 294977,
-      "likes": 5490,
-      "comments": 123
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 296063,
+      "likes": 5506,
+      "comments": 124
     },
     {
       "video_id": "1nUQvlM9YYk",
       "title": "The Biggest PC Flip Yet! - FOF36",
       "published_at": "2026-11-06T15:40:41Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 227971,
-      "likes": 5197,
-      "comments": 451
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 228220,
+      "likes": 5201,
+      "comments": 449
     }
   ]
 }

@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCcgVECVN4OKV6DH1jLkqmcA",
-  "generated_at": "2026-11-22T13:11:17Z",
+  "generated_at": "2026-11-22T19:03:06Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_WhCs5g8iK4",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM DUBAI]",
       "published_at": "2026-11-12T14:42:52Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 120307,
-      "likes": 1390,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 120514,
+      "likes": 1392,
       "comments": 220
     },
     {
       "video_id": "LVBS53xHDDo",
       "title": "Dubai this is going to be the best Christmas ever",
       "published_at": "2026-11-12T12:34:54Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 54952,
-      "likes": 991,
-      "comments": 96
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 55152,
+      "likes": 996,
+      "comments": 95
     },
     {
       "video_id": "AFoZk5i9Ht0",
       "title": "Je t’aime Cédric",
       "published_at": "2026-11-10T19:15:35Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 71539,
-      "likes": 808,
-      "comments": 139
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 71807,
+      "likes": 810,
+      "comments": 140
     },
     {
       "video_id": "Lk6gTkEOBwM",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM PARIS]",
       "published_at": "2026-11-10T17:48:46Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 156875,
-      "likes": 2146,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 156992,
+      "likes": 2148,
       "comments": 416
     },
     {
       "video_id": "X0DHKq_eseM",
       "title": "Bonjour Cédric. Pari we here",
       "published_at": "2026-11-10T16:46:54Z",
-      "observed_at": "2026-11-22T13:09:55Z",
-      "views": 56512,
-      "likes": 1205,
+      "observed_at": "2026-11-22T19:01:57Z",
+      "views": 56641,
+      "likes": 1208,
       "comments": 82
     }
   ]
