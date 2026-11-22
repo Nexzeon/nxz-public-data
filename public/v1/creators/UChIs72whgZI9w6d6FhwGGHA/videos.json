@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIs72whgZI9w6d6FhwGGHA",
-  "generated_at": "2026-11-22T07:27:14Z",
+  "generated_at": "2026-11-22T13:11:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "KNVKzPHgg4M",
       "title": "RAM Altman",
       "published_at": "2026-11-19T21:24:01Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 994937,
-      "likes": 30132,
-      "comments": 5237
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 1006197,
+      "likes": 30386,
+      "comments": 5296
     },
     {
       "video_id": "SxFJ5QGNxwo",
       "title": "IF ONLY SOMEBODY TOLD US ABOUT THE NVIDIA GPU SMUGGLING",
       "published_at": "2026-11-16T13:41:57Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 1570379,
-      "likes": 45887,
-      "comments": 6205
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 1572631,
+      "likes": 45930,
+      "comments": 6212
     },
     {
       "video_id": "jHT4iHJxzOI",
       "title": "Tim Sweeney is a Lunatic | WTF Happened to Epic Games?",
       "published_at": "2026-11-14T20:38:48Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 1120590,
-      "likes": 38001,
-      "comments": 6315
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 1123868,
+      "likes": 38057,
+      "comments": 6326
     },
     {
       "video_id": "YYU_geUwQoA",
       "title": "The Downfall of Jensen Huang: NVIDIA’s Greed & Corruption",
       "published_at": "2026-11-13T13:39:16Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 1984684,
-      "likes": 75906,
-      "comments": 11530
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 1985569,
+      "likes": 75918,
+      "comments": 11533
     },
     {
       "video_id": "rhQc2SPV3tQ",
       "title": "It's Time to Get Into 3D Printing | GN \"Factory\" Build Vlog, Pt. 1",
       "published_at": "2026-11-08T19:11:03Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 475876,
-      "likes": 12109,
-      "comments": 1567
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 476697,
+      "likes": 12118,
+      "comments": 1569
     },
     {
       "video_id": "Un78sPq5nbg",
       "title": "The NVIDIA RTX 5090 Problem & Future Generation Price Creep",
       "published_at": "2026-11-07T03:32:43Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 810398,
-      "likes": 17108,
-      "comments": 3753
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 811365,
+      "likes": 17114,
+      "comments": 3755
     }
   ]
 }

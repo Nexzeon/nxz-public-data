@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
-  "generated_at": "2026-11-22T07:27:14Z",
+  "generated_at": "2026-11-22T13:11:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "EKvZWLqgl0s",
       "title": "Billie performing \"idontwannabeyouanymore\" at Electric Ballroom in 2023",
       "published_at": "2026-08-19T21:10:36Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 290144,
-      "likes": 27512,
-      "comments": 1449
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 290398,
+      "likes": 27527,
+      "comments": 1450
     },
     {
       "video_id": "wx3q6S6c-fM",
       "title": "On tour in Japan by Billie",
       "published_at": "2026-08-14T16:00:06Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 468574,
-      "likes": 45494,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 468843,
+      "likes": 45506,
       "comments": 2758
     },
     {
       "video_id": "l4HdsLE5sSI",
       "title": "Watch Billie perform “ocean eyes” in HIT ME HARD AND SOFT: THE TOUR, now streaming on Paramount+.",
       "published_at": "2026-08-11T19:59:17Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 366287,
-      "likes": 26841,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 366519,
+      "likes": 26848,
       "comments": 776
     },
     {
       "video_id": "yRGVydeZ33Q",
       "title": "Billie performing “Your Power” from HIT ME HARD AND SOFT: THE TOUR, available to watch at home now",
       "published_at": "2026-07-31T21:40:30Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 343035,
-      "likes": 27051,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 343215,
+      "likes": 27062,
       "comments": 806
     },
     {
       "video_id": "gLua1cMI9Bg",
       "title": "Billie performing “Oxytocin” from HIT ME HARD AND SOFT: THE TOUR, available to watch at home now",
       "published_at": "2026-07-31T21:39:41Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 297096,
-      "likes": 22501,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 297205,
+      "likes": 22507,
       "comments": 405
     }
   ]

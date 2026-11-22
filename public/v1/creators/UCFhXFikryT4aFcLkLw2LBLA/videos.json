@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
-  "generated_at": "2026-11-22T07:27:14Z",
+  "generated_at": "2026-11-22T13:11:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "TVpMka43TFk",
       "title": "This magnet machine is scary",
       "published_at": "2026-10-16T22:02:57Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 2543270,
-      "likes": 93193,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 2544875,
+      "likes": 93245,
       "comments": 2388
     },
     {
       "video_id": "5OcnO7U0VeA",
       "title": "Making nasty soap",
       "published_at": "2026-08-19T16:34:22Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 2832331,
-      "likes": 155891,
-      "comments": 3237
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 2834579,
+      "likes": 155958,
+      "comments": 3239
     },
     {
       "video_id": "K56LuXCQ0ik",
       "title": "Making color changing mercury",
       "published_at": "2026-08-10T17:11:42Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 9996691,
-      "likes": 464010,
-      "comments": 6951
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 10000417,
+      "likes": 464199,
+      "comments": 6952
     },
     {
       "video_id": "ID-K64Jk6JM",
       "title": "Turning air into alcohol",
       "published_at": "2026-08-05T18:28:30Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 13207726,
-      "likes": 283301,
-      "comments": 21793
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 13219774,
+      "likes": 283336,
+      "comments": 21800
     },
     {
       "video_id": "QNPrHtcn6nM",
       "title": "These metals melt when pushed together",
       "published_at": "2026-03-19T18:42:09Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 6155027,
-      "likes": 346532,
-      "comments": 3926
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 6155745,
+      "likes": 346521,
+      "comments": 3925
     }
   ]
 }

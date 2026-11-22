@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCmBA_wu8xGg1OfOkfW13Q0Q",
-  "generated_at": "2026-11-22T07:27:14Z",
+  "generated_at": "2026-11-22T13:11:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "QeaX_VTQg_w",
       "title": "Super Bowl LX. Bay Area. Feb 8. #AppleMusicHalftime",
       "published_at": "2025-09-29T02:05:53Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 1207735,
-      "likes": 58608,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 1207804,
+      "likes": 58603,
       "comments": 3215
     },
     {
       "video_id": "vmbyVU9w47Y",
       "title": "BAD BUNNY ft. Chuwi - WELTiTA (Video Oficial) | DeBÍ TiRAR MáS FOToS",
       "published_at": "2025-08-23T18:00:02Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 52388920,
-      "likes": 285186,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 52394070,
+      "likes": 285182,
       "comments": 9295
     },
     {
       "video_id": "B6rYrFVnP04",
       "title": "BAD BUNNY - ALAMBRE PúA",
       "published_at": "2025-07-14T16:00:06Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 19511843,
-      "likes": 283461,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 19512459,
+      "likes": 283452,
       "comments": 10588
     },
     {
       "video_id": "KU5V5WZVcVE",
       "title": "BAD BUNNY - NUEVAYoL (Video Oficial) | DeBÍ TiRAR MáS FOToS",
       "published_at": "2025-07-04T16:00:02Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 174129648,
-      "likes": 1231613,
-      "comments": 31739
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 174159466,
+      "likes": 1231635,
+      "comments": 31744
     },
     {
       "video_id": "aoXDGMZhdJk",
       "title": "BAD BUNNY - KETU TeCRÉ (Video Oficial) | DeBÍ TiRAR MáS FOToS",
       "published_at": "2025-05-16T18:00:02Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 86907912,
-      "likes": 454262,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 86919633,
+      "likes": 454268,
       "comments": 13356
     }
   ]

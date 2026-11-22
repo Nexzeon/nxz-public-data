@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCKrdjiuS66yXOdEZ_cOD_TA",
-  "generated_at": "2026-11-22T07:27:14Z",
+  "generated_at": "2026-11-22T13:11:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "O-rKav5LgK0",
       "title": "Guess who’s on my phone againnn🧙‍♂️🪄😂",
       "published_at": "2026-11-10T19:33:38Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 162093,
-      "likes": 13769,
-      "comments": 546
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 162564,
+      "likes": 13778,
+      "comments": 547
     },
     {
       "video_id": "9ofUM-_3uQ4",
       "title": "Megan Thee Stallion - Thin Ice - Tina Tuesday Freestyle",
       "published_at": "2026-10-20T16:00:10Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 30266366,
-      "likes": 422602,
-      "comments": 14448
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 30384316,
+      "likes": 423013,
+      "comments": 14458
     },
     {
       "video_id": "qePuy07EjnE",
       "title": "Megan Thee Stallion - Is You Cool? - Tina Tuesday Freestyle",
       "published_at": "2026-10-06T17:08:28Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 3038257,
-      "likes": 129332,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 3041427,
+      "likes": 129363,
       "comments": 5043
     },
     {
       "video_id": "wDYULMDGESU",
       "title": "TINA TUESDAY OUT NOW 🔥",
       "published_at": "2026-09-29T21:02:05Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 180489,
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 180636,
       "likes": 9839,
       "comments": 359
     },
@@ -45,10 +45,10 @@
       "video_id": "SGMbCKKW4P8",
       "title": "Megan Thee Stallion - Tina Tuesday Freestyle",
       "published_at": "2026-09-29T16:00:08Z",
-      "observed_at": "2026-11-22T07:25:55Z",
-      "views": 6426014,
-      "likes": 220915,
-      "comments": 8598
+      "observed_at": "2026-11-22T13:09:55Z",
+      "views": 6433201,
+      "likes": 220961,
+      "comments": 8600
     }
   ]
 }
