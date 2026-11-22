@@ -2,71 +2,71 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-  "generated_at": "2026-11-21T19:01:53Z",
+  "generated_at": "2026-11-22T01:20:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "ZDRsHBGi8_8",
       "title": "Blue Bears (And 4 Other Animals That Shouldn’t Be That Color)",
       "published_at": "2026-11-20T18:00:04Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 113661,
-      "likes": 2635,
-      "comments": 166
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 130555,
+      "likes": 2922,
+      "comments": 179
     },
     {
       "video_id": "ZDlcqG7Kuho",
       "title": "Those Ape Sign Language Studies May Have Been Bogus",
       "published_at": "2026-11-19T18:00:23Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 257589,
-      "likes": 4306,
-      "comments": 674
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 270757,
+      "likes": 4437,
+      "comments": 684
     },
     {
       "video_id": "7pGCRPvKBXA",
       "title": "Your Allergies Might Prevent Cancer",
       "published_at": "2026-11-18T18:00:04Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 136586,
-      "likes": 3389,
-      "comments": 272
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 138368,
+      "likes": 3427,
+      "comments": 274
     },
     {
       "video_id": "yNsRbQln4Vg",
       "title": "Is Eating Oysters Safe?",
       "published_at": "2026-11-17T18:00:36Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 242745,
-      "likes": 3708,
-      "comments": 483
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 245588,
+      "likes": 3729,
+      "comments": 484
     },
     {
       "video_id": "1ejtdt78rCo",
       "title": "The Chess Rating System That Predicts Everything",
       "published_at": "2026-11-16T18:00:35Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 147586,
-      "likes": 3023,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 148564,
+      "likes": 3043,
       "comments": 177
     },
     {
       "video_id": "S7ELHbvqaeA",
       "title": "The Deep Sea Sub Built By a Cereal Company",
       "published_at": "2026-11-13T18:00:07Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 138075,
-      "likes": 3240,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 138389,
+      "likes": 3247,
       "comments": 215
     },
     {
       "video_id": "FKiSYHf1HyI",
       "title": "Using Radioactive Waste to Treat Cancer",
       "published_at": "2026-11-12T18:00:21Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 187496,
-      "likes": 3285,
-      "comments": 130
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 187623,
+      "likes": 3288,
+      "comments": 131
     }
   ]
 }

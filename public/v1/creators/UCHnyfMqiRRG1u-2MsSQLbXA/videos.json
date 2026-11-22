@@ -2,97 +2,97 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-  "generated_at": "2026-11-21T19:01:53Z",
+  "generated_at": "2026-11-22T01:20:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "HZjRoKgDnow",
       "title": "Does adding helium reduce a balloon’s mass?",
       "published_at": "2026-11-20T14:34:58Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 229643,
-      "likes": 8171,
-      "comments": 282
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 263545,
+      "likes": 8866,
+      "comments": 293
     },
     {
       "video_id": "uXuQF_PPg5U",
       "title": "Randomness is a lie. Let me explain",
       "published_at": "2026-11-18T20:29:44Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 2916258,
-      "likes": 37427,
-      "comments": 2631
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 3055504,
+      "likes": 38618,
+      "comments": 2674
     },
     {
       "video_id": "LDloLvb3yno",
       "title": "This is not a thread...",
       "published_at": "2026-11-17T14:14:54Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 1092580,
-      "likes": 46136,
-      "comments": 1102
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 1107096,
+      "likes": 46633,
+      "comments": 1111
     },
     {
       "video_id": "V8rT6UI3Crg",
       "title": "Making Gunpowder From Scratch",
       "published_at": "2026-11-13T14:00:08Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 986601,
-      "likes": 27831,
-      "comments": 695
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 989173,
+      "likes": 27907,
+      "comments": 696
     },
     {
       "video_id": "2QSkkhbl3v4",
       "title": "Why you can't trust a test that's 99% accurate",
       "published_at": "2026-11-11T14:00:12Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 1721588,
-      "likes": 42524,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 1723556,
+      "likes": 42556,
       "comments": 2414
     },
     {
       "video_id": "rL0qEmTRI-I",
       "title": "Why do deserts get cold at night?",
       "published_at": "2026-11-06T14:00:17Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 2019047,
-      "likes": 41547,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 2020987,
+      "likes": 41578,
       "comments": 688
     },
     {
       "video_id": "KfODG5REyss",
       "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
       "published_at": "2026-11-04T15:52:59Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 21197797,
-      "likes": 212977,
-      "comments": 13100
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 21264943,
+      "likes": 213384,
+      "comments": 13111
     },
     {
       "video_id": "xlNKNnXdtN4",
       "title": "These ponds help support half the people on Earth",
       "published_at": "2026-11-02T14:00:05Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 569735,
-      "likes": 15683,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 570121,
+      "likes": 15692,
       "comments": 412
     },
     {
       "video_id": "zEmabFZvdqA",
       "title": "What happens if I lower this weight into the water?",
       "published_at": "2026-10-30T14:00:38Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 3506007,
-      "likes": 92750,
-      "comments": 2585
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 3507060,
+      "likes": 92769,
+      "comments": 2589
     },
     {
       "video_id": "Kap7mRzr13w",
       "title": "Why doesn't your heart get tired like other muscles do?",
       "published_at": "2026-10-27T14:00:11Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 1464929,
-      "likes": 45544,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 1465460,
+      "likes": 45549,
       "comments": 903
     }
   ]

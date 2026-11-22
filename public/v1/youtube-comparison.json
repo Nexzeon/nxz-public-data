@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "feed": "nxz-youtube-comparison",
-  "window_end": "2026-11-21T19:01:08.033329+00:00",
+  "window_end": "2026-11-22T01:19:30.662785+00:00",
   "creators": [
     {
       "channel_id": "UC-J-KZfRV8c13fOCkhXdLiQ",
@@ -35,16 +35,16 @@
         },
         "1y": {
           "uploads": 25,
-          "views": 3901056.375,
+          "views": 3909088.0833333335,
           "views_sample": 24,
-          "likes": 41978.24,
+          "likes": 42004.72,
           "likes_sample": 25
         },
         "all": {
           "uploads": 343,
-          "views": 39107447.72727273,
+          "views": 39110739.54252199,
           "views_sample": 341,
-          "likes": 327192.2973760933,
+          "likes": 327201.9854227405,
           "likes_sample": 343
         }
       }
@@ -74,16 +74,16 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 3799488.0,
+          "views": 3802383.5,
           "views_sample": 2,
-          "likes": 93290.0,
+          "likes": 93326.0,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 18,
-          "views": 3261125.8333333335,
+          "views": 3261739.0,
           "views_sample": 18,
-          "likes": 145827.5,
+          "likes": 145834.38888888888,
           "likes_sample": 18
         },
         "all": null
@@ -121,16 +121,16 @@
         },
         "1y": {
           "uploads": 2,
-          "views": 812688.5,
+          "views": 813261.0,
           "views_sample": 2,
-          "likes": 36560.0,
+          "likes": 36566.5,
           "likes_sample": 2
         },
         "all": {
           "uploads": 191,
-          "views": 25720509.481675394,
+          "views": 25722075.989528798,
           "views_sample": 191,
-          "likes": 298577.9581151832,
+          "likes": 298585.58638743457,
           "likes_sample": 191
         }
       }
@@ -160,17 +160,17 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 581829.0,
+          "views": 584785.5,
           "views_sample": 2,
-          "likes": 19058.5,
+          "likes": 19088.5,
           "likes_sample": 2
         },
         "1y": {
-          "uploads": 68,
-          "views": 273755.95588235295,
-          "views_sample": 68,
-          "likes": 7047.794117647059,
-          "likes_sample": 68
+          "uploads": 67,
+          "views": 274664.0746268657,
+          "views_sample": 67,
+          "likes": 7060.567164179104,
+          "likes_sample": 67
         },
         "all": null
       }
@@ -185,32 +185,32 @@
       },
       "windows": {
         "1d": {
-          "uploads": 9,
-          "views": 48827.333333333336,
-          "views_sample": 9,
-          "likes": 908.0,
-          "likes_sample": 9
+          "uploads": 11,
+          "views": 17875.0,
+          "views_sample": 11,
+          "likes": 682.0,
+          "likes_sample": 11
         },
         "7d": {
-          "uploads": 25,
-          "views": 229041.32,
-          "views_sample": 25,
-          "likes": 3923.16,
-          "likes_sample": 25
+          "uploads": 27,
+          "views": 215563.03703703705,
+          "views_sample": 27,
+          "likes": 3625.740740740741,
+          "likes_sample": 27
         },
         "30d": {
-          "uploads": 33,
-          "views": 280476.6060606061,
-          "views_sample": 33,
-          "likes": 5748.484848484848,
-          "likes_sample": 33
+          "uploads": 36,
+          "views": 262197.94444444444,
+          "views_sample": 36,
+          "likes": 5357.0,
+          "likes_sample": 36
         },
         "1y": {
-          "uploads": 242,
-          "views": 176956.1611570248,
-          "views_sample": 242,
-          "likes": 3705.9752066115702,
-          "likes_sample": 242
+          "uploads": 245,
+          "views": 175651.15510204082,
+          "views_sample": 245,
+          "likes": 3674.2938775510206,
+          "likes_sample": 245
         },
         "all": null
       }
@@ -254,9 +254,9 @@
         },
         "all": {
           "uploads": 75,
-          "views": 362753.24,
+          "views": 362767.92,
           "views_sample": 75,
-          "likes": 11068.013333333334,
+          "likes": 11068.133333333333,
           "likes_sample": 75
         }
       }
@@ -286,16 +286,16 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 22340428.0,
+          "views": 22541509.0,
           "views_sample": 1,
-          "likes": 342217.0,
+          "likes": 343794.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 4,
-          "views": 9542784.5,
+          "views": 9594882.0,
           "views_sample": 4,
-          "likes": 132127.25,
+          "likes": 132546.25,
           "likes_sample": 4
         },
         "all": null
@@ -333,16 +333,16 @@
         },
         "1y": {
           "uploads": 16,
-          "views": 487137.9375,
+          "views": 487692.9375,
           "views_sample": 16,
-          "likes": 16552.6875,
+          "likes": 16556.4375,
           "likes_sample": 16
         },
         "all": {
           "uploads": 229,
-          "views": 19756506.344978165,
+          "views": 19758174.895196505,
           "views_sample": 229,
-          "likes": 237882.480349345,
+          "likes": 237890.37554585154,
           "likes_sample": 229
         }
       }
@@ -372,23 +372,23 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 676979.0,
+          "views": 691670.0,
           "views_sample": 1,
-          "likes": 26040.0,
+          "likes": 26236.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 27,
-          "views": 1323592.3703703703,
+          "views": 1324498.0,
           "views_sample": 27,
-          "likes": 22334.222222222223,
+          "likes": 22344.185185185186,
           "likes_sample": 27
         },
         "all": {
           "uploads": 117,
-          "views": 16000911.871794872,
+          "views": 16001873.213675214,
           "views_sample": 117,
-          "likes": 168910.92307692306,
+          "likes": 168915.97435897434,
           "likes_sample": 117
         }
       }
@@ -432,9 +432,9 @@
         },
         "all": {
           "uploads": 140,
-          "views": 5803101.892857143,
+          "views": 5803135.214285715,
           "views_sample": 140,
-          "likes": 250789.82857142857,
+          "likes": 250789.74285714285,
           "likes_sample": 140
         }
       }
@@ -478,9 +478,9 @@
         },
         "all": {
           "uploads": 149,
-          "views": 8517560.744966444,
+          "views": 8518180.013422819,
           "views_sample": 149,
-          "likes": 201695.94630872484,
+          "likes": 201700.8255033557,
           "likes_sample": 149
         }
       }
@@ -503,23 +503,23 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 15693.0,
+          "views": 16708.0,
           "views_sample": 1,
-          "likes": 450.0,
+          "likes": 453.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 1,
-          "views": 15693.0,
+          "views": 16708.0,
           "views_sample": 1,
-          "likes": 450.0,
+          "likes": 453.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 24,
-          "views": 84516.83333333333,
+          "views": 84610.54166666667,
           "views_sample": 24,
-          "likes": 2556.2083333333335,
+          "likes": 2556.7083333333335,
           "likes_sample": 24
         },
         "all": null
@@ -564,9 +564,9 @@
         },
         "all": {
           "uploads": 66,
-          "views": 8927518.984848484,
+          "views": 8928066.363636363,
           "views_sample": 66,
-          "likes": 151490.48484848486,
+          "likes": 151493.22727272726,
           "likes_sample": 66
         }
       }
@@ -610,9 +610,9 @@
         },
         "all": {
           "uploads": 40,
-          "views": 37694605.775,
+          "views": 37697716.05,
           "views_sample": 40,
-          "likes": 571923.25,
+          "likes": 571938.25,
           "likes_sample": 40
         }
       }
@@ -642,16 +642,16 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 1827377.0,
+          "views": 1835894.0,
           "views_sample": 1,
-          "likes": 131324.0,
+          "likes": 131854.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 44,
-          "views": 1555528.8181818181,
+          "views": 1556459.7045454546,
           "views_sample": 44,
-          "likes": 106147.34090909091,
+          "likes": 106191.31818181818,
           "likes_sample": 44
         },
         "all": null
@@ -689,16 +689,16 @@
         },
         "1y": {
           "uploads": 4,
-          "views": 81238084.0,
+          "views": 81305529.0,
           "views_sample": 4,
-          "likes": 584621.75,
+          "likes": 584789.5,
           "likes_sample": 4
         },
         "all": {
           "uploads": 28,
-          "views": 47864406.71428572,
+          "views": 47875880.64285714,
           "views_sample": 28,
-          "likes": 358366.03571428574,
+          "likes": 358395.5714285714,
           "likes_sample": 28
         }
       }
@@ -728,16 +728,16 @@
         },
         "30d": {
           "uploads": 5,
-          "views": 8393416.0,
+          "views": 8418270.0,
           "views_sample": 5,
-          "likes": 85978.0,
+          "likes": 86193.4,
           "likes_sample": 5
         },
         "1y": {
           "uploads": 64,
-          "views": 14328812.609375,
+          "views": 14333485.578125,
           "views_sample": 64,
-          "likes": 205460.84375,
+          "likes": 205509.453125,
           "likes_sample": 64
         },
         "all": null
@@ -775,16 +775,16 @@
         },
         "1y": {
           "uploads": 1,
-          "views": 734554.0,
+          "views": 734972.0,
           "views_sample": 1,
-          "likes": 20392.0,
+          "likes": 20395.0,
           "likes_sample": 1
         },
         "all": {
           "uploads": 20,
-          "views": 13019149.25,
+          "views": 13021023.5,
           "views_sample": 20,
-          "likes": 245180.4,
+          "likes": 245198.7,
           "likes_sample": 20
         }
       }
@@ -821,9 +821,9 @@
         },
         "1y": {
           "uploads": 37,
-          "views": 354010.1621621622,
+          "views": 354140.02702702704,
           "views_sample": 37,
-          "likes": 25939.243243243243,
+          "likes": 25942.405405405407,
           "likes_sample": 37
         },
         "all": null
@@ -861,16 +861,16 @@
         },
         "1y": {
           "uploads": 6,
-          "views": 1617838.5,
+          "views": 1618044.3333333333,
           "views_sample": 6,
-          "likes": 53173.5,
+          "likes": 53174.833333333336,
           "likes_sample": 6
         },
         "all": {
           "uploads": 398,
-          "views": 3233042.9949748744,
+          "views": 3233081.8467336684,
           "views_sample": 398,
-          "likes": 67739.09296482411,
+          "likes": 67739.19849246231,
           "likes_sample": 398
         }
       }
@@ -900,16 +900,16 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 7028702.0,
+          "views": 7064278.0,
           "views_sample": 2,
-          "likes": 182923.5,
+          "likes": 183772.5,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 31,
-          "views": 6741179.451612903,
+          "views": 6745670.806451613,
           "views_sample": 31,
-          "likes": 185858.4516129032,
+          "likes": 185945.2258064516,
           "likes_sample": 31
         },
         "all": null
@@ -979,30 +979,30 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 18529.0,
+          "views": 20259.0,
           "views_sample": 1,
-          "likes": 1600.0,
+          "likes": 1749.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 14,
-          "views": 281328.21428571426,
+          "views": 283137.21428571426,
           "views_sample": 14,
-          "likes": 4324.642857142857,
+          "likes": 4344.785714285715,
           "likes_sample": 14
         },
         "1y": {
           "uploads": 48,
-          "views": 294525.4791666667,
+          "views": 295102.9375,
           "views_sample": 48,
-          "likes": 4671.458333333333,
+          "likes": 4677.916666666667,
           "likes_sample": 48
         },
         "all": {
           "uploads": 187,
-          "views": 7854791.310160427,
+          "views": 7855383.550802139,
           "views_sample": 187,
-          "likes": 87895.60962566845,
+          "likes": 87898.93048128342,
           "likes_sample": 187
         }
       }
@@ -1039,16 +1039,16 @@
         },
         "1y": {
           "uploads": 1,
-          "views": 655993.0,
+          "views": 655995.0,
           "views_sample": 1,
           "likes": 2310.0,
           "likes_sample": 1
         },
         "all": {
           "uploads": 86,
-          "views": 11325002.604651162,
+          "views": 11325421.0,
           "views_sample": 86,
-          "likes": 113439.09411764707,
+          "likes": 113440.65882352942,
           "likes_sample": 85
         }
       }
@@ -1063,31 +1063,31 @@
       },
       "windows": {
         "1d": {
-          "uploads": 1,
-          "views": 1266800.0,
-          "views_sample": 1,
-          "likes": 35848.0,
-          "likes_sample": 1
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
         },
         "7d": {
           "uploads": 6,
-          "views": 1331520.5,
+          "views": 1399004.0,
           "views_sample": 6,
-          "likes": 41929.0,
+          "likes": 43267.333333333336,
           "likes_sample": 6
         },
         "30d": {
           "uploads": 15,
-          "views": 1756087.4666666666,
+          "views": 1786383.3333333333,
           "views_sample": 15,
-          "likes": 49630.933333333334,
+          "likes": 50248.8,
           "likes_sample": 15
         },
         "1y": {
           "uploads": 165,
-          "views": 2539833.2606060607,
+          "views": 2543321.6121212123,
           "views_sample": 165,
-          "likes": 99578.41212121212,
+          "likes": 99643.67878787879,
           "likes_sample": 165
         },
         "all": null
@@ -1118,16 +1118,16 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 116457.0,
+          "views": 116897.0,
           "views_sample": 1,
-          "likes": 8506.0,
+          "likes": 8518.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 65,
-          "views": 368959.07692307694,
+          "views": 369097.06153846154,
           "views_sample": 65,
-          "likes": 25560.292307692307,
+          "likes": 25562.876923076925,
           "likes_sample": 65
         },
         "all": null
@@ -1165,16 +1165,16 @@
         },
         "1y": {
           "uploads": 22,
-          "views": 1852162.3636363635,
+          "views": 1852750.3636363635,
           "views_sample": 22,
-          "likes": 55655.818181818184,
+          "likes": 55662.86363636364,
           "likes_sample": 22
         },
         "all": {
           "uploads": 96,
-          "views": 7863314.09375,
+          "views": 7863556.427083333,
           "views_sample": 96,
-          "likes": 310100.8125,
+          "likes": 310103.28125,
           "likes_sample": 96
         }
       }
@@ -1190,30 +1190,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 226870.0,
+          "views": 482207.0,
           "views_sample": 1,
-          "likes": 6496.0,
+          "likes": 9923.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 2,
-          "views": 1107883.0,
+          "views": 1241189.0,
           "views_sample": 2,
-          "likes": 21830.5,
+          "likes": 23575.5,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 5,
-          "views": 1362648.8,
+          "views": 1418263.4,
           "views_sample": 5,
-          "likes": 22375.8,
+          "likes": 23086.2,
           "likes_sample": 5
         },
         "1y": {
           "uploads": 53,
-          "views": 1360830.8679245282,
+          "views": 1366258.566037736,
           "views_sample": 53,
-          "likes": 36227.49056603773,
+          "likes": 36295.88679245283,
           "likes_sample": 53
         },
         "all": null
@@ -1237,23 +1237,23 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 450823.0,
+          "views": 469131.0,
           "views_sample": 1,
-          "likes": 5624.0,
+          "likes": 5760.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 7,
-          "views": 203158.85714285713,
+          "views": 205899.42857142858,
           "views_sample": 7,
-          "likes": 2777.5714285714284,
+          "likes": 2797.8571428571427,
           "likes_sample": 7
         },
         "1y": {
           "uploads": 215,
-          "views": 78752.18604651163,
+          "views": 78846.36279069768,
           "views_sample": 215,
-          "likes": 1801.9441860465117,
+          "likes": 1802.6465116279069,
           "likes_sample": 215
         },
         "all": null
@@ -1291,9 +1291,9 @@
         },
         "1y": {
           "uploads": 34,
-          "views": 820664.6764705882,
+          "views": 822092.5882352941,
           "views_sample": 34,
-          "likes": 12990.088235294117,
+          "likes": 12996.764705882353,
           "likes_sample": 34
         },
         "all": null
@@ -1331,16 +1331,16 @@
         },
         "1y": {
           "uploads": 11,
-          "views": 1412336.9090909092,
+          "views": 1413641.0909090908,
           "views_sample": 11,
-          "likes": 31669.272727272728,
+          "likes": 31679.81818181818,
           "likes_sample": 11
         },
         "all": {
           "uploads": 202,
-          "views": 2442720.108910891,
+          "views": 2442842.371287129,
           "views_sample": 202,
-          "likes": 87538.70297029703,
+          "likes": 87539.62871287129,
           "likes_sample": 202
         }
       }
@@ -1356,30 +1356,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 39138.0,
+          "views": 89304.0,
           "views_sample": 1,
-          "likes": 1834.0,
+          "likes": 2924.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 5,
-          "views": 4505922.0,
+          "views": 4667784.6,
           "views_sample": 5,
-          "likes": 80720.0,
+          "likes": 83159.2,
           "likes_sample": 5
         },
         "30d": {
           "uploads": 7,
-          "views": 3717539.5714285714,
+          "views": 3834060.285714286,
           "views_sample": 7,
-          "likes": 65589.42857142857,
+          "likes": 67343.0,
           "likes_sample": 7
         },
         "1y": {
           "uploads": 133,
-          "views": 2433589.5563909775,
+          "views": 2442597.5263157897,
           "views_sample": 133,
-          "likes": 52688.16541353383,
+          "likes": 52812.31578947369,
           "likes_sample": 133
         },
         "all": null
@@ -1403,23 +1403,23 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 3662343.0,
+          "views": 3696323.0,
           "views_sample": 1,
-          "likes": 88120.0,
+          "likes": 88525.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 6,
-          "views": 7657668.0,
+          "views": 7670629.0,
           "views_sample": 6,
-          "likes": 97348.0,
+          "likes": 97444.16666666667,
           "likes_sample": 6
         },
         "1y": {
           "uploads": 88,
-          "views": 6723831.715909091,
+          "views": 6725761.511363637,
           "views_sample": 88,
-          "likes": 149003.7159090909,
+          "likes": 149019.60227272726,
           "likes_sample": 88
         },
         "all": null
@@ -1497,16 +1497,16 @@
         },
         "1y": {
           "uploads": 11,
-          "views": 3910410.4,
+          "views": 3920428.4,
           "views_sample": 10,
-          "likes": 79510.27272727272,
+          "likes": 79546.0,
           "likes_sample": 11
         },
         "all": {
           "uploads": 111,
-          "views": 10750644.5,
+          "views": 10752535.731481481,
           "views_sample": 108,
-          "likes": 124701.33333333333,
+          "likes": 124709.47747747747,
           "likes_sample": 111
         }
       }
@@ -1535,17 +1535,17 @@
           "likes_sample": 0
         },
         "30d": {
-          "uploads": 3,
-          "views": 769602.0,
-          "views_sample": 3,
-          "likes": 4713.333333333333,
-          "likes_sample": 3
+          "uploads": 2,
+          "views": 1139648.5,
+          "views_sample": 2,
+          "likes": 6346.0,
+          "likes_sample": 2
         },
         "1y": {
           "uploads": 31,
-          "views": 710336.4838709678,
+          "views": 711226.5483870967,
           "views_sample": 31,
-          "likes": 13244.290322580646,
+          "likes": 13247.774193548386,
           "likes_sample": 31
         },
         "all": null
@@ -1590,9 +1590,9 @@
         },
         "all": {
           "uploads": 330,
-          "views": 6602061.427272728,
+          "views": 6602072.63939394,
           "views_sample": 330,
-          "likes": 253590.39393939395,
+          "likes": 253590.30303030304,
           "likes_sample": 330
         }
       }
@@ -1615,23 +1615,23 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 7475920.0,
+          "views": 7574305.0,
           "views_sample": 1,
-          "likes": 258826.0,
+          "likes": 260440.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 4,
-          "views": 5624532.25,
+          "views": 5656741.25,
           "views_sample": 4,
-          "likes": 127508.5,
+          "likes": 127969.5,
           "likes_sample": 4
         },
         "1y": {
           "uploads": 81,
-          "views": 6427911.666666667,
+          "views": 6430789.259259259,
           "views_sample": 81,
-          "likes": 145629.17283950618,
+          "likes": 145659.61728395062,
           "likes_sample": 81
         },
         "all": null
@@ -1676,9 +1676,9 @@
         },
         "all": {
           "uploads": 255,
-          "views": 763959.2901960785,
+          "views": 763973.3960784314,
           "views_sample": 255,
-          "likes": 16399.043137254903,
+          "likes": 16399.15294117647,
           "likes_sample": 255
         }
       }
@@ -1708,23 +1708,23 @@
         },
         "30d": {
           "uploads": 4,
-          "views": 225966.25,
+          "views": 229762.0,
           "views_sample": 4,
-          "likes": 7775.0,
+          "likes": 7809.25,
           "likes_sample": 4
         },
         "1y": {
           "uploads": 28,
-          "views": 577765.8928571428,
+          "views": 578481.1428571428,
           "views_sample": 28,
-          "likes": 12518.785714285714,
+          "likes": 12524.42857142857,
           "likes_sample": 28
         },
         "all": {
           "uploads": 214,
-          "views": 5899564.658878504,
+          "views": 5899997.752336449,
           "views_sample": 214,
-          "likes": 99374.78494623656,
+          "likes": 99377.5752688172,
           "likes_sample": 186
         }
       }
@@ -1739,38 +1739,38 @@
       },
       "windows": {
         "1d": {
-          "uploads": 1,
-          "views": 410270.0,
-          "views_sample": 1,
-          "likes": 7412.0,
-          "likes_sample": 1
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
         },
         "7d": {
           "uploads": 2,
-          "views": 235005.5,
+          "views": 276701.5,
           "views_sample": 2,
-          "likes": 4554.5,
+          "likes": 5231.0,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 3,
-          "views": 723595.0,
+          "views": 752035.6666666666,
           "views_sample": 3,
-          "likes": 10883.0,
+          "likes": 11339.666666666666,
           "likes_sample": 3
         },
         "1y": {
           "uploads": 36,
-          "views": 1370150.7777777778,
+          "views": 1373114.361111111,
           "views_sample": 36,
-          "likes": 36941.75,
+          "likes": 36996.86111111111,
           "likes_sample": 36
         },
         "all": {
           "uploads": 394,
-          "views": 2844405.659898477,
+          "views": 2844806.269035533,
           "views_sample": 394,
-          "likes": 87972.31472081218,
+          "likes": 87977.65989847716,
           "likes_sample": 394
         }
       }
@@ -1825,31 +1825,31 @@
       },
       "windows": {
         "1d": {
-          "uploads": 1,
-          "views": 34946.0,
-          "views_sample": 1,
-          "likes": 1257.0,
-          "likes_sample": 1
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
         },
         "7d": {
           "uploads": 5,
-          "views": 66381.8,
+          "views": 69066.0,
           "views_sample": 5,
-          "likes": 1760.0,
+          "likes": 1820.4,
           "likes_sample": 5
         },
         "30d": {
-          "uploads": 14,
-          "views": 175347.2857142857,
-          "views_sample": 14,
-          "likes": 4060.5714285714284,
-          "likes_sample": 14
+          "uploads": 13,
+          "views": 186949.92307692306,
+          "views_sample": 13,
+          "likes": 4332.923076923077,
+          "likes_sample": 13
         },
         "1y": {
           "uploads": 183,
-          "views": 107366.51366120219,
+          "views": 107489.90163934426,
           "views_sample": 183,
-          "likes": 3232.907103825137,
+          "likes": 3235.1311475409834,
           "likes_sample": 183
         },
         "all": null
@@ -1887,9 +1887,9 @@
         },
         "1y": {
           "uploads": 7,
-          "views": 7229732.428571428,
+          "views": 7232135.285714285,
           "views_sample": 7,
-          "likes": 299953.85714285716,
+          "likes": 300034.4285714286,
           "likes_sample": 7
         },
         "all": null
@@ -1906,30 +1906,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 26204.0,
+          "views": 75321.0,
           "views_sample": 1,
-          "likes": 2921.0,
+          "likes": 4980.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 4,
-          "views": 75937.0,
+          "views": 89782.25,
           "views_sample": 4,
-          "likes": 4359.75,
+          "likes": 4933.75,
           "likes_sample": 4
         },
         "30d": {
           "uploads": 14,
-          "views": 322616.21428571426,
+          "views": 327500.9285714286,
           "views_sample": 14,
-          "likes": 12058.642857142857,
+          "likes": 12240.5,
           "likes_sample": 14
         },
         "1y": {
           "uploads": 205,
-          "views": 828362.4975609756,
+          "views": 828855.356097561,
           "views_sample": 205,
-          "likes": 29927.614634146343,
+          "likes": 29942.829268292684,
           "likes_sample": 205
         },
         "all": null
@@ -1960,16 +1960,16 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 963392.0,
+          "views": 964017.5,
           "views_sample": 2,
-          "likes": 13782.0,
+          "likes": 13785.0,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 116,
-          "views": 8801356.603448275,
+          "views": 8804854.818965517,
           "views_sample": 116,
-          "likes": 151371.31896551725,
+          "likes": 151392.87931034484,
           "likes_sample": 116
         },
         "all": null
@@ -2007,7 +2007,7 @@
         },
         "1y": {
           "uploads": 2,
-          "views": 1067986.5,
+          "views": 1068022.5,
           "views_sample": 2,
           "likes": 19992.5,
           "likes_sample": 2
@@ -2033,23 +2033,23 @@
         },
         "7d": {
           "uploads": 3,
-          "views": 1412827.0,
+          "views": 1476370.6666666667,
           "views_sample": 3,
-          "likes": 30579.0,
+          "likes": 31373.333333333332,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 11,
-          "views": 4020880.727272727,
+          "views": 4046004.6363636362,
           "views_sample": 11,
-          "likes": 59764.72727272727,
+          "likes": 60038.818181818184,
           "likes_sample": 11
         },
         "1y": {
           "uploads": 85,
-          "views": 7157456.247058824,
+          "views": 7162158.505882353,
           "views_sample": 85,
-          "likes": 150448.58823529413,
+          "likes": 150494.0705882353,
           "likes_sample": 85
         },
         "all": null
@@ -2066,30 +2066,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 128080.0,
+          "views": 178638.0,
           "views_sample": 1,
-          "likes": 3193.0,
+          "likes": 3811.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 3,
-          "views": 396899.6666666667,
+          "views": 416776.6666666667,
           "views_sample": 3,
-          "likes": 7364.333333333333,
+          "likes": 7609.0,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 14,
-          "views": 364606.21428571426,
+          "views": 369303.14285714284,
           "views_sample": 14,
-          "likes": 6239.357142857143,
+          "likes": 6294.357142857143,
           "likes_sample": 14
         },
         "1y": {
           "uploads": 146,
-          "views": 227703.1095890411,
+          "views": 228235.41780821918,
           "views_sample": 146,
-          "likes": 7335.08904109589,
+          "likes": 7340.986301369863,
           "likes_sample": 146
         },
         "all": null
@@ -2127,9 +2127,9 @@
         },
         "1y": {
           "uploads": 5,
-          "views": 4460056.6,
+          "views": 4463539.4,
           "views_sample": 5,
-          "likes": 70720.8,
+          "likes": 70744.6,
           "likes_sample": 5
         },
         "all": null
@@ -2160,23 +2160,23 @@
         },
         "30d": {
           "uploads": 4,
-          "views": 829022.0,
+          "views": 832850.0,
           "views_sample": 4,
-          "likes": 24399.75,
+          "likes": 24498.0,
           "likes_sample": 4
         },
         "1y": {
           "uploads": 31,
-          "views": 2017494.1612903227,
+          "views": 2028126.3548387096,
           "views_sample": 31,
-          "likes": 65411.25806451613,
+          "likes": 65619.45161290323,
           "likes_sample": 31
         },
         "all": {
           "uploads": 395,
-          "views": 3781569.8734177216,
+          "views": 3782620.946835443,
           "views_sample": 395,
-          "likes": 149150.29873417722,
+          "likes": 149169.40506329114,
           "likes_sample": 395
         }
       }
@@ -2206,23 +2206,23 @@
         },
         "30d": {
           "uploads": 5,
-          "views": 2916448.0,
+          "views": 2937070.2,
           "views_sample": 5,
-          "likes": 74001.8,
+          "likes": 74241.2,
           "likes_sample": 5
         },
         "1y": {
-          "uploads": 56,
-          "views": 6057120.803571428,
-          "views_sample": 56,
-          "likes": 149827.94642857142,
-          "likes_sample": 56
+          "uploads": 55,
+          "views": 6147818.418181818,
+          "views_sample": 55,
+          "likes": 152103.14545454545,
+          "likes_sample": 55
         },
         "all": {
           "uploads": 242,
-          "views": 6149829.842975207,
+          "views": 6151350.871900827,
           "views_sample": 242,
-          "likes": 164985.97520661156,
+          "likes": 165003.80578512396,
           "likes_sample": 242
         }
       }
@@ -2259,16 +2259,16 @@
         },
         "1y": {
           "uploads": 3,
-          "views": 355293.0,
+          "views": 355490.0,
           "views_sample": 3,
-          "likes": 13298.333333333334,
+          "likes": 13300.666666666666,
           "likes_sample": 3
         },
         "all": {
           "uploads": 145,
-          "views": 4588307.827586207,
+          "views": 4588919.475862069,
           "views_sample": 145,
-          "likes": 50630.441379310345,
+          "likes": 50633.027586206896,
           "likes_sample": 145
         }
       }
@@ -2298,23 +2298,23 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 160349.0,
+          "views": 161283.0,
           "views_sample": 1,
-          "likes": 13711.0,
+          "likes": 13744.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 30,
-          "views": 1423894.6333333333,
+          "views": 1431358.1,
           "views_sample": 30,
-          "likes": 33363.26666666667,
+          "likes": 33416.9,
           "likes_sample": 30
         },
         "all": {
           "uploads": 384,
-          "views": 8363699.046875,
+          "views": 8364908.606770833,
           "views_sample": 384,
-          "likes": 115761.51041666667,
+          "likes": 115769.41666666667,
           "likes_sample": 384
         }
       }
@@ -2330,24 +2330,24 @@
       "windows": {
         "1d": {
           "uploads": 3,
-          "views": 239622.33333333334,
+          "views": 102174.0,
           "views_sample": 3,
-          "likes": 7605.666666666667,
+          "likes": 3656.3333333333335,
           "likes_sample": 3
         },
         "7d": {
           "uploads": 23,
-          "views": 641636.4782608695,
+          "views": 645789.304347826,
           "views_sample": 23,
-          "likes": 15168.826086956522,
+          "likes": 15278.782608695652,
           "likes_sample": 23
         },
         "30d": {
-          "uploads": 96,
-          "views": 858830.84375,
-          "views_sample": 96,
-          "likes": 19551.135416666668,
-          "likes_sample": 96
+          "uploads": 97,
+          "views": 853520.5670103093,
+          "views_sample": 97,
+          "likes": 19415.20618556701,
+          "likes_sample": 97
         },
         "1y": null,
         "all": null
@@ -2363,24 +2363,24 @@
       },
       "windows": {
         "1d": {
-          "uploads": 1,
-          "views": 225698.0,
-          "views_sample": 1,
-          "likes": 3172.0,
-          "likes_sample": 1
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
         },
         "7d": {
           "uploads": 8,
-          "views": 295825.875,
+          "views": 306490.5,
           "views_sample": 8,
-          "likes": 3943.625,
+          "likes": 4035.375,
           "likes_sample": 8
         },
         "30d": {
           "uploads": 39,
-          "views": 300094.23076923075,
+          "views": 302557.0512820513,
           "views_sample": 39,
-          "likes": 4205.205128205128,
+          "likes": 4227.51282051282,
           "likes_sample": 39
         },
         "1y": null,
@@ -2426,9 +2426,9 @@
         },
         "all": {
           "uploads": 137,
-          "views": 61205877.75182482,
+          "views": 61208561.79562044,
           "views_sample": 137,
-          "likes": 1052221.7226277373,
+          "likes": 1052236.2554744526,
           "likes_sample": 137
         }
       }
@@ -2451,23 +2451,23 @@
         },
         "7d": {
           "uploads": 3,
-          "views": 8378855.333333333,
+          "views": 8705277.0,
           "views_sample": 3,
-          "likes": 113337.33333333333,
+          "likes": 116578.33333333333,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 6,
-          "views": 8406640.666666666,
+          "views": 8583154.333333334,
           "views_sample": 6,
-          "likes": 137732.16666666666,
+          "likes": 139471.33333333334,
           "likes_sample": 6
         },
         "1y": {
           "uploads": 90,
-          "views": 9357917.177777778,
+          "views": 9375320.844444444,
           "views_sample": 90,
-          "likes": 215471.14444444445,
+          "likes": 215646.2111111111,
           "likes_sample": 90
         },
         "all": null
@@ -2477,38 +2477,38 @@
       "channel_id": "UCMp-0bU-PA7BNNR-zIvEydA",
       "subscribers": 7790000,
       "featured": {
-        "videoId": "y-58OcIphFM",
-        "title": "is $100 enough for a bodybuilder to bulk for a week?",
-        "publishedAt": "2026-11-14T20:56:38+00:00"
+        "videoId": "ffU1Q7OxmyQ",
+        "title": "trying TIKTOK high protein hacks",
+        "publishedAt": "2026-11-21T21:07:29+00:00"
       },
       "windows": {
         "1d": {
-          "uploads": 0,
-          "views": null,
-          "views_sample": 0,
-          "likes": null,
-          "likes_sample": 0
+          "uploads": 1,
+          "views": 20203.0,
+          "views_sample": 1,
+          "likes": 564.0,
+          "likes_sample": 1
         },
         "7d": {
           "uploads": 2,
-          "views": 984155.0,
+          "views": 1010495.0,
           "views_sample": 2,
-          "likes": 37669.5,
+          "likes": 40101.0,
           "likes_sample": 2
         },
         "30d": {
-          "uploads": 8,
-          "views": 1402660.375,
-          "views_sample": 8,
-          "likes": 59025.75,
-          "likes_sample": 8
+          "uploads": 9,
+          "views": 1289089.5555555555,
+          "views_sample": 9,
+          "likes": 53482.22222222222,
+          "likes_sample": 9
         },
         "1y": {
-          "uploads": 111,
-          "views": 2554528.7837837837,
-          "views_sample": 111,
-          "likes": 84284.57657657658,
-          "likes_sample": 111
+          "uploads": 112,
+          "views": 2536074.910714286,
+          "views_sample": 112,
+          "likes": 83630.52678571429,
+          "likes_sample": 112
         },
         "all": null
       }
@@ -2538,23 +2538,23 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 10925.0,
+          "views": 10942.0,
           "views_sample": 1,
           "likes": 493.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 21,
-          "views": 47855.42857142857,
+          "views": 47868.28571428572,
           "views_sample": 21,
-          "likes": 957.1428571428571,
+          "likes": 957.2857142857143,
           "likes_sample": 21
         },
         "all": {
           "uploads": 141,
-          "views": 63352.36170212766,
+          "views": 63357.602836879436,
           "views_sample": 141,
-          "likes": 2431.241134751773,
+          "likes": 2431.290780141844,
           "likes_sample": 141
         }
       }
@@ -2584,16 +2584,16 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 4455.0,
+          "views": 4467.0,
           "views_sample": 1,
-          "likes": 95.0,
+          "likes": 96.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 1,
-          "views": 4455.0,
+          "views": 4467.0,
           "views_sample": 1,
-          "likes": 95.0,
+          "likes": 96.0,
           "likes_sample": 1
         },
         "all": null
@@ -2638,9 +2638,9 @@
         },
         "all": {
           "uploads": 201,
-          "views": 374267.15422885574,
+          "views": 374267.98507462686,
           "views_sample": 201,
-          "likes": 12427.721393034826,
+          "likes": 12427.676616915423,
           "likes_sample": 201
         }
       }
@@ -2684,9 +2684,9 @@
         },
         "all": {
           "uploads": 38,
-          "views": 6349906.184210527,
+          "views": 6350594.631578947,
           "views_sample": 38,
-          "likes": 88568.78947368421,
+          "likes": 88571.34210526316,
           "likes_sample": 38
         }
       }
@@ -2723,16 +2723,16 @@
         },
         "1y": {
           "uploads": 10,
-          "views": 668797.8,
+          "views": 669019.6,
           "views_sample": 10,
-          "likes": 17466.5,
+          "likes": 17468.8,
           "likes_sample": 10
         },
         "all": {
           "uploads": 166,
-          "views": 19299737.963855423,
+          "views": 19300485.240963854,
           "views_sample": 166,
-          "likes": 179347.56626506025,
+          "likes": 179351.0903614458,
           "likes_sample": 166
         }
       }
@@ -2762,16 +2762,16 @@
         },
         "30d": {
           "uploads": 4,
-          "views": 3328024.5,
+          "views": 3356526.5,
           "views_sample": 4,
-          "likes": 14478.5,
+          "likes": 14533.25,
           "likes_sample": 4
         },
         "1y": {
           "uploads": 40,
-          "views": 2992634.55,
+          "views": 2998357.45,
           "views_sample": 40,
-          "likes": 29943.225,
+          "likes": 29958.025,
           "likes_sample": 40
         },
         "all": null
@@ -2788,30 +2788,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 65564.0,
+          "views": 339822.0,
           "views_sample": 1,
-          "likes": 3904.0,
+          "likes": 12876.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 5,
-          "views": 1177221.8,
+          "views": 1294552.0,
           "views_sample": 5,
-          "likes": 21024.6,
+          "likes": 23468.0,
           "likes_sample": 5
         },
         "30d": {
-          "uploads": 26,
-          "views": 2305354.5384615385,
-          "views_sample": 26,
-          "likes": 36504.96153846154,
-          "likes_sample": 26
+          "uploads": 25,
+          "views": 2409808.56,
+          "views_sample": 25,
+          "likes": 38067.4,
+          "likes_sample": 25
         },
         "1y": {
           "uploads": 162,
-          "views": 8121501.62345679,
+          "views": 8134664.975308642,
           "views_sample": 162,
-          "likes": 105934.54320987655,
+          "likes": 106048.71604938271,
           "likes_sample": 162
         },
         "all": null
@@ -2842,16 +2842,16 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 5276550.0,
+          "views": 5334647.0,
           "views_sample": 1,
-          "likes": 146300.0,
+          "likes": 146815.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 2,
-          "views": 2666847.5,
+          "views": 2695913.5,
           "views_sample": 2,
-          "likes": 73980.5,
+          "likes": 74238.0,
           "likes_sample": 2
         },
         "all": null
@@ -2896,9 +2896,9 @@
         },
         "all": {
           "uploads": 80,
-          "views": 32708844.1625,
+          "views": 32710993.5125,
           "views_sample": 80,
-          "likes": 320984.7125,
+          "likes": 320996.425,
           "likes_sample": 80
         }
       }
@@ -2921,23 +2921,23 @@
         },
         "7d": {
           "uploads": 5,
-          "views": 186244.8,
+          "views": 187532.6,
           "views_sample": 5,
-          "likes": 2396.2,
+          "likes": 2406.2,
           "likes_sample": 5
         },
         "30d": {
           "uploads": 24,
-          "views": 232983.20833333334,
+          "views": 233724.625,
           "views_sample": 24,
-          "likes": 3377.375,
+          "likes": 3383.5833333333335,
           "likes_sample": 24
         },
         "1y": {
           "uploads": 265,
-          "views": 226686.6,
+          "views": 226761.4150943396,
           "views_sample": 265,
-          "likes": 5357.679245283019,
+          "likes": 5358.301886792453,
           "likes_sample": 265
         },
         "all": null
@@ -2968,23 +2968,23 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 2349018.0,
+          "views": 2352786.5,
           "views_sample": 2,
-          "likes": 111048.5,
+          "likes": 111096.0,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 94,
-          "views": 6111168.063829787,
+          "views": 6112316.170212766,
           "views_sample": 94,
-          "likes": 214940.56382978722,
+          "likes": 214952.6914893617,
           "likes_sample": 94
         },
         "all": {
           "uploads": 307,
-          "views": 14686761.368078176,
+          "views": 14687345.449511401,
           "views_sample": 307,
-          "likes": 550332.7557003257,
+          "likes": 550338.026058632,
           "likes_sample": 307
         }
       }
@@ -3014,23 +3014,23 @@
         },
         "30d": {
           "uploads": 3,
-          "views": 470452.0,
+          "views": 472501.6666666667,
           "views_sample": 3,
-          "likes": 9927.0,
+          "likes": 9949.333333333334,
           "likes_sample": 3
         },
         "1y": {
           "uploads": 25,
-          "views": 473080.0,
+          "views": 473476.2,
           "views_sample": 25,
-          "likes": 16789.88,
+          "likes": 16793.68,
           "likes_sample": 25
         },
         "all": {
           "uploads": 320,
-          "views": 1883416.2695924765,
+          "views": 1883484.6739811911,
           "views_sample": 319,
-          "likes": 40087.86875,
+          "likes": 40088.190625,
           "likes_sample": 320
         }
       }
@@ -3045,25 +3045,25 @@
       },
       "windows": {
         "1d": {
-          "uploads": 1,
-          "views": 116882.0,
-          "views_sample": 1,
-          "likes": 1564.0,
-          "likes_sample": 1
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
         },
         "7d": {
-          "uploads": 25,
-          "views": 131490.52,
-          "views_sample": 25,
-          "likes": 1579.84,
-          "likes_sample": 25
+          "uploads": 24,
+          "views": 118910.0,
+          "views_sample": 24,
+          "likes": 1436.4583333333333,
+          "likes_sample": 24
         },
         "30d": {
-          "uploads": 104,
-          "views": 117147.16346153847,
-          "views_sample": 104,
-          "likes": 1475.9711538461538,
-          "likes_sample": 104
+          "uploads": 100,
+          "views": 120298.55,
+          "views_sample": 100,
+          "likes": 1514.94,
+          "likes_sample": 100
         },
         "1y": null,
         "all": null
@@ -3079,39 +3079,39 @@
       },
       "windows": {
         "1d": {
-          "uploads": 0,
-          "views": null,
-          "views_sample": 0,
-          "likes": null,
-          "likes_sample": 0
-        },
-        "7d": {
           "uploads": 1,
-          "views": 544925.0,
+          "views": 3525.0,
           "views_sample": 1,
-          "likes": 7128.0,
+          "likes": 44.0,
           "likes_sample": 1
         },
+        "7d": {
+          "uploads": 2,
+          "views": 275970.0,
+          "views_sample": 2,
+          "likes": 3605.0,
+          "likes_sample": 2
+        },
         "30d": {
-          "uploads": 13,
-          "views": 225720.76923076922,
-          "views_sample": 13,
-          "likes": 2746.0,
-          "likes_sample": 13
+          "uploads": 14,
+          "views": 210220.7142857143,
+          "views_sample": 14,
+          "likes": 2556.4285714285716,
+          "likes_sample": 14
         },
         "1y": {
-          "uploads": 310,
-          "views": 282242.4322580645,
-          "views_sample": 310,
-          "likes": 5257.558064516129,
-          "likes_sample": 310
+          "uploads": 311,
+          "views": 281382.5723472669,
+          "views_sample": 311,
+          "likes": 5241.180064308682,
+          "likes_sample": 311
         },
         "all": null
       }
     },
     {
       "channel_id": "UCV9dV3DcAZWGnT2yFNKxStA",
-      "subscribers": 665000,
+      "subscribers": 666000,
       "featured": {
         "videoId": "sru3iui0kNs",
         "title": "This Rematch Got Personal at Bandon Trails (2v2 Shamble)",
@@ -3119,38 +3119,38 @@
       },
       "windows": {
         "1d": {
-          "uploads": 3,
-          "views": 7724.0,
-          "views_sample": 3,
-          "likes": 240.33333333333334,
-          "likes_sample": 3
+          "uploads": 2,
+          "views": 20259.5,
+          "views_sample": 2,
+          "likes": 301.5,
+          "likes_sample": 2
         },
         "7d": {
           "uploads": 3,
-          "views": 7724.0,
+          "views": 15993.333333333334,
           "views_sample": 3,
-          "likes": 240.33333333333334,
+          "likes": 304.0,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 12,
-          "views": 129777.5,
+          "views": 131979.25,
           "views_sample": 12,
-          "likes": 2047.3333333333333,
+          "likes": 2066.5833333333335,
           "likes_sample": 12
         },
         "1y": {
           "uploads": 39,
-          "views": 297545.25641025644,
+          "views": 298307.92307692306,
           "views_sample": 39,
-          "likes": 5919.051282051282,
+          "likes": 5925.589743589743,
           "likes_sample": 39
         },
         "all": {
           "uploads": 39,
-          "views": 297545.25641025644,
+          "views": 298307.92307692306,
           "views_sample": 39,
-          "likes": 5919.051282051282,
+          "likes": 5925.589743589743,
           "likes_sample": 39
         }
       }
@@ -3173,30 +3173,30 @@
         },
         "7d": {
           "uploads": 2,
-          "views": 491366.5,
+          "views": 516449.5,
           "views_sample": 2,
-          "likes": 15638.0,
+          "likes": 16053.5,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 21,
-          "views": 309069.28571428574,
+          "views": 314823.85714285716,
           "views_sample": 21,
-          "likes": 7439.238095238095,
+          "likes": 7498.0,
           "likes_sample": 21
         },
         "1y": {
           "uploads": 36,
-          "views": 1007869.2222222222,
+          "views": 1011784.0,
           "views_sample": 36,
-          "likes": 17868.277777777777,
+          "likes": 17905.777777777777,
           "likes_sample": 36
         },
         "all": {
           "uploads": 161,
-          "views": 11091464.031055901,
+          "views": 11093165.111801242,
           "views_sample": 161,
-          "likes": 99759.53416149068,
+          "likes": 99770.64596273292,
           "likes_sample": 161
         }
       }
@@ -3226,16 +3226,16 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 1228658.5,
+          "views": 1228968.5,
           "views_sample": 2,
-          "likes": 13632.5,
+          "likes": 13633.0,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 36,
-          "views": 1061431.9444444445,
+          "views": 1061868.4444444445,
           "views_sample": 36,
-          "likes": 24701.75,
+          "likes": 24710.972222222223,
           "likes_sample": 36
         },
         "all": null
@@ -3273,16 +3273,16 @@
         },
         "1y": {
           "uploads": 12,
-          "views": 3902110.4166666665,
+          "views": 3903879.9166666665,
           "views_sample": 12,
-          "likes": 90327.66666666667,
+          "likes": 90338.25,
           "likes_sample": 12
         },
         "all": {
           "uploads": 92,
-          "views": 23340826.141304348,
+          "views": 23344199.18478261,
           "views_sample": 92,
-          "likes": 264028.0869565217,
+          "likes": 264042.04347826086,
           "likes_sample": 92
         }
       }
@@ -3298,23 +3298,23 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 2642.0,
+          "views": 2846.0,
           "views_sample": 1,
-          "likes": 57.0,
+          "likes": 61.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 10,
-          "views": 15300.3,
+          "views": 15738.1,
           "views_sample": 10,
-          "likes": 208.7,
+          "likes": 214.4,
           "likes_sample": 10
         },
         "30d": {
           "uploads": 37,
-          "views": 26717.486486486487,
+          "views": 26856.486486486487,
           "views_sample": 37,
-          "likes": 229.1081081081081,
+          "likes": 230.67567567567568,
           "likes_sample": 37
         },
         "1y": null,
@@ -3345,17 +3345,17 @@
           "likes_sample": 0
         },
         "30d": {
-          "uploads": 10,
-          "views": 7203713.2,
-          "views_sample": 10,
-          "likes": 199831.6,
-          "likes_sample": 10
+          "uploads": 9,
+          "views": 8005529.222222222,
+          "views_sample": 9,
+          "likes": 222239.44444444444,
+          "likes_sample": 9
         },
         "1y": {
           "uploads": 168,
-          "views": 2126783.8095238097,
+          "views": 2128703.113095238,
           "views_sample": 168,
-          "likes": 64360.29761904762,
+          "likes": 64414.38690476191,
           "likes_sample": 168
         },
         "all": null
@@ -3378,25 +3378,25 @@
           "likes_sample": 0
         },
         "7d": {
-          "uploads": 3,
-          "views": 269280.0,
-          "views_sample": 3,
-          "likes": 6696.0,
-          "likes_sample": 3
+          "uploads": 2,
+          "views": 211131.5,
+          "views_sample": 2,
+          "likes": 4682.0,
+          "likes_sample": 2
         },
         "30d": {
           "uploads": 16,
-          "views": 699908.0,
+          "views": 702106.0625,
           "views_sample": 16,
-          "likes": 14475.9375,
+          "likes": 14508.0,
           "likes_sample": 16
         },
         "1y": {
-          "uploads": 183,
-          "views": 952806.7431693989,
-          "views_sample": 183,
-          "likes": 24816.081967213115,
-          "likes_sample": 183
+          "uploads": 182,
+          "views": 945228.8296703297,
+          "views_sample": 182,
+          "likes": 24534.527472527472,
+          "likes_sample": 182
         },
         "all": null
       }
@@ -3411,31 +3411,31 @@
       },
       "windows": {
         "1d": {
-          "uploads": 2,
-          "views": 13152943.0,
-          "views_sample": 2,
-          "likes": 242771.0,
-          "likes_sample": 2
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
         },
         "7d": {
           "uploads": 10,
-          "views": 14983329.2,
+          "views": 15196603.7,
           "views_sample": 10,
-          "likes": 224575.8,
+          "likes": 227068.2,
           "likes_sample": 10
         },
         "30d": {
           "uploads": 35,
-          "views": 7255450.057142857,
+          "views": 7329663.257142857,
           "views_sample": 35,
-          "likes": 146067.65714285715,
+          "likes": 146948.34285714285,
           "likes_sample": 35
         },
         "1y": {
           "uploads": 322,
-          "views": 13044477.450310558,
+          "views": 13056884.44720497,
           "views_sample": 322,
-          "likes": 316236.0093167702,
+          "likes": 316378.37577639753,
           "likes_sample": 322
         },
         "all": null
@@ -3452,30 +3452,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 197641.0,
+          "views": 206939.0,
           "views_sample": 1,
-          "likes": 2034.0,
+          "likes": 2099.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 7,
-          "views": 158302.14285714287,
+          "views": 160707.57142857142,
           "views_sample": 7,
-          "likes": 1987.7142857142858,
+          "likes": 2015.142857142857,
           "likes_sample": 7
         },
         "30d": {
           "uploads": 25,
-          "views": 152410.28,
+          "views": 153258.6,
           "views_sample": 25,
-          "likes": 2616.4,
+          "likes": 2626.04,
           "likes_sample": 25
         },
         "1y": {
           "uploads": 302,
-          "views": 259969.23509933776,
+          "views": 260080.93708609272,
           "views_sample": 302,
-          "likes": 6249.794701986755,
+          "likes": 6251.07284768212,
           "likes_sample": 302
         },
         "all": null
@@ -3499,24 +3499,24 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 11958917.0,
+          "views": 12602106.0,
           "views_sample": 1,
-          "likes": 378287.0,
+          "likes": 392302.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 7,
-          "views": 72454080.0,
+          "views": 73036194.85714285,
           "views_sample": 7,
-          "likes": 1127221.7142857143,
+          "likes": 1133212.5714285714,
           "likes_sample": 7
         },
         "1y": {
-          "uploads": 95,
-          "views": 245531478.6,
-          "views_sample": 95,
-          "likes": 3125195.347368421,
-          "likes_sample": 95
+          "uploads": 94,
+          "views": 247697877.19148937,
+          "views_sample": 94,
+          "likes": 3147478.5319148935,
+          "likes_sample": 94
         },
         "all": null
       }
@@ -3539,23 +3539,23 @@
         },
         "7d": {
           "uploads": 2,
-          "views": 68712.0,
+          "views": 69977.0,
           "views_sample": 2,
-          "likes": 809.5,
+          "likes": 825.0,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 9,
-          "views": 128099.33333333333,
+          "views": 128815.11111111111,
           "views_sample": 9,
-          "likes": 1389.3333333333333,
+          "likes": 1398.0,
           "likes_sample": 9
         },
         "1y": {
           "uploads": 72,
-          "views": 99341.08333333333,
+          "views": 99459.63888888889,
           "views_sample": 72,
-          "likes": 2843.9305555555557,
+          "likes": 2845.5,
           "likes_sample": 72
         },
         "all": null
@@ -3572,30 +3572,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 4199.0,
+          "views": 17367.0,
           "views_sample": 1,
-          "likes": 368.0,
+          "likes": 1027.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 9,
-          "views": 186171.88888888888,
+          "views": 193946.88888888888,
           "views_sample": 9,
-          "likes": 3950.4444444444443,
+          "likes": 4127.555555555556,
           "likes_sample": 9
         },
         "30d": {
-          "uploads": 32,
-          "views": 387115.59375,
-          "views_sample": 32,
-          "likes": 6701.375,
-          "likes_sample": 32
+          "uploads": 31,
+          "views": 400733.77419354836,
+          "views_sample": 31,
+          "likes": 6906.419354838709,
+          "likes_sample": 31
         },
         "1y": {
           "uploads": 365,
-          "views": 333005.5917808219,
+          "views": 333423.2082191781,
           "views_sample": 365,
-          "likes": 7638.0191780821915,
+          "likes": 7644.745205479452,
           "likes_sample": 365
         },
         "all": null
@@ -3611,32 +3611,32 @@
       },
       "windows": {
         "1d": {
-          "uploads": 3,
-          "views": 210087.0,
-          "views_sample": 3,
-          "likes": 3997.6666666666665,
-          "likes_sample": 3
+          "uploads": 2,
+          "views": 270116.5,
+          "views_sample": 2,
+          "likes": 5333.5,
+          "likes_sample": 2
         },
         "7d": {
           "uploads": 12,
-          "views": 1065234.4166666667,
+          "views": 1097875.0,
           "views_sample": 12,
-          "likes": 16066.666666666666,
+          "likes": 16108.666666666666,
           "likes_sample": 12
         },
         "30d": {
-          "uploads": 35,
-          "views": 1819518.4571428571,
-          "views_sample": 35,
-          "likes": 30359.742857142857,
-          "likes_sample": 35
+          "uploads": 36,
+          "views": 1788887.1944444445,
+          "views_sample": 36,
+          "likes": 29783.777777777777,
+          "likes_sample": 36
         },
         "1y": {
-          "uploads": 382,
-          "views": 1755777.8926701571,
-          "views_sample": 382,
-          "likes": 43010.92670157068,
-          "likes_sample": 382
+          "uploads": 383,
+          "views": 1753454.4490861618,
+          "views_sample": 383,
+          "likes": 42927.52219321149,
+          "likes_sample": 383
         },
         "all": null
       }
@@ -3652,37 +3652,37 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 1193871.0,
+          "views": 3291156.0,
           "views_sample": 1,
-          "likes": 24491.0,
+          "likes": 41566.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 1,
-          "views": 1193871.0,
+          "views": 3291156.0,
           "views_sample": 1,
-          "likes": 24491.0,
+          "likes": 41566.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 5,
-          "views": 8200121.6,
+          "views": 8660905.8,
           "views_sample": 5,
-          "likes": 79929.6,
+          "likes": 83516.0,
           "likes_sample": 5
         },
         "1y": {
           "uploads": 42,
-          "views": 34316254.23809524,
+          "views": 34391515.97619048,
           "views_sample": 42,
-          "likes": 387500.0238095238,
+          "likes": 387998.0714285714,
           "likes_sample": 42
         },
         "all": {
           "uploads": 278,
-          "views": 73680320.51798561,
+          "views": 73695691.21942446,
           "views_sample": 278,
-          "likes": 1547450.1618705036,
+          "likes": 1547547.7769784173,
           "likes_sample": 278
         }
       }
@@ -3698,30 +3698,30 @@
       "windows": {
         "1d": {
           "uploads": 2,
-          "views": 21469.5,
+          "views": 133100.0,
           "views_sample": 2,
-          "likes": 1045.0,
+          "likes": 2325.5,
           "likes_sample": 2
         },
         "7d": {
-          "uploads": 7,
-          "views": 153852.85714285713,
-          "views_sample": 7,
-          "likes": 3353.4285714285716,
-          "likes_sample": 7
+          "uploads": 6,
+          "views": 197287.33333333334,
+          "views_sample": 6,
+          "likes": 4180.833333333333,
+          "likes_sample": 6
         },
         "30d": {
           "uploads": 34,
-          "views": 276442.5588235294,
+          "views": 285000.1176470588,
           "views_sample": 34,
-          "likes": 5084.911764705882,
+          "likes": 5178.85294117647,
           "likes_sample": 34
         },
         "1y": {
           "uploads": 399,
-          "views": 481682.75187969924,
+          "views": 482486.0426065163,
           "views_sample": 399,
-          "likes": 7494.368421052632,
+          "likes": 7502.749373433584,
           "likes_sample": 399
         },
         "all": null
@@ -3738,30 +3738,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 28484.0,
+          "views": 247296.0,
           "views_sample": 1,
-          "likes": 3723.0,
+          "likes": 8623.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 5,
-          "views": 1578400.2,
+          "views": 1688592.2,
           "views_sample": 5,
-          "likes": 37187.6,
+          "likes": 39368.0,
           "likes_sample": 5
         },
         "30d": {
           "uploads": 9,
-          "views": 1791442.111111111,
+          "views": 1853805.4444444445,
           "views_sample": 9,
-          "likes": 48018.88888888889,
+          "likes": 49262.77777777778,
           "likes_sample": 9
         },
         "1y": {
           "uploads": 79,
-          "views": 2198320.810126582,
+          "views": 2205798.5443037977,
           "views_sample": 79,
-          "likes": 77520.17721518988,
+          "likes": 77665.60759493671,
           "likes_sample": 79
         },
         "all": null
@@ -3799,16 +3799,16 @@
         },
         "1y": {
           "uploads": 4,
-          "views": 1675892.5,
+          "views": 1675990.5,
           "views_sample": 4,
-          "likes": 158128.25,
+          "likes": 158127.75,
           "likes_sample": 4
         },
         "all": {
           "uploads": 21,
-          "views": 3473531.5714285714,
+          "views": 3473608.380952381,
           "views_sample": 21,
-          "likes": 293555.5714285714,
+          "likes": 293555.4285714286,
           "likes_sample": 21
         }
       }
@@ -3831,23 +3831,23 @@
         },
         "7d": {
           "uploads": 5,
-          "views": 179639.0,
+          "views": 186838.6,
           "views_sample": 5,
-          "likes": 3412.8,
+          "likes": 3511.6,
           "likes_sample": 5
         },
         "30d": {
           "uploads": 21,
-          "views": 419912.1904761905,
+          "views": 422969.85714285716,
           "views_sample": 21,
-          "likes": 6604.380952380952,
+          "likes": 6638.809523809524,
           "likes_sample": 21
         },
         "1y": {
           "uploads": 220,
-          "views": 301494.57272727275,
+          "views": 301840.0,
           "views_sample": 220,
-          "likes": 9147.618181818181,
+          "likes": 9151.59090909091,
           "likes_sample": 220
         },
         "all": null
@@ -3931,16 +3931,16 @@
         },
         "1y": {
           "uploads": 1,
-          "views": 266099.0,
+          "views": 266753.0,
           "views_sample": 1,
-          "likes": 11974.0,
+          "likes": 11982.0,
           "likes_sample": 1
         },
         "all": {
           "uploads": 57,
-          "views": 18584949.824561402,
+          "views": 18585094.771929823,
           "views_sample": 57,
-          "likes": 324192.9298245614,
+          "likes": 324193.4210526316,
           "likes_sample": 57
         }
       }
@@ -3977,9 +3977,9 @@
         },
         "1y": {
           "uploads": 30,
-          "views": 320963.6,
+          "views": 321143.8333333333,
           "views_sample": 30,
-          "likes": 6507.0,
+          "likes": 6508.166666666667,
           "likes_sample": 30
         },
         "all": null
@@ -3996,30 +3996,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 2177385.0,
+          "views": 2968929.0,
           "views_sample": 1,
-          "likes": 21857.0,
+          "likes": 27085.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 2,
-          "views": 1656356.0,
+          "views": 2084697.0,
           "views_sample": 2,
-          "likes": 19676.5,
+          "likes": 22739.0,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 9,
-          "views": 6558732.555555556,
+          "views": 6695162.222222222,
           "views_sample": 9,
-          "likes": 47056.77777777778,
+          "likes": 47958.22222222222,
           "likes_sample": 9
         },
         "1y": {
           "uploads": 91,
-          "views": 44093988.95604396,
+          "views": 44126559.23076923,
           "views_sample": 91,
-          "likes": 486051.2747252747,
+          "likes": 486260.6043956044,
           "likes_sample": 91
         },
         "all": null
@@ -4035,31 +4035,31 @@
       },
       "windows": {
         "1d": {
-          "uploads": 1,
-          "views": 728429.0,
-          "views_sample": 1,
-          "likes": 8479.0,
-          "likes_sample": 1
+          "uploads": 0,
+          "views": null,
+          "views_sample": 0,
+          "likes": null,
+          "likes_sample": 0
         },
         "7d": {
           "uploads": 9,
-          "views": 593145.5555555555,
+          "views": 608775.0,
           "views_sample": 9,
-          "likes": 8884.666666666666,
+          "likes": 9032.222222222223,
           "likes_sample": 9
         },
         "30d": {
-          "uploads": 27,
-          "views": 471847.44444444444,
-          "views_sample": 27,
-          "likes": 7449.777777777777,
-          "likes_sample": 27
+          "uploads": 26,
+          "views": 474939.3461538461,
+          "views_sample": 26,
+          "likes": 7505.2307692307695,
+          "likes_sample": 26
         },
         "1y": {
           "uploads": 308,
-          "views": 291676.02597402595,
+          "views": 292187.7272727273,
           "views_sample": 308,
-          "likes": 7120.512987012987,
+          "likes": 7125.5032467532465,
           "likes_sample": 308
         },
         "all": null
@@ -4097,9 +4097,9 @@
         },
         "1y": {
           "uploads": 1,
-          "views": 9364546.0,
+          "views": 9373287.0,
           "views_sample": 1,
-          "likes": 179982.0,
+          "likes": 180022.0,
           "likes_sample": 1
         },
         "all": null
@@ -4130,24 +4130,24 @@
         },
         "30d": {
           "uploads": 10,
-          "views": 193386.3,
+          "views": 193722.3,
           "views_sample": 10,
-          "likes": 2488.1,
+          "likes": 2490.9,
           "likes_sample": 10
         },
         "1y": {
-          "uploads": 87,
-          "views": 1195354.1149425288,
-          "views_sample": 87,
-          "likes": 13820.574712643678,
-          "likes_sample": 87
+          "uploads": 86,
+          "views": 1151438.2674418604,
+          "views_sample": 86,
+          "likes": 13502.32558139535,
+          "likes_sample": 86
         },
         "all": null
       }
     },
     {
       "channel_id": "UCcgqSM4YEo5vVQpqwN-MaNw",
-      "subscribers": 46600000,
+      "subscribers": 46700000,
       "featured": {
         "videoId": "PQvPeliQ8j4",
         "title": "Rihanna - Friend Of Mine (from the Smurfs Soundtrack) (Instrumental Visualizer)",
@@ -4177,16 +4177,16 @@
         },
         "1y": {
           "uploads": 2,
-          "views": 288630.5,
+          "views": 288833.5,
           "views_sample": 2,
-          "likes": 12178.5,
+          "likes": 12182.0,
           "likes_sample": 2
         },
         "all": {
           "uploads": 93,
-          "views": 1153584.7956989247,
+          "views": 1153622.311827957,
           "views_sample": 93,
-          "likes": 16964.752688172044,
+          "likes": 16965.182795698925,
           "likes_sample": 93
         }
       }
@@ -4216,23 +4216,23 @@
         },
         "30d": {
           "uploads": 3,
-          "views": 113442.66666666667,
+          "views": 113806.66666666667,
           "views_sample": 3,
-          "likes": 5485.666666666667,
+          "likes": 5496.0,
           "likes_sample": 3
         },
         "1y": {
           "uploads": 24,
-          "views": 191515.125,
+          "views": 191604.70833333334,
           "views_sample": 24,
-          "likes": 6125.25,
+          "likes": 6128.166666666667,
           "likes_sample": 24
         },
         "all": {
           "uploads": 193,
-          "views": 14656754.911917098,
+          "views": 14657270.626943005,
           "views_sample": 193,
-          "likes": 139948.04663212434,
+          "likes": 139950.55440414508,
           "likes_sample": 193
         }
       }
@@ -4255,23 +4255,23 @@
         },
         "7d": {
           "uploads": 3,
-          "views": 68245.0,
+          "views": 71628.66666666667,
           "views_sample": 3,
-          "likes": 1064.3333333333333,
+          "likes": 1097.0,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 28,
-          "views": 126333.46428571429,
+          "views": 126921.39285714286,
           "views_sample": 28,
-          "likes": 2657.6071428571427,
+          "likes": 2663.1071428571427,
           "likes_sample": 28
         },
         "1y": {
           "uploads": 239,
-          "views": 299475.3682008368,
+          "views": 299568.60251046024,
           "views_sample": 239,
-          "likes": 3063.874476987448,
+          "likes": 3064.7489539748954,
           "likes_sample": 239
         },
         "all": null
@@ -4302,23 +4302,23 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 287323.0,
+          "views": 289317.0,
           "views_sample": 1,
-          "likes": 12300.0,
+          "likes": 12363.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 3,
-          "views": 649710.0,
+          "views": 650612.0,
           "views_sample": 3,
-          "likes": 19716.666666666668,
+          "likes": 19744.0,
           "likes_sample": 3
         },
         "all": {
           "uploads": 211,
-          "views": 11761772.014285713,
+          "views": 11762880.1,
           "views_sample": 210,
-          "likes": 163984.50476190477,
+          "likes": 163989.83333333334,
           "likes_sample": 210
         }
       }
@@ -4348,16 +4348,16 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 331282.5,
+          "views": 332185.0,
           "views_sample": 2,
-          "likes": 6536.5,
+          "likes": 6545.0,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 58,
-          "views": 739748.1551724138,
+          "views": 740079.6896551724,
           "views_sample": 58,
-          "likes": 21235.431034482757,
+          "likes": 21236.568965517243,
           "likes_sample": 58
         },
         "all": null
@@ -4367,37 +4367,37 @@
       "channel_id": "UCh2aTKSbIyxpnOsbHsmV-ig",
       "subscribers": 1420000,
       "featured": {
-        "videoId": "xi_TtQXoQlc",
-        "title": "He Caught A GIANT Sailfish All By Himself...",
-        "publishedAt": "2026-11-19T17:52:52+00:00"
+        "videoId": "iYcHdQ1g0yA",
+        "title": "Can He Stay Loyal For ONE Weekend..",
+        "publishedAt": "2026-11-21T19:27:51+00:00"
       },
       "windows": {
         "1d": {
-          "uploads": 0,
-          "views": null,
-          "views_sample": 0,
-          "likes": null,
-          "likes_sample": 0
+          "uploads": 1,
+          "views": 72423.0,
+          "views_sample": 1,
+          "likes": 1652.0,
+          "likes_sample": 1
         },
         "7d": {
           "uploads": 3,
-          "views": 312781.0,
+          "views": 193947.66666666666,
           "views_sample": 3,
-          "likes": 4483.0,
+          "likes": 3187.6666666666665,
           "likes_sample": 3
         },
         "30d": {
-          "uploads": 17,
-          "views": 324734.1176470588,
-          "views_sample": 17,
-          "likes": 4122.117647058823,
-          "likes_sample": 17
+          "uploads": 18,
+          "views": 312061.1666666667,
+          "views_sample": 18,
+          "likes": 3997.777777777778,
+          "likes_sample": 18
         },
         "1y": {
           "uploads": 398,
-          "views": 255018.27959697734,
+          "views": 254821.70780856424,
           "views_sample": 397,
-          "likes": 5275.788944723618,
+          "likes": 5269.746231155779,
           "likes_sample": 398
         },
         "all": null
@@ -4421,23 +4421,23 @@
         },
         "7d": {
           "uploads": 3,
-          "views": 146794.33333333334,
+          "views": 150834.66666666666,
           "views_sample": 3,
-          "likes": 2584.3333333333335,
+          "likes": 2626.0,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 12,
-          "views": 558712.8333333334,
+          "views": 562722.5,
           "views_sample": 12,
-          "likes": 12538.166666666666,
+          "likes": 12589.25,
           "likes_sample": 12
         },
         "1y": {
           "uploads": 104,
-          "views": 802568.8173076923,
+          "views": 803131.9038461539,
           "views_sample": 104,
-          "likes": 17361.759615384617,
+          "likes": 17693.278846153848,
           "likes_sample": 104
         },
         "all": null
@@ -4454,30 +4454,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 24507.0,
+          "views": 99243.0,
           "views_sample": 1,
-          "likes": 2191.0,
+          "likes": 4065.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 2,
-          "views": 88525.5,
+          "views": 132208.0,
           "views_sample": 2,
-          "likes": 3012.5,
+          "likes": 4061.0,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 11,
-          "views": 223751.0,
+          "views": 233456.81818181818,
           "views_sample": 11,
-          "likes": 3930.909090909091,
+          "likes": 4132.909090909091,
           "likes_sample": 11
         },
         "1y": {
           "uploads": 131,
-          "views": 276445.01526717556,
+          "views": 277397.3358778626,
           "views_sample": 131,
-          "likes": 7575.320610687023,
+          "likes": 7593.396946564885,
           "likes_sample": 131
         },
         "all": null
@@ -4500,24 +4500,24 @@
           "likes_sample": 0
         },
         "7d": {
-          "uploads": 3,
-          "views": 1212392.3333333333,
-          "views_sample": 3,
-          "likes": 37663.333333333336,
-          "likes_sample": 3
+          "uploads": 2,
+          "views": 1274912.0,
+          "views_sample": 2,
+          "likes": 37854.0,
+          "likes_sample": 2
         },
         "30d": {
           "uploads": 13,
-          "views": 968538.9230769231,
+          "views": 971579.2307692308,
           "views_sample": 13,
-          "likes": 27751.46153846154,
+          "likes": 27812.846153846152,
           "likes_sample": 13
         },
         "1y": {
           "uploads": 142,
-          "views": 713668.0563380282,
+          "views": 714070.7464788732,
           "views_sample": 142,
-          "likes": 25926.436619718308,
+          "likes": 25933.028169014084,
           "likes_sample": 142
         },
         "all": null
@@ -4562,9 +4562,9 @@
         },
         "all": {
           "uploads": 94,
-          "views": 32763919.393617023,
+          "views": 32765862.25531915,
           "views_sample": 94,
-          "likes": 328482.6595744681,
+          "likes": 328490.59574468085,
           "likes_sample": 94
         }
       }
@@ -4587,30 +4587,30 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 35666.0,
+          "views": 36677.0,
           "views_sample": 1,
-          "likes": 2482.0,
+          "likes": 2509.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 5,
-          "views": 146728.2,
+          "views": 147190.4,
           "views_sample": 5,
-          "likes": 5136.4,
+          "likes": 5148.4,
           "likes_sample": 5
         },
         "1y": {
           "uploads": 64,
-          "views": 215257.125,
+          "views": 215320.296875,
           "views_sample": 64,
-          "likes": 6145.015625,
+          "likes": 6146.21875,
           "likes_sample": 64
         },
         "all": {
           "uploads": 150,
-          "views": 830316.4,
+          "views": 830353.6733333333,
           "views_sample": 150,
-          "likes": 32271.433333333334,
+          "likes": 32272.033333333333,
           "likes_sample": 150
         }
       }
@@ -4687,56 +4687,56 @@
         },
         "1y": {
           "uploads": 35,
-          "views": 506347.54285714286,
+          "views": 506487.9428571428,
           "views_sample": 35,
-          "likes": 34637.4,
+          "likes": 34645.74285714285,
           "likes_sample": 35
         },
         "all": {
           "uploads": 211,
-          "views": 12368051.597156398,
+          "views": 12369198.417061612,
           "views_sample": 211,
-          "likes": 329108.9142857143,
+          "likes": 329115.5904761905,
           "likes_sample": 210
         }
       }
     },
     {
       "channel_id": "UCiYcA0gJzg855iSKMrX3oHg",
-      "subscribers": 24800000,
+      "subscribers": 24900000,
       "featured": {
-        "videoId": "E91hRBbJObI",
-        "title": "NO WAY WAS I MISSING THIS [Resident Evil Requiem Part 1]",
-        "publishedAt": "2026-03-07T19:02:43+00:00"
+        "videoId": "x9A8elqIyK8",
+        "title": "GTA 6",
+        "publishedAt": "2026-11-21T21:00:01+00:00"
       },
       "windows": {
         "1d": {
-          "uploads": 0,
-          "views": null,
-          "views_sample": 0,
-          "likes": null,
-          "likes_sample": 0
+          "uploads": 1,
+          "views": 2700470.0,
+          "views_sample": 1,
+          "likes": 479459.0,
+          "likes_sample": 1
         },
         "7d": {
-          "uploads": 0,
-          "views": null,
-          "views_sample": 0,
-          "likes": null,
-          "likes_sample": 0
+          "uploads": 1,
+          "views": 2700470.0,
+          "views_sample": 1,
+          "likes": 479459.0,
+          "likes_sample": 1
         },
         "30d": {
-          "uploads": 0,
-          "views": null,
-          "views_sample": 0,
-          "likes": null,
-          "likes_sample": 0
+          "uploads": 1,
+          "views": 2700470.0,
+          "views_sample": 1,
+          "likes": 479459.0,
+          "likes_sample": 1
         },
         "1y": {
-          "uploads": 5,
-          "views": 9777432.2,
-          "views_sample": 5,
-          "likes": 403035.0,
-          "likes_sample": 5
+          "uploads": 6,
+          "views": 8606807.333333334,
+          "views_sample": 6,
+          "likes": 415860.3333333333,
+          "likes_sample": 6
         },
         "all": null
       }
@@ -4759,30 +4759,30 @@
         },
         "7d": {
           "uploads": 2,
-          "views": 7758.5,
+          "views": 7925.5,
           "views_sample": 2,
-          "likes": 148.5,
+          "likes": 150.0,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 5,
-          "views": 8498.2,
+          "views": 8602.6,
           "views_sample": 5,
-          "likes": 321.2,
+          "likes": 322.6,
           "likes_sample": 5
         },
         "1y": {
           "uploads": 71,
-          "views": 18890.028169014084,
+          "views": 18903.647887323943,
           "views_sample": 71,
-          "likes": 766.2253521126761,
+          "likes": 766.4084507042254,
           "likes_sample": 71
         },
         "all": {
           "uploads": 177,
-          "views": 142460.90960451978,
+          "views": 142477.4293785311,
           "views_sample": 177,
-          "likes": 2415.3276836158193,
+          "likes": 2415.463276836158,
           "likes_sample": 177
         }
       }
@@ -4826,9 +4826,9 @@
         },
         "all": {
           "uploads": 189,
-          "views": 197318197.23809522,
+          "views": 197343278.53968254,
           "views_sample": 189,
-          "likes": 1310195.2116402118,
+          "likes": 1310239.3280423281,
           "likes_sample": 189
         }
       }
@@ -4865,16 +4865,16 @@
         },
         "1y": {
           "uploads": 85,
-          "views": 998701.3882352941,
+          "views": 999036.0117647059,
           "views_sample": 85,
-          "likes": 23659.164705882355,
+          "likes": 23661.164705882355,
           "likes_sample": 85
         },
         "all": {
           "uploads": 231,
-          "views": 4631102.956709957,
+          "views": 4631637.636363637,
           "views_sample": 231,
-          "likes": 69179.2554112554,
+          "likes": 69181.5541125541,
           "likes_sample": 231
         }
       }
@@ -4897,24 +4897,24 @@
         },
         "7d": {
           "uploads": 3,
-          "views": 51882.333333333336,
+          "views": 55841.0,
           "views_sample": 3,
-          "likes": 681.3333333333334,
+          "likes": 721.3333333333334,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 26,
-          "views": 66149.0,
+          "views": 66770.46153846153,
           "views_sample": 26,
-          "likes": 1180.8076923076924,
+          "likes": 1187.8846153846155,
           "likes_sample": 26
         },
         "1y": {
-          "uploads": 288,
-          "views": 83921.86111111111,
-          "views_sample": 288,
-          "likes": 2264.6145833333335,
-          "likes_sample": 288
+          "uploads": 287,
+          "views": 84214.66898954703,
+          "views_sample": 287,
+          "likes": 2270.951219512195,
+          "likes_sample": 287
         },
         "all": null
       }
@@ -4951,9 +4951,9 @@
         },
         "1y": {
           "uploads": 7,
-          "views": 171672.14285714287,
+          "views": 171725.57142857142,
           "views_sample": 7,
-          "likes": 4870.285714285715,
+          "likes": 4870.428571428572,
           "likes_sample": 7
         },
         "all": null
@@ -4984,23 +4984,23 @@
         },
         "30d": {
           "uploads": 1,
-          "views": 178742.0,
+          "views": 179532.0,
           "views_sample": 1,
-          "likes": 11581.0,
+          "likes": 11594.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 24,
-          "views": 21198972.833333332,
+          "views": 21213358.75,
           "views_sample": 24,
-          "likes": 222996.66666666666,
+          "likes": 223047.875,
           "likes_sample": 24
         },
         "all": {
           "uploads": 131,
-          "views": 169739053.01526716,
+          "views": 169751201.33587787,
           "views_sample": 131,
-          "likes": 1029560.7557251909,
+          "likes": 1029599.4961832061,
           "likes_sample": 131
         }
       }
@@ -5023,24 +5023,24 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 122744.0,
+          "views": 141168.0,
           "views_sample": 1,
-          "likes": 3464.0,
+          "likes": 3784.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 7,
-          "views": 368782.4285714286,
+          "views": 372756.28571428574,
           "views_sample": 7,
-          "likes": 6463.857142857143,
+          "likes": 6525.428571428572,
           "likes_sample": 7
         },
         "1y": {
-          "uploads": 201,
-          "views": 577537.7412935323,
-          "views_sample": 201,
-          "likes": 11566.796019900497,
-          "likes_sample": 201
+          "uploads": 200,
+          "views": 578454.405,
+          "views_sample": 200,
+          "likes": 11574.64,
+          "likes_sample": 200
         },
         "all": null
       }
@@ -5063,23 +5063,23 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 5254958.0,
+          "views": 5463332.0,
           "views_sample": 1,
-          "likes": 119038.0,
+          "likes": 121232.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 1,
-          "views": 5254958.0,
+          "views": 5463332.0,
           "views_sample": 1,
-          "likes": 119038.0,
+          "likes": 121232.0,
           "likes_sample": 1
         },
         "1y": {
           "uploads": 23,
-          "views": 8040437.304347826,
+          "views": 8058840.391304348,
           "views_sample": 23,
-          "likes": 138054.4347826087,
+          "likes": 138181.08695652173,
           "likes_sample": 23
         },
         "all": null
@@ -5124,9 +5124,9 @@
         },
         "all": {
           "uploads": 25,
-          "views": 29923329.28,
+          "views": 29928160.48,
           "views_sample": 25,
-          "likes": 250017.44,
+          "likes": 250034.16,
           "likes_sample": 25
         }
       }
@@ -5156,30 +5156,30 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 1230112.5,
+          "views": 1234061.0,
           "views_sample": 2,
-          "likes": 23632.0,
+          "likes": 23660.5,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 39,
-          "views": 2927820.717948718,
+          "views": 2928149.923076923,
           "views_sample": 39,
-          "likes": 76286.43589743589,
+          "likes": 76289.51282051283,
           "likes_sample": 39
         },
         "all": {
           "uploads": 81,
-          "views": 3807546.160493827,
+          "views": 3807766.654320988,
           "views_sample": 81,
-          "likes": 150101.3086419753,
+          "likes": 150103.41975308643,
           "likes_sample": 81
         }
       }
     },
     {
       "channel_id": "UCrPseYLGpNygVi34QpGNqpA",
-      "subscribers": 7100000,
+      "subscribers": 7110000,
       "featured": {
         "videoId": "ILaMI9V5zlw",
         "title": "\ud83d\ude98 DAY 3 GTA VI MARATHON \ud83d\ude94 GIVING AWAY GAME CODES EVERY HOUR \ud83d\ude94 !RedBull !AT&T !Alienware #GameChanger",
@@ -5187,25 +5187,25 @@
       },
       "windows": {
         "1d": {
-          "uploads": 5,
-          "views": 936346.4,
-          "views_sample": 5,
-          "likes": 20611.2,
-          "likes_sample": 5
+          "uploads": 7,
+          "views": 868382.7142857143,
+          "views_sample": 7,
+          "likes": 18345.0,
+          "likes_sample": 7
         },
         "7d": {
-          "uploads": 17,
-          "views": 1457451.5882352942,
-          "views_sample": 17,
-          "likes": 30789.470588235294,
-          "likes_sample": 17
+          "uploads": 19,
+          "views": 1125020.7368421052,
+          "views_sample": 19,
+          "likes": 23521.0,
+          "likes_sample": 19
         },
         "30d": {
-          "uploads": 54,
-          "views": 1265516.7407407407,
-          "views_sample": 54,
-          "likes": 29668.85185185185,
-          "likes_sample": 54
+          "uploads": 56,
+          "views": 1264478.107142857,
+          "views_sample": 56,
+          "likes": 29557.589285714286,
+          "likes_sample": 56
         },
         "1y": null,
         "all": null
@@ -5243,16 +5243,16 @@
         },
         "1y": {
           "uploads": 22,
-          "views": 4144845.5,
+          "views": 4146390.3636363638,
           "views_sample": 22,
-          "likes": 76019.81818181818,
+          "likes": 76028.45454545454,
           "likes_sample": 22
         },
         "all": {
           "uploads": 42,
-          "views": 8042708.761904762,
+          "views": 8044012.071428572,
           "views_sample": 42,
-          "likes": 181839.09523809524,
+          "likes": 181847.07142857142,
           "likes_sample": 42
         }
       }
@@ -5289,16 +5289,16 @@
         },
         "1y": {
           "uploads": 8,
-          "views": 2188211.75,
+          "views": 2189013.375,
           "views_sample": 8,
-          "likes": 86292.0,
+          "likes": 86297.5,
           "likes_sample": 8
         },
         "all": {
           "uploads": 113,
-          "views": 13416520.699115044,
+          "views": 13417506.486725664,
           "views_sample": 113,
-          "likes": 336587.12612612615,
+          "likes": 336593.2162162162,
           "likes_sample": 111
         }
       }
@@ -5342,9 +5342,9 @@
         },
         "all": {
           "uploads": 43,
-          "views": 284202406.3095238,
+          "views": 284219189.9047619,
           "views_sample": 42,
-          "likes": 1457228.2790697673,
+          "likes": 1457264.953488372,
           "likes_sample": 43
         }
       }
@@ -5353,38 +5353,38 @@
       "channel_id": "UCsTcErHg8oDvUnTzoqsYeNw",
       "subscribers": 25600000,
       "featured": {
-        "videoId": "Wwq6lvZ5PPA",
-        "title": "In Search of the Ultimate Pocket Camera... XTRA MUSE 2 PRO",
-        "publishedAt": "2026-11-17T16:06:16+00:00"
+        "videoId": "WN14ucoXt1U",
+        "title": "This Treadmill Syncs To Your Heartbeat...",
+        "publishedAt": "2026-11-21T16:08:41+00:00"
       },
       "windows": {
         "1d": {
-          "uploads": 0,
-          "views": null,
-          "views_sample": 0,
-          "likes": null,
-          "likes_sample": 0
+          "uploads": 1,
+          "views": 1402.0,
+          "views_sample": 1,
+          "likes": 139.0,
+          "likes_sample": 1
         },
         "7d": {
-          "uploads": 3,
-          "views": 793537.0,
-          "views_sample": 3,
-          "likes": 19863.333333333332,
-          "likes_sample": 3
+          "uploads": 4,
+          "views": 605327.5,
+          "views_sample": 4,
+          "likes": 15744.25,
+          "likes_sample": 4
         },
         "30d": {
-          "uploads": 9,
-          "views": 1103865.4444444445,
-          "views_sample": 9,
-          "likes": 15237.222222222223,
-          "likes_sample": 9
+          "uploads": 10,
+          "views": 999521.8,
+          "views_sample": 10,
+          "likes": 14056.0,
+          "likes_sample": 10
         },
         "1y": {
-          "uploads": 138,
-          "views": 1628302.2971014492,
-          "views_sample": 138,
-          "likes": 11724.521739130434,
-          "likes_sample": 138
+          "uploads": 139,
+          "views": 1617171.3525179855,
+          "views_sample": 139,
+          "likes": 11665.654676258993,
+          "likes_sample": 139
         },
         "all": null
       }
@@ -5407,23 +5407,23 @@
         },
         "7d": {
           "uploads": 2,
-          "views": 235692.0,
+          "views": 243191.5,
           "views_sample": 2,
-          "likes": 2995.0,
+          "likes": 3065.5,
           "likes_sample": 2
         },
         "30d": {
           "uploads": 8,
-          "views": 561858.625,
+          "views": 565045.25,
           "views_sample": 8,
-          "likes": 6901.5,
+          "likes": 6929.125,
           "likes_sample": 8
         },
         "1y": {
           "uploads": 93,
-          "views": 606841.5806451613,
+          "views": 607270.9247311827,
           "views_sample": 93,
-          "likes": 11028.462365591398,
+          "likes": 11032.129032258064,
           "likes_sample": 93
         },
         "all": null
@@ -5454,23 +5454,23 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 6075225.5,
+          "views": 6084184.5,
           "views_sample": 2,
-          "likes": 373163.5,
+          "likes": 373328.5,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 33,
-          "views": 17134318.515151516,
+          "views": 17135420.09090909,
           "views_sample": 33,
-          "likes": 198845.18181818182,
+          "likes": 198867.0303030303,
           "likes_sample": 33
         },
         "all": {
           "uploads": 152,
-          "views": 10215909.585526315,
+          "views": 10216444.55263158,
           "views_sample": 152,
-          "likes": 631959.8881578947,
+          "likes": 631965.9144736842,
           "likes_sample": 152
         }
       }
@@ -5507,16 +5507,16 @@
         },
         "1y": {
           "uploads": 1,
-          "views": 113836.0,
+          "views": 113910.0,
           "views_sample": 1,
-          "likes": 4908.0,
+          "likes": 4910.0,
           "likes_sample": 1
         },
         "all": {
           "uploads": 20,
-          "views": 15535924.0,
+          "views": 15536609.35,
           "views_sample": 20,
-          "likes": 300993.3,
+          "likes": 300998.3,
           "likes_sample": 20
         }
       }
@@ -5553,9 +5553,9 @@
         },
         "1y": {
           "uploads": 3,
-          "views": 829224.0,
+          "views": 830521.0,
           "views_sample": 3,
-          "likes": 24983.666666666668,
+          "likes": 24997.0,
           "likes_sample": 3
         },
         "all": null
@@ -5572,23 +5572,23 @@
       "windows": {
         "1d": {
           "uploads": 6,
-          "views": 1086936.0,
+          "views": 1229462.1666666667,
           "views_sample": 6,
-          "likes": 9648.833333333334,
+          "likes": 11061.166666666666,
           "likes_sample": 6
         },
         "7d": {
           "uploads": 19,
-          "views": 2219793.4736842103,
+          "views": 2281518.4736842103,
           "views_sample": 19,
-          "likes": 23275.21052631579,
+          "likes": 23883.63157894737,
           "likes_sample": 19
         },
         "30d": {
           "uploads": 93,
-          "views": 1262930.4623655914,
+          "views": 1277451.5806451612,
           "views_sample": 93,
-          "likes": 15243.440860215054,
+          "likes": 15382.31182795699,
           "likes_sample": 93
         },
         "1y": null,
@@ -5627,16 +5627,16 @@
         },
         "1y": {
           "uploads": 2,
-          "views": 147759.0,
+          "views": 147794.0,
           "views_sample": 2,
-          "likes": 4208.0,
+          "likes": 4209.5,
           "likes_sample": 2
         },
         "all": {
           "uploads": 34,
-          "views": 8193523.411764706,
+          "views": 8194090.588235294,
           "views_sample": 34,
-          "likes": 376663.9705882353,
+          "likes": 376668.5,
           "likes_sample": 34
         }
       }
@@ -5672,11 +5672,11 @@
           "likes_sample": 0
         },
         "1y": {
-          "uploads": 55,
-          "views": 220279.21818181817,
-          "views_sample": 55,
-          "likes": 4992.581818181819,
-          "likes_sample": 55
+          "uploads": 54,
+          "views": 222616.61111111112,
+          "views_sample": 54,
+          "likes": 5040.722222222223,
+          "likes_sample": 54
         },
         "all": null
       }
@@ -5692,30 +5692,30 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 163685.0,
+          "views": 609570.0,
           "views_sample": 1,
-          "likes": 2142.0,
+          "likes": 3839.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 1,
-          "views": 163685.0,
+          "views": 609570.0,
           "views_sample": 1,
-          "likes": 2142.0,
+          "likes": 3839.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 3,
-          "views": 2902224.3333333335,
+          "views": 3087696.6666666665,
           "views_sample": 3,
-          "likes": 17660.666666666668,
+          "likes": 18346.0,
           "likes_sample": 3
         },
         "1y": {
           "uploads": 60,
-          "views": 3509490.933333333,
+          "views": 3521414.033333333,
           "views_sample": 60,
-          "likes": 24863.083333333332,
+          "likes": 24905.866666666665,
           "likes_sample": 60
         },
         "all": null
@@ -5753,9 +5753,9 @@
         },
         "1y": {
           "uploads": 13,
-          "views": 35157425.23076923,
+          "views": 35202591.307692304,
           "views_sample": 13,
-          "likes": 279826.1538461539,
+          "likes": 280061.23076923075,
           "likes_sample": 13
         },
         "all": null
@@ -5793,16 +5793,16 @@
         },
         "1y": {
           "uploads": 39,
-          "views": 1609925.4102564103,
+          "views": 1613155.3846153845,
           "views_sample": 39,
-          "likes": 26132.05128205128,
+          "likes": 26147.30769230769,
           "likes_sample": 39
         },
         "all": {
           "uploads": 252,
-          "views": 30907552.884920634,
+          "views": 30909760.626984127,
           "views_sample": 252,
-          "likes": 302048.4246031746,
+          "likes": 302057.73412698414,
           "likes_sample": 252
         }
       }
@@ -5818,37 +5818,37 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 77273.0,
+          "views": 763389.0,
           "views_sample": 1,
-          "likes": 8526.0,
+          "likes": 27554.0,
           "likes_sample": 1
         },
         "7d": {
-          "uploads": 2,
-          "views": 2704423.5,
-          "views_sample": 2,
-          "likes": 49151.5,
-          "likes_sample": 2
+          "uploads": 1,
+          "views": 763389.0,
+          "views_sample": 1,
+          "likes": 27554.0,
+          "likes_sample": 1
         },
         "30d": {
           "uploads": 5,
-          "views": 5495483.6,
+          "views": 5657509.0,
           "views_sample": 5,
-          "likes": 98296.8,
+          "likes": 102290.4,
           "likes_sample": 5
         },
         "1y": {
           "uploads": 24,
-          "views": 6963171.875,
+          "views": 6999978.125,
           "views_sample": 24,
-          "likes": 141745.33333333334,
+          "likes": 142592.66666666666,
           "likes_sample": 24
         },
         "all": {
           "uploads": 208,
-          "views": 10382068.052884616,
+          "views": 10387190.961538462,
           "views_sample": 208,
-          "likes": 263815.11057692306,
+          "likes": 263917.76442307694,
           "likes_sample": 208
         }
       }
@@ -5864,37 +5864,37 @@
       "windows": {
         "1d": {
           "uploads": 1,
-          "views": 78732.0,
+          "views": 187266.0,
           "views_sample": 1,
-          "likes": 2432.0,
+          "likes": 3845.0,
           "likes_sample": 1
         },
         "7d": {
           "uploads": 3,
-          "views": 1011823.3333333334,
+          "views": 1077547.6666666667,
           "views_sample": 3,
-          "likes": 25700.666666666668,
+          "likes": 26608.666666666668,
           "likes_sample": 3
         },
         "30d": {
           "uploads": 8,
-          "views": 2199364.375,
+          "views": 2247157.625,
           "views_sample": 8,
-          "likes": 59023.75,
+          "likes": 59671.875,
           "likes_sample": 8
         },
         "1y": {
           "uploads": 96,
-          "views": 5368383.916666667,
+          "views": 5381771.291666667,
           "views_sample": 96,
-          "likes": 120601.58333333333,
+          "likes": 120744.07291666667,
           "likes_sample": 96
         },
         "all": {
           "uploads": 389,
-          "views": 6939550.809768638,
+          "views": 6943813.637532134,
           "views_sample": 389,
-          "likes": 225432.88688946015,
+          "likes": 225478.1028277635,
           "likes_sample": 389
         }
       }
@@ -5924,23 +5924,23 @@
         },
         "30d": {
           "uploads": 2,
-          "views": 6742334.0,
+          "views": 6771923.5,
           "views_sample": 2,
-          "likes": 76402.0,
+          "likes": 76559.5,
           "likes_sample": 2
         },
         "1y": {
           "uploads": 31,
-          "views": 13245209.58064516,
+          "views": 13265392.741935484,
           "views_sample": 31,
-          "likes": 191130.61290322582,
+          "likes": 191219.87096774194,
           "likes_sample": 31
         },
         "all": {
           "uploads": 271,
-          "views": 18480935.147601478,
+          "views": 18484065.664206643,
           "views_sample": 271,
-          "likes": 571519.4317343173,
+          "likes": 571532.9040590406,
           "likes_sample": 271
         }
       }
@@ -5963,30 +5963,30 @@
         },
         "7d": {
           "uploads": 1,
-          "views": 31294.0,
+          "views": 33220.0,
           "views_sample": 1,
-          "likes": 2282.0,
+          "likes": 2353.0,
           "likes_sample": 1
         },
         "30d": {
           "uploads": 3,
-          "views": 87570.33333333333,
+          "views": 88746.33333333333,
           "views_sample": 3,
-          "likes": 3971.6666666666665,
+          "likes": 4008.6666666666665,
           "likes_sample": 3
         },
         "1y": {
           "uploads": 7,
-          "views": 100020.57142857143,
+          "views": 100728.28571428571,
           "views_sample": 7,
-          "likes": 4227.142857142857,
+          "likes": 4247.285714285715,
           "likes_sample": 7
         },
         "all": {
           "uploads": 69,
-          "views": 5971915.69117647,
+          "views": 5972741.514705882,
           "views_sample": 68,
-          "likes": 141677.92537313432,
+          "likes": 141690.01492537314,
           "likes_sample": 67
         }
       }

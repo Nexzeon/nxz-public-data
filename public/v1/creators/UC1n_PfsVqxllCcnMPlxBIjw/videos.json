@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
-  "generated_at": "2026-11-21T19:01:53Z",
+  "generated_at": "2026-11-22T01:20:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "qy_JurwkyU0",
       "title": "An Update Video",
       "published_at": "2025-06-19T13:01:24Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 1724290,
-      "likes": 58979,
-      "comments": 23528
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 1724464,
+      "likes": 58982,
+      "comments": 23526
     },
     {
       "video_id": "ESyfUKCMWBc",
       "title": "Wilbur Soot - Soft Boy (OFFICIAL VIDEO)",
       "published_at": "2022-09-25T21:00:12Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 5647552,
-      "likes": 362397,
-      "comments": 38133
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 5647668,
+      "likes": 362399,
+      "comments": 38134
     },
     {
       "video_id": "Oy-OrsVM6wE",
       "title": "Minecraft Social Experiment: Boomers v Zoomers",
       "published_at": "2022-08-31T20:01:37Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 2813374,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 2813385,
       "likes": 188481,
       "comments": 8005
     },
@@ -36,8 +36,8 @@
       "video_id": "F7F6G0ok9u0",
       "title": "Releasing Every Animal in Zoo Tycoon",
       "published_at": "2022-08-06T19:01:21Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 2549931,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 2549947,
       "likes": 197085,
       "comments": 5158
     },
@@ -45,9 +45,9 @@
       "video_id": "NgEidhomgBE",
       "title": "We Became Crime Scene Investigators",
       "published_at": "2022-07-29T17:01:15Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 2561987,
-      "likes": 204920,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 2561989,
+      "likes": 204921,
       "comments": 6058
     }
   ]

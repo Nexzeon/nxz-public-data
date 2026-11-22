@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCE4Gn00XZbpWvGUfIslT-tA",
-  "generated_at": "2026-11-21T19:01:53Z",
+  "generated_at": "2026-11-22T01:20:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "Qbe0I3X6R-o",
       "title": "The INSANE Truth About YouTube",
       "published_at": "2025-09-12T11:55:26Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 600477,
-      "likes": 17000,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 600641,
+      "likes": 17001,
       "comments": 1277
     },
     {
       "video_id": "dsDcQmJHwQc",
       "title": "The INSANE Truth About OpenAI",
       "published_at": "2025-08-22T11:34:59Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 1268185,
-      "likes": 26068,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 1268329,
+      "likes": 26069,
       "comments": 2232
     },
     {
       "video_id": "AafeUIwSLvw",
       "title": "Thomas Edison: The IDIOT Who Changed The World",
       "published_at": "2025-08-08T13:31:36Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 262201,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 262245,
       "likes": 7033,
       "comments": 1203
     },
@@ -36,8 +36,8 @@
       "video_id": "I45qsMJbMQU",
       "title": "The Family That Drugged America",
       "published_at": "2025-07-13T10:56:57Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 335438,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 335479,
       "likes": 9696,
       "comments": 632
     },
@@ -45,8 +45,8 @@
       "video_id": "2bMYyzO8SnM",
       "title": "The Scariest Business In The World",
       "published_at": "2025-06-25T12:12:42Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 370186,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 370216,
       "likes": 11786,
       "comments": 563
     }

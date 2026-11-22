@@ -2,34 +2,34 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCByOQJjav0CUDwxCk-jVNRQ",
-  "generated_at": "2026-11-21T19:01:53Z",
+  "generated_at": "2026-11-22T01:20:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "y56D2WIeKxg",
       "title": "DRAKE - QUEBEC",
       "published_at": "2026-09-19T18:53:00Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 16003812,
-      "likes": 230386,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 16047120,
+      "likes": 230515,
       "comments": 10658
     },
     {
       "video_id": "vCRsQ_rHCO0",
       "title": "DRAKE FT. SEXYY RED - CHEETAH PRINT",
       "published_at": "2026-09-19T18:52:56Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 1878442,
-      "likes": 39112,
-      "comments": 2468
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 1882645,
+      "likes": 39137,
+      "comments": 2469
     },
     {
       "video_id": "mCNuYHwje2o",
       "title": "DRAKE - CLASSIC",
       "published_at": "2026-09-19T18:52:53Z",
-      "observed_at": "2026-11-21T19:00:19Z",
-      "views": 3451050,
-      "likes": 66251,
+      "observed_at": "2026-11-22T01:18:57Z",
+      "views": 3458718,
+      "likes": 66279,
       "comments": 3468
     }
   ]
