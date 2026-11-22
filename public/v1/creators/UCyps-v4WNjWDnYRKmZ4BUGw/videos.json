@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCyps-v4WNjWDnYRKmZ4BUGw",
-  "generated_at": "2026-11-22T01:20:17Z",
+  "generated_at": "2026-11-22T07:27:14Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "iYZ77j7v4GM",
       "title": "Secretly Working At 7-11 Until I Get Fired",
       "published_at": "2026-11-01T16:26:37Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 5495245,
-      "likes": 62037,
-      "comments": 3144
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 5511457,
+      "likes": 62112,
+      "comments": 3146
     },
     {
       "video_id": "6L3PaK3ZafY",
       "title": "I Faked A Driverless Uber",
       "published_at": "2026-10-25T17:54:41Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 8048602,
-      "likes": 91082,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 8064505,
+      "likes": 91166,
       "comments": 2411
     },
     {
       "video_id": "_LHh3BS9Xx4",
       "title": "I Hid In MrBeast's Grocery Store",
       "published_at": "2026-10-04T15:44:46Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 25797271,
-      "likes": 268760,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 25812312,
+      "likes": 268818,
       "comments": 5573
     },
     {
       "video_id": "XDH7pgXAtRk",
       "title": "Secretly Working At McDonald’s Until I Get Fired",
       "published_at": "2026-09-26T16:56:11Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 10041367,
-      "likes": 127736,
-      "comments": 4633
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 10046025,
+      "likes": 127758,
+      "comments": 4634
     },
     {
       "video_id": "cr642ejN_60",
       "title": "I Secretly Lived In A 5 Star Hotel",
       "published_at": "2026-09-20T17:59:28Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 14482789,
-      "likes": 159991,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 14500051,
+      "likes": 160065,
       "comments": 5366
     }
   ]

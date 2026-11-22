@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCDo9msNItILnyF_Y2eHaNQg",
-  "generated_at": "2026-11-22T01:20:17Z",
+  "generated_at": "2026-11-22T07:27:14Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "UOaMesN5vrY",
       "title": "Baby Girl",
       "published_at": "2023-04-27T18:23:57Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 3505324,
-      "likes": 228652,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 3505418,
+      "likes": 228653,
       "comments": 23720
     },
     {
       "video_id": "B6p8N8sRKDI",
       "title": "My Ex Girlfriend Called Me... (We Picked up)",
       "published_at": "2020-07-12T19:20:10Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 3703472,
-      "likes": 134853,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 3703500,
+      "likes": 134851,
       "comments": 25483
     },
     {
       "video_id": "dkKr7Cawd1M",
       "title": "Confronting Faze Jarvis for filming with Bryce Hall...",
       "published_at": "2020-06-11T19:53:17Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 1692007,
-      "likes": 85647,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 1692015,
+      "likes": 85646,
       "comments": 6579
     },
     {
       "video_id": "uV_0DZQ3na8",
       "title": "My Experience With KSI...",
       "published_at": "2020-05-29T19:46:05Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 2748780,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 2748785,
       "likes": 156152,
       "comments": 28408
     },
@@ -45,9 +45,9 @@
       "video_id": "brPJcVBkm1A",
       "title": "KSI Made A Video With My Ex Girlfriend...",
       "published_at": "2020-05-25T19:28:27Z",
-      "observed_at": "2026-11-22T01:18:57Z",
-      "views": 2204727,
-      "likes": 113172,
+      "observed_at": "2026-11-22T07:25:55Z",
+      "views": 2204732,
+      "likes": 113171,
       "comments": 9883
     }
   ]
