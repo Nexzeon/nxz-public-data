@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCM9r1xn6s30OnlJWb-jc3Sw",
-  "generated_at": "2026-11-23T01:27:08Z",
+  "generated_at": "2026-11-23T07:51:19Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "JaH9gjbnpfc",
       "title": "whoa (mind in awe) remix out now @YouTubeMusic",
       "published_at": "2025-05-31T00:05:53Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 1901741,
-      "likes": 79168,
-      "comments": 6285
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 1902056,
+      "likes": 79181,
+      "comments": 6286
     },
     {
       "video_id": "XSLF2pehpGI",
       "title": "XXXTENTACION & Juice WRLD - whoa (mind in awe) (Remix) (Official Video)",
       "published_at": "2025-05-30T04:00:06Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 8529995,
-      "likes": 405563,
-      "comments": 30671
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 8531432,
+      "likes": 405576,
+      "comments": 30673
     },
     {
       "video_id": "nKEv0f0NdYc",
       "title": "XXXTENTACION - Snow (Official Audio)",
       "published_at": "2023-09-08T04:00:21Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 6774891,
-      "likes": 160070,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 6775103,
+      "likes": 160072,
       "comments": 18784
     },
     {
       "video_id": "QeZUmuirlqM",
       "title": "XXXTENTACION - Manikin (Official Audio)",
       "published_at": "2023-09-08T04:00:14Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 2784054,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 2784310,
       "likes": 76531,
       "comments": 4252
     },
@@ -45,9 +45,9 @@
       "video_id": "1skhhWnxZx4",
       "title": "XXXTENTACION - ILuvMyCliqueLikeKanyeWest (Official Audio)",
       "published_at": "2023-09-08T04:00:02Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 1313389,
-      "likes": 54227,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 1313530,
+      "likes": 54230,
       "comments": 3890
     }
   ]

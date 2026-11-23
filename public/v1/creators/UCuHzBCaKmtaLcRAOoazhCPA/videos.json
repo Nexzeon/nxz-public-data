@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCuHzBCaKmtaLcRAOoazhCPA",
-  "generated_at": "2026-11-23T01:27:08Z",
+  "generated_at": "2026-11-23T07:51:19Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "h8R01mqUjBw",
       "title": "Beyoncé - CUERPO (TUMBAO) (ft. Maluma) - Official Lyric Video",
       "published_at": "2026-09-04T00:03:03Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 995053,
-      "likes": 33718,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 995534,
+      "likes": 33722,
       "comments": 3526
     },
     {
       "video_id": "xDs8UT3kJ8Y",
       "title": "MORNING DEW (DONK) REMIX FEATURING JAŸ-Z (EXPLICIT)",
       "published_at": "2026-08-10T15:36:39Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 1399123,
-      "likes": 34797,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 1400854,
+      "likes": 34811,
       "comments": 2177
     },
     {
       "video_id": "yzGIng4bKs0",
       "title": "MORNING DEW (DONK) REMIX FEATURING JAŸ-Z (CLEAN)",
       "published_at": "2026-08-10T15:36:28Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 107677,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 107782,
       "likes": 6560,
       "comments": 706
     },
@@ -36,9 +36,9 @@
       "video_id": "LwojYvqomhU",
       "title": "Beyoncé - Chapter 04 \"THE DENIM COWBOY\" LEVIIS JEANS",
       "published_at": "2025-08-04T12:17:45Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 1916829,
-      "likes": 47114,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 1916924,
+      "likes": 47115,
       "comments": 5237
     }
   ]

@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
-  "generated_at": "2026-11-23T01:27:08Z",
+  "generated_at": "2026-11-23T07:51:19Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "FDNbcfMaF6o",
       "title": "My favorite Smartphone of 2026 (wait to see the insides)",
       "published_at": "2026-11-11T19:11:25Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 10156918,
-      "likes": 568357,
-      "comments": 6613
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 10218626,
+      "likes": 572182,
+      "comments": 6653
     },
     {
       "video_id": "k8W0Eb7sKss",
       "title": "ONE PHONE TO RULE THEM ALL",
       "published_at": "2026-11-07T19:12:05Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 13011549,
-      "likes": 263077,
-      "comments": 176924
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 13026909,
+      "likes": 263215,
+      "comments": 176956
     },
     {
       "video_id": "-Z0hsfUP-I4",
       "title": "LOOK MOM NO HANDS",
       "published_at": "2026-10-31T18:00:35Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 519116,
-      "likes": 20565,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 519453,
+      "likes": 20580,
       "comments": 386
     },
     {
       "video_id": "8xUEEu5vom8",
       "title": "Hey Look Mom, Ive made it!",
       "published_at": "2026-10-29T19:08:02Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 568330,
-      "likes": 24533,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 568637,
+      "likes": 24551,
       "comments": 324
     },
     {
       "video_id": "5O-vCJW1b8g",
       "title": "Trump Phone Durability Test - Its worse than we thought...",
       "published_at": "2026-10-28T20:06:22Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 15667870,
-      "likes": 536521,
-      "comments": 43636
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 15698606,
+      "likes": 536997,
+      "comments": 43655
     }
   ]
 }

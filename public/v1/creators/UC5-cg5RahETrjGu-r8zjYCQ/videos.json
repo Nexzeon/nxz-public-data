@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5-cg5RahETrjGu-r8zjYCQ",
-  "generated_at": "2026-11-23T01:27:08Z",
+  "generated_at": "2026-11-23T07:51:19Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_hUq1aJSzvU",
       "title": "The Boy Who Played The Harp (Video) Out Now.",
       "published_at": "2026-02-26T20:09:07Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 44795,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 44797,
       "likes": 2728,
       "comments": 80
     },
@@ -18,36 +18,36 @@
       "video_id": "AwnfjcDCCmE",
       "title": "Dave - The Boy Who Played the Harp",
       "published_at": "2026-02-26T19:38:25Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 6198932,
-      "likes": 220052,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 6200388,
+      "likes": 220064,
       "comments": 7739
     },
     {
       "video_id": "SOJpE1KMUbo",
       "title": "Dave - Raindance (ft. Tems)",
       "published_at": "2026-01-09T18:27:49Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 317146948,
-      "likes": 2028112,
-      "comments": 43479
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 317288462,
+      "likes": 2028535,
+      "comments": 43481
     },
     {
       "video_id": "-q66T2dNml0",
       "title": "Dave - Chapter 16 (ft. Kano)",
       "published_at": "2025-11-26T19:30:30Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 2650482,
-      "likes": 90462,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 2650931,
+      "likes": 90467,
       "comments": 4284
     },
     {
       "video_id": "iVWsP3IadBk",
       "title": "Dave - Starlight",
       "published_at": "2022-03-03T20:06:51Z",
-      "observed_at": "2026-11-23T01:26:00Z",
-      "views": 86144246,
-      "likes": 831333,
+      "observed_at": "2026-11-23T07:50:15Z",
+      "views": 86147243,
+      "likes": 831342,
       "comments": 14852
     }
   ]
