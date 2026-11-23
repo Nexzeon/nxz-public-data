@@ -2,71 +2,80 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCB2wtYpfbCpYDc5TeTwuqFA",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "u7l3z1PDGZs",
+      "title": "Taking World’s Unhealthiest Man To The Gym!",
+      "published_at": "2026-11-21T14:41:21Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 225918,
+      "likes": 5738,
+      "comments": 110
+    },
     {
       "video_id": "nI0YWjKjlxM",
       "title": "I Tried World’s Unhealthiest Man’s Diet!",
       "published_at": "2026-11-20T13:02:26Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1031736,
-      "likes": 24782,
-      "comments": 984
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1090585,
+      "likes": 25428,
+      "comments": 996
     },
     {
       "video_id": "J_GjIBG7Vzw",
       "title": "World’s Unhealthiest Man’s Favourite Meal!",
       "published_at": "2026-11-19T17:01:56Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 636832,
-      "likes": 13962,
-      "comments": 1068
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 661845,
+      "likes": 14229,
+      "comments": 1087
     },
     {
       "video_id": "ptdmtDBmB0M",
       "title": "Word’s Unhealthiest Man’s McDonald’s Order…",
       "published_at": "2026-11-17T11:53:10Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 5070756,
-      "likes": 121524,
-      "comments": 11953
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 5321946,
+      "likes": 126223,
+      "comments": 12261
     },
     {
       "video_id": "gGD8v2smkLE",
       "title": "Living With World's Unhealthiest Man For 24 Hours",
       "published_at": "2026-11-15T15:00:08Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 17959277,
-      "likes": 276253,
-      "comments": 23597
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 18342666,
+      "likes": 280201,
+      "comments": 23910
     },
     {
       "video_id": "jspZ-EkDdqI",
       "title": "I Went On World's Healthiest Vacation",
       "published_at": "2026-11-01T15:00:15Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 3359629,
-      "likes": 52344,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 3365654,
+      "likes": 52426,
       "comments": 3031
     },
     {
       "video_id": "W4T9LMW0jso",
       "title": "How Teens Get Into Bodybuilding…",
       "published_at": "2026-10-24T02:26:12Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 153365,
-      "likes": 3462,
-      "comments": 132
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 154796,
+      "likes": 3476,
+      "comments": 135
     },
     {
       "video_id": "IbK8V_U9E0c",
       "title": "20 Years Old Steroid Stack",
       "published_at": "2026-10-20T18:22:00Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1012778,
-      "likes": 19468,
-      "comments": 1504
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1015374,
+      "likes": 19498,
+      "comments": 1506
     }
   ]
 }

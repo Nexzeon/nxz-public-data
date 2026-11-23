@@ -2,61 +2,70 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIZGfcnjHI0DG4nweWEduw",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "Qfcukxl-6Pk",
+      "title": "It Just keeps getting worse - Part 2",
+      "published_at": "2026-11-21T16:10:52Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 186773,
+      "likes": 6229,
+      "comments": 834
+    },
     {
       "video_id": "51ZketGBxRs",
       "title": "Dude Sold me a Faulty Gaming PC - FOF37",
       "published_at": "2026-11-20T16:45:06Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 182893,
-      "likes": 4412,
-      "comments": 300
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 190361,
+      "likes": 4534,
+      "comments": 303
     },
     {
       "video_id": "VzCDBEQ9gOk",
       "title": "My Dream Home became a Nightmare - Part 1",
       "published_at": "2026-11-14T16:21:36Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 560981,
-      "likes": 8879,
-      "comments": 1324
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 570545,
+      "likes": 8906,
+      "comments": 1329
     },
     {
       "video_id": "_3d09oNHZQc",
       "title": "Our Dream Home Became a Nightmare",
       "published_at": "2026-11-14T16:21:03Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 31380,
-      "likes": 673,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 31493,
+      "likes": 678,
       "comments": 50
     },
     {
       "video_id": "9YhU6-z8ZdA",
       "title": "I Bought an entire Gaming Setup from TEMU",
       "published_at": "2026-11-13T18:25:58Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 503702,
-      "likes": 5535,
-      "comments": 319
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 512575,
+      "likes": 5576,
+      "comments": 324
     },
     {
       "video_id": "MAVQo3phpBY",
       "title": "Setup Wars - Episode 382",
       "published_at": "2026-11-12T17:32:02Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 296063,
-      "likes": 5506,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 298202,
+      "likes": 5521,
       "comments": 124
     },
     {
       "video_id": "1nUQvlM9YYk",
       "title": "The Biggest PC Flip Yet! - FOF36",
       "published_at": "2026-11-06T15:40:41Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 228220,
-      "likes": 5201,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 228638,
+      "likes": 5208,
       "comments": 449
     }
   ]

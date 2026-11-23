@@ -2,80 +2,98 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCYzPXprvl5Y-Sf0g4vX-m6g",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "qk-Ttzqi7Pw",
+      "title": "VICE CITY BABY | Grand Theft Auto 6 - Part 5",
+      "published_at": "2026-11-22T17:00:19Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 226391,
+      "likes": 7873,
+      "comments": 1082
+    },
+    {
+      "video_id": "etycvxXlTSc",
+      "title": "IT'S HEIST TIME | Grand Theft Auto 6 - Part 4",
+      "published_at": "2026-11-21T17:00:22Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 718482,
+      "likes": 16603,
+      "comments": 1638
+    },
     {
       "video_id": "hI4k9ewBEFA",
       "title": "ABSOLUTE CINEMA | Grand Theft Auto 6 - Part 3",
       "published_at": "2026-11-20T17:00:05Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1006499,
-      "likes": 24103,
-      "comments": 2021
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1092762,
+      "likes": 25662,
+      "comments": 2093
     },
     {
       "video_id": "J18nXpZHyyI",
       "title": "WAS THAT BIGFOOT?? | Grand Theft Auto 6 - Part 2",
       "published_at": "2026-11-19T17:00:33Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1702794,
-      "likes": 39596,
-      "comments": 2770
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1798000,
+      "likes": 41126,
+      "comments": 2833
     },
     {
       "video_id": "uZGnqBLC60Y",
       "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
       "published_at": "2026-11-18T23:47:15Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 4551724,
-      "likes": 100569,
-      "comments": 6145
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 4698763,
+      "likes": 102389,
+      "comments": 6225
     },
     {
       "video_id": "PI_qgAU8ZQQ",
       "title": "Why am I so bad at this!?",
       "published_at": "2026-11-17T17:13:34Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1595337,
-      "likes": 35993,
-      "comments": 1689
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1627283,
+      "likes": 36305,
+      "comments": 1699
     },
     {
       "video_id": "g9DKSvOuO4Y",
       "title": "Jacksepticeye doing his lines for Hitman",
       "published_at": "2026-11-12T17:12:55Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 691167,
-      "likes": 51272,
-      "comments": 434
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 697740,
+      "likes": 51484,
+      "comments": 436
     },
     {
       "video_id": "MUH3crmuZqM",
       "title": "LOST",
       "published_at": "2026-10-31T15:30:35Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1275284,
-      "likes": 40820,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1276045,
+      "likes": 40836,
       "comments": 2764
     },
     {
       "video_id": "J5r10OtCkTs",
       "title": "HITMAN put me in their game",
       "published_at": "2026-10-29T14:24:03Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 4292951,
-      "likes": 105969,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 4298341,
+      "likes": 106025,
       "comments": 4175
     },
     {
       "video_id": "vH3dJxrwYTY",
       "title": "Playing P.T. on PC 12 years later",
       "published_at": "2026-10-27T17:10:29Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 2009781,
-      "likes": 49434,
-      "comments": 2814
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 2012495,
+      "likes": 49463,
+      "comments": 2815
     }
   ]
 }

@@ -2,53 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCxgAuX3XZROujMmGphN_scA",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "uy2JLqwiZpU",
+      "title": "7 Passive Income Ideas for 2027 (Up to $1,000/Day)",
+      "published_at": "2026-11-21T14:01:56Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 393881,
+      "likes": 6772,
+      "comments": 354
+    },
     {
       "video_id": "KjVuIT0eBBg",
       "title": "Asking My Boss For The Day Off To Play GTA 6",
       "published_at": "2026-11-18T17:09:47Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1799033,
-      "likes": 53789,
-      "comments": 467
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1837697,
+      "likes": 54357,
+      "comments": 471
     },
     {
       "video_id": "ZzDRSxx3zgY",
       "title": "I Built A Business From Scratch Only Following Claude’s Advice",
       "published_at": "2026-11-16T12:59:43Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1382367,
-      "likes": 25164,
-      "comments": 3719
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1427475,
+      "likes": 25782,
+      "comments": 3754
     },
     {
       "video_id": "K2atMPgZxw4",
       "title": "Why You Should NEVER Use A Credit Card (at an ATM)",
       "published_at": "2026-11-14T14:27:23Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 162144,
-      "likes": 5158,
-      "comments": 154
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 164313,
+      "likes": 5184,
+      "comments": 155
     },
     {
       "video_id": "bGqZcHv_1M0",
       "title": "Kid Tries To Trick Millionaire Dad",
       "published_at": "2026-11-05T14:37:19Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 4300852,
-      "likes": 97526,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 4332557,
+      "likes": 97777,
       "comments": 784
     },
     {
       "video_id": "mUz_tHYLhUs",
-      "title": "I Tried AI Dropshipping For 7 Days, Copy Every Step",
+      "title": "The ONLY AI Dropshipping Guide You'll Need for 2027 (3+ Hours)",
       "published_at": "2026-11-03T19:45:52Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 659346,
-      "likes": 9295,
-      "comments": 1026
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 664259,
+      "likes": 9332,
+      "comments": 1027
     }
   ]
 }

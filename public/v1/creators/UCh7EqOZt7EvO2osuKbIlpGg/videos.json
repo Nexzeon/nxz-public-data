@@ -2,61 +2,70 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCh7EqOZt7EvO2osuKbIlpGg",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "Sz_fxKu0oyY",
+      "title": "The most EPIC Fortnite win you'll ever see! 🤯",
+      "published_at": "2026-11-22T15:00:03Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 227360,
+      "likes": 4589,
+      "comments": 22
+    },
     {
       "video_id": "-I6kvVONPgU",
       "title": "Guess The Fortnite Skin From Pixels! 🤔",
       "published_at": "2026-11-19T15:00:30Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 236148,
-      "likes": 3038,
-      "comments": 11
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 241828,
+      "likes": 3112,
+      "comments": 12
     },
     {
       "video_id": "sAoEW34gH-0",
       "title": "I went to the shoe shop in GTA 6...",
       "published_at": "2026-11-18T13:56:47Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 197008,
-      "likes": 2789,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 203898,
+      "likes": 2837,
       "comments": 17
     },
     {
       "video_id": "u_dRXL5b9nc",
       "title": "Who's Most Likely To... 👀",
       "published_at": "2026-11-16T15:00:23Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 44445,
-      "likes": 2337,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 44655,
+      "likes": 2341,
       "comments": 14
     },
     {
       "video_id": "T2FR7Qm38OA",
       "title": "I'm Sorry Lazarbeam...",
       "published_at": "2026-11-13T13:00:34Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 3100295,
-      "likes": 90262,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 3111943,
+      "likes": 90510,
       "comments": 270
     },
     {
       "video_id": "yLUouHjJyLQ",
       "title": "I Got the Pirate Token! (NOT CLICKBAIT!)",
       "published_at": "2026-11-12T15:53:49Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1413193,
-      "likes": 14071,
-      "comments": 529
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1421591,
+      "likes": 14115,
+      "comments": 527
     },
     {
       "video_id": "w81JBbrdXvQ",
       "title": "I GOT THE PIRATE SHOP TOKEN!!! 🤯😱",
       "published_at": "2026-11-12T10:08:29Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 227582,
-      "likes": 8226,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 228131,
+      "likes": 8230,
       "comments": 165
     }
   ]

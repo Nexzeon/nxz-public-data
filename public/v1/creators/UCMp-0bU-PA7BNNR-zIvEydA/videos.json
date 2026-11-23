@@ -2,61 +2,70 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCMp-0bU-PA7BNNR-zIvEydA",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "ffU1Q7OxmyQ",
+      "title": "trying TIKTOK high protein hacks",
+      "published_at": "2026-11-21T21:07:29Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 92508,
+      "likes": 1545,
+      "comments": 134
+    },
     {
       "video_id": "kJ462xpBuCY",
       "title": "125g protein, 2 ingredients btw #mealprep",
       "published_at": "2026-11-20T17:53:14Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 2306766,
-      "likes": 90976,
-      "comments": 989
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 2454347,
+      "likes": 94219,
+      "comments": 1018
     },
     {
       "video_id": "y-58OcIphFM",
       "title": "is $100 enough for a bodybuilder to bulk for a week?",
       "published_at": "2026-11-14T20:56:38Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 286285,
-      "likes": 3227,
-      "comments": 246
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 290326,
+      "likes": 3246,
+      "comments": 247
     },
     {
       "video_id": "tCEZgSCz_TU",
       "title": "The gym or basic hygiene, What do you know more about? 👀#fitness #gym #workout",
       "published_at": "2026-11-14T16:53:49Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1373641,
-      "likes": 45959,
-      "comments": 1393
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1378627,
+      "likes": 46086,
+      "comments": 1395
     },
     {
       "video_id": "O-ssLy4ohNY",
       "title": "POV: your old gym bro😔💔 #fitness #workout",
       "published_at": "2026-11-12T20:13:54Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 2633338,
-      "likes": 86629,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 2651871,
+      "likes": 86960,
       "comments": 672
     },
     {
       "video_id": "cXe_QIO4xnQ",
       "title": "POV: your life sucks",
       "published_at": "2026-11-08T18:16:51Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 3203868,
-      "likes": 206110,
-      "comments": 3006
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 3217699,
+      "likes": 206535,
+      "comments": 3016
     },
     {
       "video_id": "fT4EBZKdk08",
       "title": "I tested \"high protein\" junk foods",
       "published_at": "2026-11-07T22:02:51Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 969196,
-      "likes": 6700,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 974183,
+      "likes": 6721,
       "comments": 339
     }
   ]

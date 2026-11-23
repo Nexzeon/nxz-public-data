@@ -2,53 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "gicEOsFtMxw",
+      "title": "I Tested The World's Most Dangerous Animals",
+      "published_at": "2026-11-21T14:00:14Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 9728661,
+      "likes": 91267,
+      "comments": 2461
+    },
     {
       "video_id": "aJv3QJrFp_Q",
       "title": "How Big Is a Shooting Star?",
       "published_at": "2026-11-13T14:00:01Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1598754,
-      "likes": 31549,
-      "comments": 197
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1618502,
+      "likes": 31696,
+      "comments": 198
     },
     {
       "video_id": "BhNkTnqwlys",
       "title": "Beat Me, Win $100",
       "published_at": "2026-10-30T16:06:28Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 1073464,
-      "likes": 18797,
-      "comments": 161
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1082236,
+      "likes": 18842,
+      "comments": 160
     },
     {
       "video_id": "Q4nEdB1cfUk",
       "title": "The Insane Science Hidden in These Toys",
       "published_at": "2026-10-28T13:00:39Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 11681806,
-      "likes": 72395,
-      "comments": 297
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 11785068,
+      "likes": 72693,
+      "comments": 296
     },
     {
       "video_id": "26P1KyvrmjI",
       "title": "I Solved Every Board Game",
       "published_at": "2026-10-24T13:00:22Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 26126843,
-      "likes": 256175,
-      "comments": 4365
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 26208887,
+      "likes": 256491,
+      "comments": 4368
     },
     {
       "video_id": "eXv6fWonvUM",
       "title": "Can You Scientifically Measure Fun?",
       "published_at": "2026-10-21T13:00:01Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 2358264,
-      "likes": 26377,
-      "comments": 290
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 2361370,
+      "likes": 26393,
+      "comments": 291
     }
   ]
 }

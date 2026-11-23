@@ -2,44 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCiYcA0gJzg855iSKMrX3oHg",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "x9A8elqIyK8",
+      "title": "GTA 6",
+      "published_at": "2026-11-21T21:00:01Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 9156195,
+      "likes": 747204,
+      "comments": 106196
+    },
     {
       "video_id": "E91hRBbJObI",
       "title": "NO WAY WAS I MISSING THIS [Resident Evil Requiem Part 1]",
       "published_at": "2026-03-07T19:02:43Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 9748306,
-      "likes": 616536,
-      "comments": 99396
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 9756459,
+      "likes": 616640,
+      "comments": 99409
     },
     {
       "video_id": "i8rHcYHCi0Q",
       "title": "At Dead of Night SPECIAL FINALE",
       "published_at": "2025-12-19T19:05:46Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 13268133,
-      "likes": 369626,
-      "comments": 56274
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 13281546,
+      "likes": 369677,
+      "comments": 56278
     },
     {
       "video_id": "2ITzIazwh3Y",
       "title": "yes. i literally beat the game. in this video. pls watch.",
       "published_at": "2025-12-15T19:02:25Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 15059693,
-      "likes": 357182,
-      "comments": 22312
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 15067728,
+      "likes": 357223,
+      "comments": 22313
     },
     {
       "video_id": "3_ybkhzgKJg",
       "title": "i did it again...",
       "published_at": "2025-12-08T21:55:42Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 5710657,
-      "likes": 460096,
-      "comments": 39056
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 5719138,
+      "likes": 460148,
+      "comments": 39065
     },
     {
       "video_id": "1U1Fpnec-kE",

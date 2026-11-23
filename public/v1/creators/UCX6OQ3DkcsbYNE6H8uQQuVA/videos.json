@@ -2,80 +2,89 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "dnbLdUyozKM",
+      "title": "Closest To 50 Pounds Wins A Car",
+      "published_at": "2026-11-22T17:00:05Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 7378369,
+      "likes": 201483,
+      "comments": 6551
+    },
     {
       "video_id": "WjCH5JUNzao",
       "title": "Can I Beat Magnus Carlsen?",
       "published_at": "2026-11-20T17:00:01Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 14209786,
-      "likes": 450068,
-      "comments": 7548
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 14866583,
+      "likes": 467411,
+      "comments": 7641
     },
     {
       "video_id": "q6fgVVmdpgY",
       "title": "$250,000 Hunger Games In Real Life",
       "published_at": "2026-11-14T17:00:05Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 96073959,
-      "likes": 1374553,
-      "comments": 69560
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 96870967,
+      "likes": 1379358,
+      "comments": 70158
     },
     {
       "video_id": "sHpEqeSByPI",
       "title": "Unboxing The World’s Largest Toy",
       "published_at": "2026-11-13T17:00:00Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 32562957,
-      "likes": 429223,
-      "comments": 10875
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 32838153,
+      "likes": 431177,
+      "comments": 10899
     },
     {
       "video_id": "kPI9Mc35mOg",
       "title": "Trap Door Roulette",
       "published_at": "2026-11-06T17:00:02Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 127359869,
-      "likes": 1876416,
-      "comments": 13882
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 129223478,
+      "likes": 1889064,
+      "comments": 13908
     },
     {
       "video_id": "_c2e1NcI3Sc",
       "title": "Beat Professional Athlete, Win $100,000",
       "published_at": "2026-10-31T16:00:00Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 103653149,
-      "likes": 1309970,
-      "comments": 68793
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 103882923,
+      "likes": 1310753,
+      "comments": 68883
     },
     {
       "video_id": "41UzbuW6wJs",
       "title": "Can A Robot Do My Chores?",
       "published_at": "2026-10-30T17:00:04Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 98648778,
-      "likes": 1422996,
-      "comments": 20232
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 99153658,
+      "likes": 1426385,
+      "comments": 20263
     },
     {
       "video_id": "mND4T0lzg_g",
       "title": "How People Treat You Based on Subscribers",
       "published_at": "2026-10-23T18:00:08Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 51436064,
-      "likes": 1248309,
-      "comments": 22562
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 51694091,
+      "likes": 1251403,
+      "comments": 22596
     },
     {
       "video_id": "RE3_PGwDwhw",
       "title": "Lose 150 Lbs Together, Win $250,000",
       "published_at": "2026-10-17T16:00:18Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 200516294,
-      "likes": 2302043,
-      "comments": 81625
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 200837994,
+      "likes": 2303142,
+      "comments": 81644
     }
   ]
 }

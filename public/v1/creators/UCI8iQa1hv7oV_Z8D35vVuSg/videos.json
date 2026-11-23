@@ -2,42 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCI8iQa1hv7oV_Z8D35vVuSg",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "DH1lgQuOZxk",
+      "title": "Radeon RX 9070 XT vs. 7900 XTX: FSR4.1 Benchmark @ 1440p & 4K",
+      "published_at": "2026-11-21T10:00:39Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 268958,
+      "likes": 4605,
+      "comments": 604
+    },
     {
       "video_id": "mr8bMFCGzrQ",
       "title": "Some Gamers Are Wrong About 30 FPS Gaming & GTA 6",
       "published_at": "2026-11-18T10:00:25Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 655196,
-      "likes": 9712,
-      "comments": 3407
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 657762,
+      "likes": 9756,
+      "comments": 3414
     },
     {
       "video_id": "PGd7VKud2h0",
       "title": "5800X3D vs. 9800X3D, The \"Real-World\" Gaming Difference Benchmarked",
       "published_at": "2026-11-17T10:00:27Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 436327,
-      "likes": 9575,
-      "comments": 2457
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 441209,
+      "likes": 9615,
+      "comments": 2462
     },
     {
       "video_id": "EeinHkz8ozo",
       "title": "Some Gamers Think AMD is \"Terrible at GPUs\". How Long Until That Changes?",
       "published_at": "2026-11-14T10:00:14Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 198710,
-      "likes": 3888,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 199505,
+      "likes": 3891,
       "comments": 1483
     },
     {
       "video_id": "ZjMeZd8H5w4",
       "title": "Building A Gaming PC For Movember | Supporting Men's Health",
       "published_at": "2026-11-12T12:34:37Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 75067,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 75120,
       "likes": 790,
       "comments": 40
     },
@@ -45,9 +54,9 @@
       "video_id": "5KN7-Bfp2do",
       "title": "Is The RTX 5070 Ti Next to Go?",
       "published_at": "2026-11-10T10:00:15Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 180979,
-      "likes": 3399,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 181261,
+      "likes": 3402,
       "comments": 1065
     }
   ]

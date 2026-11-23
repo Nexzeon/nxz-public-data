@@ -2,51 +2,69 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
-  "generated_at": "2026-11-22T19:03:06Z",
+  "generated_at": "2026-11-23T01:27:08Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "iBMT-YckIEk",
+      "title": "Day In The Life Of A Gambler...",
+      "published_at": "2026-11-22T22:00:13Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 1330,
+      "likes": 17,
+      "comments": 1
+    },
+    {
+      "video_id": "U2GjDh_Mc5g",
+      "title": "Inflation Can’t Be THIS Bad…",
+      "published_at": "2026-11-21T21:30:09Z",
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 11778,
+      "likes": 82,
+      "comments": 20
+    },
     {
       "video_id": "JcBTr-BhL_0",
       "title": "What EVERYONE Needs To Do With Their Money ASAP",
       "published_at": "2026-11-16T20:00:04Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 553782,
-      "likes": 7228,
-      "comments": 1510
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 557141,
+      "likes": 7261,
+      "comments": 1513
     },
     {
       "video_id": "LindcarFLOo",
       "title": "NBA Player On Flying Private...",
       "published_at": "2026-11-12T23:00:01Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 74655,
-      "likes": 981,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 75035,
+      "likes": 982,
       "comments": 60
     },
     {
       "video_id": "O90f-V62Gyw",
       "title": "How Is This Legal??",
       "published_at": "2026-11-11T21:30:15Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 76113,
-      "likes": 1048,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 76610,
+      "likes": 1053,
       "comments": 102
     },
     {
       "video_id": "8J_36MGSdVI",
       "title": "It Started: The BIGGEST Wealth Transfer Of Our Lifetime Has Just Begun!",
       "published_at": "2026-11-10T21:00:13Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 575139,
-      "likes": 6623,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 575567,
+      "likes": 6626,
       "comments": 1113
     },
     {
       "video_id": "OjDJGu_oLC0",
       "title": "CRAZIEST TikTok Money Advice...",
       "published_at": "2026-11-09T17:00:22Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 12064,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 12081,
       "likes": 105,
       "comments": 3
     },
@@ -54,8 +72,8 @@
       "video_id": "M7YeGnFscz4",
       "title": "I Shouldn’t Have Paid my Internet Bill…",
       "published_at": "2026-11-04T21:00:18Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 5710,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 5719,
       "likes": 45,
       "comments": 1
     },
@@ -63,8 +81,8 @@
       "video_id": "TZB5XqLgyFk",
       "title": "Do \"Entrepreneurs\" Know Basic Finance? 😭",
       "published_at": "2026-11-03T23:00:23Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 11495,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 11515,
       "likes": 183,
       "comments": 17
     },
@@ -72,9 +90,9 @@
       "video_id": "Iam0GgMsAi4",
       "title": "It Started: Homebuyer Demand Just Collapsed - Buyers Getting 20-40% Discounts!",
       "published_at": "2026-11-02T21:02:06Z",
-      "observed_at": "2026-11-22T19:01:57Z",
-      "views": 597254,
-      "likes": 5178,
+      "observed_at": "2026-11-23T01:26:00Z",
+      "views": 597391,
+      "likes": 5180,
       "comments": 857
     }
   ]
