@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
-  "generated_at": "2026-11-23T07:51:19Z",
+  "generated_at": "2026-11-23T13:35:49Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "I7IaqRJMi9w",
       "title": "I Failed",
       "published_at": "2026-11-07T13:45:09Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 4420347,
-      "likes": 104219,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 4422897,
+      "likes": 104256,
       "comments": 6115
     },
     {
       "video_id": "U6I5PkZjWZU",
       "title": "I Google Myself..",
       "published_at": "2026-10-23T08:30:30Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 3206970,
-      "likes": 82786,
-      "comments": 5133
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 3207505,
+      "likes": 82794,
+      "comments": 5134
     },
     {
       "video_id": "ODDJXGY_1kQ",
       "title": "I seriously should NOT be dropping this.",
       "published_at": "2026-10-01T02:21:45Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 3418151,
-      "likes": 94593,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 3418647,
+      "likes": 94598,
       "comments": 5461
     },
     {
       "video_id": "H8g4B5ZN7LM",
       "title": "Thank you and Goodbye.",
       "published_at": "2026-09-22T11:05:00Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 13169015,
-      "likes": 416782,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 13170639,
+      "likes": 416786,
       "comments": 19251
     },
     {
       "video_id": "cNYSOHWbkJU",
       "title": "Earthquake by Mount Fuji",
       "published_at": "2026-07-30T08:30:17Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 1557139,
-      "likes": 59755,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 1557270,
+      "likes": 59760,
       "comments": 6047
     }
   ]

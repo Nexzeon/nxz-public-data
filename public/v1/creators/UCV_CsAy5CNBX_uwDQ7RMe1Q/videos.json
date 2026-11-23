@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
-  "generated_at": "2026-11-23T07:51:19Z",
+  "generated_at": "2026-11-23T13:35:49Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "WqTO4uk1siU",
       "title": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
       "published_at": "2026-03-29T18:00:06Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 16421459,
-      "likes": 338324,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 16428539,
+      "likes": 338359,
       "comments": 9481
     },
     {
       "video_id": "dPylP3U1fm0",
       "title": "CENTRAL CEE - MAKA (FEAT. A2ANTI) (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 570844,
-      "likes": 11291,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 571098,
+      "likes": 11295,
       "comments": 413
     },
     {
       "video_id": "ZgnoafBVjXA",
       "title": "CENTRAL CEE - FEELINGS (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 1377157,
-      "likes": 35667,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 1377747,
+      "likes": 35674,
       "comments": 1321
     },
     {
       "video_id": "ZgHVvkINXZE",
       "title": "CENTRAL CEE - DC10 (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 514724,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 514954,
       "likes": 10196,
       "comments": 553
     },
@@ -45,9 +45,9 @@
       "video_id": "3GtkDgNAxUU",
       "title": "CENTRAL CEE - Y FI DAT (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 1216644,
-      "likes": 22703,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 1217228,
+      "likes": 22705,
       "comments": 1076
     }
   ]

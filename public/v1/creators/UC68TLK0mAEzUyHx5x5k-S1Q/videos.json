@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC68TLK0mAEzUyHx5x5k-S1Q",
-  "generated_at": "2026-11-23T07:51:19Z",
+  "generated_at": "2026-11-23T13:35:49Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "XKU_GZc6H8Y",
       "title": "How Much Do Fitness Influencers Actually Know? (Ft. Lean Beef Patty)",
       "published_at": "2026-11-13T16:25:06Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 6995957,
-      "likes": 157278,
-      "comments": 1078
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 7016806,
+      "likes": 157790,
+      "comments": 1079
     },
     {
       "video_id": "El8P1hp7lRQ",
       "title": "How Many Energy Drinks Can You Have Before It’s A Problem?",
       "published_at": "2026-10-28T16:17:43Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 7336094,
-      "likes": 215409,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 7339317,
+      "likes": 215489,
       "comments": 2950
     },
     {
       "video_id": "RK4UVg08wt0",
       "title": "What Do 100 Calories Actually Look Like?",
       "published_at": "2026-10-17T15:07:36Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 4759149,
-      "likes": 103288,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 4760883,
+      "likes": 103312,
       "comments": 861
     },
     {
       "video_id": "JVO00Ulr5BE",
       "title": "The Best & Worst Peptides (Ranked)",
       "published_at": "2026-10-08T15:41:18Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 3958380,
-      "likes": 122167,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 3961036,
+      "likes": 122215,
       "comments": 1573
     },
     {
       "video_id": "H6SiAe-VObA",
       "title": "Peptides Are Insane",
       "published_at": "2026-09-28T15:30:01Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 19928482,
-      "likes": 259182,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 19932670,
+      "likes": 259214,
       "comments": 10309
     }
   ]

@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-J-KZfRV8c13fOCkhXdLiQ",
-  "generated_at": "2026-11-23T07:51:19Z",
+  "generated_at": "2026-11-23T13:35:49Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "yBovID8VNB4",
       "title": "Getting ready for the first DUA by AB pop up in New York 🤍",
       "published_at": "2026-10-16T17:16:13Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 135719,
-      "likes": 7432,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 135804,
+      "likes": 7435,
       "comments": 317
     },
     {
       "video_id": "KIWyG4H2Iec",
       "title": "holiday season ain’t over",
       "published_at": "2026-09-08T17:01:02Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 4883276,
-      "likes": 87102,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 4883581,
+      "likes": 87106,
       "comments": 1092
     },
     {
       "video_id": "HNViGifyReQ",
       "title": "Dua Lipa - Houdini (Live From Mexico)",
       "published_at": "2026-05-28T23:01:18Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 2530670,
-      "likes": 23030,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 2532907,
+      "likes": 23037,
       "comments": 734
     },
     {
       "video_id": "p6IUmRgYVvM",
       "title": "Dua Lipa - Don’t Start Now (Live From Mexico)",
       "published_at": "2026-05-28T23:01:12Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 4011426,
-      "likes": 19647,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 4013628,
+      "likes": 19650,
       "comments": 351
     },
     {
       "video_id": "4E9rstlm5VY",
       "title": "Dua Lipa - New Rules / Dance The Night Interlude (Live From Mexico)",
       "published_at": "2026-05-28T23:01:06Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 1571983,
-      "likes": 12160,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 1573393,
+      "likes": 12165,
       "comments": 268
     }
   ]

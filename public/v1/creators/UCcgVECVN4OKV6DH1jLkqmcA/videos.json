@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCcgVECVN4OKV6DH1jLkqmcA",
-  "generated_at": "2026-11-23T07:51:19Z",
+  "generated_at": "2026-11-23T13:35:49Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_WhCs5g8iK4",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM DUBAI]",
       "published_at": "2026-11-12T14:42:52Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 120951,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 121080,
       "likes": 1392,
       "comments": 221
     },
@@ -18,37 +18,37 @@
       "video_id": "LVBS53xHDDo",
       "title": "Dubai this is going to be the best Christmas ever",
       "published_at": "2026-11-12T12:34:54Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 55683,
-      "likes": 1008,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 55810,
+      "likes": 1009,
       "comments": 96
     },
     {
       "video_id": "AFoZk5i9Ht0",
       "title": "Je t’aime Cédric",
       "published_at": "2026-11-10T19:15:35Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 72554,
-      "likes": 817,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 72745,
+      "likes": 819,
       "comments": 139
     },
     {
       "video_id": "Lk6gTkEOBwM",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM PARIS]",
       "published_at": "2026-11-10T17:48:46Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 157293,
-      "likes": 2150,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 157382,
+      "likes": 2151,
       "comments": 416
     },
     {
       "video_id": "X0DHKq_eseM",
       "title": "Bonjour Cédric. Pari we here",
       "published_at": "2026-11-10T16:46:54Z",
-      "observed_at": "2026-11-23T07:50:15Z",
-      "views": 57107,
+      "observed_at": "2026-11-23T13:34:39Z",
+      "views": 57239,
       "likes": 1210,
-      "comments": 80
+      "comments": 81
     }
   ]
 }
