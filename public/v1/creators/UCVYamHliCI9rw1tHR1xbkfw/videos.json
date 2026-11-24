@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCVYamHliCI9rw1tHR1xbkfw",
-  "generated_at": "2026-11-24T07:36:28Z",
+  "generated_at": "2026-11-24T13:31:28Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "m8lhB9qFhYo",
       "title": "MacBook Pro OLED Review - Is Touch ACTUALLY Useful?",
       "published_at": "2026-11-05T14:03:51Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 901775,
-      "likes": 11206,
-      "comments": 1451
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 902070,
+      "likes": 11208,
+      "comments": 1452
     },
     {
       "video_id": "gHZ7JYPOd1M",
       "title": "The NEW MacBook Pro - First Impressions",
       "published_at": "2026-10-29T00:45:18Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 1561076,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 1561196,
       "likes": 16087,
       "comments": 1976
     },
@@ -27,8 +27,8 @@
       "video_id": "1vj_AHonNdA",
       "title": "iPhone Duo Review - \"Apple Knows Best\"",
       "published_at": "2026-10-21T13:40:13Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 1117499,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 1117659,
       "likes": 16797,
       "comments": 2146
     },
@@ -36,17 +36,17 @@
       "video_id": "ZedAs9P7yE8",
       "title": "The Laptop for 71% of People",
       "published_at": "2026-10-05T15:17:20Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 1418753,
-      "likes": 19003,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 1419059,
+      "likes": 19004,
       "comments": 2216
     },
     {
       "video_id": "dDVsNmiSzwQ",
       "title": "2026 Mac Mini -  CRAZY FAST! (M5 Pro / M5 Ultra)",
       "published_at": "2026-09-21T13:00:50Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 1254025,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 1254089,
       "likes": 14859,
       "comments": 634
     }

@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCJbYdyufHR-cxOuY96KIoqA",
-  "generated_at": "2026-11-24T07:36:28Z",
+  "generated_at": "2026-11-24T13:31:28Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "71ZYqvPRe_M",
       "title": "AMP RETIREMENT HOME",
       "published_at": "2026-11-11T22:01:20Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 2086866,
-      "likes": 27107,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 2090756,
+      "likes": 27133,
       "comments": 977
     },
     {
       "video_id": "gGxV9X2MDMU",
       "title": "AMP TIC TAC TOE CHALLENGE",
       "published_at": "2026-11-09T23:19:44Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 4022096,
-      "likes": 101449,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 4032611,
+      "likes": 101667,
       "comments": 454
     },
     {
       "video_id": "DCWtxzRXITU",
       "title": "AMP STREET FOOTBALL DRAFT",
       "published_at": "2026-11-02T23:06:45Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 2212987,
-      "likes": 31850,
-      "comments": 1035
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 2214833,
+      "likes": 31860,
+      "comments": 1036
     },
     {
       "video_id": "UH8jQ1yoAiM",
       "title": "AMP MUSIC IMPOSTER CHALLENGE",
       "published_at": "2026-10-31T21:40:41Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 4694976,
-      "likes": 140928,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 4718831,
+      "likes": 141434,
       "comments": 381
     },
     {
       "video_id": "PoCsQbIKBYg",
       "title": "AMP MICHAEL MYERS CHALLENGE",
       "published_at": "2026-10-24T23:02:01Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 2403091,
-      "likes": 81124,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 2404931,
+      "likes": 81174,
       "comments": 433
     }
   ]

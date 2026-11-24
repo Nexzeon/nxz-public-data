@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCEB4a5o_6KfjxHwNMnmj54Q",
-  "generated_at": "2026-11-24T07:36:28Z",
+  "generated_at": "2026-11-24T13:31:28Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "uwJjiRsQqqo",
       "title": "Lil Tjay - Intro (Official Video)",
       "published_at": "2026-11-13T23:45:20Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 239695,
-      "likes": 5978,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 244013,
+      "likes": 6006,
       "comments": 437
     },
     {
       "video_id": "1n-rnpg6vxg",
       "title": "Lil Tjay - Public Figure (Official Audio)",
       "published_at": "2026-11-13T05:40:14Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 268145,
-      "likes": 8368,
-      "comments": 487
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 272350,
+      "likes": 8433,
+      "comments": 488
     },
     {
       "video_id": "OrFUJB_Plx4",
       "title": "Lil Tjay - Intro (Official Audio)",
       "published_at": "2026-11-13T05:33:53Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 80245,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 80620,
       "likes": 3301,
       "comments": 255
     },
@@ -36,18 +36,18 @@
       "video_id": "rUIJzpom1ok",
       "title": "Lil Tjay - Free the Bros (Official Video)",
       "published_at": "2026-11-06T23:56:45Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 439121,
-      "likes": 14488,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 441239,
+      "likes": 14503,
       "comments": 877
     },
     {
       "video_id": "wDr4blQErHU",
       "title": "Lil Tjay - Dark Times (Official Visualizer)",
       "published_at": "2026-08-15T02:49:00Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 884002,
-      "likes": 23076,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 884334,
+      "likes": 23078,
       "comments": 1093
     }
   ]

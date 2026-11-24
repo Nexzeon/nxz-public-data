@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-  "generated_at": "2026-11-24T07:36:28Z",
+  "generated_at": "2026-11-24T13:31:28Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "kSx7OL5-w2E",
       "title": "YE & Don Toliver - OK",
       "published_at": "2026-08-18T19:00:06Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 6620807,
-      "likes": 149886,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 6623899,
+      "likes": 149907,
       "comments": 6245
     },
     {
       "video_id": "PRWqgogm8TE",
       "title": "GEMINI SEASON",
       "published_at": "2026-06-08T21:27:49Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 1812130,
-      "likes": 55564,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 1812430,
+      "likes": 55566,
       "comments": 8282
     },
     {
       "video_id": "wl0ACp_mPGs",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #Shorts",
       "published_at": "2026-03-29T15:35:33Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 456539,
-      "likes": 20400,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 456589,
+      "likes": 20401,
       "comments": 647
     },
     {
       "video_id": "2XCc9aRLDtA",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:19:02Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 216549,
-      "likes": 10102,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 216605,
+      "likes": 10104,
       "comments": 360
     },
     {
       "video_id": "1nEnXbLSJMg",
       "title": "FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:12:35Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 505603,
-      "likes": 20157,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 505662,
+      "likes": 20159,
       "comments": 647
     }
   ]

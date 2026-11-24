@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC2C_jShtL725hvbm1arSV9w",
-  "generated_at": "2026-11-24T07:36:28Z",
+  "generated_at": "2026-11-24T13:31:28Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "HSRmfNDk87s",
       "title": "Why Runways Have to Be Repainted",
       "published_at": "2025-04-14T19:47:51Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 4164774,
-      "likes": 175731,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 4165286,
+      "likes": 175737,
       "comments": 152
     },
     {
       "video_id": "58SrtQNt4YE",
       "title": "America Forgot It's Allowed to Stop Making Coins",
       "published_at": "2025-04-13T22:06:57Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 3483811,
-      "likes": 162123,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 3483955,
+      "likes": 162125,
       "comments": 170
     },
     {
       "video_id": "n1KgxqEQn0A",
       "title": "Zero Is Technically an Amount",
       "published_at": "2025-02-17T18:39:32Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 3024596,
-      "likes": 140967,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 3025122,
+      "likes": 140969,
       "comments": 160
     },
     {
       "video_id": "1K5oDtVAYzk",
       "title": "Your Post Code Is the Directions, Not the Destination",
       "published_at": "2025-01-28T21:45:11Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 3979011,
-      "likes": 163145,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 3979330,
+      "likes": 163147,
       "comments": 162
     },
     {
       "video_id": "lk4lBV5wgGM",
       "title": "Which Sidekick Notepad Is For You?",
       "published_at": "2025-01-28T21:30:08Z",
-      "observed_at": "2026-11-24T07:35:26Z",
-      "views": 433441,
-      "likes": 16335,
+      "observed_at": "2026-11-24T13:30:10Z",
+      "views": 433486,
+      "likes": 16336,
       "comments": 31
     }
   ]
