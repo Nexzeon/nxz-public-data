@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-  "generated_at": "2026-11-23T13:35:49Z",
+  "generated_at": "2026-11-24T01:24:29Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "kSx7OL5-w2E",
       "title": "YE & Don Toliver - OK",
       "published_at": "2026-08-18T19:00:06Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 6607553,
-      "likes": 149815,
-      "comments": 6242
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 6617237,
+      "likes": 149870,
+      "comments": 6243
     },
     {
       "video_id": "PRWqgogm8TE",
       "title": "GEMINI SEASON",
       "published_at": "2026-06-08T21:27:49Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 1810691,
-      "likes": 55544,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 1811715,
+      "likes": 55560,
       "comments": 8285
     },
     {
       "video_id": "wl0ACp_mPGs",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #Shorts",
       "published_at": "2026-03-29T15:35:33Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 456384,
-      "likes": 20398,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 456497,
+      "likes": 20400,
       "comments": 647
     },
     {
       "video_id": "2XCc9aRLDtA",
       "title": "YE - FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:19:02Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 216407,
-      "likes": 10098,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 216495,
+      "likes": 10102,
       "comments": 360
     },
     {
       "video_id": "1nEnXbLSJMg",
       "title": "FATHER (feat. TRAVIS SCOTT) #YE #BULLY #shorts",
       "published_at": "2026-03-29T13:12:35Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 505432,
-      "likes": 20149,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 505521,
+      "likes": 20154,
       "comments": 647
     }
   ]

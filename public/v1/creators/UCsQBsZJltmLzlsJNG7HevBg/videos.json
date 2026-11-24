@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCsQBsZJltmLzlsJNG7HevBg",
-  "generated_at": "2026-11-23T13:35:49Z",
+  "generated_at": "2026-11-24T01:24:29Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "TlEuAoE_Cao",
       "title": "LilGoatD3 - Girls (Tyler, The Creator Remix)",
       "published_at": "2026-09-29T10:00:34Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 1041113,
-      "likes": 50594,
-      "comments": 3532
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 1042199,
+      "likes": 50610,
+      "comments": 3534
     },
     {
       "video_id": "zMrVd3NjHgs",
       "title": "Tyler, The Creator - Thought I Was Dead / Sugar On My Tongue (Live at the 2026 GRAMMYs)",
       "published_at": "2026-02-16T16:26:43Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 5018297,
-      "likes": 161532,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 5021852,
+      "likes": 161569,
       "comments": 5540
     },
     {
       "video_id": "1f_cpXJtlQk",
       "title": "SAG HARBOR (Official Video)",
       "published_at": "2025-12-25T20:18:31Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 5240057,
-      "likes": 272716,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 5241971,
+      "likes": 272724,
       "comments": 10954
     },
     {
       "video_id": "odtcH-FEVvg",
       "title": "SUGAR ON MY TONGUE (Freak Mix)",
       "published_at": "2025-12-25T20:11:22Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 2702525,
-      "likes": 83076,
-      "comments": 6149
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 2703658,
+      "likes": 83081,
+      "comments": 6148
     },
     {
       "video_id": "HgUTnfoR51Y",
       "title": "Tyler, The Creator - Mother (Live at Camp Flog Gnaw 2025)",
       "published_at": "2025-11-27T22:26:23Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 306379,
-      "likes": 14544,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 306470,
+      "likes": 14550,
       "comments": 1167
     }
   ]

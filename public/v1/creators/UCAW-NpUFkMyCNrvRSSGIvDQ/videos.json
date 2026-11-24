@@ -2,70 +2,70 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
-  "generated_at": "2026-11-23T13:35:49Z",
+  "generated_at": "2026-11-24T01:24:29Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "FN7GD0rkOJg",
       "title": "Ninja 24/7",
       "published_at": "2026-11-21T03:11:57Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 108937,
-      "likes": 1246,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 124511,
+      "likes": 1376,
       "comments": 0
     },
     {
       "video_id": "lBA1zYvERHg",
       "title": "This Is a Goodbye...",
       "published_at": "2026-11-18T18:00:00Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 562218,
-      "likes": 6623,
-      "comments": 255
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 584225,
+      "likes": 6793,
+      "comments": 267
     },
     {
       "video_id": "vzv0DL3g6lY",
       "title": "The Season EVERYONE Was Glad is OVER",
       "published_at": "2026-11-14T18:00:36Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 88433,
-      "likes": 1137,
-      "comments": 124
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 89162,
+      "likes": 1144,
+      "comments": 125
     },
     {
       "video_id": "dc_YNIDJQnM",
       "title": "I'M BACK!",
       "published_at": "2026-11-09T18:00:29Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 98542,
-      "likes": 1506,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 98854,
+      "likes": 1509,
       "comments": 119
     },
     {
       "video_id": "lm7uLeUuARw",
       "title": "Why Casuals Hated This Fortnite Season...",
       "published_at": "2026-11-03T18:00:24Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 79862,
-      "likes": 1125,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 79965,
+      "likes": 1126,
       "comments": 85
     },
     {
       "video_id": "ed7b7X9u-x8",
       "title": "Fortnite is CRAZY For This",
       "published_at": "2026-10-31T18:00:19Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 113270,
-      "likes": 1677,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 113341,
+      "likes": 1678,
       "comments": 85
     },
     {
       "video_id": "WA-hc72dppA",
       "title": "NINJA RETURNED TO FORTNITE!",
       "published_at": "2026-10-24T18:00:02Z",
-      "observed_at": "2026-11-23T13:34:39Z",
-      "views": 378484,
-      "likes": 5425,
+      "observed_at": "2026-11-24T01:23:20Z",
+      "views": 378605,
+      "likes": 5426,
       "comments": 233
     }
   ]
