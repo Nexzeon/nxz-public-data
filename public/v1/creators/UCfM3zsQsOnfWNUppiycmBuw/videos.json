@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCfM3zsQsOnfWNUppiycmBuw",
-  "generated_at": "2026-11-24T01:24:29Z",
+  "generated_at": "2026-11-24T07:36:28Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "Y9n4xOr2VKg",
       "title": "WELCOME 🥂 @idk",
       "published_at": "2026-11-13T17:14:18Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 300364,
-      "likes": 12755,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 301012,
+      "likes": 12770,
       "comments": 604
     },
     {
       "video_id": "e5xFr_2tTlo",
       "title": "HITMAN World of Assassination - Eminem vs. Slim Shady",
       "published_at": "2025-12-01T16:38:56Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 611064,
-      "likes": 20439,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 611225,
+      "likes": 20442,
       "comments": 984
     },
     {
       "video_id": "uAA1rcSmQN8",
       "title": "HITMAN World of Assassination - Eminem vs. Slim Shady",
       "published_at": "2025-12-01T16:29:10Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 1054739,
-      "likes": 26501,
-      "comments": 2915
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 1054984,
+      "likes": 26504,
+      "comments": 2916
     },
     {
       "video_id": "IKU-yswi8HU",
       "title": "Eminem - Everybody’s Looking At Me [Official Audio]",
       "published_at": "2025-08-26T04:03:34Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 10769966,
-      "likes": 274440,
-      "comments": 19888
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 10771363,
+      "likes": 274458,
+      "comments": 19894
     },
     {
       "video_id": "1_C3SwIyE2g",
       "title": "Eminem - Stan (Live at Wembley 2014) [Official Audio]",
       "published_at": "2025-08-26T04:03:34Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 868818,
-      "likes": 19508,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 869005,
+      "likes": 19509,
       "comments": 1207
     }
   ]

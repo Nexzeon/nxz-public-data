@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCE4Gn00XZbpWvGUfIslT-tA",
-  "generated_at": "2026-11-24T01:24:29Z",
+  "generated_at": "2026-11-24T07:36:28Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "Qbe0I3X6R-o",
       "title": "The INSANE Truth About YouTube",
       "published_at": "2025-09-12T11:55:26Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 601717,
-      "likes": 17014,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 601835,
+      "likes": 17017,
       "comments": 1279
     },
     {
       "video_id": "dsDcQmJHwQc",
       "title": "The INSANE Truth About OpenAI",
       "published_at": "2025-08-22T11:34:59Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 1269670,
-      "likes": 26077,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 1269809,
+      "likes": 26076,
       "comments": 2234
     },
     {
       "video_id": "AafeUIwSLvw",
       "title": "Thomas Edison: The IDIOT Who Changed The World",
       "published_at": "2025-08-08T13:31:36Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 262597,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 262617,
       "likes": 7031,
       "comments": 1203
     },
@@ -36,18 +36,18 @@
       "video_id": "I45qsMJbMQU",
       "title": "The Family That Drugged America",
       "published_at": "2025-07-13T10:56:57Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 335708,
-      "likes": 9697,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 335742,
+      "likes": 9698,
       "comments": 632
     },
     {
       "video_id": "2bMYyzO8SnM",
       "title": "The Scariest Business In The World",
       "published_at": "2025-06-25T12:12:42Z",
-      "observed_at": "2026-11-24T01:23:20Z",
-      "views": 370446,
-      "likes": 11789,
+      "observed_at": "2026-11-24T07:35:26Z",
+      "views": 370471,
+      "likes": 11790,
       "comments": 563
     }
   ]
