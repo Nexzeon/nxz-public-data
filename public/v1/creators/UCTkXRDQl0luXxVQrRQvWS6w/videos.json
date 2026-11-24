@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-  "generated_at": "2026-11-24T13:31:28Z",
+  "generated_at": "2026-11-24T19:14:57Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "FJfyJw-kCRA",
       "title": "Minecraft 2 Truths 1 Lie",
       "published_at": "2026-10-29T20:25:49Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 2592491,
-      "likes": 102707,
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 2598171,
+      "likes": 102805,
       "comments": 1265
     },
     {
       "video_id": "iSwIiTNVvWo",
       "title": "Stripped Logs",
       "published_at": "2026-10-25T13:34:01Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 2165673,
-      "likes": 120565,
-      "comments": 4756
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 2166988,
+      "likes": 120615,
+      "comments": 4758
     },
     {
       "video_id": "g22Z__ShvVY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE",
       "published_at": "2026-10-20T19:30:08Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 15218413,
-      "likes": 490382,
-      "comments": 14783
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 15233086,
+      "likes": 490645,
+      "comments": 14791
     },
     {
       "video_id": "fYFm5P74Yng",
       "title": "BECOMING A SPEAR MACE MASTER (short stream)",
       "published_at": "2026-09-19T20:01:48Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 1004808,
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 1004894,
       "likes": 16337,
       "comments": 542
     },
@@ -45,9 +45,9 @@
       "video_id": "IqcS1d3eXYc",
       "title": "Minecraft Speedrunner Swap VS 3 Hunters",
       "published_at": "2026-08-09T16:30:06Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 7118952,
-      "likes": 177019,
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 7120669,
+      "likes": 177035,
       "comments": 8023
     }
   ]

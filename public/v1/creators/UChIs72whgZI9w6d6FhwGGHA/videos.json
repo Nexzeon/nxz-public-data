@@ -2,71 +2,71 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIs72whgZI9w6d6FhwGGHA",
-  "generated_at": "2026-11-24T13:31:28Z",
+  "generated_at": "2026-11-24T19:14:57Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "l8qxFcaLSM4",
       "title": "HW News - DRAM Cartel in Court, GPU Drivers Eat SSDs, NVIDIA Cracks Show, PCB Shortage",
       "published_at": "2026-11-22T13:27:14Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 858463,
-      "likes": 23397,
-      "comments": 2958
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 864816,
+      "likes": 23492,
+      "comments": 2975
     },
     {
       "video_id": "KNVKzPHgg4M",
       "title": "RAM Altman",
       "published_at": "2026-11-19T21:24:01Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 1039172,
-      "likes": 31482,
-      "comments": 5399
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 1042001,
+      "likes": 31542,
+      "comments": 5405
     },
     {
       "video_id": "SxFJ5QGNxwo",
       "title": "IF ONLY SOMEBODY TOLD US ABOUT THE NVIDIA GPU SMUGGLING",
       "published_at": "2026-11-16T13:41:57Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 1586324,
-      "likes": 46204,
-      "comments": 6240
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 1587046,
+      "likes": 46219,
+      "comments": 6241
     },
     {
       "video_id": "jHT4iHJxzOI",
       "title": "Tim Sweeney is a Lunatic | WTF Happened to Epic Games?",
       "published_at": "2026-11-14T20:38:48Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 1144989,
-      "likes": 38406,
-      "comments": 6350
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 1148099,
+      "likes": 38447,
+      "comments": 6355
     },
     {
       "video_id": "YYU_geUwQoA",
       "title": "The Downfall of Jensen Huang: NVIDIA’s Greed & Corruption",
       "published_at": "2026-11-13T13:39:16Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 1994121,
-      "likes": 76077,
-      "comments": 11564
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 1994899,
+      "likes": 76091,
+      "comments": 11561
     },
     {
       "video_id": "rhQc2SPV3tQ",
       "title": "It's Time to Get Into 3D Printing | GN \"Factory\" Build Vlog, Pt. 1",
       "published_at": "2026-11-08T19:11:03Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 483814,
-      "likes": 12202,
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 484502,
+      "likes": 12215,
       "comments": 1573
     },
     {
       "video_id": "Un78sPq5nbg",
       "title": "The NVIDIA RTX 5090 Problem & Future Generation Price Creep",
       "published_at": "2026-11-07T03:32:43Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 819856,
-      "likes": 17197,
-      "comments": 3769
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 820605,
+      "likes": 17203,
+      "comments": 3771
     }
   ]
 }

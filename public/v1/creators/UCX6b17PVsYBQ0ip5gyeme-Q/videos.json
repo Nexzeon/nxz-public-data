@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCX6b17PVsYBQ0ip5gyeme-Q",
-  "generated_at": "2026-11-24T13:31:28Z",
+  "generated_at": "2026-11-24T19:14:57Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "TMTLNFv5MQE",
       "title": "The Geology of Mars: Crash Course Geology #25",
       "published_at": "2026-11-19T17:00:09Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 62713,
-      "likes": 897,
-      "comments": 38
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 63338,
+      "likes": 908,
+      "comments": 40
     },
     {
       "video_id": "DC5l7pXDQVo",
       "title": "Why Does Congress Skew Older Than the Public?: Crash Course US Government #8",
       "published_at": "2026-11-17T17:00:04Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 91374,
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 91723,
       "likes": 907,
-      "comments": 55
+      "comments": 56
     },
     {
       "video_id": "GJrG2AxmD3g",
       "title": "How Humans Changed the Earth: Crash Course Geology #24",
       "published_at": "2026-11-12T17:00:32Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 87006,
-      "likes": 1105,
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 87159,
+      "likes": 1107,
       "comments": 25
     },
     {
       "video_id": "Fz8QARYt5Js",
       "title": "Religion, Politics, and Sex Ed, Oh My! Crash Course’s Approach to Taboo Topics",
       "published_at": "2026-11-11T19:59:21Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 80634,
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 80714,
       "likes": 312,
       "comments": 23
     },
@@ -45,10 +45,10 @@
       "video_id": "EQr_eJOFy4Q",
       "title": "Crash Course World History Marathon • Full Series",
       "published_at": "2026-11-10T17:00:07Z",
-      "observed_at": "2026-11-24T13:30:10Z",
-      "views": 532279,
-      "likes": 5410,
-      "comments": 175
+      "observed_at": "2026-11-24T19:13:43Z",
+      "views": 534980,
+      "likes": 5434,
+      "comments": 178
     }
   ]
 }
