@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCKC11MOR51CLg4JpYj8jb4g",
-  "generated_at": "2026-11-25T13:38:54Z",
+  "generated_at": "2026-11-25T19:10:00Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "RzsoMqho0a0",
       "title": "Metro Boomin, Roscoe Dash, Quavo - Butterflies (Right Now) [Official Music Video]",
       "published_at": "2026-04-02T19:00:21Z",
-      "observed_at": "2026-11-25T13:37:43Z",
-      "views": 253556,
-      "likes": 11805,
+      "observed_at": "2026-11-25T19:08:28Z",
+      "views": 253608,
+      "likes": 11806,
       "comments": 492
     },
     {
       "video_id": "Jw2c0HNrNe0",
       "title": "Metro Boomin, Lil Baby, Lil Meany, Skooly, DJ Spinz - Don't Stop Dancin (Official Music Video)",
       "published_at": "2026-03-26T19:00:17Z",
-      "observed_at": "2026-11-25T13:37:43Z",
-      "views": 94398,
-      "likes": 4263,
+      "observed_at": "2026-11-25T19:08:28Z",
+      "views": 94513,
+      "likes": 4265,
       "comments": 337
     },
     {
       "video_id": "M7zTWKJsdNY",
       "title": "Metro Boomin, Travis Porter, Young Dro, Gucci Mane - They Wanna Have Fun (Official Music Video)",
       "published_at": "2026-03-11T18:00:07Z",
-      "observed_at": "2026-11-25T13:37:43Z",
-      "views": 722933,
+      "observed_at": "2026-11-25T19:08:28Z",
+      "views": 723142,
       "likes": 23876,
       "comments": 934
     },
@@ -36,18 +36,18 @@
       "video_id": "MPkWiO0y3qg",
       "title": "Metro Boomin - Loose Screws ft. Skooly, Shad Da God, & DJ Spinz (Official Music Video)",
       "published_at": "2025-11-13T19:00:07Z",
-      "observed_at": "2026-11-25T13:37:43Z",
-      "views": 336757,
-      "likes": 9263,
-      "comments": 479
+      "observed_at": "2026-11-25T19:08:28Z",
+      "views": 336809,
+      "likes": 9264,
+      "comments": 480
     },
     {
       "video_id": "HkJysYhwb-k",
       "title": "Metro Boomin - I Want It All ft.DJ Spinz (Official Instrumental Audio)",
       "published_at": "2025-11-11T15:24:35Z",
-      "observed_at": "2026-11-25T13:37:43Z",
-      "views": 29347,
-      "likes": 521,
+      "observed_at": "2026-11-25T19:08:28Z",
+      "views": 29351,
+      "likes": 522,
       "comments": 0
     }
   ]

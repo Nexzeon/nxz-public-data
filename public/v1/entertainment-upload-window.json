@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "feed": "nxz-entertainment-upload-window",
-  "window_start": "2026-11-18T13:38:00.963564+00:00",
-  "window_end": "2026-11-25T13:38:00.963564+00:00",
+  "window_start": "2026-11-18T19:08:50.408455+00:00",
+  "window_end": "2026-11-25T19:08:50.408455+00:00",
   "creators": [
     {
       "channel_id": "UCRijo3ddMTht_IHyNSNXpNQ",
@@ -21,15 +21,15 @@
     {
       "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
       "uploads": 1,
-      "views": 4008905.0,
-      "likes": 79210.0,
+      "views": 4123689.0,
+      "likes": 80590.0,
       "pending": 0
     },
     {
       "channel_id": "UCDogdKl7t7NHzQ95aEwkdMw",
       "uploads": 1,
-      "views": 4043331.0,
-      "likes": 84663.0,
+      "views": 4161942.0,
+      "likes": 86310.0,
       "pending": 0
     },
     {
@@ -56,8 +56,8 @@
     {
       "channel_id": "UCPpATKqmMV-CNRNWYaDUwiA",
       "uploads": 1,
-      "views": 448951.0,
-      "likes": 5309.0,
+      "views": 475961.0,
+      "likes": 5520.0,
       "pending": 0
     },
     {
@@ -77,8 +77,8 @@
     {
       "channel_id": "UCpB959t8iPrxQWj7G6n0ctQ",
       "uploads": 1,
-      "views": 245419.0,
-      "likes": 5290.0,
+      "views": 248880.0,
+      "likes": 5349.0,
       "pending": 0
     },
     {
@@ -156,13 +156,13 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 3
+      "pending": 2
     },
     {
       "channel_id": "UCGmnsW623G1r-Chmo5RB4Yw",
       "uploads": 2,
-      "views": 710505.0,
-      "likes": 9056.0,
+      "views": 760214.0,
+      "likes": 9621.0,
       "pending": 0
     },
     {
@@ -191,27 +191,27 @@
       "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 8
+      "pending": 9
     },
     {
       "channel_id": "UChXKjLEzAB1K7EZQey7Fm1Q",
-      "uploads": null,
+      "uploads": 0,
       "views": null,
       "likes": null,
-      "pending": 1
+      "pending": 0
     },
     {
       "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
-      "uploads": 1,
-      "views": 4382924.0,
-      "likes": 115818.0,
+      "uploads": 2,
+      "views": 2375524.0,
+      "likes": 65321.0,
       "pending": 0
     },
     {
       "channel_id": "UCAW-NpUFkMyCNrvRSSGIvDQ",
-      "uploads": 2,
-      "views": 344140.0,
-      "likes": 3927.0,
+      "uploads": 1,
+      "views": 59373.0,
+      "likes": 774.0,
       "pending": 0
     },
     {
