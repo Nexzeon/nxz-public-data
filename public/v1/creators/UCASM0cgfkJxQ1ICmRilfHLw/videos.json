@@ -2,61 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
-  "generated_at": "2026-11-24T19:14:57Z",
+  "generated_at": "2026-11-25T07:40:30Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "7MYXy0ROFM8",
       "title": "Why Would Anyone Spend $1 Billion on GTA 6?",
       "published_at": "2026-11-21T13:56:15Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 980811,
-      "likes": 16487,
-      "comments": 1852
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 1007020,
+      "likes": 16742,
+      "comments": 1869
     },
     {
       "video_id": "6dOFQHTVzEg",
       "title": "Nvidia Had No Plan B",
       "published_at": "2026-11-15T11:23:26Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 2090920,
-      "likes": 37662,
-      "comments": 4326
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 2100804,
+      "likes": 37688,
+      "comments": 4325
     },
     {
       "video_id": "yU8JpuK5NZs",
       "title": "The Binance Hack Isn’t Funny!",
       "published_at": "2026-11-06T06:41:48Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 1579068,
-      "likes": 22033,
-      "comments": 2158
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 1585864,
+      "likes": 22053,
+      "comments": 2160
     },
     {
       "video_id": "Ic1Jf7VlXRM",
       "title": "Anthropic Opened Its Books. What Is It Really Worth?",
       "published_at": "2026-10-31T14:25:37Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 1712883,
-      "likes": 25833,
-      "comments": 2489
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 1715162,
+      "likes": 25843,
+      "comments": 2490
     },
     {
       "video_id": "NyOeLB0WVNE",
       "title": "Elon Musk’s Power Plant on Wheels",
       "published_at": "2026-10-24T15:06:23Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 1404757,
-      "likes": 20873,
-      "comments": 2263
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 1406263,
+      "likes": 20876,
+      "comments": 2266
     },
     {
       "video_id": "JnceIDVMZyQ",
       "title": "Putin’s Plan to Protect Russia’s Internet Backfired",
       "published_at": "2026-10-17T11:27:44Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 1266364,
-      "likes": 24080,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 1267076,
+      "likes": 24084,
       "comments": 1672
     }
   ]

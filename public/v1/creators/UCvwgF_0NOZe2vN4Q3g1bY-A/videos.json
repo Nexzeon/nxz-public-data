@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCvwgF_0NOZe2vN4Q3g1bY-A",
-  "generated_at": "2026-11-24T19:14:57Z",
+  "generated_at": "2026-11-25T07:40:30Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "ya5vfUkWRvM",
       "title": "Living it up in Vegas with Google Play",
       "published_at": "2026-11-22T16:31:08Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 204301,
-      "likes": 1168,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 313586,
+      "likes": 1393,
       "comments": 8
     },
     {
       "video_id": "6grHhwyUyHg",
       "title": "The most UNLIKELY DJ moment…",
       "published_at": "2026-09-23T16:41:12Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 127198,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 127232,
       "likes": 2230,
       "comments": 47
     },
@@ -27,8 +27,8 @@
       "video_id": "bPKdPCH6SfA",
       "title": "Man Don’t Care (Vikkstar Remix)",
       "published_at": "2026-09-20T21:58:26Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 28603,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 28618,
       "likes": 753,
       "comments": 25
     },
@@ -36,8 +36,8 @@
       "video_id": "U-Jcf_mGJYE",
       "title": "Why my Creamfields Set was cancelled…",
       "published_at": "2026-08-30T20:04:59Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 50725,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 50741,
       "likes": 1440,
       "comments": 30
     },
@@ -45,8 +45,8 @@
       "video_id": "H8B5u2cC3XQ",
       "title": "VIKKSTAR @ CREAMFIELDS",
       "published_at": "2026-08-28T20:54:26Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 86405,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 86426,
       "likes": 1319,
       "comments": 35
     },
@@ -54,9 +54,9 @@
       "video_id": "RKLm3vYY6U4",
       "title": "VIKKSTAR CREAMFIELDS SET SHUT DOWN ❌",
       "published_at": "2026-08-28T07:30:35Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 149408,
-      "likes": 2512,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 149423,
+      "likes": 2513,
       "comments": 43
     }
   ]

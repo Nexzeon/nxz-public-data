@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCwIWAbIeu0xI0ReKWOcw3eg",
-  "generated_at": "2026-11-24T19:14:57Z",
+  "generated_at": "2026-11-25T07:40:30Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "RsGGOT9wZwg",
       "title": "Sneaking Into A Squishy Factory!",
       "published_at": "2026-11-21T16:00:27Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 1903942,
-      "likes": 7997,
-      "comments": 803
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 2122294,
+      "likes": 8787,
+      "comments": 852
     },
     {
       "video_id": "z0kKJpXw3OY",
       "title": "World's Longest Backyard Waterslide!",
       "published_at": "2026-11-14T16:00:33Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 3476926,
-      "likes": 21329,
-      "comments": 1511
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 3556127,
+      "likes": 21655,
+      "comments": 1526
     },
     {
       "video_id": "1hGNfPY94LQ",
       "title": "I Turned My House Into A FISH TANK!",
       "published_at": "2026-10-31T15:00:34Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 5895055,
-      "likes": 32203,
-      "comments": 5196
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 5927460,
+      "likes": 32257,
+      "comments": 5211
     },
     {
       "video_id": "PZn-4aeoMrE",
       "title": "I Filled My Lego House With Chocolate!",
       "published_at": "2026-10-17T15:00:35Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 2709969,
-      "likes": 21945,
-      "comments": 5360
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 2717829,
+      "likes": 21980,
+      "comments": 5368
     },
     {
       "video_id": "LWvdma1nSBA",
       "title": "50 Extreme Ways To Use A Trampoline!",
       "published_at": "2026-10-10T15:00:29Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 1237022,
-      "likes": 10102,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 1238690,
+      "likes": 10108,
       "comments": 1063
     },
     {
       "video_id": "oxMfOOmuBrE",
       "title": "We Are SO BACK!",
       "published_at": "2026-10-02T17:30:15Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 347637,
-      "likes": 6382,
-      "comments": 399
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 349994,
+      "likes": 6410,
+      "comments": 401
     }
   ]
 }

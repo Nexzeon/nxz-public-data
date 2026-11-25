@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCiGm_E4ZwYSHV3bcW1pnSeQ",
-  "generated_at": "2026-11-24T19:14:57Z",
+  "generated_at": "2026-11-25T07:40:30Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "EKvZWLqgl0s",
       "title": "Billie performing \"idontwannabeyouanymore\" at Electric Ballroom in 2023",
       "published_at": "2026-08-19T21:10:36Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 293381,
-      "likes": 27695,
-      "comments": 1470
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 294007,
+      "likes": 27722,
+      "comments": 1472
     },
     {
       "video_id": "wx3q6S6c-fM",
       "title": "On tour in Japan by Billie",
       "published_at": "2026-08-14T16:00:06Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 471835,
-      "likes": 45589,
-      "comments": 2767
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 472461,
+      "likes": 45605,
+      "comments": 2766
     },
     {
       "video_id": "l4HdsLE5sSI",
       "title": "Watch Billie perform “ocean eyes” in HIT ME HARD AND SOFT: THE TOUR, now streaming on Paramount+.",
       "published_at": "2026-08-11T19:59:17Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 369187,
-      "likes": 27005,
-      "comments": 780
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 369690,
+      "likes": 27030,
+      "comments": 779
     },
     {
       "video_id": "yRGVydeZ33Q",
       "title": "Billie performing “Your Power” from HIT ME HARD AND SOFT: THE TOUR, available to watch at home now",
       "published_at": "2026-07-31T21:40:30Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 344768,
-      "likes": 27150,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 345123,
+      "likes": 27175,
       "comments": 807
     },
     {
       "video_id": "gLua1cMI9Bg",
       "title": "Billie performing “Oxytocin” from HIT ME HARD AND SOFT: THE TOUR, available to watch at home now",
       "published_at": "2026-07-31T21:39:41Z",
-      "observed_at": "2026-11-24T19:13:43Z",
-      "views": 298486,
-      "likes": 22573,
+      "observed_at": "2026-11-25T07:39:27Z",
+      "views": 298778,
+      "likes": 22591,
       "comments": 407
     }
   ]
