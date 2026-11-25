@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCVYamHliCI9rw1tHR1xbkfw",
-  "generated_at": "2026-11-25T07:40:30Z",
+  "generated_at": "2026-11-25T13:38:54Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "m8lhB9qFhYo",
       "title": "MacBook Pro OLED Review - Is Touch ACTUALLY Useful?",
       "published_at": "2026-11-05T14:03:51Z",
-      "observed_at": "2026-11-25T07:39:27Z",
-      "views": 903306,
+      "observed_at": "2026-11-25T13:37:43Z",
+      "views": 903561,
       "likes": 11212,
-      "comments": 1453
+      "comments": 1452
     },
     {
       "video_id": "gHZ7JYPOd1M",
       "title": "The NEW MacBook Pro - First Impressions",
       "published_at": "2026-10-29T00:45:18Z",
-      "observed_at": "2026-11-25T07:39:27Z",
-      "views": 1561626,
-      "likes": 16088,
+      "observed_at": "2026-11-25T13:37:43Z",
+      "views": 1561748,
+      "likes": 16086,
       "comments": 1976
     },
     {
       "video_id": "1vj_AHonNdA",
       "title": "iPhone Duo Review - \"Apple Knows Best\"",
       "published_at": "2026-10-21T13:40:13Z",
-      "observed_at": "2026-11-25T07:39:27Z",
-      "views": 1118236,
+      "observed_at": "2026-11-25T13:37:43Z",
+      "views": 1118358,
       "likes": 16802,
       "comments": 2146
     },
@@ -36,8 +36,8 @@
       "video_id": "ZedAs9P7yE8",
       "title": "The Laptop for 71% of People",
       "published_at": "2026-10-05T15:17:20Z",
-      "observed_at": "2026-11-25T07:39:27Z",
-      "views": 1419952,
+      "observed_at": "2026-11-25T13:37:43Z",
+      "views": 1420130,
       "likes": 19010,
       "comments": 2217
     },
@@ -45,8 +45,8 @@
       "video_id": "dDVsNmiSzwQ",
       "title": "2026 Mac Mini -  CRAZY FAST! (M5 Pro / M5 Ultra)",
       "published_at": "2026-09-21T13:00:50Z",
-      "observed_at": "2026-11-25T07:39:27Z",
-      "views": 1254289,
+      "observed_at": "2026-11-25T13:37:43Z",
+      "views": 1254372,
       "likes": 14862,
       "comments": 634
     }
