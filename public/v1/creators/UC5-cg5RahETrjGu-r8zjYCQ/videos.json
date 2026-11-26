@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5-cg5RahETrjGu-r8zjYCQ",
-  "generated_at": "2026-11-26T13:36:53Z",
+  "generated_at": "2026-11-26T19:16:01Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_hUq1aJSzvU",
       "title": "The Boy Who Played The Harp (Video) Out Now.",
       "published_at": "2026-02-26T20:09:07Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 44901,
-      "likes": 2731,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 44908,
+      "likes": 2732,
       "comments": 80
     },
     {
       "video_id": "AwnfjcDCCmE",
       "title": "Dave - The Boy Who Played the Harp",
       "published_at": "2026-02-26T19:38:25Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 6234598,
-      "likes": 220328,
-      "comments": 7746
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 6237915,
+      "likes": 220357,
+      "comments": 7743
     },
     {
       "video_id": "SOJpE1KMUbo",
       "title": "Dave - Raindance (ft. Tems)",
       "published_at": "2026-01-09T18:27:49Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 319890973,
-      "likes": 2035161,
-      "comments": 43540
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 320161725,
+      "likes": 2035841,
+      "comments": 43547
     },
     {
       "video_id": "-q66T2dNml0",
       "title": "Dave - Chapter 16 (ft. Kano)",
       "published_at": "2025-11-26T19:30:30Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 2661522,
-      "likes": 90540,
-      "comments": 4286
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 2662569,
+      "likes": 90551,
+      "comments": 4287
     },
     {
       "video_id": "iVWsP3IadBk",
       "title": "Dave - Starlight",
       "published_at": "2022-03-03T20:06:51Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 86219126,
-      "likes": 831620,
-      "comments": 14858
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 86226936,
+      "likes": 831661,
+      "comments": 14860
     }
   ]
 }

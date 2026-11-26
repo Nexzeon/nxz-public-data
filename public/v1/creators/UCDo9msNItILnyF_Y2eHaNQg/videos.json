@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCDo9msNItILnyF_Y2eHaNQg",
-  "generated_at": "2026-11-26T13:36:53Z",
+  "generated_at": "2026-11-26T19:16:01Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "UOaMesN5vrY",
       "title": "Baby Girl",
       "published_at": "2023-04-27T18:23:57Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 3507006,
-      "likes": 228650,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 3507051,
+      "likes": 228651,
       "comments": 23711
     },
     {
       "video_id": "B6p8N8sRKDI",
       "title": "My Ex Girlfriend Called Me... (We Picked up)",
       "published_at": "2020-07-12T19:20:10Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 3703761,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 3703771,
       "likes": 134848,
       "comments": 25478
     },
@@ -27,8 +27,8 @@
       "video_id": "dkKr7Cawd1M",
       "title": "Confronting Faze Jarvis for filming with Bryce Hall...",
       "published_at": "2020-06-11T19:53:17Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 1692137,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 1692139,
       "likes": 85641,
       "comments": 6579
     },
@@ -36,8 +36,8 @@
       "video_id": "uV_0DZQ3na8",
       "title": "My Experience With KSI...",
       "published_at": "2020-05-29T19:46:05Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 2748902,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 2748909,
       "likes": 156146,
       "comments": 28406
     },
@@ -45,10 +45,10 @@
       "video_id": "brPJcVBkm1A",
       "title": "KSI Made A Video With My Ex Girlfriend...",
       "published_at": "2020-05-25T19:28:27Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 2204827,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 2204832,
       "likes": 113170,
-      "comments": 9882
+      "comments": 9881
     }
   ]
 }

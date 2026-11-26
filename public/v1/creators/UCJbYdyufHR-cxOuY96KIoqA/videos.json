@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCJbYdyufHR-cxOuY96KIoqA",
-  "generated_at": "2026-11-26T13:36:53Z",
+  "generated_at": "2026-11-26T19:16:01Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "71ZYqvPRe_M",
       "title": "AMP RETIREMENT HOME",
       "published_at": "2026-11-11T22:01:20Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 2132657,
-      "likes": 27396,
-      "comments": 983
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 2136112,
+      "likes": 27422,
+      "comments": 985
     },
     {
       "video_id": "gGxV9X2MDMU",
       "title": "AMP TIC TAC TOE CHALLENGE",
       "published_at": "2026-11-09T23:19:44Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 4193381,
-      "likes": 104354,
-      "comments": 458
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 4211754,
+      "likes": 104754,
+      "comments": 460
     },
     {
       "video_id": "DCWtxzRXITU",
       "title": "AMP STREET FOOTBALL DRAFT",
       "published_at": "2026-11-02T23:06:45Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 2244528,
-      "likes": 32029,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 2246806,
+      "likes": 32045,
       "comments": 1045
     },
     {
       "video_id": "UH8jQ1yoAiM",
       "title": "AMP MUSIC IMPOSTER CHALLENGE",
       "published_at": "2026-10-31T21:40:41Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 4993866,
-      "likes": 146820,
-      "comments": 387
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 5044203,
+      "likes": 147944,
+      "comments": 391
     },
     {
       "video_id": "PoCsQbIKBYg",
       "title": "AMP MICHAEL MYERS CHALLENGE",
       "published_at": "2026-10-24T23:02:01Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 2434567,
-      "likes": 81870,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 2438850,
+      "likes": 81982,
       "comments": 436
     }
   ]

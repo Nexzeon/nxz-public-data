@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCEB4a5o_6KfjxHwNMnmj54Q",
-  "generated_at": "2026-11-26T13:36:53Z",
+  "generated_at": "2026-11-26T19:16:01Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "uwJjiRsQqqo",
       "title": "Lil Tjay - Intro (Official Video)",
       "published_at": "2026-11-13T23:45:20Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 283056,
-      "likes": 6252,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 288623,
+      "likes": 6294,
       "comments": 448
     },
     {
       "video_id": "1n-rnpg6vxg",
       "title": "Lil Tjay - Public Figure (Official Audio)",
       "published_at": "2026-11-13T05:40:14Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 310457,
-      "likes": 8897,
-      "comments": 494
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 316193,
+      "likes": 8974,
+      "comments": 496
     },
     {
       "video_id": "OrFUJB_Plx4",
       "title": "Lil Tjay - Intro (Official Audio)",
       "published_at": "2026-11-13T05:33:53Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 84363,
-      "likes": 3361,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 84822,
+      "likes": 3366,
       "comments": 255
     },
     {
       "video_id": "rUIJzpom1ok",
       "title": "Lil Tjay - Free the Bros (Official Video)",
       "published_at": "2026-11-06T23:56:45Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 460792,
-      "likes": 14594,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 463737,
+      "likes": 14613,
       "comments": 878
     },
     {
       "video_id": "wDr4blQErHU",
       "title": "Lil Tjay - Dark Times (Official Visualizer)",
       "published_at": "2026-08-15T02:49:00Z",
-      "observed_at": "2026-11-26T13:35:47Z",
-      "views": 887239,
-      "likes": 23104,
+      "observed_at": "2026-11-26T19:14:48Z",
+      "views": 887604,
+      "likes": 23105,
       "comments": 1092
     }
   ]

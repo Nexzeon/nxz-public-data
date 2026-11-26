@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "feed": "nxz-music-upload-window",
-  "window_start": "2026-11-19T13:35:47.879543+00:00",
-  "window_end": "2026-11-26T13:35:47.879543+00:00",
+  "window_start": "2026-11-19T19:14:48.502483+00:00",
+  "window_end": "2026-11-26T19:14:48.502483+00:00",
   "creators": [
     {
       "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
@@ -34,10 +34,10 @@
     },
     {
       "channel_id": "UC6vZl7Qj7JglLDmN_7Or-ZQ",
-      "uploads": null,
+      "uploads": 0,
       "views": null,
       "likes": null,
-      "pending": 1
+      "pending": 0
     },
     {
       "channel_id": "UCKC11MOR51CLg4JpYj8jb4g",
@@ -90,10 +90,10 @@
     },
     {
       "channel_id": "UCAkIMkEaa9sZmjcy7mfd5lQ",
-      "uploads": 0,
+      "uploads": null,
       "views": null,
       "likes": null,
-      "pending": 0
+      "pending": 1
     },
     {
       "channel_id": "UCOjEHmBKwdS7joWpW0VrXkg",
@@ -188,10 +188,10 @@
     },
     {
       "channel_id": "UCzpl23pGTHVYqvKsgY0A-_w",
-      "uploads": null,
+      "uploads": 0,
       "views": null,
       "likes": null,
-      "pending": 1
+      "pending": 0
     },
     {
       "channel_id": "UC_uMv3bNXwapHl8Dzf2p01Q",
