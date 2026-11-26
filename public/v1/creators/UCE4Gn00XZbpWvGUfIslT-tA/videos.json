@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCE4Gn00XZbpWvGUfIslT-tA",
-  "generated_at": "2026-11-26T01:29:23Z",
+  "generated_at": "2026-11-26T07:39:02Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "Qbe0I3X6R-o",
       "title": "The INSANE Truth About YouTube",
       "published_at": "2025-09-12T11:55:26Z",
-      "observed_at": "2026-11-26T01:28:18Z",
-      "views": 602858,
-      "likes": 17031,
-      "comments": 1280
+      "observed_at": "2026-11-26T07:37:56Z",
+      "views": 603040,
+      "likes": 17033,
+      "comments": 1282
     },
     {
       "video_id": "dsDcQmJHwQc",
       "title": "The INSANE Truth About OpenAI",
       "published_at": "2025-08-22T11:34:59Z",
-      "observed_at": "2026-11-26T01:28:18Z",
-      "views": 1271034,
-      "likes": 26087,
+      "observed_at": "2026-11-26T07:37:56Z",
+      "views": 1271161,
+      "likes": 26091,
       "comments": 2236
     },
     {
       "video_id": "AafeUIwSLvw",
       "title": "Thomas Edison: The IDIOT Who Changed The World",
       "published_at": "2025-08-08T13:31:36Z",
-      "observed_at": "2026-11-26T01:28:18Z",
-      "views": 262963,
-      "likes": 7035,
+      "observed_at": "2026-11-26T07:37:56Z",
+      "views": 263007,
+      "likes": 7036,
       "comments": 1203
     },
     {
       "video_id": "I45qsMJbMQU",
       "title": "The Family That Drugged America",
       "published_at": "2025-07-13T10:56:57Z",
-      "observed_at": "2026-11-26T01:28:18Z",
-      "views": 336001,
-      "likes": 9701,
+      "observed_at": "2026-11-26T07:37:56Z",
+      "views": 336034,
+      "likes": 9702,
       "comments": 632
     },
     {
       "video_id": "2bMYyzO8SnM",
       "title": "The Scariest Business In The World",
       "published_at": "2025-06-25T12:12:42Z",
-      "observed_at": "2026-11-26T01:28:18Z",
-      "views": 370615,
-      "likes": 11794,
+      "observed_at": "2026-11-26T07:37:56Z",
+      "views": 370629,
+      "likes": 11795,
       "comments": 563
     }
   ]
