@@ -2,43 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCTkXRDQl0luXxVQrRQvWS6w",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "xZMG_QQedZ8",
+      "title": "Minecraft in GTA…",
+      "published_at": "2026-11-23T01:38:59Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 1134313,
+      "likes": 34547,
+      "comments": 2044
+    },
     {
       "video_id": "FJfyJw-kCRA",
       "title": "Minecraft 2 Truths 1 Lie",
       "published_at": "2026-10-29T20:25:49Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 2608419,
-      "likes": 103024,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 2611281,
+      "likes": 103069,
       "comments": 1268
     },
     {
       "video_id": "iSwIiTNVvWo",
       "title": "Stripped Logs",
       "published_at": "2026-10-25T13:34:01Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 2171199,
-      "likes": 120740,
-      "comments": 4772
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 2172403,
+      "likes": 120766,
+      "comments": 4773
     },
     {
       "video_id": "g22Z__ShvVY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE",
       "published_at": "2026-10-20T19:30:08Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 15281866,
-      "likes": 491465,
-      "comments": 14806
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 15294414,
+      "likes": 491641,
+      "comments": 14813
     },
     {
       "video_id": "fYFm5P74Yng",
       "title": "BECOMING A SPEAR MACE MASTER (short stream)",
       "published_at": "2026-09-19T20:01:48Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 1005709,
-      "likes": 16338,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 1005917,
+      "likes": 16339,
       "comments": 544
     },
     {

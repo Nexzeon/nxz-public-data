@@ -2,71 +2,80 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "SyLzrF7LeUY",
+      "title": "The iPhone Duo’s Bizarre Comeback",
+      "published_at": "2026-11-25T12:42:25Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 3014201,
+      "likes": 48761,
+      "comments": 3538
+    },
     {
       "video_id": "XVH84RKzuOw",
       "title": "Airpods got DESTROYED",
       "published_at": "2026-11-20T13:40:52Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 2478035,
-      "likes": 84943,
-      "comments": 560
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 2503759,
+      "likes": 85608,
+      "comments": 563
     },
     {
       "video_id": "NrF4mkTmuTU",
       "title": "Why GTA is a Bigger Deal Than You Think",
       "published_at": "2026-11-19T01:47:12Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 11519307,
-      "likes": 133043,
-      "comments": 5417
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 11633733,
+      "likes": 133693,
+      "comments": 5438
     },
     {
       "video_id": "awjlMCCdqXw",
       "title": "The Dark Side of China’s Perfect Cars",
       "published_at": "2026-11-17T11:43:40Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 18939688,
-      "likes": 203719,
-      "comments": 18064
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 19123494,
+      "likes": 205135,
+      "comments": 18148
     },
     {
       "video_id": "HVLUtJWlcJY",
       "title": "I Tested 42 Years of Phones. Everyone Was Wrong.",
       "published_at": "2026-11-09T12:37:47Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 9981216,
-      "likes": 126465,
-      "comments": 7116
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 10004452,
+      "likes": 126609,
+      "comments": 7126
     },
     {
       "video_id": "Yg2t5w8vj5Q",
       "title": "I Tested the Most Downloaded 3D Printed Tech!",
       "published_at": "2026-11-04T11:09:51Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 7675683,
-      "likes": 95594,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 7693645,
+      "likes": 95693,
       "comments": 2792
     },
     {
       "video_id": "1yB56IT0kDw",
       "title": "6 ways Samsung Fold beats iPhone Duo",
       "published_at": "2026-10-23T13:18:02Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 8456423,
-      "likes": 272070,
-      "comments": 3163
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 8464263,
+      "likes": 272238,
+      "comments": 3165
     },
     {
       "video_id": "i3ZlSlnGWng",
       "title": "6 ways iPhone Duo beats Samsung",
       "published_at": "2026-10-21T12:02:02Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 14641270,
-      "likes": 424913,
-      "comments": 9494
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 14655399,
+      "likes": 425144,
+      "comments": 9498
     }
   ]
 }

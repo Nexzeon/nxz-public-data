@@ -2,24 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0C-w0YjGpqDXGB8IHb662A",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "GhcfKj91frQ",
+      "title": "Santiago sounded perfect x",
+      "published_at": "2026-11-24T19:07:15Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 52101,
+      "likes": 2759,
+      "comments": 100
+    },
     {
       "video_id": "SAQrpLZWxKo",
       "title": "When i first met Shah Rukh he asked me to make a song for his next movie. Tu Mil Jaaye, out now x",
       "published_at": "2026-11-03T12:00:29Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 1206899,
-      "likes": 36526,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 1210926,
+      "likes": 36571,
       "comments": 524
     },
     {
       "video_id": "DB_RfrHXA8o",
       "title": "Sneak peak of the Dallas show for you lot. What songs do you wanna hear next? - EDHQ",
       "published_at": "2026-10-28T11:01:27Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 32131,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 32148,
       "likes": 3175,
       "comments": 381
     },
@@ -27,28 +36,28 @@
       "video_id": "vfD1jpZ_qwM",
       "title": "Teenage Dirtbag with Wheatus at Met Life - Ed HQ",
       "published_at": "2026-09-07T17:37:42Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 136640,
-      "likes": 3519,
-      "comments": 1067
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 136860,
+      "likes": 3522,
+      "comments": 1066
     },
     {
       "video_id": "r-8A0V-yqh0",
       "title": "Had @camilacabello pop out at MetLife. Bam Bam forever - Ed HQ",
       "published_at": "2026-09-05T10:46:55Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 247366,
-      "likes": 6501,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 247613,
+      "likes": 6505,
       "comments": 560
     },
     {
       "video_id": "2hrjsQw4s6k",
       "title": "Nothing better than a Saturday Night in Detroit - EdHQ",
       "published_at": "2026-09-03T15:04:46Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 131789,
-      "likes": 5138,
-      "comments": 251
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 131941,
+      "likes": 5145,
+      "comments": 250
     }
   ]
 }

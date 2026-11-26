@@ -2,61 +2,70 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCFfCqe7b9YiDk2ZiAG8UIGA",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "-3jxADIeO44",
+      "title": "Shokz Black Friday Gift Guide - These Prices are CRAZY!",
+      "published_at": "2026-11-24T01:02:46Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 33928,
+      "likes": 736,
+      "comments": 105
+    },
     {
       "video_id": "zSLUgx9waqM",
       "title": "My Arcade Atari Gamestation Go - This is More Fun Than GTA 6",
       "published_at": "2026-11-21T01:08:54Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 118435,
-      "likes": 2736,
-      "comments": 508
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 120062,
+      "likes": 2754,
+      "comments": 510
     },
     {
       "video_id": "W_uZP8FQwK8",
       "title": "Xiaomi 18 Pro Max \"Real Review\" - Xiaomi's BEST Phone Ever!",
       "published_at": "2026-11-18T14:00:19Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 97689,
-      "likes": 2220,
-      "comments": 504
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 98248,
+      "likes": 2227,
+      "comments": 506
     },
     {
       "video_id": "CRsZJVgx69c",
       "title": "iPhone Duo - 3 Weeks Later / HUGE UPDATE / New Cases and Accessories",
       "published_at": "2026-11-17T03:01:06Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 111366,
-      "likes": 2567,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 111911,
+      "likes": 2577,
       "comments": 844
     },
     {
       "video_id": "A3ugqevZkag",
       "title": "Flossy Carter \"IRL\" - We Back Outside",
       "published_at": "2026-11-16T01:00:21Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 64165,
-      "likes": 2165,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 64292,
+      "likes": 2170,
       "comments": 391
     },
     {
       "video_id": "axt9uRegbNM",
       "title": "Technics EAH-A1000 - Are They Really Worth $450 ( Here’s the TRUTH )",
       "published_at": "2026-11-15T01:42:15Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 54688,
-      "likes": 1045,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 54864,
+      "likes": 1047,
       "comments": 338
     },
     {
       "video_id": "-sowb4xh3-w",
       "title": "ASUS ROG XBOX Ally X20 20th Anniversary Edition - The BEST Handheld Gaming Console ( Gaming Test )",
       "published_at": "2026-11-14T01:00:04Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 88686,
-      "likes": 1737,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 88843,
+      "likes": 1740,
       "comments": 325
     }
   ]

@@ -2,43 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCqynl7rdtktKMQESdSBmE-g",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "DXQJlttTwnQ",
+      "title": "Minecraft Boss Speedrun VS 4 Hunters",
+      "published_at": "2026-11-25T20:36:32Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 146304,
+      "likes": 6285,
+      "comments": 392
+    },
     {
       "video_id": "I5TrqofP_eI",
       "title": "We Need to Beat Minecraft in 5 Minutes",
       "published_at": "2026-11-10T17:50:48Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 1564965,
-      "likes": 29436,
-      "comments": 1290
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 1569436,
+      "likes": 29488,
+      "comments": 1291
     },
     {
       "video_id": "C3j_SVnvdcY",
       "title": "Minecraft Speedrunner VS 6 Hunters FINALE (Hunters Edition)",
       "published_at": "2026-10-25T22:04:22Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 974559,
-      "likes": 18494,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 975219,
+      "likes": 18508,
       "comments": 729
     },
     {
       "video_id": "DSizdcW_31o",
       "title": "Minecraft 2v2 Death Swap",
       "published_at": "2026-08-06T03:23:42Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 1724037,
-      "likes": 38059,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 1725050,
+      "likes": 38064,
       "comments": 1187
     },
     {
       "video_id": "nVOnyMVKDV8",
       "title": "Minecraft TNT Battle",
       "published_at": "2026-06-13T18:17:23Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 104114,
-      "likes": 3786,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 104176,
+      "likes": 3787,
       "comments": 72
     },
     {

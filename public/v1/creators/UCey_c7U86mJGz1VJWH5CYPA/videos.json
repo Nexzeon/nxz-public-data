@@ -2,42 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "Hb-43HIZDZA",
+      "title": "Meet the Antigravity A1 Follow Me Bundle!",
+      "published_at": "2026-11-25T05:30:28Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 15493,
+      "likes": 335,
+      "comments": 13
+    },
     {
       "video_id": "GGScVjQr1xM",
       "title": "I got my first 3D Printer! The Bambu Lab P2S — here’s what happened!",
       "published_at": "2026-11-18T17:40:07Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 277409,
-      "likes": 3237,
-      "comments": 216
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 281398,
+      "likes": 3273,
+      "comments": 217
     },
     {
       "video_id": "Vt0WSajZHkw",
       "title": "Meet My New AI Sidekick, Piggy! 🐷",
       "published_at": "2026-11-18T17:00:20Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 6546,
-      "likes": 322,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 6583,
+      "likes": 323,
       "comments": 9
     },
     {
       "video_id": "ZSDFv2JD5-c",
       "title": "GTA VI Xbox care package!",
       "published_at": "2026-11-18T16:48:13Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 14326,
-      "likes": 502,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 14385,
+      "likes": 504,
       "comments": 21
     },
     {
       "video_id": "Uy2eM6Lil-Y",
       "title": "Does Buying a Car Online Mean It Has to Be Delivered?",
       "published_at": "2026-11-13T00:51:00Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 30874,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 31875,
       "likes": 451,
       "comments": 10
     },
@@ -45,44 +54,44 @@
       "video_id": "Re-ByJxPQaA",
       "title": "New Apple HomeView!",
       "published_at": "2026-11-12T15:24:34Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 64819,
-      "likes": 2398,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 64895,
+      "likes": 2400,
       "comments": 73
     },
     {
       "video_id": "M9sHX0HpYIo",
       "title": "HomeView is here!",
       "published_at": "2026-11-12T14:00:03Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 568244,
-      "likes": 6054,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 568907,
+      "likes": 6062,
       "comments": 475
     },
     {
       "video_id": "GzzHaM8IAhI",
       "title": "I Tried Meta’s New AI Agent… Meet Piggy 🐷",
       "published_at": "2026-11-06T17:02:57Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 43751,
-      "likes": 851,
-      "comments": 90
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 43837,
+      "likes": 852,
+      "comments": 92
     },
     {
       "video_id": "LQT8wzemsLU",
       "title": "New (OLD?) Sony Walkman Headphones! MDR-3R!",
       "published_at": "2026-11-05T19:18:29Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 72584,
-      "likes": 2317,
-      "comments": 80
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 72917,
+      "likes": 2322,
+      "comments": 81
     },
     {
       "video_id": "IxhDzSdSxZo",
       "title": "New LIGHT UP Apple Logo! 😍",
       "published_at": "2026-11-05T18:40:09Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 38363,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 38392,
       "likes": 1561,
       "comments": 32
     },
@@ -90,18 +99,18 @@
       "video_id": "NAcPAr13btM",
       "title": "PROLED MacBook Pro Unboxing",
       "published_at": "2026-11-05T14:01:27Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 117444,
-      "likes": 4296,
-      "comments": 76
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 117557,
+      "likes": 4297,
+      "comments": 75
     },
     {
       "video_id": "QTaRLfPa3oc",
       "title": "Touching my Mac! The new PROLED MacBook Pro is here!",
       "published_at": "2026-11-05T14:00:35Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 356846,
-      "likes": 5007,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 357235,
+      "likes": 5009,
       "comments": 378
     }
   ]

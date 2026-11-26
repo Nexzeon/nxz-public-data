@@ -2,62 +2,71 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "1IVlILdETAw",
+      "title": "What happens if you accidentally eat moldy food? - Josephine Wee",
+      "published_at": "2026-11-24T16:01:11Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 1000733,
+      "likes": 12131,
+      "comments": 789
+    },
     {
       "video_id": "fqL9dt6QHWg",
       "title": "5 of the most dangerous scientific discoveries - Shannon Odell",
       "published_at": "2026-11-19T15:59:54Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 410142,
-      "likes": 4509,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 425050,
+      "likes": 4596,
       "comments": 121
     },
     {
       "video_id": "dkocGur84i8",
       "title": "The three words that power every device you own - Lane Gunderman",
       "published_at": "2026-11-17T16:00:59Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 268021,
-      "likes": 3273,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 269252,
+      "likes": 3288,
       "comments": 141
     },
     {
       "video_id": "aDblEBU41nA",
       "title": "Why is pepper such a popular spice? - Carolyn Beans",
       "published_at": "2026-11-12T16:01:11Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 518312,
-      "likes": 5862,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 521012,
+      "likes": 5870,
       "comments": 198
     },
     {
       "video_id": "nBVuemyrMgE",
       "title": "Is salt the most important ingredient in history? - Carolyn Beans",
       "published_at": "2026-11-10T16:01:00Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 575406,
-      "likes": 6773,
-      "comments": 210
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 577334,
+      "likes": 6795,
+      "comments": 211
     },
     {
       "video_id": "bw5tzcoEG88",
       "title": "How to effectively use visuals in your presentation",
       "published_at": "2026-11-05T16:00:41Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 193103,
-      "likes": 2786,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 193270,
+      "likes": 2792,
       "comments": 54
     },
     {
       "video_id": "8EtdC9Bjubk",
       "title": "Can you solve the Billy Bonka riddle? - Edwin F. Meyer",
       "published_at": "2026-11-03T16:00:34Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 1026583,
-      "likes": 11168,
-      "comments": 1046
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 1029440,
+      "likes": 11189,
+      "comments": 1049
     }
   ]
 }

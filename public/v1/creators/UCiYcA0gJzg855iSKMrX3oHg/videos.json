@@ -2,43 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCiYcA0gJzg855iSKMrX3oHg",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "umDq3LY7sFA",
+      "title": "GTA 6 #2",
+      "published_at": "2026-11-24T21:46:47Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 3868278,
+      "likes": 259416,
+      "comments": 24311
+    },
     {
       "video_id": "x9A8elqIyK8",
       "title": "GTA 6",
       "published_at": "2026-11-21T21:00:01Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 12702714,
-      "likes": 848213,
-      "comments": 113558
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 12966234,
+      "likes": 853267,
+      "comments": 113871
     },
     {
       "video_id": "E91hRBbJObI",
       "title": "NO WAY WAS I MISSING THIS [Resident Evil Requiem Part 1]",
       "published_at": "2026-03-07T19:02:43Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 9791344,
-      "likes": 617123,
-      "comments": 99429
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 9794838,
+      "likes": 617169,
+      "comments": 99425
     },
     {
       "video_id": "i8rHcYHCi0Q",
       "title": "At Dead of Night SPECIAL FINALE",
       "published_at": "2025-12-19T19:05:46Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 13354928,
-      "likes": 370034,
-      "comments": 56283
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 13363807,
+      "likes": 370075,
+      "comments": 56280
     },
     {
       "video_id": "2ITzIazwh3Y",
       "title": "yes. i literally beat the game. in this video. pls watch.",
       "published_at": "2025-12-15T19:02:25Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 15153651,
-      "likes": 357506,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 15159824,
+      "likes": 357530,
       "comments": 22310
     },
     {

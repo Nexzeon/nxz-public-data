@@ -2,15 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCh2aTKSbIyxpnOsbHsmV-ig",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "Pr3DtMYOJYw",
+      "title": "Testing The Deadliest Animals On Earth...",
+      "published_at": "2026-11-24T17:12:38Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 293049,
+      "likes": 3211,
+      "comments": 132
+    },
+    {
+      "video_id": "FbEq6aQSI_o",
+      "title": "He Actually Took Over Bricks and Minifigs..",
+      "published_at": "2026-11-23T17:33:51Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 250950,
+      "likes": 3341,
+      "comments": 124
+    },
     {
       "video_id": "rLTpE3Dv-7s",
       "title": "RECREATING MY CAR COLLECTION IN GTA 6 + HEISTS + REACTS",
       "published_at": "2026-11-22T20:37:23Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 131848,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 131858,
       "likes": 864,
       "comments": 4
     },
@@ -18,10 +36,10 @@
       "video_id": "iYcHdQ1g0yA",
       "title": "Can He Stay Loyal For ONE Weekend..",
       "published_at": "2026-11-21T19:27:51Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 375263,
-      "likes": 5581,
-      "comments": 316
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 385716,
+      "likes": 5677,
+      "comments": 321
     },
     {
       "video_id": "oSw1QtDw4aQ",
@@ -36,10 +54,10 @@
       "video_id": "xi_TtQXoQlc",
       "title": "He Caught A GIANT Sailfish All By Himself...",
       "published_at": "2026-11-19T17:52:52Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 269278,
-      "likes": 2811,
-      "comments": 61
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 271965,
+      "likes": 2826,
+      "comments": 62
     },
     {
       "video_id": "a9GXHHb7aDo",
@@ -54,36 +72,36 @@
       "video_id": "CacOn66iU2E",
       "title": "The Most Unfaithful Couple Ever..",
       "published_at": "2026-11-15T18:41:38Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 326702,
-      "likes": 6033,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 328333,
+      "likes": 6055,
       "comments": 214
     },
     {
       "video_id": "sSKl6wf8AgY",
       "title": "MrBeast Made The Hunger Games In Real Life..",
       "published_at": "2026-11-14T20:43:38Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 456810,
-      "likes": 5807,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 457807,
+      "likes": 5820,
       "comments": 182
     },
     {
       "video_id": "gNyOsIURDMc",
       "title": "Dr. Phil Is Worse Than I Thought",
       "published_at": "2026-11-12T20:50:35Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 334507,
-      "likes": 3689,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 334974,
+      "likes": 3695,
       "comments": 133
     },
     {
       "video_id": "PGGwHj0O9E0",
       "title": "50 Hours Inside China's Fat Loss Prison",
       "published_at": "2026-11-11T17:55:57Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 310771,
-      "likes": 3370,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 311968,
+      "likes": 3373,
       "comments": 129
     }
   ]

@@ -2,51 +2,69 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCI8iQa1hv7oV_Z8D35vVuSg",
-  "generated_at": "2026-11-25T19:10:00Z",
+  "generated_at": "2026-11-26T01:29:23Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "0VhEYE40AMY",
+      "title": "I Played GTA 6 at \"60 FPS\"",
+      "published_at": "2026-11-24T10:00:01Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 337326,
+      "likes": 5615,
+      "comments": 1437
+    },
+    {
+      "video_id": "9KCd5MKEXTQ",
+      "title": "Intel Annihilates AMD on CPU Deals, Best 2026 Buys",
+      "published_at": "2026-11-23T10:00:07Z",
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 146416,
+      "likes": 2937,
+      "comments": 849
+    },
     {
       "video_id": "DH1lgQuOZxk",
       "title": "Radeon RX 9070 XT vs. 7900 XTX: FSR4.1 Benchmark @ 1440p & 4K",
       "published_at": "2026-11-21T10:00:39Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 335775,
-      "likes": 5039,
-      "comments": 651
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 339879,
+      "likes": 5059,
+      "comments": 653
     },
     {
       "video_id": "mr8bMFCGzrQ",
       "title": "Some Gamers Are Wrong About 30 FPS Gaming & GTA 6",
       "published_at": "2026-11-18T10:00:25Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 665336,
-      "likes": 9911,
-      "comments": 3447
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 665586,
+      "likes": 9918,
+      "comments": 3446
     },
     {
       "video_id": "PGd7VKud2h0",
       "title": "5800X3D vs. 9800X3D, The \"Real-World\" Gaming Difference Benchmarked",
       "published_at": "2026-11-17T10:00:27Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 467686,
-      "likes": 9808,
-      "comments": 2502
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 469757,
+      "likes": 9823,
+      "comments": 2504
     },
     {
       "video_id": "EeinHkz8ozo",
       "title": "Some Gamers Think AMD is \"Terrible at GPUs\". How Long Until That Changes?",
       "published_at": "2026-11-14T10:00:14Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 205806,
-      "likes": 3964,
-      "comments": 1501
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 206517,
+      "likes": 3969,
+      "comments": 1510
     },
     {
       "video_id": "ZjMeZd8H5w4",
       "title": "Building A Gaming PC For Movember | Supporting Men's Health",
       "published_at": "2026-11-12T12:34:37Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 75435,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 75454,
       "likes": 795,
       "comments": 40
     },
@@ -54,9 +72,9 @@
       "video_id": "5KN7-Bfp2do",
       "title": "Is The RTX 5070 Ti Next to Go?",
       "published_at": "2026-11-10T10:00:15Z",
-      "observed_at": "2026-11-25T19:08:28Z",
-      "views": 182627,
-      "likes": 3409,
+      "observed_at": "2026-11-26T01:28:18Z",
+      "views": 182819,
+      "likes": 3410,
       "comments": 1068
     }
   ]
