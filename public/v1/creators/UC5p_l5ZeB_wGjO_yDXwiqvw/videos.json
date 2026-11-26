@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5p_l5ZeB_wGjO_yDXwiqvw",
-  "generated_at": "2026-11-26T07:39:02Z",
+  "generated_at": "2026-11-26T13:36:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "xVDDQ-dI3po",
       "title": "things have changed",
       "published_at": "2026-07-01T21:00:06Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 165791,
-      "likes": 8828,
-      "comments": 323
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 165854,
+      "likes": 8832,
+      "comments": 325
     },
     {
       "video_id": "Sdblf1DfBps",
       "title": "my new song is out now",
       "published_at": "2026-07-01T19:00:38Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 76433,
-      "likes": 3917,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 76468,
+      "likes": 3921,
       "comments": 158
     },
     {
       "video_id": "D34uexbwTBk",
       "title": "Tom Simons - Grey Day (Official Lyric Video)",
       "published_at": "2026-07-01T19:00:06Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 778609,
-      "likes": 81315,
-      "comments": 5720
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 779043,
+      "likes": 81320,
+      "comments": 5722
     },
     {
       "video_id": "-ZZTamgndMk",
       "title": "my new song comes out tomorrow",
       "published_at": "2026-06-30T19:00:17Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 102177,
-      "likes": 5829,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 102204,
+      "likes": 5830,
       "comments": 272
     },
     {
       "video_id": "rW1pTkhD8gk",
       "title": "my new song",
       "published_at": "2026-06-24T16:00:25Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 85264,
-      "likes": 4139,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 85274,
+      "likes": 4141,
       "comments": 201
     }
   ]

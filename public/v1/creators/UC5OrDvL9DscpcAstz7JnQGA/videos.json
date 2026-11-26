@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5OrDvL9DscpcAstz7JnQGA",
-  "generated_at": "2026-11-26T07:39:02Z",
+  "generated_at": "2026-11-26T13:36:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "4udXUpZYbuI",
       "title": "Michael Jackson - The Celebration of The King of Pop's Birthday (8.29.26)",
       "published_at": "2026-08-29T22:46:15Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 739717,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 739905,
       "likes": 20410,
       "comments": null
     },
@@ -18,17 +18,17 @@
       "video_id": "-OfA04BD4GA",
       "title": "Michael Jackson: The Station",
       "published_at": "2026-04-17T16:23:07Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 55587549,
-      "likes": 530060,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 55601158,
+      "likes": 530132,
       "comments": 0
     },
     {
       "video_id": "apT3l-qAVDE",
       "title": "Michael Jackson - The Celebration of The King of Pop's Birthday (8.29.25)",
       "published_at": "2025-08-29T23:33:51Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 650331,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 650363,
       "likes": 13574,
       "comments": null
     },
@@ -36,8 +36,8 @@
       "video_id": "jmFnIHHoxvY",
       "title": "Michael Jackson - The Celebration of The King of Pop's Birthday (8.29.24)",
       "published_at": "2024-08-29T20:40:59Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 421699,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 421709,
       "likes": 11830,
       "comments": null
     }

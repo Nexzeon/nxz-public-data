@@ -2,52 +2,52 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC-J-KZfRV8c13fOCkhXdLiQ",
-  "generated_at": "2026-11-26T07:39:02Z",
+  "generated_at": "2026-11-26T13:36:53Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "yBovID8VNB4",
       "title": "Getting ready for the first DUA by AB pop up in New York 🤍",
       "published_at": "2026-10-16T17:16:13Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 137454,
-      "likes": 7486,
-      "comments": 319
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 137578,
+      "likes": 7491,
+      "comments": 359
     },
     {
       "video_id": "KIWyG4H2Iec",
       "title": "holiday season ain’t over",
       "published_at": "2026-09-08T17:01:02Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 4888487,
-      "likes": 87181,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 4888723,
+      "likes": 87185,
       "comments": 1093
     },
     {
       "video_id": "HNViGifyReQ",
       "title": "Dua Lipa - Houdini (Live From Mexico)",
       "published_at": "2026-05-28T23:01:18Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 2566368,
-      "likes": 23159,
-      "comments": 737
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 2568542,
+      "likes": 23167,
+      "comments": 738
     },
     {
       "video_id": "p6IUmRgYVvM",
       "title": "Dua Lipa - Don’t Start Now (Live From Mexico)",
       "published_at": "2026-05-28T23:01:12Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 4046899,
-      "likes": 19742,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 4049102,
+      "likes": 19752,
       "comments": 354
     },
     {
       "video_id": "4E9rstlm5VY",
       "title": "Dua Lipa - New Rules / Dance The Night Interlude (Live From Mexico)",
       "published_at": "2026-05-28T23:01:06Z",
-      "observed_at": "2026-11-26T07:37:56Z",
-      "views": 1595970,
-      "likes": 12238,
+      "observed_at": "2026-11-26T13:35:47Z",
+      "views": 1597476,
+      "likes": 12244,
       "comments": 274
     }
   ]
