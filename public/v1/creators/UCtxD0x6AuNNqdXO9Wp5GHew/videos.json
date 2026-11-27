@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCtxD0x6AuNNqdXO9Wp5GHew",
-  "generated_at": "2026-11-27T01:31:46Z",
+  "generated_at": "2026-11-27T07:37:50Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "BUtBWVaq9gU",
       "title": "OBRIGADO, PORTUGAL",
       "published_at": "2026-11-05T10:23:07Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 10843057,
-      "likes": 734720,
-      "comments": 77967
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 10849844,
+      "likes": 734959,
+      "comments": 78000
     },
     {
       "video_id": "pwR3vQRvdkA",
       "title": "WOW 33 LIVE 🔥 | The MMA Greatest Spectacle",
       "published_at": "2026-10-24T22:06:04Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 1549345,
-      "likes": 18057,
-      "comments": 377
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 1550382,
+      "likes": 18067,
+      "comments": 380
     },
     {
       "video_id": "ahuYPNGHjqE",
       "title": "KING IN THE NORTH 👑 | WOW 33",
       "published_at": "2026-10-22T06:09:17Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 453360,
-      "likes": 20993,
-      "comments": 2084
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 454207,
+      "likes": 21030,
+      "comments": 2085
     },
     {
       "video_id": "YjerZUwzffQ",
       "title": "🔴 LIVE | AMAZING MMA EVENT 🔥 WOW 32: The Future of MMA 🥊 |",
       "published_at": "2026-09-26T22:08:36Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 2207835,
-      "likes": 23610,
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 2208062,
+      "likes": 23614,
       "comments": 986
     },
     {
       "video_id": "oH99MUwjBOY",
       "title": "THIS SATURDAY. LIVE. ON UR 🥊 WOW 🔥",
       "published_at": "2026-09-24T11:00:10Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 608932,
-      "likes": 32052,
-      "comments": 3107
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 609407,
+      "likes": 32077,
+      "comments": 3108
     }
   ]
 }

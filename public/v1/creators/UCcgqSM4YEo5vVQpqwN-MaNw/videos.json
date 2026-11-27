@@ -2,53 +2,53 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCcgqSM4YEo5vVQpqwN-MaNw",
-  "generated_at": "2026-11-27T01:31:46Z",
+  "generated_at": "2026-11-27T07:37:50Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "kZ2RLpNyxXc",
       "title": "(🍒)(🍒) @SavageXFenty",
       "published_at": "2026-05-01T21:35:28Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 319330,
-      "likes": 11754,
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 319551,
+      "likes": 11756,
       "comments": 598
     },
     {
       "video_id": "uXwt2QlWlT0",
       "title": "BTS with @Wmagazine",
       "published_at": "2026-04-22T19:00:00Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 264039,
-      "likes": 12730,
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 264079,
+      "likes": 12731,
       "comments": 577
     },
     {
       "video_id": "8uDDujH0l0o",
       "title": "20 Years With You",
       "published_at": "2025-08-29T22:44:48Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 1420553,
-      "likes": 71883,
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 1420925,
+      "likes": 71885,
       "comments": 5595
     },
     {
       "video_id": "PQvPeliQ8j4",
       "title": "Rihanna - Friend Of Mine (from the Smurfs Soundtrack) (Instrumental Visualizer)",
       "published_at": "2025-05-17T04:00:23Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 280398,
-      "likes": 4274,
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 280471,
+      "likes": 4275,
       "comments": 409
     },
     {
       "video_id": "I6TobR1EpgY",
       "title": "Rihanna - Friend Of Mine (from the Smurfs Soundtrack) (Radio Edit Visualizer)",
       "published_at": "2025-05-17T04:00:17Z",
-      "observed_at": "2026-11-27T01:30:31Z",
-      "views": 138035,
+      "observed_at": "2026-11-27T07:36:39Z",
+      "views": 138060,
       "likes": 2851,
-      "comments": 200
+      "comments": 198
     }
   ]
 }
