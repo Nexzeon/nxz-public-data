@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCyps-v4WNjWDnYRKmZ4BUGw",
-  "generated_at": "2026-11-27T13:31:33Z",
+  "generated_at": "2026-11-27T19:14:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "RQ5LAvNKGrE",
       "title": "I Cheated Until The Theme Park Banned Me",
       "published_at": "2026-11-26T16:10:38Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 3120775,
-      "likes": 25708,
-      "comments": 1738
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 4073410,
+      "likes": 31217,
+      "comments": 1948
     },
     {
       "video_id": "iYZ77j7v4GM",
       "title": "Secretly Working At 7-11 Until I Get Fired",
       "published_at": "2026-11-01T16:26:37Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 5827668,
-      "likes": 64017,
-      "comments": 3247
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 5842449,
+      "likes": 64104,
+      "comments": 3246
     },
     {
       "video_id": "6L3PaK3ZafY",
       "title": "I Faked A Driverless Uber",
       "published_at": "2026-10-25T17:54:41Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 8397638,
-      "likes": 93152,
-      "comments": 2440
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 8413354,
+      "likes": 93259,
+      "comments": 2442
     },
     {
       "video_id": "_LHh3BS9Xx4",
       "title": "I Hid In MrBeast's Grocery Store",
       "published_at": "2026-10-04T15:44:46Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 26121178,
-      "likes": 270266,
-      "comments": 5582
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 26130033,
+      "likes": 270301,
+      "comments": 5584
     },
     {
       "video_id": "XDH7pgXAtRk",
       "title": "Secretly Working At McDonald’s Until I Get Fired",
       "published_at": "2026-09-26T16:56:11Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 10191492,
-      "likes": 128668,
-      "comments": 4642
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 10201288,
+      "likes": 128728,
+      "comments": 4641
     },
     {
       "video_id": "cr642ejN_60",
       "title": "I Secretly Lived In A 5 Star Hotel",
       "published_at": "2026-09-20T17:59:28Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 14779161,
-      "likes": 161494,
-      "comments": 5387
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 14788097,
+      "likes": 161558,
+      "comments": 5390
     }
   ]
 }

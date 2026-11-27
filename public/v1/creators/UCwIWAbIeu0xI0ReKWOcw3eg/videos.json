@@ -2,71 +2,71 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCwIWAbIeu0xI0ReKWOcw3eg",
-  "generated_at": "2026-11-27T13:31:33Z",
+  "generated_at": "2026-11-27T19:14:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "RZErVu_yBIA",
       "title": "It's that time of year! Black Friday / Cyber Monday starts now!",
       "published_at": "2026-11-23T19:30:28Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 73679,
-      "likes": 1570,
-      "comments": 98
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 75893,
+      "likes": 1611,
+      "comments": 100
     },
     {
       "video_id": "RsGGOT9wZwg",
       "title": "Sneaking Into A Squishy Factory!",
       "published_at": "2026-11-21T16:00:27Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 2663563,
-      "likes": 10382,
-      "comments": 976
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 2699302,
+      "likes": 10513,
+      "comments": 983
     },
     {
       "video_id": "z0kKJpXw3OY",
       "title": "World's Longest Backyard Waterslide!",
       "published_at": "2026-11-14T16:00:33Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 3786747,
-      "likes": 22496,
-      "comments": 1585
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 3808743,
+      "likes": 22585,
+      "comments": 1590
     },
     {
       "video_id": "1hGNfPY94LQ",
       "title": "I Turned My House Into A FISH TANK!",
       "published_at": "2026-10-31T15:00:34Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 6081386,
-      "likes": 32539,
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 6099073,
+      "likes": 32588,
       "comments": 5247
     },
     {
       "video_id": "PZn-4aeoMrE",
       "title": "I Filled My Lego House With Chocolate!",
       "published_at": "2026-10-17T15:00:35Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 2743400,
-      "likes": 22095,
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 2746734,
+      "likes": 22115,
       "comments": 5383
     },
     {
       "video_id": "LWvdma1nSBA",
       "title": "50 Extreme Ways To Use A Trampoline!",
       "published_at": "2026-10-10T15:00:29Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 1243444,
-      "likes": 10128,
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 1243862,
+      "likes": 10132,
       "comments": 1065
     },
     {
       "video_id": "oxMfOOmuBrE",
       "title": "We Are SO BACK!",
       "published_at": "2026-10-02T17:30:15Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 356885,
-      "likes": 6468,
-      "comments": 406
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 357616,
+      "likes": 6487,
+      "comments": 407
     }
   ]
 }

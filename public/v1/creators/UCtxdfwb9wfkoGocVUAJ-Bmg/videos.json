@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCtxdfwb9wfkoGocVUAJ-Bmg",
-  "generated_at": "2026-11-27T13:31:33Z",
+  "generated_at": "2026-11-27T19:14:17Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "6DTiB5UJ7XY",
       "title": "CACTUS JACK X SPONGEBOB 🟢",
       "published_at": "2026-03-31T02:35:10Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 115191,
-      "likes": 4935,
-      "comments": 237
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 115254,
+      "likes": 4937,
+      "comments": 238
     },
     {
       "video_id": "y5jTh_KkqUc",
       "title": "2000 EXCURSION VIDEO OUT NOW",
       "published_at": "2025-07-23T20:58:16Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 197556,
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 197589,
       "likes": 8316,
       "comments": 383
     },
@@ -27,8 +27,8 @@
       "video_id": "h4RcCtayc_s",
       "title": "DUMBO VIDEO OUT NOW",
       "published_at": "2025-07-23T20:11:17Z",
-      "observed_at": "2026-11-27T13:30:16Z",
-      "views": 133112,
+      "observed_at": "2026-11-27T19:13:02Z",
+      "views": 133157,
       "likes": 5942,
       "comments": 207
     }
