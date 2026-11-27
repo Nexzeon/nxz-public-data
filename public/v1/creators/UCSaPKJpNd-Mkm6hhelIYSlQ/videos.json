@@ -2,33 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCSaPKJpNd-Mkm6hhelIYSlQ",
-  "generated_at": "2026-11-27T07:37:50Z",
+  "generated_at": "2026-11-27T13:31:33Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "w4oJdfFc4t0",
       "title": "Pop Smoke - Don’t Know Em feat. Rah Swish (Official Audio)",
       "published_at": "2021-07-31T16:00:46Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 9748609,
-      "likes": 163423,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 9748873,
+      "likes": 163427,
       "comments": 3979
     },
     {
       "video_id": "kfzTn6DlFXI",
       "title": "Pop Smoke - Mr. Jones feat. Anuel AA (Official Audio)",
       "published_at": "2021-07-31T16:00:24Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 12719914,
-      "likes": 226207,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 12720152,
+      "likes": 226205,
       "comments": 6767
     },
     {
       "video_id": "FFvhEN2zPPE",
       "title": "Pop Smoke - Bad Boys feat. Obasi Jackson (Official Audio)",
       "published_at": "2021-07-31T16:00:18Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 1916351,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 1916394,
       "likes": 53132,
       "comments": 1505
     },
@@ -36,18 +36,18 @@
       "video_id": "HFB33thWbuY",
       "title": "Pop Smoke - Double It feat. Fetty Luciano (Official Audio)",
       "published_at": "2021-07-31T16:00:10Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 1772123,
-      "likes": 46333,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 1772199,
+      "likes": 46334,
       "comments": 1484
     },
     {
       "video_id": "ajo7mt8zlL4",
       "title": "Pop Smoke - Rumble feat. Tay Floss (Official Audio)",
       "published_at": "2021-07-31T16:00:04Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 1009443,
-      "likes": 28302,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 1009469,
+      "likes": 28301,
       "comments": 1209
     }
   ]

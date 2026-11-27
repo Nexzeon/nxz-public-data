@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
-  "generated_at": "2026-11-27T07:37:50Z",
+  "generated_at": "2026-11-27T13:31:33Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "WqTO4uk1siU",
       "title": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
       "published_at": "2026-03-29T18:00:06Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 16535365,
-      "likes": 339121,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 16542659,
+      "likes": 339160,
       "comments": 9487
     },
     {
       "video_id": "dPylP3U1fm0",
       "title": "CENTRAL CEE - MAKA (FEAT. A2ANTI) (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 575460,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 575670,
       "likes": 11337,
       "comments": 414
     },
@@ -27,27 +27,27 @@
       "video_id": "ZgnoafBVjXA",
       "title": "CENTRAL CEE - FEELINGS (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 1387157,
-      "likes": 35778,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 1387683,
+      "likes": 35783,
       "comments": 1323
     },
     {
       "video_id": "ZgHVvkINXZE",
       "title": "CENTRAL CEE - DC10 (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 518448,
-      "likes": 10224,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 518701,
+      "likes": 10225,
       "comments": 555
     },
     {
       "video_id": "3GtkDgNAxUU",
       "title": "CENTRAL CEE - Y FI DAT (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-27T07:36:39Z",
-      "views": 1226881,
-      "likes": 22762,
+      "observed_at": "2026-11-27T13:30:16Z",
+      "views": 1227284,
+      "likes": 22763,
       "comments": 1077
     }
   ]
