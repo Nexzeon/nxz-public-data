@@ -2,61 +2,61 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCxOzbkk0bdVl6-tH1Fcajfg",
-  "generated_at": "2026-11-26T19:16:01Z",
+  "generated_at": "2026-11-27T01:31:46Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "wphiDyHtmX4",
       "title": "BETA SQUAD BAKE OFF",
       "published_at": "2026-11-21T18:00:00Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 4492592,
-      "likes": 84001,
-      "comments": 3864
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 4602737,
+      "likes": 84791,
+      "comments": 3882
     },
     {
       "video_id": "5rQi9QcarrE",
       "title": "We Opened a Drive-Thru",
       "published_at": "2026-11-14T22:29:27Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 5844008,
-      "likes": 95012,
-      "comments": 4612
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 5871265,
+      "likes": 95213,
+      "comments": 4619
     },
     {
       "video_id": "CJ1sEhQL8LY",
       "title": "CHEAP VS EXPENSIVE ROAD TRIP (USA EDITION)",
       "published_at": "2026-11-07T18:00:12Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 7539833,
-      "likes": 111807,
-      "comments": 5871
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 7562412,
+      "likes": 111928,
+      "comments": 5874
     },
     {
       "video_id": "e3Gp5JpYF6M",
       "title": "6 Jamaicans vs 1 Secret British Person",
       "published_at": "2026-10-31T18:00:18Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 8069982,
-      "likes": 131978,
-      "comments": 6180
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 8089146,
+      "likes": 132112,
+      "comments": 6185
     },
     {
       "video_id": "3ki11Oq_cio",
       "title": "BETA SQUAD MAFIA PLAY-ALONG EDITION",
       "published_at": "2026-10-24T17:00:07Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 7268063,
-      "likes": 155753,
-      "comments": 14624
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 7275407,
+      "likes": 155806,
+      "comments": 14627
     },
     {
       "video_id": "o2m8XY54ZK0",
       "title": "How Long Can We Secretly Live In A Grocery Store?: USA Edition",
       "published_at": "2026-10-17T17:00:30Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 11179116,
-      "likes": 148365,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 11190444,
+      "likes": 148436,
       "comments": 4644
     }
   ]

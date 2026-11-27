@@ -2,17 +2,26 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-  "generated_at": "2026-11-26T19:16:01Z",
+  "generated_at": "2026-11-27T01:31:46Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "mKg-KWaleu0",
+      "title": "Beware of Static Discharge #experiment #electricity",
+      "published_at": "2026-11-26T17:33:27Z",
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 52996,
+      "likes": 2561,
+      "comments": 55
+    },
     {
       "video_id": "onzuuYXSNSc",
       "title": "Investigating the Lightning @museumofscience",
       "published_at": "2026-11-22T16:00:00Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 544232,
-      "likes": 20996,
-      "comments": 932
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 550818,
+      "likes": 21173,
+      "comments": 940
     },
     {
       "video_id": "1031VBUm3oE",
@@ -27,45 +36,45 @@
       "video_id": "vKcCaICNYlk",
       "title": "Dangerous Fake Video #experiment #electrical #funny",
       "published_at": "2026-11-06T16:01:57Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 1195384,
-      "likes": 51914,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 1203146,
+      "likes": 52138,
       "comments": 712
     },
     {
       "video_id": "C2ZiaUCyRMY",
       "title": "Just Open the Breaker! #electrical #Installation #DIY #Funny",
       "published_at": "2026-10-27T17:28:09Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 562637,
-      "likes": 16451,
-      "comments": 510
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 569906,
+      "likes": 16641,
+      "comments": 512
     },
     {
       "video_id": "ZjyrZmtc7L0",
       "title": "Electrical Wiring, Installations and Upgrade",
       "published_at": "2026-10-25T16:00:09Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 1666329,
-      "likes": 30798,
-      "comments": 2921
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 1667317,
+      "likes": 30800,
+      "comments": 2922
     },
     {
       "video_id": "sjTCGkq7PRk",
       "title": "Never Trust Facebook AI Posts! #lithiumbattery #experiment #test #charger #funnyreels #teamhuman",
       "published_at": "2026-10-10T19:33:29Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 4753331,
-      "likes": 182936,
-      "comments": 4195
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 4761414,
+      "likes": 183155,
+      "comments": 4200
     },
     {
       "video_id": "6Uv94zhK9M0",
       "title": "Facebook is FULL of It 🤬",
       "published_at": "2026-10-10T16:00:03Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 1596386,
-      "likes": 41380,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 1596970,
+      "likes": 41392,
       "comments": 3003
     }
   ]

@@ -2,106 +2,115 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-  "generated_at": "2026-11-26T19:16:01Z",
+  "generated_at": "2026-11-27T01:31:46Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "VGU3rbyWFTQ",
+      "title": "Scientists Found Something Impossible at the Trinity Test Site.",
+      "published_at": "2026-11-26T18:00:20Z",
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 140043,
+      "likes": 3701,
+      "comments": 230
+    },
     {
       "video_id": "yuvAjI2B8zo",
       "title": "Does The Uberman Sleep Schedule Really Work?",
       "published_at": "2026-11-25T18:00:00Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 200314,
-      "likes": 3590,
-      "comments": 327
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 221137,
+      "likes": 3870,
+      "comments": 349
     },
     {
       "video_id": "AzF_vkhkBrU",
       "title": "The Sperm Whale Lubricant Science Still Can’t Beat",
       "published_at": "2026-11-24T18:00:25Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 129681,
-      "likes": 2768,
-      "comments": 172
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 132204,
+      "likes": 2811,
+      "comments": 171
     },
     {
       "video_id": "1qrGwX9kQoQ",
       "title": "The Thing That Made Absinthe Famous Is Not True",
       "published_at": "2026-11-23T18:00:28Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 285522,
-      "likes": 5666,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 288679,
+      "likes": 5722,
       "comments": 399
     },
     {
       "video_id": "9WCbrriN8sU",
       "title": "Airplanes That Run on... Algae? #science",
       "published_at": "2026-11-23T00:00:16Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 39736,
-      "likes": 1260,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 40095,
+      "likes": 1263,
       "comments": 63
     },
     {
       "video_id": "ZDRsHBGi8_8",
       "title": "Blue Bears (And 4 Other Animals That Shouldn’t Be That Color)",
       "published_at": "2026-11-20T18:00:04Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 222698,
-      "likes": 4512,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 224230,
+      "likes": 4538,
       "comments": 241
     },
     {
       "video_id": "ZDlcqG7Kuho",
       "title": "Those Ape Sign Language Studies May Have Been Bogus",
       "published_at": "2026-11-19T18:00:23Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 346228,
-      "likes": 5268,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 347166,
+      "likes": 5278,
       "comments": 823
     },
     {
       "video_id": "7pGCRPvKBXA",
       "title": "Your Allergies Might Prevent Cancer",
       "published_at": "2026-11-18T18:00:04Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 156266,
-      "likes": 3811,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 156540,
+      "likes": 3816,
       "comments": 290
     },
     {
       "video_id": "yNsRbQln4Vg",
       "title": "Is Eating Oysters Safe?",
       "published_at": "2026-11-17T18:00:36Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 266673,
-      "likes": 3969,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 267276,
+      "likes": 3976,
       "comments": 498
     },
     {
       "video_id": "1ejtdt78rCo",
       "title": "The Chess Rating System That Predicts Everything",
       "published_at": "2026-11-16T18:00:35Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 156690,
-      "likes": 3183,
-      "comments": 180
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 156843,
+      "likes": 3186,
+      "comments": 178
     },
     {
       "video_id": "S7ELHbvqaeA",
       "title": "The Deep Sea Sub Built By a Cereal Company",
       "published_at": "2026-11-13T18:00:07Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 141670,
-      "likes": 3327,
-      "comments": 219
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 141802,
+      "likes": 3332,
+      "comments": 220
     },
     {
       "video_id": "FKiSYHf1HyI",
       "title": "Using Radioactive Waste to Treat Cancer",
       "published_at": "2026-11-12T18:00:21Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 190799,
-      "likes": 3361,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 190876,
+      "likes": 3362,
       "comments": 132
     }
   ]

@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5-cg5RahETrjGu-r8zjYCQ",
-  "generated_at": "2026-11-26T19:16:01Z",
+  "generated_at": "2026-11-27T01:31:46Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_hUq1aJSzvU",
       "title": "The Boy Who Played The Harp (Video) Out Now.",
       "published_at": "2026-02-26T20:09:07Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 44908,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 44919,
       "likes": 2732,
       "comments": 80
     },
@@ -18,36 +18,36 @@
       "video_id": "AwnfjcDCCmE",
       "title": "Dave - The Boy Who Played the Harp",
       "published_at": "2026-02-26T19:38:25Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 6237915,
-      "likes": 220357,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 6241350,
+      "likes": 220378,
       "comments": 7743
     },
     {
       "video_id": "SOJpE1KMUbo",
       "title": "Dave - Raindance (ft. Tems)",
       "published_at": "2026-01-09T18:27:49Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 320161725,
-      "likes": 2035841,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 320416206,
+      "likes": 2036431,
       "comments": 43547
     },
     {
       "video_id": "-q66T2dNml0",
       "title": "Dave - Chapter 16 (ft. Kano)",
       "published_at": "2025-11-26T19:30:30Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 2662569,
-      "likes": 90551,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 2663642,
+      "likes": 90556,
       "comments": 4287
     },
     {
       "video_id": "iVWsP3IadBk",
       "title": "Dave - Starlight",
       "published_at": "2022-03-03T20:06:51Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 86226936,
-      "likes": 831661,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 86234423,
+      "likes": 831690,
       "comments": 14860
     }
   ]

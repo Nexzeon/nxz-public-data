@@ -2,60 +2,96 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCUvvj5lwue7PspotMDjk5UA",
-  "generated_at": "2026-11-26T19:16:01Z",
+  "generated_at": "2026-11-27T01:31:46Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "h3K7JwY_za4",
+      "title": "oh sh*t... i might be wrong.",
+      "published_at": "2026-11-26T23:02:00Z",
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 19955,
+      "likes": 813,
+      "comments": 149
+    },
+    {
+      "video_id": "KyCmi9A64-Y",
+      "title": "What is ReinvestOne?",
+      "published_at": "2026-11-26T20:43:15Z",
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 3109,
+      "likes": null,
+      "comments": null
+    },
+    {
+      "video_id": "JpC9T7K9NYI",
+      "title": "THE F**KING BOTTOM",
+      "published_at": "2026-11-26T03:37:31Z",
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 95349,
+      "likes": 1190,
+      "comments": 196
+    },
+    {
+      "video_id": "nfmo392yEOA",
+      "title": "Title: 1,000,000 SpaceX Satellites… and a Chip Glut? 🛰️",
+      "published_at": "2026-11-26T02:00:28Z",
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 3949,
+      "likes": 49,
+      "comments": 0
+    },
     {
       "video_id": "VpnlfImHkiY",
       "title": "Liberation Day 2.0 Just Hit 🚨",
       "published_at": "2026-11-25T23:30:22Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 13943,
-      "likes": 226,
-      "comments": 14
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 15518,
+      "likes": 241,
+      "comments": 15
     },
     {
       "video_id": "Imw9-50PJWI",
       "title": "The Coming 2027 Housing Market Disaster.",
       "published_at": "2026-11-25T23:10:16Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 49955,
-      "likes": 511,
-      "comments": 78
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 55917,
+      "likes": 545,
+      "comments": 84
     },
     {
       "video_id": "ik0xdpCAWFA",
       "title": "Worse Than the Dot-Com Crash? 📉",
       "published_at": "2026-11-25T22:30:34Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 13971,
-      "likes": 250,
-      "comments": 16
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 15936,
+      "likes": 266,
+      "comments": 17
     },
     {
       "video_id": "fkPAbJuhjfI",
       "title": "ooooohhhhh man",
       "published_at": "2026-11-25T22:11:39Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 72388,
-      "likes": 857,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 73554,
+      "likes": 858,
       "comments": 23
     },
     {
       "video_id": "SecQgkVR1sU",
       "title": "How R*tarded is Buying the Dip Right NOW?",
       "published_at": "2026-11-25T18:19:11Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 131580,
-      "likes": 1869,
-      "comments": 255
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 135731,
+      "likes": 1904,
+      "comments": 258
     },
     {
       "video_id": "SKkiIdfsHGo",
       "title": "The Start of Recession.",
       "published_at": "2026-11-22T19:35:35Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 188140,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 188235,
       "likes": 2378,
       "comments": 360
     },
@@ -63,8 +99,8 @@
       "video_id": "dFOLw_CTRPY",
       "title": "How to Hedge THE CRASH Before It's Too Late.",
       "published_at": "2026-11-20T19:17:17Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 136213,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 136251,
       "likes": 1736,
       "comments": 385
     },
@@ -72,17 +108,17 @@
       "video_id": "zlvcEuxM5xU",
       "title": "Jensen JUST Crashed the Market: New STARTUP",
       "published_at": "2026-11-20T17:11:03Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 141643,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 141729,
       "likes": 1691,
-      "comments": 339
+      "comments": 340
     },
     {
       "video_id": "_wtHypm4eqQ",
       "title": "The Collapse...",
       "published_at": "2026-11-20T16:40:57Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 109081,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 109153,
       "likes": 964,
       "comments": 68
     },
@@ -90,8 +126,8 @@
       "video_id": "8GU-V2QEPQ0",
       "title": "The Fed is Engineering a Total Stock Market Wipeout.",
       "published_at": "2026-11-20T13:50:15Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 111991,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 112015,
       "likes": 1448,
       "comments": 314
     },
@@ -99,8 +135,8 @@
       "video_id": "hdIdY3l96BA",
       "title": "Stock Up NOW: We're Under Attack.",
       "published_at": "2026-11-19T23:33:46Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 173185,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 173213,
       "likes": 2451,
       "comments": 390
     },
@@ -108,8 +144,8 @@
       "video_id": "SrhVCe3wKc0",
       "title": "Is AMD Next? Hunterbrook Says AMD Has a China Problem",
       "published_at": "2026-11-19T20:27:17Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 25399,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 25455,
       "likes": 289,
       "comments": 13
     },
@@ -117,8 +153,8 @@
       "video_id": "5m4AIfW_56U",
       "title": "The Next Jensen of Nvidia is CRASHING the MARKET",
       "published_at": "2026-11-19T18:20:25Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 178335,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 178350,
       "likes": 1834,
       "comments": 300
     },
@@ -126,8 +162,8 @@
       "video_id": "gSIJGx3Yrw0",
       "title": "The Anthropic Stock IPO Valuation",
       "published_at": "2026-11-19T17:00:05Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 7703,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 7707,
       "likes": 133,
       "comments": 3
     },
@@ -135,17 +171,17 @@
       "video_id": "FGxmXaLLPzU",
       "title": "Should You Buy Anthropic Stock (ANT)? 🤔",
       "published_at": "2026-11-19T16:34:47Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 29163,
-      "likes": 346,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 29211,
+      "likes": 347,
       "comments": 10
     },
     {
       "video_id": "Tn8IEhp_iq4",
       "title": "The Stock Market is about to do something UNBELIEVABLE.",
       "published_at": "2026-11-18T18:11:03Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 191313,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 191332,
       "likes": 2085,
       "comments": 246
     },
@@ -153,8 +189,8 @@
       "video_id": "DhZU6oek9_M",
       "title": "Markets are Nervous.",
       "published_at": "2026-11-18T18:01:48Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 75139,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 75164,
       "likes": 620,
       "comments": 12
     },
@@ -162,8 +198,8 @@
       "video_id": "cs0ixGqtWrI",
       "title": "Nvidia's Earnings Call Without Jensen 😳",
       "published_at": "2026-11-18T03:17:28Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 37087,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 37088,
       "likes": 564,
       "comments": 40
     },
@@ -171,8 +207,8 @@
       "video_id": "cXMprxBM7Ug",
       "title": "Nvidia DISASTER | Jensen *REJECTED*",
       "published_at": "2026-11-18T01:25:27Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 149165,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 149178,
       "likes": 1583,
       "comments": 370
     },
@@ -180,8 +216,8 @@
       "video_id": "hS3CqyReHzs",
       "title": "Nvidia Stock Earnings LIVE 🚨 Holy Moly.",
       "published_at": "2026-11-17T23:18:19Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 289120,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 289140,
       "likes": 2069,
       "comments": 40
     }

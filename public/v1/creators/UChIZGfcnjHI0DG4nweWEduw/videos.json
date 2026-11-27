@@ -2,24 +2,33 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UChIZGfcnjHI0DG4nweWEduw",
-  "generated_at": "2026-11-26T19:16:01Z",
+  "generated_at": "2026-11-27T01:31:46Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
+    {
+      "video_id": "htxY9qBaw4M",
+      "title": "Best Black Friday Tech Deals - 2026",
+      "published_at": "2026-11-26T18:49:47Z",
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 77095,
+      "likes": 4834,
+      "comments": 84
+    },
     {
       "video_id": "vxQV4Fqtr54",
       "title": "Best ROG Black Friday Deals - 2026",
       "published_at": "2026-11-24T18:48:14Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 123786,
-      "likes": 3407,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 128606,
+      "likes": 3417,
       "comments": 105
     },
     {
       "video_id": "W3Zf5WT1eoE",
       "title": "ROG Harpe II Ace Mini vs ROG Gladius IV",
       "published_at": "2026-11-23T19:07:53Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 109082,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 109670,
       "likes": 4920,
       "comments": 32
     },
@@ -27,44 +36,44 @@
       "video_id": "cwqbOdEJl4M",
       "title": "Unboxing the NEW ROG GLADIUS IV Gaming Mouse",
       "published_at": "2026-11-23T19:07:35Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 13310,
-      "likes": 366,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 13478,
+      "likes": 367,
       "comments": 14
     },
     {
       "video_id": "Qfcukxl-6Pk",
       "title": "It Just keeps getting worse - Part 2",
       "published_at": "2026-11-21T16:10:52Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 248803,
-      "likes": 7383,
-      "comments": 963
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 250464,
+      "likes": 7401,
+      "comments": 969
     },
     {
       "video_id": "51ZketGBxRs",
       "title": "Dude Sold me a Faulty Gaming PC - FOF37",
       "published_at": "2026-11-20T16:45:06Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 226021,
-      "likes": 5094,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 227478,
+      "likes": 5114,
       "comments": 325
     },
     {
       "video_id": "VzCDBEQ9gOk",
       "title": "My Dream Home became a Nightmare - Part 1",
       "published_at": "2026-11-14T16:21:36Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 597238,
-      "likes": 9083,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 598456,
+      "likes": 9092,
       "comments": 1341
     },
     {
       "video_id": "_3d09oNHZQc",
       "title": "Our Dream Home Became a Nightmare",
       "published_at": "2026-11-14T16:21:03Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 32189,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 32257,
       "likes": 695,
       "comments": 50
     },
@@ -72,27 +81,27 @@
       "video_id": "9YhU6-z8ZdA",
       "title": "I Bought an entire Gaming Setup from TEMU",
       "published_at": "2026-11-13T18:25:58Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 570794,
-      "likes": 5882,
-      "comments": 338
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 575376,
+      "likes": 5895,
+      "comments": 333
     },
     {
       "video_id": "MAVQo3phpBY",
       "title": "Setup Wars - Episode 382",
       "published_at": "2026-11-12T17:32:02Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 315381,
-      "likes": 5649,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 316410,
+      "likes": 5655,
       "comments": 124
     },
     {
       "video_id": "1nUQvlM9YYk",
       "title": "The Biggest PC Flip Yet! - FOF36",
       "published_at": "2026-11-06T15:40:41Z",
-      "observed_at": "2026-11-26T19:14:48Z",
-      "views": 232626,
-      "likes": 5244,
+      "observed_at": "2026-11-27T01:30:31Z",
+      "views": 232836,
+      "likes": 5246,
       "comments": 446
     }
   ]
