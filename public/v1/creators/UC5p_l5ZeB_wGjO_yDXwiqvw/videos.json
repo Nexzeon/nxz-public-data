@@ -2,51 +2,51 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC5p_l5ZeB_wGjO_yDXwiqvw",
-  "generated_at": "2026-11-28T01:28:21Z",
+  "generated_at": "2026-11-28T07:30:50Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "xVDDQ-dI3po",
       "title": "things have changed",
       "published_at": "2026-07-01T21:00:06Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 166461,
-      "likes": 8852,
-      "comments": 326
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 166644,
+      "likes": 8855,
+      "comments": 327
     },
     {
       "video_id": "Sdblf1DfBps",
       "title": "my new song is out now",
       "published_at": "2026-07-01T19:00:38Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 76652,
-      "likes": 3926,
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 76693,
+      "likes": 3927,
       "comments": 158
     },
     {
       "video_id": "D34uexbwTBk",
       "title": "Tom Simons - Grey Day (Official Lyric Video)",
       "published_at": "2026-07-01T19:00:06Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 782080,
-      "likes": 81419,
-      "comments": 5717
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 782692,
+      "likes": 81440,
+      "comments": 5718
     },
     {
       "video_id": "-ZZTamgndMk",
       "title": "my new song comes out tomorrow",
       "published_at": "2026-06-30T19:00:17Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 102372,
-      "likes": 5832,
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 102393,
+      "likes": 5833,
       "comments": 272
     },
     {
       "video_id": "rW1pTkhD8gk",
       "title": "my new song",
       "published_at": "2026-06-24T16:00:25Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 85372,
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 85389,
       "likes": 4140,
       "comments": 200
     }

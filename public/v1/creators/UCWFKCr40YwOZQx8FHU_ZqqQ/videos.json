@@ -2,62 +2,62 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
-  "generated_at": "2026-11-28T01:28:21Z",
+  "generated_at": "2026-11-28T07:30:50Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "wr6Qmp1jDkE",
       "title": "We grew something special this year...",
       "published_at": "2026-11-23T19:36:05Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 677744,
-      "likes": 10722,
-      "comments": 872
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 686142,
+      "likes": 10773,
+      "comments": 885
     },
     {
       "video_id": "FDNbcfMaF6o",
       "title": "My favorite Smartphone of 2026 (wait to see the insides)",
       "published_at": "2026-11-11T19:11:25Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 11495434,
-      "likes": 643430,
-      "comments": 7380
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 11546838,
+      "likes": 646595,
+      "comments": 7408
     },
     {
       "video_id": "k8W0Eb7sKss",
       "title": "ONE PHONE TO RULE THEM ALL",
       "published_at": "2026-11-07T19:12:05Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 13247427,
-      "likes": 265223,
-      "comments": 177500
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 13257992,
+      "likes": 265313,
+      "comments": 177518
     },
     {
       "video_id": "-Z0hsfUP-I4",
       "title": "LOOK MOM NO HANDS",
       "published_at": "2026-10-31T18:00:35Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 529878,
-      "likes": 20915,
-      "comments": 386
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 530289,
+      "likes": 20933,
+      "comments": 387
     },
     {
       "video_id": "8xUEEu5vom8",
       "title": "Hey Look Mom, Ive made it!",
       "published_at": "2026-10-29T19:08:02Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 582364,
-      "likes": 24935,
-      "comments": 327
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 582862,
+      "likes": 24947,
+      "comments": 328
     },
     {
       "video_id": "5O-vCJW1b8g",
       "title": "Trump Phone Durability Test - Its worse than we thought...",
       "published_at": "2026-10-28T20:06:22Z",
-      "observed_at": "2026-11-28T01:27:13Z",
-      "views": 15991400,
-      "likes": 541055,
-      "comments": 43771
+      "observed_at": "2026-11-28T07:29:39Z",
+      "views": 16001520,
+      "likes": 541161,
+      "comments": 43772
     }
   ]
 }
