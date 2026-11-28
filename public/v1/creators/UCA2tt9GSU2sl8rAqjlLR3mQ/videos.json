@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCA2tt9GSU2sl8rAqjlLR3mQ",
-  "generated_at": "2026-11-27T19:14:17Z",
+  "generated_at": "2026-11-28T01:28:21Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "LKpA4UFXf0M",
       "title": "They thought I was alone...",
       "published_at": "2026-09-12T14:43:29Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 1409654,
-      "likes": 42036,
-      "comments": 726
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 1414695,
+      "likes": 42105,
+      "comments": 727
     },
     {
       "video_id": "iq_gM721YoM",
       "title": "Minecraft, But If I Blink I Lose",
       "published_at": "2026-09-10T03:09:15Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 595829,
-      "likes": 24182,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 596372,
+      "likes": 24201,
       "comments": 391
     },
     {
       "video_id": "v5PEJtaHga4",
       "title": "Beating Minecraft Hardcore - ALL Bosses (1 LIFE ONLY)",
       "published_at": "2026-08-13T01:46:03Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 188882,
-      "likes": 5760,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 188915,
+      "likes": 5758,
       "comments": 254
     },
     {
       "video_id": "LSP3_dfFYJE",
       "title": "Completing All Minecraft Advancements Blind (No Google or Help) - Day 23",
       "published_at": "2026-06-29T03:38:33Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 60862,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 60884,
       "likes": 1959,
       "comments": 143
     },
@@ -45,9 +45,9 @@
       "video_id": "4xTpGizG-jQ",
       "title": "Completing All Minecraft Advancements Blind (No Google or Help) - Day 22",
       "published_at": "2026-06-14T04:58:54Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 57078,
-      "likes": 2139,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 57093,
+      "likes": 2138,
       "comments": 116
     }
   ]

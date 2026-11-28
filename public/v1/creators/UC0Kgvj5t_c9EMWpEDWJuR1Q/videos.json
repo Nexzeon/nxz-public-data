@@ -2,26 +2,26 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC0Kgvj5t_c9EMWpEDWJuR1Q",
-  "generated_at": "2026-11-27T19:14:17Z",
+  "generated_at": "2026-11-28T01:28:21Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "4w1YWIh89_U",
       "title": "TAKE IT TO THE WORLD 🌎 @FIFAClubWorldCup see you in 2025!  #FIFACWC #TakeItToTheWorld",
       "published_at": "2024-09-04T13:20:35Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 61203,
-      "likes": 1991,
-      "comments": 280
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 61224,
+      "likes": 1992,
+      "comments": 279
     },
     {
       "video_id": "O7uB9l5Z5Bc",
       "title": "DJ Khaled - SUPPOSED TO BE LOVED ft. Lil Baby, Future, Lil Uzi Vert (LET’S GO GOLFING)",
       "published_at": "2023-09-11T20:35:32Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 269790,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 269800,
       "likes": 3915,
-      "comments": 870
+      "comments": 871
     }
   ]
 }

@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCAvCL8hyXjSUHKEGuUPr1BA",
-  "generated_at": "2026-11-27T19:14:17Z",
+  "generated_at": "2026-11-28T01:28:21Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "hxEE5wjCP34",
       "title": "Shawn Mendes - What If I Told You A Story (Official Lyric Video)",
       "published_at": "2026-09-29T04:00:32Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 211580,
-      "likes": 5414,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 211647,
+      "likes": 5415,
       "comments": 477
     },
     {
       "video_id": "xGuOVQbTjio",
       "title": "Shawn Mendes - She’ll Be The One (Official Lyric Video)",
       "published_at": "2026-09-29T04:00:03Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 477214,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 477382,
       "likes": 8867,
       "comments": 676
     },
@@ -27,18 +27,18 @@
       "video_id": "3JtAYvG5_rk",
       "title": "Oh man what a feeling to go through all these videos and photos😭",
       "published_at": "2026-09-25T04:51:46Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 41760,
-      "likes": 3747,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 41824,
+      "likes": 3748,
       "comments": 227
     },
     {
       "video_id": "K2b3IeR7sys",
       "title": "Shawn's YouTube Station",
       "published_at": "2026-09-24T18:26:16Z",
-      "observed_at": "2026-11-27T19:13:02Z",
-      "views": 604376,
-      "likes": 10593,
+      "observed_at": "2026-11-28T01:27:13Z",
+      "views": 605086,
+      "likes": 10610,
       "comments": 0
     }
   ]
