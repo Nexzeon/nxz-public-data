@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCVYamHliCI9rw1tHR1xbkfw",
-  "generated_at": "2026-11-28T07:30:50Z",
+  "generated_at": "2026-11-28T13:16:22Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "m8lhB9qFhYo",
       "title": "MacBook Pro OLED Review - Is Touch ACTUALLY Useful?",
       "published_at": "2026-11-05T14:03:51Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 907473,
-      "likes": 11245,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 907722,
+      "likes": 11246,
       "comments": 1462
     },
     {
       "video_id": "gHZ7JYPOd1M",
       "title": "The NEW MacBook Pro - First Impressions",
       "published_at": "2026-10-29T00:45:18Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 1563438,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 1563501,
       "likes": 16088,
       "comments": 1978
     },
@@ -27,27 +27,27 @@
       "video_id": "1vj_AHonNdA",
       "title": "iPhone Duo Review - \"Apple Knows Best\"",
       "published_at": "2026-10-21T13:40:13Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 1120513,
-      "likes": 16810,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 1120619,
+      "likes": 16811,
       "comments": 2146
     },
     {
       "video_id": "ZedAs9P7yE8",
       "title": "The Laptop for 71% of People",
       "published_at": "2026-10-05T15:17:20Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 1422523,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 1422709,
       "likes": 19028,
-      "comments": 2219
+      "comments": 2220
     },
     {
       "video_id": "dDVsNmiSzwQ",
       "title": "2026 Mac Mini -  CRAZY FAST! (M5 Pro / M5 Ultra)",
       "published_at": "2026-09-21T13:00:50Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 1255112,
-      "likes": 14864,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 1255176,
+      "likes": 14865,
       "comments": 634
     }
   ]

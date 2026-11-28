@@ -2,24 +2,24 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UC1n_PfsVqxllCcnMPlxBIjw",
-  "generated_at": "2026-11-28T07:30:50Z",
+  "generated_at": "2026-11-28T13:16:22Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "qy_JurwkyU0",
       "title": "An Update Video",
       "published_at": "2025-06-19T13:01:24Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 1728358,
-      "likes": 59020,
-      "comments": 23518
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 1728510,
+      "likes": 59019,
+      "comments": 23517
     },
     {
       "video_id": "ESyfUKCMWBc",
       "title": "Wilbur Soot - Soft Boy (OFFICIAL VIDEO)",
       "published_at": "2022-09-25T21:00:12Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 5649915,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 5649974,
       "likes": 362356,
       "comments": 38107
     },
@@ -27,8 +27,8 @@
       "video_id": "Oy-OrsVM6wE",
       "title": "Minecraft Social Experiment: Boomers v Zoomers",
       "published_at": "2022-08-31T20:01:37Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 2813649,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 2813653,
       "likes": 188467,
       "comments": 7998
     },
@@ -36,8 +36,8 @@
       "video_id": "F7F6G0ok9u0",
       "title": "Releasing Every Animal in Zoo Tycoon",
       "published_at": "2022-08-06T19:01:21Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 2550344,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 2550353,
       "likes": 197072,
       "comments": 5157
     },
@@ -45,8 +45,8 @@
       "video_id": "NgEidhomgBE",
       "title": "We Became Crime Scene Investigators",
       "published_at": "2022-07-29T17:01:15Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 2562255,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 2562262,
       "likes": 204911,
       "comments": 6057
     }

@@ -2,42 +2,42 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
-  "generated_at": "2026-11-28T07:30:50Z",
+  "generated_at": "2026-11-28T13:16:22Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "WqTO4uk1siU",
       "title": "CENTRAL CEE - WAGWAN [MUSIC VIDEO]",
       "published_at": "2026-03-29T18:00:06Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 16565212,
-      "likes": 339299,
-      "comments": 9487
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 16572360,
+      "likes": 339366,
+      "comments": 9486
     },
     {
       "video_id": "dPylP3U1fm0",
       "title": "CENTRAL CEE - MAKA (FEAT. A2ANTI) (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 576514,
-      "likes": 11354,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 576709,
+      "likes": 11360,
       "comments": 414
     },
     {
       "video_id": "ZgnoafBVjXA",
       "title": "CENTRAL CEE - FEELINGS (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 1389674,
-      "likes": 35812,
-      "comments": 1323
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 1390301,
+      "likes": 35818,
+      "comments": 1324
     },
     {
       "video_id": "ZgHVvkINXZE",
       "title": "CENTRAL CEE - DC10 (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 519402,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 519618,
       "likes": 10235,
       "comments": 555
     },
@@ -45,10 +45,10 @@
       "video_id": "3GtkDgNAxUU",
       "title": "CENTRAL CEE - Y FI DAT (LYRICS)",
       "published_at": "2026-03-29T17:45:27Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 1229306,
-      "likes": 22780,
-      "comments": 1077
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 1229864,
+      "likes": 22783,
+      "comments": 1078
     }
   ]
 }

@@ -2,15 +2,15 @@
   "schema_version": 1,
   "feed": "nxz-creator-videos",
   "channel_id": "UCcgVECVN4OKV6DH1jLkqmcA",
-  "generated_at": "2026-11-28T07:30:50Z",
+  "generated_at": "2026-11-28T13:16:22Z",
   "scope": "observed_youtube_videos_only",
   "videos": [
     {
       "video_id": "_WhCs5g8iK4",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM DUBAI]",
       "published_at": "2026-11-12T14:42:52Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 123704,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 123778,
       "likes": 1404,
       "comments": 221
     },
@@ -18,26 +18,26 @@
       "video_id": "LVBS53xHDDo",
       "title": "Dubai this is going to be the best Christmas ever",
       "published_at": "2026-11-12T12:34:54Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 59922,
-      "likes": 1070,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 60139,
+      "likes": 1073,
       "comments": 101
     },
     {
       "video_id": "AFoZk5i9Ht0",
       "title": "Je t’aime Cédric",
       "published_at": "2026-11-10T19:15:35Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 76978,
-      "likes": 857,
-      "comments": 148
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 77178,
+      "likes": 858,
+      "comments": 149
     },
     {
       "video_id": "Lk6gTkEOBwM",
       "title": "Jake Paul vs Cedric Doumbe OFFICIAL PRESS CONFERENCE  [LIVE FROM PARIS]",
       "published_at": "2026-11-10T17:48:46Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 158849,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 158897,
       "likes": 2155,
       "comments": 414
     },
@@ -45,9 +45,9 @@
       "video_id": "X0DHKq_eseM",
       "title": "Bonjour Cédric. Pari we here",
       "published_at": "2026-11-10T16:46:54Z",
-      "observed_at": "2026-11-28T07:29:39Z",
-      "views": 61024,
-      "likes": 1259,
+      "observed_at": "2026-11-28T13:14:53Z",
+      "views": 61124,
+      "likes": 1260,
       "comments": 84
     }
   ]
